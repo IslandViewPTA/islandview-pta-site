@@ -1,5 +1,6 @@
 ---
 title: Our Coffee
+subtitle: The very best available
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
