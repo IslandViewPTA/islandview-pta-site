@@ -13,3 +13,6 @@ Why not add a list of stuff below here?
 - Three
 
 And some other stuff.
+
+How about an image?
+![Grazing beasts.](/img/1B65075_0260.jpg)
