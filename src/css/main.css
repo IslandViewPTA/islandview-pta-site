@@ -57,6 +57,7 @@
 @import './imports/_position';
 @import './imports/_opacity';
 @import './imports/_spacing';
+@import './imports/_tables';
 @import './imports/_text-decoration';
 @import './imports/_text-align';
 @import './imports/_text-transform';
