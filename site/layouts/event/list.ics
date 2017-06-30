@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IVEPTA//Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Island View Elementary PTA Events
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+{{range .Pages -}}
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:ivepta@gmail.com
+SUMMARY:{{.Title}}{{with .Params.talk}} – {{.}}{{end}}
+UID:{{.Params.event.start}}@islandviewpta.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:{{dateFormat "20060102T150405" .Date}}
+DTSTART:{{dateFormat "20060102T150405" .Params.time.start}}
+DTEND:{{dateFormat "20060102T150405" .Params.time.end}}
+LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
+URL:{{.Permalink}}
+END:VEVENT
+{{end -}}
+END:VCALENDAR

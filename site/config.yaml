@@ -1,0 +1,6 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Homepage"
+
+outputs:
+  section: ["HTML", "RSS", "Calendar"]
