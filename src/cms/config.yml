@@ -27,8 +27,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Location", name: "location", widget: "text"}
-      - {label: "Start", name:"start", widget: "datetime"}
-      - {label: "Stop", name:"stop", widget: "datetime"}
+      - {label: "Start", name: "start", widget: "datetime"}
+      - {label: "Stop", name: "stop", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
