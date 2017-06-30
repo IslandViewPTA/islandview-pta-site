@@ -24,8 +24,8 @@ END:VTIMEZONE
 {{range .Pages -}}
 BEGIN:VEVENT
 ORGANIZER;CN="IVE PTA":mailto:ivepta@gmail.com
-SUMMARY:{{.Title}}{{with .Params.talk}} – {{.}}{{end}}
-UID:{{.Params.event.start}}@islandviewpta.org
+SUMMARY:{{.Title}}{{with .Params.description}} – {{.}}{{end}}
+UID:{{.Params.start}}@islandviewpta.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
