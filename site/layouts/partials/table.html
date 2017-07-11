@@ -11,6 +11,13 @@
 			{{ end }}
 		</div>
 
+		<p>From Data Files {{$.Site.Data.ourproducts.small.plan}}.</p>
+
+		<div class="flex-ns mhn2-ns mw7">
+		{{ range $.Site.Data.ourproducts }}
+			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
+		{{ end }}
+
 	</div>
 
 </div>
