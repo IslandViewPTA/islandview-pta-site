@@ -2,22 +2,12 @@
 
 	<div class="mw7 center">
 
-		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
-		<p class="mw6">{{.description}}</p>
-
 		<div class="flex-ns mhn2-ns mw7">
-			{{ range .plans }}
-			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
-			{{ end }}
-		</div>
-
-		<p>From Data Files {{$.Site.Data.ourproducts.small.plan}}.</p>
-
-		<div class="flex-ns mhn2-ns mw7">
-		{{ range $.Site.Data.ourproducts }}
+		{{ range $ourproducts := sort ($.Site.Data.ourproducts) "weight" "asec" }}
 			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
 		{{ end }}
 		</div>
+
 	</div>
 
 </div>

@@ -1,0 +1,11 @@
+{
+	"weight": 1000,
+	"plan": "Custom",
+	"price": "?",
+	"description": "Want a few tiny batches from different varieties? Try our custom plan.",
+	"items": [
+		"Whatever you need",
+		"Green or roasted beans",
+		"Unlimited varieties"
+	]
+}
