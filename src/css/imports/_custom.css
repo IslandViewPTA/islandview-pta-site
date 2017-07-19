@@ -1,0 +1,30 @@
+.p-share {
+  min-width: 100%;
+}
+
+.p-share .share-inner {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.p-share a {
+  display: table-cell;
+  text-align: center;
+  font-weight: 700;
+  font-size: .8rem;
+  padding: .75rem 0;
+  color: #fff;
+}
+
+.p-share a.ht { background-color: #00a4de; }
+.p-share a.fb { background-color: #3b5998; }
+.p-share a.tw { background-color: #1da1f2; }
+.p-share a.gp { background-color: #dd4b39; }
+.p-share a.ln { background-color: #00c300; }
+
+.p-share a.ht::before { content: 'Hatena'; }
+.p-share a.fb::before { content: 'Facebook'; }
+.p-share a.tw::before { content: 'Twitter'; }
+.p-share a.gp::before { content: 'Google+'; }
+.p-share a.ln::before { content: 'LINE'; }

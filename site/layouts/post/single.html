@@ -11,5 +11,8 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
+    <div class="mw6">
+      {{ partial "share.html" . }}
+    </div>
   </div>
 {{ partial "footer" . }}
