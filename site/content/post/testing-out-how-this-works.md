@@ -1,18 +1,19 @@
 ---
-title: Testing out how this works.
+title: Testing if this works.
 date: 2017-06-28T19:23:42.379Z
 description: Why not see if a new post can be deployed easily?
 image: /img/3work.jpg
 ---
-This is the **body** area. Where all the interesting content goes.
+This is the **body** area. Where all of the most interesting content goes.
 
 Why not add a list of stuff below here?
 
 - One
 - Two
 - Three
+- Four
 
-And some other stuff.
+And some other less interesting stuff.
 
 How about an image?
 ![Grazing beasts.](/img/1B65075_0260.jpg)
