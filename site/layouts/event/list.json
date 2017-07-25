@@ -1,0 +1,14 @@
+{
+    events: [
+        {{range .Pages -}}
+        {
+            id: '{{.Params.start}}@islandviewpta.org',
+            title: '{{.Title}}',
+            description: '{{.Params.description}}',
+            start: '{{dateFormat "20060102T150405" .Params.start}}',
+            {{with .Params.end}}end: '{{.}}',{{end}}
+            url: '{{.Permalink}}',
+        },
+        {{end -}}
+    ],
+}
