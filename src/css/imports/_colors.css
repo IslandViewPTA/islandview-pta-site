@@ -5,7 +5,11 @@
 }
 
 .highlight {
-  color: --var(--highlight);
+  color: var(--highlight);
+}
+
+.gold {
+  color: var(--pta-gold);
 }
 
 .white {
@@ -70,6 +74,10 @@
 
 .bg-black {
   background-color: var(--black);
+}
+
+.bg-blue {
+  background-color: var(--bg-blue);
 }
 
 .bg-fix-primary {
