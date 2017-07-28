@@ -1,13 +1,7 @@
-<div class="bg-off-white pv4 ph3">
-
-	<div class="mw7 center">
-
-		<div class="flex-ns mhn2-ns mw7">
-		{{ range $products := sort ($.Site.Data.products) "weight" "asec" }}
-			<div class="w-33-ns ph2">{{ partial "product-item" . }}</div>
-		{{ end }}
-		</div>
-
+<div class="mw7 center">
+	<div class="flex-ns mhn2-ns mw7">
+	{{ range $products := sort ($.Site.Data.products) "weight" "asec" }}
+		<div class="w-33-ns ph2">{{ partial "product-item" . }}</div>
+	{{ end }}
 	</div>
-
 </div>

@@ -1,16 +1,17 @@
-<div class="ph2">
-
-	<!-- Title -->
-	<h3 class="b f5 grey-3 tc lh-title mb3">{{.name}}</h3>
-
-	<!-- Price -->
-	<p class="primary f1 b tc lh-title center">
-		<span class="f4">$</span>{{.price}}
-	</p>
-
-	<!-- Description -->
-	<p class="b">{{.description}}</p>
-
+<article class="br2 ba dark-gray b--black-10 w-100 mv2 center">
+  <img src="/img/products/{{.image}}" class="db w-100 br2 br--top" alt="Photo of a {{.name}}.">
+  <div class="pa2 ph3-ns pb3-ns">
+    <div class="dt w-100 mt1">
+      <div class="dtc">
+        <h1 class="f5 f4-ns mv0">{{.name}}</h1>
+      </div>
+      <div class="dtc tr">
+        <h2 class="f5 mv0">${{.price}}</h2>
+      </div>
+    </div>
+    <p class="f6 lh-copy measure mt2 mid-gray">
+      {{.description}}
+    </p>
     <!-- Buy Button -->
     <button
         class="snipcart-add-item"
@@ -22,5 +23,6 @@
         data-item-description="{{ .description }}">
         Buy {{.name}}
     </button>
-</div>
+  </div>
+</article>
 
