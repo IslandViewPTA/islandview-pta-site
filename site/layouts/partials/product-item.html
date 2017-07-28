@@ -1,0 +1,26 @@
+<div class="ph2">
+
+	<!-- Title -->
+	<h3 class="b f5 grey-3 tc lh-title mb3">{{.name}}</h3>
+
+	<!-- Price -->
+	<p class="primary f1 b tc lh-title center">
+		<span class="f4">$</span>{{.price}}
+	</p>
+
+	<!-- Description -->
+	<p class="b">{{.description}}</p>
+
+    <!-- Buy Button -->
+    <button
+        class="snipcart-add-item"
+        data-item-id="{{ .id }}"
+        data-item-name="{{ .name }}"
+        data-item-price="{{ .price }}"
+        data-item-weight="{{ .weight }}"
+        data-item-url="{{ .url }}"
+        data-item-description="{{ .description }}">
+        Buy {{.name}}
+    </button>
+</div>
+

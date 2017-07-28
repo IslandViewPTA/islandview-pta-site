@@ -3,14 +3,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "callToAction" true) }}
 
-{{ with .Params.pricing }}
 <div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h2 class="f2 b lh-title mb3">{{.heading}}</h2>
-    <p class="mw6">{{.description}}</p>
-  </div>
+  <h2 class="f2 b lh-title mb3">{{.Params.heading}}</h2>
+  <p class="mw6">{{.Params.description}}</p>
 </div>
-{{ end }}
 
 {{ partial "table" . }}
 
