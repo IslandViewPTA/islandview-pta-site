@@ -28,3 +28,11 @@
 .p-share a.tw::before { content: 'Twitter'; }
 .p-share a.gp::before { content: 'Google+'; }
 .p-share a.ln::before { content: 'LINE'; }
+
+.snip-form__label {
+  position: static;
+  left: auto;
+  top: auto;
+  background-color: rgba(0, 0, 0, 0);
+  opacity: 1;
+}
