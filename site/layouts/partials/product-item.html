@@ -1,6 +1,6 @@
-<article class="br2 ba dark-gray b--black-10 w-100 mv2 center">
-  <img src="/img/products/{{.image}}" class="db w-100 br2 br--top" alt="Photo of a {{.name}}.">
-  <div class="pa2 ph3-ns pb3-ns">
+<div class="dark-gray w-100 mb3">
+  <img src="/img/products/{{.image}}" class="db w-100 ba bw0 br2" alt="Photo of a {{.name}}.">
+  <div class="pa2">
     <div class="dt w-100 mt1">
       <div class="dtc">
         <h1 class="f5 f4-ns mv0">{{.name}}</h1>
@@ -9,20 +9,20 @@
         <h2 class="f5 mv0">${{.price}}</h2>
       </div>
     </div>
-    <p class="f6 lh-copy measure mt2 mid-gray">
+    <p class="f6 lh-copy mt2 mid-gray">
       {{.description}}
     </p>
     <!-- Buy Button -->
     <button
-        class="snipcart-add-item"
-        data-item-id="{{ .id }}"
-        data-item-name="{{ .name }}"
-        data-item-price="{{ .price }}"
-        data-item-weight="{{ .weight }}"
-        data-item-url="{{ .url }}"
-        data-item-description="{{ .description }}">
-        Buy {{.name}}
+      class="snipcart-add-item f6 link ba bw0 br1 ph3 pv2 dib w-100 gold bg-blue"
+      data-item-id="{{ .id }}"
+      data-item-name="{{ .name }}"
+      data-item-price="{{ .price }}"
+      data-item-weight="{{ .itemWeight }}"
+      data-item-url="{{ .url }}"
+      data-item-description="{{ .description }}">
+      Buy {{.name}}
     </button>
   </div>
-</article>
+</div>
 

@@ -3,11 +3,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "callToAction" true) }}
 
-<div class="mw7 center">
-  <h2 class="f2 b lh-title mb3">{{.Params.heading}}</h2>
-  <p class="mw6">{{.Params.description}}</p>
-</div>
+<div class="mw7 center ph3 pt4">
+
+{{ partial "page-intro" . }}
 
 {{ partial "table" . }}
+
+</div>
 
 {{ partial "footer" . }}
