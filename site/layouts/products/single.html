@@ -1,7 +1,7 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "callToAction" true) }}
 
 {{ with .Params.pricing }}
 <div class="mw7 center">
