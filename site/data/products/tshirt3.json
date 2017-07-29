@@ -1,9 +1,9 @@
 {
 	"weight": 20,
-    "id": 3,
+    "id": "3",
     "name": "T Shirt 3",
-    "price": 20,
-    "itemWeight": 20,
+    "price": "20",
+    "itemWeight": "20",
     "url": "https://islandviewpta.netlify.com/products/",
     "image": "T-shirt.jpg",
     "description": "Show your school pride in this comfortable cotton T Shirt.",
