@@ -2,9 +2,11 @@
 
 {{ partial "nav" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/home/jumbotron.jpg" "title" "Island View Elementary PTA" "subtitle" "Supporting the students, teachers, and community at Island View Elementary." "callToAction" "true") }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "callToAction" true) }}
 
-{{ partial "blog" . }}
+{{ partial "content-block" . }}
+
+{{ partial "blog-list" . }}
 
 {{ partial "event-list" . }}
 

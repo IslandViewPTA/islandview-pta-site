@@ -1,15 +1,16 @@
-+++
-title = "Contact"
-type = "contact"
-+++
-
-# Contact Us
+---
+title: "Contact"
+type: "contact"
+markup: "mmark"
+---
+{class="f4 b lh-title mb2"}
+## Contact Us
 
 We’d love to get in touch with you and hear your ideas and questions.  
 We strive to grow and improve constantly and your feedback is valuable for us.
 
 {#list class="f4 b lh-title mb2"}
-### Who do I talk to? 
+## Who do I talk to? 
 
 Please see the list below for your interest area.  
 Click the Role/Topic link in the appropriate row to send a message to the correct person.
@@ -17,8 +18,6 @@ Click the Role/Topic link in the appropriate row to send a message to the correc
 |---
 | **Role / Topic** | **Point of Contact**
 |-|-
-| [School Principal](mailto:bhanrahan@asd103.org?subject=IVEPTA%20Site%20Contact) | Brian Hanrahan
-|---
 | [PTA President](mailto:ivepta@gmail.com?subject=IVEPTA%20Site%20Contact) | Christy Fischer
 |---
 | [PTA Vice President](mailto:ivepta.vp@gmail.com?subject=IVEPTA%20Site%20Contact) | Meg Mourning

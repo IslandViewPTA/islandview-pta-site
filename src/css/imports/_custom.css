@@ -36,3 +36,7 @@
   background-color: rgba(0, 0, 0, 0);
   opacity: 1;
 }
+
+.ts {
+  text-shadow: 2px 2px 4px #000000;
+}

@@ -22,7 +22,7 @@ body {
 
 p {
   margin-bottom: var(--spacing-medium);
-  max-width: 32rem;
+  max-width: var(--para-width);
 }
 
 strong {
