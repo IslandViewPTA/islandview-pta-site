@@ -1,10 +1,10 @@
-<div class="bg-off-white pv4">
+<div class="bg-off-white pv2">
 	<div class="ph3 mw7 center">
 
-		<h2 class="f2 b lh-title mb3">Upcoming events</h1>
+		<h2 class="f3 b lh-title mb3 primary">Latest news</h1>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range where .Data.Pages "Type" "event" }}
+			{{ range where .Data.Pages "Type" "post" }}
 				<div class="ph1-ns w-50-ns flex">
 					{{ .Render "li" }}
 				</div>
@@ -12,7 +12,7 @@
 		</div>
 
 		<div class="tc">
-			<a href="/post" class="btn raise">Read more</a>
+			<a href="/post" class="btn raise">Read All News</a>
 		</div>
 
 	</div>

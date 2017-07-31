@@ -1,8 +1,15 @@
 ---
-title: "Contact"
-type: "contact"
+title: Contact
+date: 2017-07-30T16:22:45-07:00
+subtitle: More information about the PTA.
+description: Why not see if a new post can be deployed easily?
+image: /img/post/post_jumbotron.jpg
+imageLink: http://www.photosbyrakan.com/
+imageCredit: Photos by Rakan AlDuaij
+page: "contact.html"
 markup: "mmark"
 ---
+
 {class="f4 b lh-title mb2"}
 ## Contact Us
 
@@ -26,7 +33,7 @@ Click the Role/Topic link in the appropriate row to send a message to the correc
 |---
 | [PTA Secretary](mailto:ivepta.secretary@gmail.com?subject=IVEPTA%20Site%20Contact) | Kristin Rogers
 |---
-| [ACT School Play](mailto:ivepta@gmail.com?subject=IVEPTA%20-%20ACT%20School%20Play) | ? Serrah McEwen
+| [ACT School Play](mailto:ivepta@gmail.com?subject=IVEPTA%20-%20ACT%20School%20Play) | Serrah McEwen
 |---
 | [Auction](mailto:ivepta@gmail.com?subject=IVEPTA%20-%20Auction) | (in 2018-2019)
 |---

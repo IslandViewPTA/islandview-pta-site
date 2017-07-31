@@ -4,6 +4,8 @@ date: 2017-06-28T19:23:42.379Z
 subtitle: Supporting the students, staff, and community at Island View Elementary.
 description: Why not see if a new post can be deployed easily?
 image: /img/home/home_jumbotron.jpg
+imageLink: http://www.photosbyrakan.com/
+imageCredit: Photos by Rakan AlDuaij
 markup: "mmark"
 ---
 {class="f3 b lh-title primary"}

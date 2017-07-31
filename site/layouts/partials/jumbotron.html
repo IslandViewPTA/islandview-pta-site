@@ -1,4 +1,4 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
+<div class="pt6 ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
   <div class="mw7 center ph3">
     <div class="db mb3">
       <div class="mw7 relative mb3">
@@ -18,6 +18,11 @@
           {{ partial "call-to-action" . }}
       </div>
       {{ end }}
+    </div>
+  </div>
+  <div class="relative h3 w-100">
+    <div class="absolute bottom-0 right-0">
+      <a href="{{.imageLink}}" target="_blank" class="link white ts">{{.imageCredit}}</a>
     </div>
   </div>
 </div>

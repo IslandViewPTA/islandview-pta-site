@@ -2,12 +2,12 @@
 
 {{ partial "nav" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "callToAction" true) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
 {{ partial "content-block" . }}
 
-{{ partial "blog-list" . }}
+{{ partial "home-blog-list" . }}
 
-{{ partial "event-list" . }}
+{{ partial "home-event-list" . }}
 
 {{ partial "footer" . }}
