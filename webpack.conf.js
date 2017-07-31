@@ -10,7 +10,7 @@ export default {
       },
       {test: /\.json$/, loader: "json-loader"},
       {
-        loader: "babel",
+        loader: "babel-loader",
         test: /\.js?$/,
         exclude: /node_modules/,
         query: {cacheDirectory: true}
