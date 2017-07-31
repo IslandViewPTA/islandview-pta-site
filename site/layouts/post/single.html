@@ -11,11 +11,9 @@
       {{ if .Params.image }}<img class="fl w5 mr3" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       <p class="f6"><span class="b">Summary:</span> {{ .Description }}</p>
     </div>
-    
-    <div class="mw7">
-      {{ partial "content-block" . }}
-      {{ partial "share.html" . }}
-    </div>
+    <hr>
+    {{ partial "content-block" . }}
+    {{ partial "share.html" . }}
 </div>
 
   {{ partial "footer" . }}

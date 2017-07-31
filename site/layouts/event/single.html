@@ -1,15 +1,22 @@
 {{ partial "head" . }}
+
 {{ partial "nav" . }}
-  <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between grey-3">
-      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Location: {{ .Params.location }}</p>
-    </div>
-    <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
-    </div>
+
+<div class="mw7 center pa3 pt5">
+  <h1 class="f2 lh-title mb3">{{.Title}}</h1>
+  <div class="flex justify-between grey-3">
+    <p><span class="b">Date:</span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    <p><span class="b">Location:</span> 
+      <a href='https://www.google.com/maps/place/{{ replace .Params.location " " "+" }}' target="_blank">{{ .Params.location }}</a>
+    </p>
   </div>
-{{ partial "footer" . }}
+  <div class="mw7 cf">
+    {{ if .Params.image }}<img class="fl w5 mr3" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    <p class="f6 mw8"><span class="b">Summary:</span> {{ .Description }}</p>
+  </div>
+  <hr>
+    {{ partial "content-block" . }}
+    {{ partial "share.html" . }}
+</div>
+
+  {{ partial "footer" . }}
