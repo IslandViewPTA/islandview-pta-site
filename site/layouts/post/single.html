@@ -8,10 +8,9 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
     </div>
     <div class="mw7 cf">
-      {{ if .Params.image }}<img class="fl w5 mr3" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.image }}<img class="fl w4 mr3" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       <p class="f6"><span class="b">Summary:</span> {{ .Description }}</p>
     </div>
-    <hr>
     {{ partial "content-block" . }}
     {{ partial "share.html" . }}
 </div>

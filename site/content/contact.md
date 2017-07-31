@@ -10,9 +10,6 @@ page: "contact.html"
 markup: "mmark"
 ---
 
-{class="f4 b lh-title mb2"}
-## Contact Us
-
 We’d love to get in touch with you and hear your ideas and questions.  
 We strive to grow and improve constantly and your feedback is valuable for us.
 
@@ -22,6 +19,7 @@ We strive to grow and improve constantly and your feedback is valuable for us.
 Please see the list below for your interest area.  
 Click the Role/Topic link in the appropriate row to send a message to the correct person.
 
+{.w-70}
 |---
 | **Role / Topic** | **Point of Contact**
 |-|-
