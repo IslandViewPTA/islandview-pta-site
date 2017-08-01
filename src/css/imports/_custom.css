@@ -48,3 +48,7 @@
   background: -moz-linear-gradient(right,rgba(255,0,0,0),rgba(255,255,255,1)); /*Fx 3.6-15*/
   background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,255,255,1)); /*Standard*/
 }
+
+.snip-layout__main-container {
+  margin-top: 6em!important;
+}
