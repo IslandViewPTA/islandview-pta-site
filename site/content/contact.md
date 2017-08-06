@@ -13,7 +13,7 @@ markup: "mmark"
 We’d love to get in touch with you and hear your ideas and questions.  
 We strive to grow and improve constantly and your feedback is valuable for us.
 
-{#list class="f4 b lh-title mb2"}
+{#list class="f3 b lh-title mb2"}
 ## Who do I talk to? 
 
 Please see the list below for your interest area.  

@@ -16,3 +16,61 @@
 		</li>
 		{{ end }}
 	</ul>
+
+Donations...
+
+<script src="https://donorbox.org/widget.js" type="text/javascript"></script>
+<iframe src="https://donorbox.org/embed/ivepta-donate?show_content=true" height="685px" width="100%" style="max-width:100%; min-width:100%; max-height:none!important" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
+
+
+<div class="pa3">
+Text:
+<input type="text" id="my-text" />
+
+Amount:
+<input type="text" id="my-amount" />
+
+Size:
+<select id="my-size">
+    <option>Small</option>
+    <option>Medium</option>
+    <option>Large</option>
+</select>
+
+<button class="snipcart-add-item" id="donate-button"
+ data-item-id="10000"
+ data-item-url="/data/donate.json"
+ data-item-name="Donate"
+ data-item-price="10.00"
+ data-item-custom1-name="Text"
+ data-item-custom2-name="Size"
+ data-item-custom2-options="Small|Medium|Large">
+   Donate Now
+</button>
+</div>
+
+
+<script>
+
+$('#my-text').change(function() {
+    $('#donate-button').attr('data-item-custom1-value', $(this).val());
+    console.log($(this).val());
+});
+
+$('#my-amount').change(function() {
+    if ( $.isNumeric($(this).val()) ) {
+        $('#donate-button').attr('data-item-price', $(this).val());
+        console.log($(this).val()); 
+    }
+    else {
+        $("#my-amount").attr("placeholder", "Please type a Number").val("").focus().blur();
+        console.log($(this).val() + " is not a number.");
+    }
+});
+
+$('#my-size').change(function() {
+    $('#donate-button').attr('data-item-custom2-value', $(this).val());
+    console.log($(this).val());
+});
+
+</script>

@@ -15,11 +15,11 @@
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
-	--para-width: 35rem;
+	--para-width: 36rem;
 
-	--font-size: 18px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size: 14px;
+	--font-size-m: 16px;
+	--font-size-l: 18px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
