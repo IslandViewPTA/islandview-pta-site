@@ -13,13 +13,17 @@ markup: "mmark"
 
 Please take a look at all the amazing – and FUN – things the PTA does for our beloved Island View students and staff, and let us know what YOU may be interested in helping with next year. Click here to contact the PTA!
 
-**Class ACT**:  The PTA works with the Anacortes Community Theatre’s School for the Performing Arts to create an annual school play starring up to 180 Island View students.
+**Class ACT** - [Serrah McEwen](mailto:ivepta@gmail.com?subject=IVEPTA%20-%20ACT%20School%20Play)  
+The PTA works with the Anacortes Community Theatre’s School for the Performing Arts to create an annual school play starring up to 180 Island View students.
 
-**Display**:  Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
+**Display**:  
+Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
 
-**Family Fun**:  Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
+**Family Fun**:  
+Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
 
-**Garden Club**:  Works with teachers to fully utilize the new Island View School Garden.
+**Garden Club**:  
+Works with teachers to fully utilize the new Island View School Garden.
 
 **Gratitude Group**:  Fosters the Attitude of Gratitude amongst Island View students, staff, and families through creative expression throughout the year, including the Gratitude Graffiti bulletin boards before Thanksgiving.
 
@@ -53,7 +57,6 @@ Please take a look at all the amazing – and FUN – things the PTA does for ou
 
 **FUNDRAISING**:  The PTA raises funds to provide classroom enhancements, help send students to Mountain School, and to pay for all of the events listed above.  Below are some of the ways our PTA raises funds throughout the years.  Each fundraiser needs the help of LOTS of committed parents - please sign up for more than one!
 
-{.list}
 - Auction
 - Book Fair
 - Box Tops

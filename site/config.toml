@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+navigateToChanged = true
 
 [params]
   contact = "web@islandviewpta.org" # Optional
