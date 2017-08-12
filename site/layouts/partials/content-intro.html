@@ -1,8 +1,8 @@
-<h1 class="f2 lh-title mb3 primary">{{.Title}}</h1>
-<div class="flex justify-between grey-3">
+<div>
+  <h1 class="f2 lh-title mb3 primary">{{.Title}}</h1>
   <p><span class="b">Date:</span><br>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-</div>
-<div class="mw7 cf">
-  {{ if .Params.image }}<img class="fl w5 mr3" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
-  <p class="f6 i">{{ .Description }}</p>
+  <div class="mw7 cf pb1">
+    {{ if .Params.image }}<img class="fl w5 mr3" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
+    <p class="f6 i">{{ .Description }}</p>
+  </div>
 </div>

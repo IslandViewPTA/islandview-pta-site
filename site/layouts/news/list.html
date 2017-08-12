@@ -1,10 +1,11 @@
 {{ partial "head" . }}
+
 {{ partial "nav" . }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+<div class="mw7 ph3 ph0-l center">
+  <ul class="flex-ns flex-wrap mhn1-ns pt3 list">
       {{ range .Data.Pages }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}

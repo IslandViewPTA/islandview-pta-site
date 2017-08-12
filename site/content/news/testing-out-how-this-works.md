@@ -2,7 +2,7 @@
 title: Testing if this works.
 date: 2017-06-28T19:23:42.379Z
 description: This is a summary from the front matter of a post. It is not intended to be very long, just a short summary of the post content.
-image: /img/blog/3work.jpg
+image: /img/news/3work.jpg
 ---
 This is the **body** area. Where all of the most interesting content goes.
 
@@ -36,4 +36,4 @@ Or, some other less interesting stuff.
 
 How about an image?
 
-![Grazing beasts.](/img/blog/1B65075_0260.jpg)
+![Grazing beasts.](/img/news/1B65075_0260.jpg)
