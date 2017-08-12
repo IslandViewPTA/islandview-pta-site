@@ -1,30 +1,32 @@
 ---
 title: About
-date: 2017-07-30T16:22:45-07:00
-subtitle: More information about the PTA.
-description: Why not see if a new post can be deployed easily?
+date: 2017-08-12T10:33:37-07:00
+subtitle: Information About the PTA.
+description: Information about the PTA.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
-page: "about.html"
+markup: "mmark"
 ---
+{#list class="f3 b lh-title mb2"}
+## PTA Board 
 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA. 
 
 Meet the 2017-2018 Board:
 
-President:
+**President**:
 Christy Fischer  
-[ivepta@gmail.com](ivepta@gmail.com)
+[president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-Vice President:
+**Vice President**:
 Meg Mourning  
-[ivepta.vp@gmail.com](ivepta.vp@gmail.com)
+[vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-Treasurer:
+**Treasurer**:
 Darene Follett  
-[ivepta.treasurer@gmail.com](ivepta.treasurer@gmail.com)
+[treasurer@islandviewpta.org](mailto:treasurer@islandviewpta.org)
 
-Secretary:
+**Secretary**:
 Kristin Rogers  
-[ivepta@gmail.com](ivepta@gmail.com)
+[secretary@islandviewpta.org](mailto:secretary@islandviewpta.org)

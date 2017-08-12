@@ -7,7 +7,6 @@ image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
 type: "membership"
-page: "membership.html"
 markup: "mmark"
 ---
 

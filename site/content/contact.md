@@ -2,24 +2,23 @@
 title: Contact
 date: 2017-07-30T16:22:45-07:00
 subtitle: More information about the PTA.
-description: Why not see if a new post can be deployed easily?
+description: Contacts for all PTA activities.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
-page: "contact.html"
+type: "contact"
 markup: "mmark"
 ---
 
-We’d love to get in touch with you and hear your ideas and questions.  
-We strive to grow and improve constantly and your feedback is valuable for us.
-
 {#list class="f3 b lh-title mb2"}
 ## Who do I talk to? 
+We’d love to get in touch with you and hear your ideas and questions.  
+We strive to grow and improve constantly and your feedback is valuable for us.
 
 Please see the list below for your interest area.  
 Click the Role/Topic link in the appropriate row to send a message to the correct person.
 
-{.w-70}
+{.w-50}
 |---
 | **Role / Topic** | **Point of Contact**
 |-|-

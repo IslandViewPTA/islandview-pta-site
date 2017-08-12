@@ -1,0 +1,12 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "callToAction" true) }}
+
+<div class="mw7 center pt3">
+  {{ partial "page-intro" . }}
+  {{ partial "table" . }}
+</div>
+
+{{ partial "footer" . }}

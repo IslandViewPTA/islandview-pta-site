@@ -12,7 +12,7 @@
  *    TABLE OF CONTENTS
  *
  *    1. External Library Includes
- *       - Reset.css | http://meyerweb.com/eric/tools/css/reset/
+ *       - html5doctor.com Reset Stylesheet | http://richclarkdesign.com 
  *    2. Tachyons Modules
  *    3. Variables
  *       - Media Queries
@@ -24,8 +24,8 @@
  */
 
 
-/* External Library Includes
-@import './imports/_reset';*/
+/* External Library Includes*/
+@import './imports/_reset';
 
 /* Modules */
 @import './imports/_box-sizing';
