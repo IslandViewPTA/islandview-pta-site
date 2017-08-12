@@ -61,15 +61,12 @@ label
 {
   font-size: .875rem;
   font-weight: 800;
-  color: var(--white);
-  background-color: var(--primary);
-  border-radius: var(--border-radius);
+  color: var(--primary);
   padding: var(--spacing-extra-small) var(--spacing-small);
-  position: absolute;
+  position: relative;
   left: 0;
   top: 0;
   pointer-events: none;
-  opacity: 0;
   line-height: 1;
   transition: var(--hover-transition);
   z-index: 2;

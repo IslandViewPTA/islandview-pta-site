@@ -4,13 +4,9 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
-<div class="ph3 bg-off-white">
-	{{ partial "content-block" . }}
-</div>
-
-<div class="cognito">
-<script src="https://services.cognitoforms.com/s/H7cGN7HU1kGYpCjcfL8LVA"></script>
-<script>Cognito.load("forms", { id: "1" });</script>
+<div class="cognito mw7 center">
+  <script src="https://services.cognitoforms.com/s/H7cGN7HU1kGYpCjcfL8LVA"></script>
+  <script>Cognito.load("forms", { id: "1" });</script>
 </div>
 
 {{ partial "footer" . }}
