@@ -1,4 +1,48 @@
-.w1 {    width: var(--spacing-medium); }
+/*
+
+   WIDTHS
+   Docs: http://tachyons.io/docs/layout/widths/
+
+   Base:
+     w = width
+
+   Modifiers
+     1 = 1st step in width scale
+     2 = 2nd step in width scale
+     3 = 3rd step in width scale
+     4 = 4th step in width scale
+     5 = 5th step in width scale
+
+     -10  = literal value 10%
+     -20  = literal value 20%
+     -25  = literal value 25%
+     -30  = literal value 30%
+     -33  = literal value 33%
+     -34  = literal value 34%
+     -40  = literal value 40%
+     -50  = literal value 50%
+     -60  = literal value 60%
+     -70  = literal value 70%
+     -75  = literal value 75%
+     -80  = literal value 80%
+     -90  = literal value 90%
+     -100 = literal value 100%
+
+     -third      = 100% / 3 (Not supported in opera mini or IE8)
+     -two-thirds = 100% / 1.5 (Not supported in opera mini or IE8)
+     -auto       = string value auto
+
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+
+/* Width Scale */
+
+.w1 {    width: 1rem; }
 .w2 {    width: 2rem; }
 .w3 {    width: 4rem; }
 .w4 {    width: 8rem; }
@@ -24,7 +68,7 @@
 .w-auto { width: auto; }
 
 @media (--breakpoint-not-small) {
-  .w1-ns {  width: var(--spacing-medium); }
+  .w1-ns {  width: 1rem; }
   .w2-ns {  width: 2rem; }
   .w3-ns {  width: 4rem; }
   .w4-ns {  width: 8rem; }
@@ -49,7 +93,7 @@
 }
 
 @media (--breakpoint-medium) {
-  .w1-m {      width: var(--spacing-medium); }
+  .w1-m {      width: 1rem; }
   .w2-m {      width: 2rem; }
   .w3-m {      width: 4rem; }
   .w4-m {      width: 8rem; }
@@ -74,7 +118,7 @@
 }
 
 @media (--breakpoint-large) {
-  .w1-l {      width: var(--spacing-medium); }
+  .w1-l {      width: 1rem; }
   .w2-l {      width: 2rem; }
   .w3-l {      width: 4rem; }
   .w4-l {      width: 8rem; }

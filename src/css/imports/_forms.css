@@ -1,7 +1,8 @@
-fieldset
-{
-  position: relative;
-}
+/*
+
+   FORMS
+   
+*/
 
 .input-reset {
   -webkit-appearance: none;
@@ -13,6 +14,12 @@ fieldset
   border: 0;
   padding: 0;
 }
+
+fieldset
+{
+  position: relative;
+}
+
 
 input, textarea {
   background-color: var(--grey-2);

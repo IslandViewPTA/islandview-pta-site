@@ -1,4 +1,39 @@
-.h1 { height: var(--spacing-medium); }
+/*
+
+   HEIGHTS
+   Docs: http://tachyons.io/docs/layout/heights/
+
+   Base:
+     h = height
+     min-h = min-height
+     min-vh = min-height vertical screen height
+     vh = vertical screen height
+
+   Modifiers
+     1 = 1st step in height scale
+     2 = 2nd step in height scale
+     3 = 3rd step in height scale
+     4 = 4th step in height scale
+     5 = 5th step in height scale
+
+     -25   = literal value 25%
+     -50   = literal value 50%
+     -75   = literal value 75%
+     -100  = literal value 100%
+
+     -auto = string value of auto
+     -inherit = string value of inherit
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+
+/* Height Scale */
+
+.h1 { height: 1rem; }
 .h2 { height: 2rem; }
 .h3 { height: 4rem; }
 .h4 { height: 8rem; }
@@ -29,7 +64,7 @@
 .h-inherit {  height: inherit; }
 
 @media (--breakpoint-not-small) {
-  .h1-ns {  height: var(--spacing-medium); }
+  .h1-ns {  height: 1rem; }
   .h2-ns {  height: 2rem; }
   .h3-ns {  height: 4rem; }
   .h4-ns {  height: 8rem; }
@@ -49,7 +84,7 @@
 }
 
 @media (--breakpoint-medium) {
-  .h1-m { height: var(--spacing-medium); }
+  .h1-m { height: 1rem; }
   .h2-m { height: 2rem; }
   .h3-m { height: 4rem; }
   .h4-m { height: 8rem; }
@@ -58,7 +93,7 @@
   .h-50-m { height: 50%; }
   .h-75-m { height: 75%; }
   .h-100-m { height: 100%; }
-  .min-h-100-ns { min-height: 100%; }
+  .min-h-100-m { min-height: 100%; }
   .vh-25-m {  height:  25vh; }
   .vh-50-m {  height:  50vh; }
   .vh-75-m {  height:  75vh; }
@@ -69,7 +104,7 @@
 }
 
 @media (--breakpoint-large) {
-  .h1-l { height: var(--spacing-medium); }
+  .h1-l { height: 1rem; }
   .h2-l { height: 2rem; }
   .h3-l { height: 4rem; }
   .h4-l { height: 8rem; }

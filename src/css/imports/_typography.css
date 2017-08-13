@@ -1,43 +1,16 @@
-html {
-  font-size: var(--font-size);
-  @media (--breakpoint-medium) {
-    font-size: var(--font-size-m);
-  }
-  @media (--breakpoint-large) {
-    font-size: var(--font-size-l);
-  }
-  background-color: var(--black);
-}
+/*
+
+   TYPOGRAPHY
+   http://tachyons.io/docs/typography/measure/
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
 
 
-body {
-  font-family: var(--font-family);
-  font-size: var(--spacing-medium);
-  line-height: var(--line-height);
-  font-weight: var(--body-font-weight);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: var(--off-white);
- }
-
-p {
-  margin-bottom: var(--spacing-medium);
-  max-width: var(--para-width);
-}
-
-strong {
-  font-weight: var(--bold-font-weight);
-}
-
-em {
-  font-style: italic;
-}
-
-sup {
-  font-size: .6rem;
-  font-weight: 700;
-  vertical-align: super;
-}
 
 /* Measure is limited to ~66 characters */
 .measure {
@@ -51,7 +24,7 @@ sup {
 
 /* Measure is limited to ~45 characters */
 .measure-narrow {
-  max-width: 25em;
+  max-width: 20em;
 }
 
 /* Book paragraph style - paragraphs are indented with no vertical spacing. */

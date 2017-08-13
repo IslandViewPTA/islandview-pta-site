@@ -1,5 +1,7 @@
-<div class="dark-gray w-100 mb3">
-  <img src="/img/shop/{{.image}}" class="db w-100 ba bw0 br2" alt="Photo of a {{.name}}.">
+<div class="w-100 mb3 ba br2 b--light-silver">
+  <div class="pa2 center">
+      <img src="/img/shop/{{.image}}" class="h-auto w-100 w-auto-l h4-l db center" alt="Image of a {{.name}}.">
+  </div>
   <div class="pa2">
     <div class="dt w-100 mt1">
       <div class="dtc">
@@ -9,12 +11,12 @@
         <h2 class="f5 mv0">${{.price}}</h2>
       </div>
     </div>
-    <p class="f6 lh-copy">
+    <p class="f6 tj">
       {{.description}}
     </p>
     <!-- Buy Button -->
     <button
-      class="snipcart-add-item f6 link ba bw0 br1 ph3 pv2 dib w-100 gold bg-blue"
+      class="snipcart-add-item flex f6 tc link ba bw0 br2 ph3 pv2 center gold bg-primary"
       data-item-id="{{ .id }}"
       data-item-name="{{ .name }}"
       data-item-price="{{ .price }}"

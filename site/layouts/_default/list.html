@@ -3,8 +3,8 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "This is where the title goes" "subtitle" "This is where the subtitle goes") }}
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+<div class="w-100 center ph3 ph0-l pt3">
+  <ul class="mw7 center flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Data.Pages }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}

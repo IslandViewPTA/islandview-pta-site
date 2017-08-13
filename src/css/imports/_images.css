@@ -1,8 +1,15 @@
-img {
-  max-width: 100%;
-}
+/*
 
-/* Remove border-radiius from full-width images */
+   IMAGES
+   Docs: http://tachyons.io/docs/elements/images/
+
+*/
+
+/* Responsive images! */
+
+img { max-width: 100%; }
+
+/* Remove border-radius from full-width images */
 img:not(.w-100) {
   border-radius: var(--border-radius);
 }

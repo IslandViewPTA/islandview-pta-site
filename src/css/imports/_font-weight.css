@@ -1,5 +1,31 @@
+/*
+
+   FONT WEIGHT
+   Docs: http://tachyons.io/docs/typography/font-weight/
+
+   Base
+     fw = font-weight
+
+   Modifiers:
+     1 = literal value 100
+     2 = literal value 200
+     3 = literal value 300
+     4 = literal value 400
+     5 = literal value 500
+     6 = literal value 600
+     7 = literal value 700
+     8 = literal value 800
+     9 = literal value 900
+
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
+
+*/
+
 .normal { font-weight: normal; }
-.b      { font-weight: var(--bold-font-weight); }
+.b      { font-weight: bold; }
 .fw1    { font-weight: 100; }
 .fw2    { font-weight: 200; }
 .fw3    { font-weight: 300; }
@@ -13,7 +39,7 @@
 
 @media (--breakpoint-not-small) {
   .normal-ns { font-weight: normal; }
-  .b-ns      { font-weight: var(--bold-font-weight); }
+  .b-ns      { font-weight: bold; }
   .fw1-ns    { font-weight: 100; }
   .fw2-ns    { font-weight: 200; }
   .fw3-ns    { font-weight: 300; }
@@ -27,7 +53,7 @@
 
 @media (--breakpoint-medium) {
   .normal-m { font-weight: normal; }
-  .b-m      { font-weight: var(--bold-font-weight); }
+  .b-m      { font-weight: bold; }
   .fw1-m    { font-weight: 100; }
   .fw2-m    { font-weight: 200; }
   .fw3-m    { font-weight: 300; }
@@ -41,7 +67,7 @@
 
 @media (--breakpoint-large) {
   .normal-l { font-weight: normal; }
-  .b-l      { font-weight: var(--bold-font-weight); }
+  .b-l      { font-weight: bold; }
   .fw1-l    { font-weight: 100; }
   .fw2-l    { font-weight: 200; }
   .fw3-l    { font-weight: 300; }

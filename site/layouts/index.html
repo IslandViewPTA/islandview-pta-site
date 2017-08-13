@@ -4,12 +4,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
-<div class="mw7 center flex-auto pt3">
+<div class="mw7 center ph3 ph0-l pt3">
     {{ partial "content-block" . }}
+
+    {{ partial "home-blog-list" . }}
+    
+    {{ partial "home-event-list" . }}
 </div>
-
-{{ partial "home-blog-list" . }}
-
-{{ partial "home-event-list" . }}
 
 {{ partial "footer" . }}

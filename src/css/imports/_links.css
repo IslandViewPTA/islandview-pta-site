@@ -1,7 +1,13 @@
+/*
+
+   LINKS
+   Docs: http://tachyons.io/docs/elements/links/
+
+*/
+
 .link {
   text-decoration: none;
-  transition: var(--hover-transition);
-  color: inherit;
+  transition: color .15s ease-in;
 }
 
 .link:link,
@@ -10,7 +16,6 @@
 }
 .link:hover   {
   transition: color .15s ease-in;
-  text-decoration: underline;
 }
 .link:active  {
   transition: color .15s ease-in;
@@ -19,3 +24,4 @@
   transition: color .15s ease-in;
   outline: 1px dotted currentColor;
 }
+
