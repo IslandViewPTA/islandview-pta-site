@@ -32,21 +32,18 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Type", name: "type", widget: "hidden", default: "event"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "files"
-    label: "Data Files"
-    files:
-      - name: "products"
-        label: "Products"
-        folder: "site/data/products"
-        format: "json"
-        extension: "json"
-        fields:
-          - {label: Sorting Weight, name: weight, widget: number}
-          - {label: Shop ID, name: id, widget: string}
-          - {label: Name, name: name, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Price, name: price, widget: string}
-          - {label: Description, name: description, widget: text}
-          - {label: Item Weight, name: itemWeight, widget: string}
-          - {label: Product URL, name: url, widget: string, default: "http://ivepta.netlify.com/shop/"}
-          - {label: Custom, name: custom, widget: object, fields:[{label: Name, name: name, widget: string}, {label: Value, name: value, widget: string}, {label: Options, name: options, widget: string}]}
+  - name: "products"
+    label: "Products"
+    folder: "site/data/products"
+    format: "json"
+    extension: "json"
+    fields:
+      - {label: Sorting Weight, name: weight, widget: number}
+      - {label: Shop ID, name: id, widget: string}
+      - {label: Name, name: name, widget: string}
+      - {label: Image, name: image, widget: image}
+      - {label: Price, name: price, widget: string}
+      - {label: Description, name: description, widget: text}
+      - {label: Item Weight, name: itemWeight, widget: string}
+      - {label: Product URL, name: url, widget: string, default: "http://ivepta.netlify.com/shop/"}
+      - {label: Custom, name: custom, widget: object, fields:[{label: Name, name: name, widget: string}, {label: Value, name: value, widget: string}, {label: Options, name: options, widget: string}]}
