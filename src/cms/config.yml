@@ -11,25 +11,32 @@ collections: # A list of collections the CMS should be able to edit
   - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "News" # Used in the UI, ie.: "New Post"
     folder: "site/content/news" # The path to the folder where the documents are stored
+    filter:
+      field: indexFile
+      value: false
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "news"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "event" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Event" # Used in the UI, ie.: "New Post"
     folder: "site/content/event" # The path to the folder where the documents are stored
+    filter:
+      field: indexFile
+      value: false
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Location", name: "location", widget: "text"}
+      - {label: "Location", name: "location", widget: "string"}
       - {label: "Start", name: "start", widget: "datetime"}
       - {label: "End", name: "end", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Type", name: "type", widget: "hidden", default: "event"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "products"

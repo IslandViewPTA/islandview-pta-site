@@ -7,4 +7,5 @@ image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
 type: "event"
+indexFile: true
 ---

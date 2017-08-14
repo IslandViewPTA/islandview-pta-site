@@ -6,4 +6,5 @@ description: Listing of recent news from the PTA.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
+indexFile: true
 ---

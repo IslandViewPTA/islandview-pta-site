@@ -3,6 +3,8 @@ title: Testing if this works.
 date: 2017-06-28T19:23:42.379Z
 description: This is a summary from the front matter of a post. It is not intended to be very long, just a short summary of the post content.
 image: /img/news/3work.jpg
+type: "news"
+indexFile: false
 ---
 This is the **body** area. Where all of the most interesting content goes.
 
