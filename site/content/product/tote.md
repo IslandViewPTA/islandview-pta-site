@@ -3,7 +3,7 @@ weight: 5
 id: '2'
 title: Tote Bag
 date: 2017-08-14T23:40:57.808Z
-image: /img/uploads/tote.png
+image: /img/uploads/Tote-sm.jpg
 price: '5'
 description: Show your school pride with this handy and spacious tote bag.
 itemWeight: '5'
@@ -26,4 +26,5 @@ custom:
       - option: Gray
     value: White
 ---
+
 
