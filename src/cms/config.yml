@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Type", name: "type", widget: "hidden", default: "event"}
       - {label: "Index File", name: "indexFile", widget: "hidden", default: "false"}
-      - {label: "Body", name: "body", widget: "markdown"}  - name: "products"
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "products"
     label: "Products"
     folder: "site/content/product"
