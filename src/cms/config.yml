@@ -8,15 +8,15 @@ public_folder: "img"
 publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News" # Used in the UI, ie.: "New Post"
+    folder: "site/content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "event" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Event" # Used in the UI, ie.: "New Post"
@@ -28,24 +28,25 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Location", name: "location", widget: "text"}
       - {label: "Start", name: "start", widget: "datetime"}
-      - {label: "Stop", name: "stop", widget: "datetime"}
+      - {label: "End", name: "end", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "event"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
+  - name: "files"
+    label: "Data Files"
     files:
-      - file: "site/content/products.md"
-        label: "Products Page"
-        name: "products"
+      - name: "products"
+        label: "Products"
+        folder: "site/data/products"
+        format: "json"
+        extension: "json"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Type, name: type, widget: hidden, default: products}
-          - {label: Page, name: page, widget: hidden, default: "/products.html"}
+          - {label: Sorting Weight, name: weight, widget: number}
+          - {label: Shop ID, name: id, widget: string}
+          - {label: Name, name: name, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+          - {label: Price, name: price, widget: string}
+          - {label: Description, name: description, widget: text}
+          - {label: Item Weight, name: itemWeight, widget: string}
+          - {label: Product URL, name: url, widget: string, default: "http://ivepta.netlify.com/shop/"}
+          - {label: Custom, name: custom, widget: object, fields:[{label: Name, name: name, widget: string}, {label: Value, name: value, widget: string}, {label: Options, name: options, widget: string}]}
