@@ -1,12 +1,12 @@
 ---
+date: 2017-07-31T07:21:13.000Z
+indexFile: false
 title: Another exciting activity that we can participate in.
-date: 2017-07-31T00:21:13-07:00
 description: Why not do something exciting?
 location: 'Washington Park Loop, Anacortes, WA 98221'
-image: null
-start: 2017-08-20T00:01:13-07:00
-end: 2017-08-20T00:02:13-07:00
+start: 2017-08-20T07:01:13.000Z
+end: 2017-08-20T07:02:13.000Z
+image: /img/20525669_10213829075269728_3344079728590974721_n.jpg
 type: event
-indexFile: false
 ---
-This is some body text to test out where the information goes.
+This is some **body** text to test out where the information goes.
