@@ -37,6 +37,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/data/products"
     format: "json"
     extension: "json"
+    create: true
     fields:
       - {label: Sorting Weight, name: weight, widget: number}
       - {label: Shop ID, name: id, widget: string}
