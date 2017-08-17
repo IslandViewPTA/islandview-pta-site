@@ -45,6 +45,10 @@
 			color: var(--black);
 		}
 	}
+  /* Body Text */
+  & p {
+    max-width: 100%!important;
+  }
 
 	/* Lists */
 	& ul, & ol, & li {
