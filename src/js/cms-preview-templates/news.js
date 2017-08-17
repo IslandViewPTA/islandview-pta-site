@@ -27,7 +27,7 @@ export default class NewsPreview extends React.Component {
         <p class="f6 i">{ summary }</p>
       </div>
     </div>
-    <div class="mw7 center pt3">
+    <div class="mw7 center pt3 cms">
       { widgetFor("body") }
     </div>
     </div>;
