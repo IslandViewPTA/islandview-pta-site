@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming Events on Homepage</title>
+    <link>/event/</link>
+    <description>Recent content in Upcoming Events on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 16:22:45 -0700</lastBuildDate>
+    
+	<atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fun times in a happy place.</title>
+      <link>/event/fun-times-in-a-happy-place/</link>
+      <pubDate>Wed, 02 Aug 2017 16:22:28 -0700</pubDate>
+      
+      <guid>/event/fun-times-in-a-happy-place/</guid>
+      <description>Here is the really descriptive body of the event text, with loads of information and fun pics.
+With more text here below the image.</description>
+    </item>
+    
+    <item>
+      <title>Another exciting activity that we can participate in.</title>
+      <link>/event/another-exciting-activity-that-we-can-participate-in/</link>
+      <pubDate>Mon, 31 Jul 2017 07:21:13 +0000</pubDate>
+      
+      <guid>/event/another-exciting-activity-that-we-can-participate-in/</guid>
+      <description>This is some body text to test out where the information goes.</description>
+    </item>
+    
+  </channel>
+</rss>

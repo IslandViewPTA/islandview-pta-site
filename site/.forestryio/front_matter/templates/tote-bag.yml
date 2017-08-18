@@ -1,0 +1,81 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Product Name
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: Invalid date
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: false
+  default: ''
+- name: price
+  label: Price
+  type: text
+  hidden: false
+  default: ''
+- name: itemWeight
+  label: Itemweight
+  type: text
+  hidden: false
+  default: ''
+- name: url
+  label: Url
+  type: text
+  hidden: false
+  default: ''
+- name: custom
+  label: Custom
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: options
+    label: Options
+    type: field_group_list
+    fields:
+    - name: option
+      label: Option
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: value
+    label: Value
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- type: text

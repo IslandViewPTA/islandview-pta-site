@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Homepage</title>
+    <link>/product/</link>
+    <description>Recent content in Products on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2017 23:40:57 +0000</lastBuildDate>
+    
+	<atom:link href="/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tote Bag</title>
+      <link>/shop/</link>
+      <pubDate>Mon, 14 Aug 2017 23:40:57 +0000</pubDate>
+      
+      <guid>/shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exclusive PTA Member T-Shirt</title>
+      <link>/shop/</link>
+      <pubDate>Mon, 14 Aug 2017 23:50:44 +0000</pubDate>
+      
+      <guid>/shop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
