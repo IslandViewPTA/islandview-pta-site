@@ -12,10 +12,11 @@ fields:
   hidden: false
   default: ''
 - name: description
-  label: Description
+  label: News Summary
   type: textarea
   hidden: false
   default: ''
+  description: Short summary of the news post.
 - name: image
   label: Image
   type: file
@@ -24,5 +25,5 @@ fields:
 - name: type
   label: Type
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: news
