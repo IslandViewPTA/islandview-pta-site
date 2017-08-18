@@ -6,31 +6,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: Invalid date
-- name: description
-  label: Description
-  type: textarea
-  hidden: false
-  default: ''
-- name: image
-  label: Image
-  type: file
-  hidden: false
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: true
-  default: ''
-- name: weight
-  label: Weight
-  type: text
-  hidden: false
-  default: ''
 - name: id
   label: Id
   type: text
@@ -41,16 +16,45 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: itemWeight
-  label: Itemweight
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: Invalid date
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: weight
+  label: Sort Weight
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Must be a unique product ID number.
+- name: itemWeight
+  label: Item Weight
+  type: text
+  hidden: false
+  default: ''
+  description: Enter the weight in grams.
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: product
 - name: url
   label: Url
   type: text
   hidden: false
-  default: ''
+  default: "/shop/"
 - name: custom
   label: Custom
   type: field_group_list
