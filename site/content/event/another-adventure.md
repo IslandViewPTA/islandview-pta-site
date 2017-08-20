@@ -1,7 +1,6 @@
 +++
 date = "2017-08-20T13:55:44+00:00"
 description = "Testing the Forestry.io editor for making a new event."
-draft = true
 end = "2017-09-05T18:00:00-07:00"
 image = "/img/event/20130827_114908.jpg"
 location = "6041 Sands Way, Anacortes, WA 98221"
