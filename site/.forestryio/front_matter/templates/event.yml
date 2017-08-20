@@ -1,0 +1,47 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Event name
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: date
+  label: Event Created Date
+  type: datetime
+  hidden: false
+  default: Invalid date
+- name: description
+  label: Event Summary
+  type: textarea
+  hidden: false
+  default: ''
+  description: Short description of the event.
+- name: image
+  label: Featured Image
+  type: file
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: event
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: ''
+  description: Enter the street address for the event.
+- name: start
+  label: Start Date and Time
+  type: datetime
+  hidden: false
+  default: Invalid date
+- name: end
+  label: End Date and Time
+  type: datetime
+  hidden: false
+  default: ''

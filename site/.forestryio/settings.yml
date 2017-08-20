@@ -6,5 +6,11 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: ''
+sections:
+  news:
+    default_front_matter_template: "news"
+  event:
+    default_front_matter_template: "event"
+  products:
+    default_front_matter_template: "product"
 version: '0.26'
