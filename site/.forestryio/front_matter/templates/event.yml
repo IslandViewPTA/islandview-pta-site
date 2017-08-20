@@ -1,4 +1,6 @@
 ---
+pages:
+- event/another-adventure.md
 hide_body: false
 fields:
 - name: title
