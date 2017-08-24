@@ -1,7 +1,7 @@
 ---
-title: About
+title: Contact
 date: 2017-08-12T10:33:37-07:00
-subtitle: Information About the PTA.
+subtitle: How to Contact Us
 description: Information about the PTA.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
@@ -30,3 +30,11 @@ Darene Follett
 **Secretary**:
 Kristin Rogers  
 [secretary@islandviewpta.org](mailto:secretary@islandviewpta.org)
+
+{#list class="f3 b lh-title mb2"}
+## PTA Office Information
+Office Phone: (360) 503-1507
+
+The **PTA Office** is located in the school lobby kitty-corner from the Island View Theater. The **PTA Drop Box** is inside the main office near to the Raptor sign-in station.
+
+Find out how you can [Get Involved](/get-involved/).
