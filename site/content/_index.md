@@ -17,10 +17,10 @@ including classroom enhancements,
 [ClassACT School Plays](https://www.facebook.com/Class-ACT-Anacortes-Community-Theatres-School-of-Performing-Arts-105835664376/), 
 free popcorn every month, Family Fun Nights, 
 [Watch DOGS](http://www.fathers.com/watchdogs/), 
-[Lego](www.lego.com) Club, 
-[I Love to Read Month](https://www.scholastic.com/teachers/blog-posts/genia-connell/celebrate-joy-reading-all-month-long/), 
+Lego Club, 
+I Love to Read Month, 
 [Scholastic Magazines](http://classroommagazines.scholastic.com/Landing-Pages/subscribers), 
-[Educational software](https://www.raz-kids.com/), 
+Educational software, 
 [Mountain School](https://ncascades.org/signup/youth/mountain-school), and MORE.
 
-We’d love for you to join us! (Link to “Join the PTA”)
+We’d love for you to [join us](/membership/)!

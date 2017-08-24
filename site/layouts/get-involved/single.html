@@ -4,8 +4,8 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
-<div class="w-100 center pt3 ph3 ph0-l">
+<main class="w-100 flex-auto center pt3 ph3 ph0-l">
 	{{ partial "content-block" . }}
-</div>
+</main>
 
 {{ partial "footer" . }}

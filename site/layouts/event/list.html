@@ -4,19 +4,18 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
-<div class="mw7 ph3 ph0-l center">
-  <ul class="flex-ns flex-wrap mhn1-ns pt3 list">
+<main class="w-100 flex-auto center ph3 ph0-l">
+  <ul class="mw7 center flex-ns flex-wrap mhn1-ns pt3 list">
       {{ range .Data.Pages }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
       {{ end }}
   </ul>
-</div>
-
-<div class="mw7 ph3 ph0-l center">
-  <h2>Event Calendar</h2>
-  Insert Calendar Here
-</div>
+  <section class="mw7 flex-auto pt3 ph3 ph0-l center">
+    <h2>Event Calendar</h2>
+    Insert Calendar Here
+  </section>
+</main>
 
 {{ partial "footer" . }}

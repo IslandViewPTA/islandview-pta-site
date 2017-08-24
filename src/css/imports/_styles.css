@@ -54,17 +54,19 @@
 .p-share a.ln::before { content: 'LINE'; }
 
 ul,ol {
-  list-style-type: none;
+  list-style-type: disc;
   margin-left: 1rem;
   margin-bottom: 1rem;
 }
 
 ul li
 {
-  background-image: url(/img/li_icon.png);
-  background-repeat: no-repeat;
-  background-position: -0.2em 0.2em;
-  padding-left: .8em;
+  margin-left: 1rem;
+}
+
+ul.list li
+{
+  margin-left: 0rem;
 }
 
 ul ol {
