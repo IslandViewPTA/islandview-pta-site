@@ -1,7 +1,8 @@
 <div class="mw7 center">
   <h1 class="f2 lh-title mb3 primary">{{.Title}}</h1>
   <div class="flex">
-    <p class="mr3"><span class="b">Date:</span><br>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    <p class="mr3"><span class="b">Start:</span><br>{{ dateFormat "Jan 2, 2006 15:04" .Params.start }}</p>
+    <p class="mr3"><span class="b">End:</span><br>{{ dateFormat "Jan 2, 2006 15:04" .Params.end }}</p>
     <p class="pr2"><span class="b">Location:</span><br>
     <a href='https://www.google.com/maps/place/{{ replace .Params.location " " "+" }}' target="_blank">{{ .Params.location }}</a>
     </p>
