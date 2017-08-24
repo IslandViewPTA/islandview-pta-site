@@ -43,8 +43,3 @@ fields:
   hidden: false
   default: ''
   description: Enter the street address for the event.
-- name: end
-  label: End Date and Time
-  type: datetime
-  hidden: false
-  default: ''
