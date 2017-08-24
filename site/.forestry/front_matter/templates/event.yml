@@ -21,6 +21,12 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: ''
+  description: Enter the street address for the event.
 - name: description
   label: Event Summary
   type: textarea
@@ -37,9 +43,3 @@ fields:
   type: text
   hidden: true
   default: event
-- name: location
-  label: Location
-  type: text
-  hidden: false
-  default: ''
-  description: Enter the street address for the event.
