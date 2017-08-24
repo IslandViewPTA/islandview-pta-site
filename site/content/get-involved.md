@@ -1,15 +1,15 @@
 ---
 title: Get Involved
-date: 2017-07-30T14:30:34-07:00
+date: 2017-07-30 14:30:34 -0700
 subtitle: Our volunteers make so much possible for our students!
 description: Why not see if a new post can be deployed easily?
-image: /img/post/post_jumbotron.jpg
+image: "/uploads/Bryan_Klein-4-1.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
-type: "get-involved"
-markup: "mmark"
----
+type: get-involved
+markup: mmark
 
+---
 Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need **YOU** – *your new ideas, your energy, your enthusiasm* – to make our PTA all that it can be.  
 
 Check out all the different ways you can get involved.  Just click any that interest you and your email will be forwarded to the correct person.
