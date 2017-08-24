@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "ivepta",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "Island View PTA Website.",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
@@ -11,7 +11,7 @@
     "start": "gulp server",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "Bryan Klein",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^7.1.2",
@@ -37,7 +37,6 @@
     "gulp-replace": "^0.6.1",
     "gulp-util": "^3.0.8",
     "imports-loader": "^0.7.1",
-    "netlify-cms": "^0.4.4",
     "postcss-cssnext": "^3.0.2",
     "postcss-import": "^10.0.0",
     "postcss-loader": "^2.0.6",

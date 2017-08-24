@@ -4,7 +4,7 @@ title = "Homepage"
 navigateToChanged = true
 
 [params]
-  contact = "web@islandviewpta.org" # Optional
+  contact = "webadmin@islandviewpta.org" # Optional
   sitetitle = "Island View Elementary PTA"
   dateformat = "Jan 2, 2006" # Optional
   googleAnalytics = "UA-XXXXXXXX-XX" # Optional
