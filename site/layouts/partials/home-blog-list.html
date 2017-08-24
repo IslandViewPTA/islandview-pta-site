@@ -3,14 +3,14 @@
   <h2 class="f3 b lh-title mb3 primary">Latest news</h1>
 
   <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-    {{ range where .Data.Pages "Type" "news" }}
+    {{ range where .Data.Pages.ByDate "Type" "news" }}
       <div class="ph1-ns w-50-ns flex">
         {{ .Render "li" }}
       </div>
     {{ end }}
   </div>
 
-  <div class="tc">
+  <div class="tc mb3">
     <a href="/news" class="f6 ba bw0 br2 ph3 pv2 gold bg-primary link">Read All News</a>
   </div>
 

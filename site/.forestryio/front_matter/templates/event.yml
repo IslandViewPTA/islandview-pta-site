@@ -11,10 +11,15 @@ fields:
   config:
     required: true
 - name: date
-  label: Event Created Date
+  label: Start Date and Time
   type: datetime
   hidden: false
   default: Invalid date
+- name: end
+  label: End Date and Time
+  type: datetime
+  hidden: false
+  default: ''
 - name: description
   label: Event Summary
   type: textarea
@@ -37,11 +42,6 @@ fields:
   hidden: false
   default: ''
   description: Enter the street address for the event.
-- name: start
-  label: Start Date and Time
-  type: datetime
-  hidden: false
-  default: Invalid date
 - name: end
   label: End Date and Time
   type: datetime
