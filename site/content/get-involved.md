@@ -5,7 +5,7 @@ image: "/uploads/Bryan_Klein-4-1.jpg"
 imageCredit: Photos by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 markup: mmark
-subtitle: Our volunteers make so much possible for our students!
+subtitle: Volunteers make so much possible for our students!
 title: Get Involved
 type: get-involved
 ---
