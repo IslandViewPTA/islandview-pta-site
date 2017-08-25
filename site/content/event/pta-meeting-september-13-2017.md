@@ -9,6 +9,6 @@ title = "PTA Meeting - September 13, 2017"
 +++
 
 
-Please join us for the first PTA meeting of the year on September 13th at 6pm in the Island View Library.  All are welcome!
+Please join us for the first PTA meeting of the year on **September 13th at 6pm** in the Island View Library.  All are welcome!
 
 Monthly PTA meetings will be held on the SECOND Wednesday of each month.  Mark your calendars now!
