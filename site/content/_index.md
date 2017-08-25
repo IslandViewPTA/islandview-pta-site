@@ -6,9 +6,7 @@ description: Why not see if a new post can be deployed easily?
 image: /img/home/home_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
-markup: "mmark"
 ---
-{class="f3 b lh-title primary"}
 ## Welcome to Island View PTA!
 
 Our PTA helps make so much possible for the students and staff at Island View Elementary, 

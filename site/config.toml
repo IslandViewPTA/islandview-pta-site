@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Homepage"
 navigateToChanged = true
 
+[blackfriday]
+  hrefTargetBlank = true
+
 [params]
   contact = "webadmin@islandviewpta.org" # Optional
   sitetitle = "Island View Elementary PTA"

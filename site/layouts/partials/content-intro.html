@@ -1,8 +1,8 @@
 <div class="mw7 center">
-  <h1 class="f2 lh-title primary">{{.Title}}</h1>
+  <h1>{{.Title}}</h1>
   <div class="mw7 cf">
     {{ if .Params.image }}<img class="fl w5 mr3 mb3" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
-    <p class="f6">{{ .Date.Format "Mon., 01/02/06 - 3:04PM" }}</p>
+    <p class="f6">Published: {{ .Date.Format "01/02/06" }}</p>
     <p class="f6">{{ .Description }}</p>
   </div>
 </div>

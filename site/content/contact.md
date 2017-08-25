@@ -6,11 +6,9 @@ description: Information about the PTA.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
-markup: "mmark"
 ---
-{class="f3 b lh-title primary"}
-## PTA Board 
 
+## PTA Board 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA. 
 
 Meet the 2017-2018 Board:
@@ -31,7 +29,6 @@ Darene Follett
 Kristin Rogers  
 [secretary@islandviewpta.org](mailto:secretary@islandviewpta.org)
 
-{class="f3 b lh-title primary"}
 ## PTA Office Information
 Office Phone: (360) 503-1507
 

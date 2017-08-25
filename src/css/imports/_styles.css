@@ -223,3 +223,15 @@ sup {
 .grey-1 {
   color: var(--grey-1);
 }
+
+h1 {
+  @inherit: .f2, .mb2, .lh-title, .primary;
+}
+
+h2 {
+  @inherit: .f3, .mb2, .b, .lh-title, .primary;
+}
+
+h3 {
+  @inherit: .f4, .mb1, .b, .lh-title, .primary;
+}

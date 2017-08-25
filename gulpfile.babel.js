@@ -3,6 +3,7 @@ import cp from "child_process";
 import gutil from "gulp-util";
 import postcss from "gulp-postcss";
 import cssImport from "postcss-import";
+import cssinherit from "postcss-inherit";
 import cssnext from "postcss-cssnext";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
@@ -27,6 +28,7 @@ gulp.task("css", () => (
   gulp.src("./src/css/*.css")
     .pipe(postcss([
       cssImport({from: "./src/css/tachyons.css"}),
+      cssinherit(),
       cssnext(),
       cssnano(),
     ]))

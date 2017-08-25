@@ -1,10 +1,10 @@
 <div class="mw7 center">
 
-  <h2 class="f3 b lh-title primary">Latest news</h2>
+  <h2>Latest news</h2>
   <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
     {{ range where .Data.Pages.ByDate "Type" "news" }}
       <div class="ph1-ns w-50-ns flex">
-        {{ .Render "li" }}
+        {{ .Render "news-li" }}
       </div>
     {{ end }}
   </div>

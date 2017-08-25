@@ -5,7 +5,7 @@
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 gold">IVE PTA</h3>
+				<h3 class="gold">IVE PTA</h3>
 				<ul class="mb3 list ma0">
           <li><a href="/" class="link white">Home</a></li>
           <li><a href="/news/" class="link white">News</a></li>
@@ -15,7 +15,7 @@
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb1 gold">Help Us</h3>
+				<h3 class="gold">Help Us</h3>
 				<ul class="mb3 list ma0">
 					<li><a href="/donate/" class="link white">Donate</a></li>
 					<li><a href="/membership/" class="link white">Join the PTA</a></li>
@@ -25,7 +25,7 @@
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb2 gold">Social media</h3>
+				<h3 class="gold">Social media</h3>
 				<ul class="mhn2 list ma0">
 					{{ partial "social-icon" (dict "link" "https://www.facebook.com/IslandViewPTA/" "svg" "facebook") }}
 				</ul>
@@ -42,13 +42,6 @@
 
 <!-- Snipcart -->
 <script>Snipcart.execute('config', 'show_continue_shopping', true);</script>
-
-<!-- Make external links open in a new tab. -->
-<script>
-  $(document.links).filter(function() {
-    return this.hostname != window.location.hostname;
-  }).attr('target', '_blank');
-</script>
 
 </body>
 </html>
