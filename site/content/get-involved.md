@@ -9,8 +9,8 @@ subtitle: Volunteers make so much possible for our students!
 title: Get Involved
 type: get-involved
 ---
-
-<h2>We Need You!</h2>
+{class="f3 b lh-title primary"}
+## We Need You!
 
 Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need – *your new ideas, your energy, your enthusiasm* – to make our PTA all that it can be.  
 
