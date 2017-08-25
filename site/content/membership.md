@@ -1,15 +1,15 @@
 ---
 title: Membership Registration
-date: 2017-08-10T16:17:52-07:00
+date: 2017-08-10 16:17:52 -0700
 subtitle: Register Today for the PTA
 description: Fill out the membership form, pay online, and submit to the PTA board.
-image: /img/post/post_jumbotron.jpg
+image: "/uploads/Bryan_Klein-3.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photos by Rakan AlDuaij
-type: "membership"
-markup: "mmark"
----
+type: membership
+markup: mmark
 
+---
 Please take a look at all the amazing – and FUN – things the PTA does for our beloved Island View students and staff, and let us know what YOU may be interested in helping with next year. Click here to contact the PTA!
 
 Please do not hesitate to contact Christy Fischer ([ivepta@gmail.com](ivepta@gmail.com)) or
