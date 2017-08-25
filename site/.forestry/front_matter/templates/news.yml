@@ -1,6 +1,4 @@
 ---
-pages:
-- news/another-news-post.md
 hide_body: false
 fields:
 - name: title
