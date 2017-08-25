@@ -5,7 +5,7 @@ subtitle: Supporting the students, staff, and community at Island View Elementar
 description: Why not see if a new post can be deployed easily?
 image: /img/home/home_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
-imageCredit: Photos by Rakan AlDuaij
+imageCredit: Photo by Rakan AlDuaij
 markup: "mmark"
 ---
 {class="f3 b lh-title primary"}
@@ -23,4 +23,4 @@ I Love to Read Month,
 Educational software, 
 [Mountain School](https://ncascades.org/signup/youth/mountain-school), and MORE.
 
-We’d love for you to [join us](/membership/)!
+The Island View PTA will hold their monthly meetings on the **Second Wednesday** of each month.  Please join us at **6pm** in the **Island View Library** and have your voice heard! We’d love for you to [become a member of the PTA](/membership/). 

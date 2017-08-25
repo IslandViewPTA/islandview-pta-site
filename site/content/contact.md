@@ -5,7 +5,7 @@ subtitle: How to Contact Us
 description: Information about the PTA.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
-imageCredit: Photos by Rakan AlDuaij
+imageCredit: Photo by Rakan AlDuaij
 markup: "mmark"
 ---
 {#list class="f3 b lh-title mb2"}

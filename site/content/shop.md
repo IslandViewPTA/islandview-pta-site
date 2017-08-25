@@ -3,7 +3,7 @@ title: IVE PTA Shop
 subtitle: Support the PTA and find great items for the family.
 type: shop
 image: "/img/shop/sunrise.jpg"
-imageCredit: Photos by Rakan AlDuaij
+imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 heading: Purchase Island Views shirts, bags and other spirit wear!
 description: The Island View PTA uses funds raised to provide resources and activities

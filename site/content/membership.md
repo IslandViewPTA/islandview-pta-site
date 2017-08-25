@@ -5,7 +5,7 @@ subtitle: Register Today for the PTA
 description: Fill out the membership form, pay online, and submit to the PTA board.
 image: "/uploads/Bryan_Klein-3.jpg"
 imageLink: http://www.photosbyrakan.com/
-imageCredit: Photos by Rakan AlDuaij
+imageCredit: Photo by Rakan AlDuaij
 type: membership
 markup: mmark
 

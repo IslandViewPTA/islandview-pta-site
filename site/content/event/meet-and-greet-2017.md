@@ -4,7 +4,7 @@ description = "Come and meet your teachers and the PTA!"
 end = "2017-08-28T17:30:00-07:00"
 image = "/uploads/Back-To-School-3d-Clipart-Picture.jpg"
 location = "2501 J Ave, Anacortes, WA 98221"
-title = "Meet and Greet  8/28/17"
+title = "Meet and Greet"
 
 +++
 

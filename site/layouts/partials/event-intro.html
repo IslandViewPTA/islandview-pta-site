@@ -1,14 +1,14 @@
 <div class="mw7 center">
-  <h1 class="f2 lh-title mb3 primary">{{.Title}}</h1>
+  <h1 class="f2 lh-title primary">{{.Title}}</h1>
   <div class="flex">
-    <p class="mr3"><span class="b">Start:</span><br>{{ .Date.Format "Jan 2, 2006 15:04" }}</p>
-    <p class="mr3"><span class="b">End:</span><br>{{ dateFormat "Jan 2, 2006 15:04" .Params.end }}</p>
-    <p class="pr2"><span class="b">Location:</span><br>
+    <p class="f6 mr3"><span class="b">Start:</span><br>{{ .Date.Format "Mon., 01/02/06 - 3:04PM" }}</p>
+    <p class="f6 mr3"><span class="b">End:</span><br>{{ dateFormat "Mon., 01/02/06- 3:04PM" .Params.end }}</p>
+    <p class="f6 pr2"><span class="b">Location:</span><br>
     <a href='https://www.google.com/maps/place/{{ replace .Params.location " " "+" }}' target="_blank">{{ .Params.location }}</a>
     </p>
   </div>
   <div class="mw7 cf">
-    {{ if .Params.image }}<img class="fl w5 mr3" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
-    <p class="f6 i">{{ .Description }}</p>
+    {{ if .Params.image }}<img class="fl w5 mr3 mb3" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
+    <p class="f6">{{ .Description }}</p>
   </div>
 </div>

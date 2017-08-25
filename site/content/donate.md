@@ -5,7 +5,7 @@ subtitle: Help fund the PTA and give more to the Students.
 description: Add a donation to your shopping cart on the PTA site.
 image: /img/post/post_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
-imageCredit: Photos by Rakan AlDuaij
+imageCredit: Photo by Rakan AlDuaij
 type: "donate"
 ---
 **THANK YOU** for your support of all the students and staff at Island View Elementary!

@@ -4,7 +4,7 @@ description = "Coffee and treats with other Kindergarten families"
 end = "2017-09-01T11:00:25-07:00"
 image = "/uploads/cup_coffee_cookies.png"
 location = "2501 J Ave, Anacortes, WA 98221"
-title = "Kindergarten Coffee  9/1/17"
+title = "Kindergarten Coffee"
 
 +++
 

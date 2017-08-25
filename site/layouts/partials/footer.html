@@ -43,5 +43,12 @@
 <!-- Snipcart -->
 <script>Snipcart.execute('config', 'show_continue_shopping', true);</script>
 
+<!-- Make external links open in a new tab. -->
+<script>
+  $(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+  }).attr('target', '_blank');
+</script>
+
 </body>
 </html>
