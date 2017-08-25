@@ -1,28 +1,9 @@
-        {{ $itemCount := len .custom }}
-        {{ range $index, $item := .custom }}
-        {{ if ne (add 1 $index) $itemCount }}
-        data-item-custom{{$index}}-name="{{ $item.name }}"
-        data-item-custom{{$index}}-value="{{ $item.value }}"
-        data-item-custom{{$index}}-options="{{ $item.name }}"
-        {{ end }}
-		{{ end }}
-
-            
-    <ul>
-		{{ $itemCount := len .items }}
-		{{ range $index, $item := .items }}
-		<li>
-			<p class="{{ if ne (add 1 $index) $itemCount }}pb2 mb2 divider-grey{{ end }}">{{ $item }}</p>
-		</li>
-		{{ end }}
-	</ul>
-
-Donations...
-
+# Donations
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script>
 <iframe src="https://donorbox.org/embed/ivepta-donate?show_content=true" height="685px" width="100%" style="max-width:100%; min-width:100%; max-height:none!important" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
 
 
+# Custom values in button.
 <div class="pa3">
 Text:
 <input type="text" id="my-text" />
@@ -75,6 +56,8 @@ $('#my-size').change(function() {
 
 </script>
 
+
+# JSON Product Format
 {
 	"weight": 25,
     "id": "1",
