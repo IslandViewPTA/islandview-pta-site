@@ -1,4 +1,6 @@
 ---
+pages:
+- news/monthly-pta-meetings.md
 hide_body: false
 fields:
 - name: title
