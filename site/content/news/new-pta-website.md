@@ -1,7 +1,6 @@
 +++
 date = "2017-08-24T19:29:03+00:00"
 description = "Visit the new PTA webpage!"
-draft = true
 image = "/uploads/visit-website-clipart-22.jpg"
 title = "New PTA Website!"
 
