@@ -10,3 +10,5 @@ title = "Meet and Greet 2017"
 
 
 We can't wait to see you at the Meet and Greet on the day before school starts!  Meet your teachers, visit your new classrooms, hear from the principal, and get to know your PTA!
+
+Monday, August 28th from 3:30 to 5:30pm
