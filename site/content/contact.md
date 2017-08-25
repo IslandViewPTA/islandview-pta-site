@@ -1,9 +1,9 @@
 ---
 title: Contact
-date: 2017-08-12T10:33:37-07:00
+date: 2017-08-12 10:33:37 -0700
 subtitle: How to Contact Us
 description: Information about the PTA.
-image: /img/post/post_jumbotron.jpg
+image: "/uploads/IMG_6733_resized.JPG"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 ---
