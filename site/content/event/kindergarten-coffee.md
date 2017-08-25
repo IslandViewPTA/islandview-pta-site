@@ -9,4 +9,4 @@ title = "Kindergarten Coffee"
 +++
 
 
-Celebrate the first day of Kindergarten with the Island View PTA!  Enjoy coffee and treat in Room 88 after you drop off your brand new Kindergartener!
+Celebrate the first day of Kindergarten with the Island View PTA!  Enjoy coffee and treats in Room 88 after you drop off your brand new Kindergartener!
