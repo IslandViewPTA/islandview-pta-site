@@ -20,11 +20,8 @@
     <!-- Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-    <!-- Open Graph -->
-    <meta property="og:type" content="business.business">
-    <meta property="og:title" content="{{ .Site.Params.sitetitle }}">
-    <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:image" content="/IVEPTA.jpg">
+    <!-- SEO -->
+    {{ partial "seo/opengraph" .}}
 
     <!-- Snipcart -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>

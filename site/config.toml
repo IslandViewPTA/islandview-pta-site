@@ -9,8 +9,7 @@ navigateToChanged = true
   dateformat = "Jan 2, 2006" # Optional
   googleAnalytics = "UA-XXXXXXXX-XX" # Optional
   googlefonts = "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" # Optional, Include google fonts.
-  ampscripts = """ # Optional, scripts for AMP.
-<script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
-<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-"""
+
+[social]
+  twitter = "ivepta"
+  facebook = ""

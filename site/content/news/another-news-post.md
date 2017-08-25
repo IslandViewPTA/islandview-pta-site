@@ -6,7 +6,6 @@ title = "Another News Post"
 
 +++
 
-
 This is the body text area.
 
 With lots of **information** and here is a [link](http://bryanklein.com) to another site.

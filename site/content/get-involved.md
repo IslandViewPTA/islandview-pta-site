@@ -8,9 +8,11 @@ markup: mmark
 subtitle: Our volunteers make so much possible for our students!
 title: Get Involved
 type: get-involved
-
 ---
-Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need **YOU** – *your new ideas, your energy, your enthusiasm* – to make our PTA all that it can be.  
+
+<h2>We Need You!</h2>
+
+Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need – *your new ideas, your energy, your enthusiasm* – to make our PTA all that it can be.  
 
 Check out all the different ways you can get involved.  Just click any that interest you and your email will be forwarded to the correct person.
 

@@ -5,8 +5,8 @@
   "price": "5",
   "itemWeight": "5",
   "url": "http://ivepta.netlify.com/shop/",
-  "image": "tote.png",
-  "description": "Show your school pride with this handy and spacious tote bag.",
+  "image": "Tote-sm.jpg",
+  "description": "This bright yellow tote says 'Island View Eagles are Awesome!'.",
   "custom": [
       {"name": "Size", "value": "Medium", "options": ["Small", "Medium[+5.00]", "Large[+10.00]", "Kid[-5.00]"]},
       {"name": "Color", "value": "White", "options": ["White", "Blue", "Gold", "Gray"]}

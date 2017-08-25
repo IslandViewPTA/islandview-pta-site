@@ -1,7 +1,6 @@
 ---
 title: IVE PTA Shop
 subtitle: Support the PTA and find great items for the family.
-type: shop
 image: /img/shop/sunrise.jpg
 imageCredit: Photos by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/

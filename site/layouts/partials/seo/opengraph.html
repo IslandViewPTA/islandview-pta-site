@@ -1,0 +1,6 @@
+<meta property="og:site_name" content="{{ .Site.Params.sitetitle }}" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{if isset .Params "image" }}<meta property="og:image" content="{{ .Params.image }}" />{{else}}<meta property="og:image" content="/IVEPTA.jpg" />{{end}}
+{{if isset .Params "description" }}<meta property="og:description" content="{{ .Params.description }}" />{{end}}
