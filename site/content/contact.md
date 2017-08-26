@@ -4,10 +4,11 @@ date: 2017-08-12 10:33:37 -0700
 subtitle: How to Contact Us
 description: Information about the PTA.
 image: "/uploads/IMG_6733_resized.JPG"
-imageLink: http://www.photosbyrakan.com/
-imageCredit: Photo by Rakan AlDuaij
----
+imageLink: mailto:webadmin@islandviewpta.org
+imageCredit: Photo by David Mourning
+type: page
 
+---
 ## PTA Board 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA. 
 
