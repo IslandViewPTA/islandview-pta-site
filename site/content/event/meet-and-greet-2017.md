@@ -2,7 +2,7 @@
 date = "2017-08-28T15:30:30-07:00"
 description = "Come and meet your teachers and the PTA!"
 end = "2017-08-28T17:30:00-07:00"
-image = "/uploads/back-to-school-2628012_1920.jpg"
+image = "/uploads/2017_meet_and_greet-01.jpg"
 location = "2501 J Ave, Anacortes, WA 98221"
 title = "Meet and Greet  8/28/17"
 
