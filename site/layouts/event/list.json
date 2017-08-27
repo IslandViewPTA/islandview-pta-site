@@ -5,7 +5,7 @@
             id: '{{.Params.start}}@islandviewpta.org',
             title: '{{.Title}}',
             description: '{{.Params.description}}',
-            start: '{{dateFormat "20060102T150405" .Params.start}}',
+            start: '{{dateFormat "20060102T150405" .Date}}',
             {{with .Params.end}}end: '{{.}}',{{end}}
             url: '{{.Permalink}}',
         },

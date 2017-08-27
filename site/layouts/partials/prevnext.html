@@ -1,0 +1,9 @@
+<div class="mw7 center pt3">
+    {{ if .PrevInSection }}
+    <a class="fl db f6 ba bw0 br2 ph3 pv2 gold bg-primary link" href="{{.PrevInSection.Permalink}}">Previous Post</a>
+    {{ end }}
+
+    {{ if .NextInSection }}
+    <a class="fr db f6 ba bw0 br2 ph3 pv2 gold bg-primary link" href="{{.NextInSection.Permalink}}">Next Post</a>
+    {{ end }}
+</div>
