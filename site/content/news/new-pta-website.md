@@ -6,5 +6,4 @@ title = "New PTA Website!"
 
 +++
 
-
-Check out our brand new PTA website at islandviewpta.org! You can now join the PTA and order spirit wear online!
+Check out our brand new PTA website at [www.islandviewpta.org](https://www.islandviewpta.org)! You can now [join the PTA](/membership/) and [order spirit wear online](/shop/)!
