@@ -23,14 +23,14 @@ END:STANDARD
 END:VTIMEZONE
 {{range .Pages -}}
 BEGIN:VEVENT
-ORGANIZER;CN="IVE PTA":mailto:ivepta@gmail.com
+ORGANIZER;CN="IVE PTA":mailto:president@islandviewpta.org
 SUMMARY:{{.Title}}
 DESCRIPTION:{{.Params.description}}
 UID:{{.Params.start}}@islandviewpta.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
-DTSTART:{{dateFormat "20060102T150405" .Params.start}}
+DTSTART:{{dateFormat "20060102T150405" .Date}}
 DTEND:{{dateFormat "20060102T150405" .Params.end}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
 URL:{{.Permalink}}
