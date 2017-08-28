@@ -2,6 +2,7 @@ baseurl = "https://www.islandviewpta.org"
 languageCode = "en-us"
 title = "Homepage"
 navigateToChanged = true
+metaDataFormat = "yaml"
 
 [blackfriday]
   hrefTargetBlank = true
