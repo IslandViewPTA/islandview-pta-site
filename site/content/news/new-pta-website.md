@@ -1,7 +1,7 @@
 +++
 date = "2017-08-24T12:29:03-07:00"
 description = "Welcome to the new PTA webpage!"
-image = "/uploads/Screen Shot 2017-08-25 at 7.41.42 PM.png"
+image = "/uploads/Screen Shot 2017-08-25 at 7.41.42 PM.jpg"
 title = "New PTA Website!"
 
 +++
