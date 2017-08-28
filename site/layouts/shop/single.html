@@ -4,13 +4,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
 
-<main class="w-100 flex-auto center pt3 ph3 ph0-l">
-  
-  <section class="mw7 flex-auto pt3 ph3 ph0-l center">
+<main class="w-100 flex-auto center ph3 ph0-l pt3">
+  <div class="cognito mw7 center">
     {{.Content}}
-  </section>
-  {{ partial "donate-form" . }}
-  {{ partial "table" . }}
+    <iframe src="https://services.cognitoforms.com/f/l-I5djcT8kGLQzW1N5ENCw?id=2" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="1067" width="100%"></iframe>
+    <script src="https://services.cognitoforms.com/scripts/embed.js"></script>
+  </div>
 </main>
 
 {{ partial "footer" . }}

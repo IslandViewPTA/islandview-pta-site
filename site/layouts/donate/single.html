@@ -6,7 +6,10 @@
 
 <main class="w-100 flex-auto center ph3 ph0-l pt3">
   {{ partial "content-block" . }}
-  {{ partial "donate-form" . }}
+  <div class="cognito mw7 center">
+    <iframe src="https://services.cognitoforms.com/f/l-I5djcT8kGLQzW1N5ENCw?id=3" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="764" width="100%"></iframe>
+    <script src="https://services.cognitoforms.com/scripts/embed.js"></script>
+  </div>
 </main>
 
 {{ partial "footer" . }}
