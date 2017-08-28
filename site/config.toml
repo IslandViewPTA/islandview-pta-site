@@ -10,7 +10,7 @@ navigateToChanged = true
   contact = "webadmin@islandviewpta.org" # Optional
   sitetitle = "Island View Elementary PTA"
   dateformat = "Jan 2, 2006" # Optional
-  googleAnalytics = "UA-XXXXXXXX-XX" # Optional
+  googleAnalytics = "UA-105410484-1" # Optional
   googlefonts = "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" # Optional, Include google fonts.
 
 [social]
