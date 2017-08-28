@@ -1,5 +1,6 @@
 ---
 pages:
+- news/testing.md
 - news/new-pta-website.md
 hide_body: false
 fields:
