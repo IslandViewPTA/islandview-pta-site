@@ -1,9 +1,9 @@
 <div class="mw7 center pt3">
     {{ if .PrevInSection }}
-    <a class="fl db f6 ba bw0 br2 ph3 pv2 gold bg-primary link" href="{{.PrevInSection.Permalink}}">Previous Post</a>
+    <a class="fl db f6 ba bw0 br2 ph3 pv2 gold bg-primary link" href="{{.PrevInSection.Permalink}}">Previous {{ if eq .Type "event" }}{{humanize .Type}}{{else if eq .Type "news" }}Post{{end}}</a>
     {{ end }}
 
     {{ if .NextInSection }}
-    <a class="fr db f6 ba bw0 br2 ph3 pv2 gold bg-primary link" href="{{.NextInSection.Permalink}}">Next Post</a>
+    <a class="fr db f6 ba bw0 br2 ph3 pv2 gold bg-primary link" href="{{.NextInSection.Permalink}}">Next {{ if eq .Type "event" }}{{humanize .Type}}{{else if eq .Type "news" }}Post{{end}}</a>
     {{ end }}
 </div>
