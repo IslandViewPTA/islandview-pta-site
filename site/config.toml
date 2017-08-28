@@ -1,6 +1,6 @@
 baseurl = "https://www.islandviewpta.org"
 languageCode = "en-us"
-title = "Homepage"
+title = "Island View Elementary PTA"
 navigateToChanged = true
 metaDataFormat = "yaml"
 
