@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.islandviewpta.org"
 languageCode = "en-us"
 title = "Homepage"
 navigateToChanged = true
