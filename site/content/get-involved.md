@@ -1,16 +1,21 @@
 ---
 date: 2017-07-30 14:30:34 -0700
-description: Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary.
+description: Our PTA thrives because LOTS of fabulous individuals give a little (or
+  a lot) of their time and talents, working together to serve the students and staff
+  of Island View Elementary.
 image: "/uploads/Bryan_Klein-4-1.jpg"
 imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 subtitle: Volunteers make so much possible for our students!
 title: Get Involved
 type: get-involved
+
 ---
+
+
 ## We Need You!
 
-Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need – *your new ideas, your energy, your enthusiasm* – to make our PTA all that it can be.  
+Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need – *your new ideas, your energy, your enthusiasm* – to make our PTA all that it can be.
 
 Check out all the different ways you can get involved.  Just click any that interest you and your email will be forwarded to the correct person.
 
@@ -32,7 +37,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Media / Website - Bryan Klein](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Media)**:  Committee that designs and maintains the PTA website as well as the Island View PTA Facebook page.
 
-**[Membership - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Membership)**: The PTA only thrives with lots of committed members.  This committee works to increase the involvement of Island View families in their PTA.
+**[Membership - Shelley Pettersen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Membership)**: The PTA only thrives with lots of committed members.  This committee works to increase the involvement of Island View families in their PTA.
 
 **[Newsletter - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Newsletter)**: Preparation and distribution of regular communications from the PTA to the entire Island View community.
 
@@ -44,9 +49,9 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Teacher Representatives - Emily Mansfield and Pat Tonnemaker](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Teacher%20Representative)**: Represent the teachers at our PTA meetings.
 
-**[Volunteer Coordinator - Tanika Campbell](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Volunteer%20Coordinator)**:  The ever-important task of soliciting and organizing volunteers for our many PTA events.  Handled mainly via SignUpGenius and email. 
+**[Volunteer Coordinator - Tanika Campbell](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Volunteer%20Coordinator)**:  The ever-important task of soliciting and organizing volunteers for our many PTA events.  Handled mainly via SignUpGenius and email.
 
-**[Watch D.O.G.S. - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Watch%20DOGS)**:  **D**ads **O**f **G**reat **S**tudents committee, encourages more men to get involved in the school life of children.
+**[Watch D.O.G.S. - Eric Mithen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Watch%20DOGS)**:  **D**ads **O**f **G**reat **S**tudents committee, encourages more men to get involved in the school life of children.
 
 **[Wednesday Copies - Samantha Rockey](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Wednesday%20Copies)**:  Committee that copies and distributes the weekly take-home paperwork for students.
 
@@ -54,20 +59,29 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Young Authors - Sara Gill](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Young%20Authors)**: Help as aspiring authors hone their writing skills and publish a book of their own!
 
-**[FUNDRAISING](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Fundraising)**  
+**[FUNDRAISING](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Fundraising)**
+
 The PTA raises funds to provide classroom enhancements, help send students to Mountain School, and to pay for all of the things listed above.  Below are some of the ways our PTA raises funds throughout the years, and this year **we need YOU**!
 
-- Auction
-- Book Fair
-- Box Tops
-- Candy Bar Sales
-- Carnival
-- Coin Wars
-- Restaurant Take-Overs
-- Spirit Wear
-- Walk-A-Thon
+* Auction
 
-If you have any questions, please do not hesitate to contact any of the board members: 
+* Book Fair
+
+* Box Tops
+
+* Candy Bar Sales
+
+* Carnival
+
+* Coin Wars
+
+* Restaurant Take-Overs
+
+* Spirit Wear
+
+* Walk-A-Thon
+
+If you have any questions, please do not hesitate to contact any of the board members:
 [President - Christy Fischer](mailto:president@islandviewpta.org), [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org), [Treasurer - Darene Follett](mailto:treasurer@islandviewpta.org), [Secretary - Kristin Rogers](mailto:secretary@islandviewpta.org)
- 
+
 **THANK YOU** for your support of all the students and staff at Island View Elementary!
