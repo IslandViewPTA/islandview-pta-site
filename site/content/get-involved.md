@@ -37,7 +37,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Media / Website - Bryan Klein](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Media)**:  Committee that designs and maintains the PTA website as well as the Island View PTA Facebook page.
 
-**[Membership - Shelley Pettersen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Membership)**: The PTA only thrives with lots of committed members.  This committee works to increase the involvement of Island View families in their PTA.
+**[Membership - Shelly Pettersen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Membership)**: The PTA only thrives with lots of committed members.  This committee works to increase the involvement of Island View families in their PTA.
 
 **[Newsletter - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Newsletter)**: Preparation and distribution of regular communications from the PTA to the entire Island View community.
 
