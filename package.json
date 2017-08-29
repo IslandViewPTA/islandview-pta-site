@@ -36,6 +36,8 @@
     "gulp-postcss": "^7.0.0",
     "gulp-replace": "^0.6.1",
     "gulp-util": "^3.0.8",
+    "gulp-htmltidy": "^0.2.3",
+    "gulp-sync": "^0.1.4",
     "imports-loader": "^0.7.1",
     "postcss-cssnext": "^3.0.2",
     "postcss-import": "^10.0.0",
