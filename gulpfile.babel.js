@@ -25,7 +25,7 @@ gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
 
 gulp.task("build", gulpsync.sync(["css", "js", "hugo", "tidyhtml"]));
-gulp.task("build-preview", gulpsync.sync(["css", "js", "hugo-preview", "tidyhtml"]);
+gulp.task("build-preview", gulpsync.sync(["css", "js", "hugo-preview", "tidyhtml"]));
 
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")
