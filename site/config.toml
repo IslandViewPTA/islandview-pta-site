@@ -17,3 +17,8 @@ metaDataFormat = "yaml"
 [social]
   twitter = "ivepta"
   facebook = ""
+
+[outputFormats.EventsJSON]
+  mediaType = "application/json"
+  baseName = "events"
+  isPlainText = true

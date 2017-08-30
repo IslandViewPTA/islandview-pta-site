@@ -16,12 +16,23 @@
       {{ end }}
   </ul>
 
-  <!--
-  <section class="mw7 flex-auto pt3 ph3 ph0-l center">
-    <h2>Event Calendar</h2>
-    Insert Calendar Here
+  <section class="mw7 flex-auto pv3 ph3 ph0-l center">
+    <div class="monthly" id="iveptacal"></div>
   </section>
-  -->
 </main>
+
+<script type="text/javascript">
+  $(window).load( function() {
+      $('#iveptacal').monthly(
+        {
+          mode: 'event',
+          jsonUrl: '/event/events.json',
+          dataType: 'json',
+          stylePast: true,
+          eventList: true,
+        }
+      );
+  });
+</script>
 
 {{ partial "footer" . }}
