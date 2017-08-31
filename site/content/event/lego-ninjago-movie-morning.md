@@ -7,9 +7,11 @@ location = "415 O Ave, Anacortes, WA 98221"
 title = "Lego Ninjago Movie Morning"
 
 +++
+
+
 There is no school on Friday, September 22nd - but you can still see all your friends!
 
-Join us at Anacortes Cinema on Saturday at 10:00am for a special showing of the Lego Ninjago Movie!
+Join us at Anacortes Cinema on Friday at 10:00am for a special showing of the Lego Ninjago Movie!
 
 For $10, you'll get admission, popcorn and a soda!
 
