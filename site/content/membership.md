@@ -3,7 +3,7 @@ title: Membership Registration
 date: 2017-08-10 16:17:52 -0700
 subtitle: Register Today for the PTA
 description: Fill out the membership form, pay online, and submit to the PTA board.
-image: "/uploads/Bryan_Klein-3.jpg"
+image: "/uploads/seafarers-memorial-anchor.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 type: membership

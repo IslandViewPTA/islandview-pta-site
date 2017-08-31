@@ -3,7 +3,7 @@ title: Donate
 date: 2017-07-30T16:22:45-07:00
 subtitle: Help fund the PTA and give more to the Students.
 description: Add a donation to your shopping cart on the PTA site.
-image: /img/post/post_jumbotron.jpg
+image: /uploads/seafarers-memorial-park.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 type: "donate"

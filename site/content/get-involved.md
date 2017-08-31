@@ -3,7 +3,7 @@ date: 2017-07-30 14:30:34 -0700
 description: Our PTA thrives because LOTS of fabulous individuals give a little (or
   a lot) of their time and talents, working together to serve the students and staff
   of Island View Elementary.
-image: "/uploads/Bryan_Klein-4-1.jpg"
+image: "/uploads/mt-erie.jpg"
 imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 subtitle: Volunteers make so much possible for our students!
