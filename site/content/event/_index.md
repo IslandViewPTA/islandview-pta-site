@@ -6,8 +6,7 @@ description: Event posts on the PTA website.
 image: /uploads/puget-sound.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
-type: "event"
-outputs: ["HTML", "EventsJSON"]
+outputs: ["HTML", "Calendar", "EventsJSON"]
 ---
 ## Monthly Meetings
 

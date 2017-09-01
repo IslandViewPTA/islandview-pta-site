@@ -9,7 +9,7 @@
     {{.Content}}
   </section>
   <ul class="mw7 center flex-ns flex-wrap mhn1-ns pt3 list">
-      {{ range .Data.Pages.ByDate }}
+      {{ range where (.Data.Pages.ByParam "start") "Type" "event" }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>

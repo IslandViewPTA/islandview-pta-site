@@ -30,7 +30,7 @@ UID:{{.Params.start}}@islandviewpta.org
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
-DTSTART:{{dateFormat "20060102T150405" .Date}}
+DTSTART:{{dateFormat "20060102T150405" .Params.start}}
 DTEND:{{dateFormat "20060102T150405" .Params.end}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
 URL:{{.Permalink}}

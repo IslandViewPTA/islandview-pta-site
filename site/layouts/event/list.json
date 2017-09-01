@@ -4,8 +4,9 @@
         "id": {{ $c }},
         "name": "{{.Title}}",
         "description": "{{.Params.description}}",
-        "startdate": "{{ dateFormat "2006-1-2" .Date }}",
-        "starttime": "{{ dateFormat "15:04" .Date }}",{{with .Params.end}}
+        "postdate": "{{ dateFormat "2006-1-2" .Date }}",
+        "startdate": "{{ dateFormat "2006-1-2" .Params.start }}",
+        "starttime": "{{ dateFormat "15:04" .Params.start }}",{{with .Params.end}}
         "enddate": "{{ dateFormat "2006-1-2" . }}",
         "endtime": "{{ dateFormat "15:04" . }}",{{end}}
         "url": "{{ .RelPermalink }}"

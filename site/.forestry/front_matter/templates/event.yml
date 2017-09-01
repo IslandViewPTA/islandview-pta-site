@@ -13,6 +13,11 @@ fields:
   config:
     required: true
 - name: date
+  label: "Today's Date"
+  type: datetime
+  hidden: false
+  default: Invalid date
+- name: start
   label: Start Date and Time
   type: datetime
   hidden: false
