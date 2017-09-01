@@ -49,5 +49,18 @@
 
 <script src="/app.js"></script>
 
+<script src="https://carnivalapp.io/sites/671/init.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+  Carnival.init({
+    enabled: true,
+    article_author: "",
+    article_selector: "#content",
+    block_selector: ":scope > p, :scope > pre",
+    onNewComment: function(comment) { }
+  });
+});
+</script>
+
 </body>
 </html>
