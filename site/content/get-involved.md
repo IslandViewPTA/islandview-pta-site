@@ -25,7 +25,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Family Fun - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun)**: Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
 
-**[Garden Club - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Garden%20Club)**: Works with teachers to fully utilize the new Island View School Garden.
+**[Garden Club - Christina Hansen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Garden%20Club)**: Works with teachers to fully utilize the new Island View School Garden.
 
 **[Gratitude Group - Meg Mourning](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Gratitude%20Group)**: Fosters the Attitude of Gratitude amongst Island View students, staff, and families through creative expression throughout the year, including the Gratitude Graffiti bulletin boards before Thanksgiving.
 
@@ -39,11 +39,11 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Membership - Shelly Pettersen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Membership)**: The PTA only thrives with lots of committed members.  This committee works to increase the involvement of Island View families in their PTA.
 
-**[Newsletter - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Newsletter)**: Preparation and distribution of regular communications from the PTA to the entire Island View community.
+**[Newsletter - Kristin Rogers](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Newsletter)**: Preparation and distribution of regular communications from the PTA to the entire Island View community.
 
 **[Popcorn - Samantha Rockey](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Popcorn)**: Once a month, every Island View student gets free popcorn.
 
-**[RIF (Reading is Fundamental) - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20RIF)**: Twice a year, every K-3 grader gets to pick out their very own book to keep, thanks to the generous donors to Fidalgo Island Reading Is Fundamental.
+**[RIF (Reading is Fundamental) - Shelly Pettersen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20RIF)**: Twice a year, every K-3 grader gets to pick out their very own book to keep, thanks to the generous donors to Fidalgo Island Reading Is Fundamental.
 
 **[Safe Routes - Chris Zimmerman](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Safe%20Routes)**: Committee promotes and runs the monthly Walk and Wheel Wednesday events.
 

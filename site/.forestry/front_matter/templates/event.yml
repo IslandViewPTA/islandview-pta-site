@@ -1,8 +1,8 @@
 ---
 pages:
+- event/kindergarten-coffee.md
 - event/lego-ninjago-movie-morning.md
 - event/pta-meeting-september-13-2017.md
-- event/kindergarten-coffee.md
 hide_body: false
 fields:
 - name: title
@@ -13,7 +13,7 @@ fields:
   config:
     required: true
 - name: date
-  label: "Today's Date"
+  label: Today's Date
   type: datetime
   hidden: false
   default: Invalid date
