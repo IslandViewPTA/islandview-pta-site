@@ -16,23 +16,31 @@ fields:
   label: Today's Date
   type: datetime
   hidden: false
-  default: Invalid date
+  default: ''
+  config:
+    required: true
 - name: start
   label: Start Date and Time
   type: datetime
   hidden: false
-  default: Invalid date
+  default: ''
+  config:
+    required: true
 - name: end
   label: End Date and Time
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: location
   label: Location
   type: text
   hidden: false
   default: ''
   description: Enter the street address for the event.
+  config:
+    required: true
 - name: description
   label: Event Summary
   type: textarea
