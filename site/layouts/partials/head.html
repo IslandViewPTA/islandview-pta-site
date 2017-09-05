@@ -5,6 +5,7 @@
     <meta name="pinterest" content="nopin">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <title>{{ .Title }} | {{ .Site.Params.sitetitle }}</title>
+    {{with .Description }}<meta name="description" content="{{ . }}">{{ end }}
     
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 		<link rel="stylesheet" href="/css/tachyons.css"/>
