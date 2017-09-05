@@ -1,5 +1,6 @@
 {
-    "name": "",
+    "name": "Island View Elementary PTA Website",
+    "short_name":"IVE PTA Site",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -12,6 +13,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff"
+    "theme_color": "#000c4e",
+    "background_color": "#fffdfc",
+    "display": "standalone",
+    "start_url": "/?utm_source=homescreen"
 }
