@@ -21,11 +21,11 @@ const defaultArgs = ["-d", "../dist", "-s", "site"];
 
 var gulpsync = require('gulp-sync')(gulp);
 
-gulp.task("hugo", ["tidyhtml"], (cb) => buildSite(cb));
+gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
 
-gulp.task("build", gulpsync.sync(["css", "js", "hugo", "tidyhtml"]));
-gulp.task("build-preview", gulpsync.sync(["css", "js", "hugo-preview", "tidyhtml"]));
+gulp.task("build", gulpsync.sync(["js", "hugo", "tidyhtml"]));
+gulp.task("build-preview", gulpsync.sync(["js", "hugo-preview", "tidyhtml", "css", "purify-css"]));
 
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")
@@ -38,6 +38,17 @@ gulp.task("css", () => (
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
+
+var purify = require('gulp-purifycss');
+
+gulp.task('purify-css', function() {
+  return gulp.src('./dist/css/tachyons.css')
+    .pipe(purify(['./dist/**/*.html']))
+    .pipe(postcss([
+      cssnano()
+    ]))
+    .pipe(gulp.dest('./dist/css/'));
+});
 
 gulp.task("js", (cb) => {
   const myConfig = Object.assign({}, webpackConfig);
@@ -77,7 +88,7 @@ gulp.task('tidyhtml', function() {
         .pipe(gulp.dest('./dist/'));;
 });
 
-gulp.task("server", gulpsync.sync(["hugo", "css", "js", "svg", "tidyhtml"]), () => {
+gulp.task("server", gulpsync.sync(["hugo", "js", "svg", "tidyhtml", "css", "purify-css"]), () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
