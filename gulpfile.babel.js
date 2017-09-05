@@ -24,7 +24,7 @@ var gulpsync = require('gulp-sync')(gulp);
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
 
-gulp.task("build", gulpsync.sync(["js", "hugo", "tidyhtml"]));
+gulp.task("build", gulpsync.sync(["js", "hugo", "tidyhtml", "css", "purify-css"]));
 gulp.task("build-preview", gulpsync.sync(["js", "hugo-preview", "tidyhtml", "css", "purify-css"]));
 
 gulp.task("css", () => (
