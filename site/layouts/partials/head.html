@@ -7,7 +7,6 @@
     <title>{{ .Title }} | {{ .Site.Params.sitetitle }}</title>
     {{with .Description }}<meta name="description" content="{{ . }}">{{ end }}
     
-    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 		<link rel="stylesheet" href="/css/tachyons.css"/>
 
     <!-- Favicons -->
@@ -17,9 +16,6 @@
     <link rel="manifest" href="/manifest.json">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
     <meta name="theme-color" content="#ffffff">
-        
-    <!-- Icons -->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <!-- SEO -->
     {{ partial "seo/opengraph" .}}

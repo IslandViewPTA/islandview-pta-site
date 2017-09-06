@@ -49,17 +49,18 @@
 
 <script src="/app.js"></script>
 
-<script>
-  if ('serviceWorker' in navigator) {
-    console.log("Will the service worker register?");
-    navigator.serviceWorker.register('/service-worker.js')
-      .then(function(reg){
-        console.log("Yes, it did.");
-      }).catch(function(err) {
-        console.log("No it didn't. This happened: ", err)
-      });
-  }
-</script>
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Nunito+Sans:400,700', 'Material+Icons'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
 
 </body>
 </html>
