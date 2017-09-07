@@ -7,9 +7,7 @@
     <title>{{ .Title }} | {{ .Site.Params.sitetitle }}</title>
     {{with .Description }}<meta name="description" content="{{ . }}">{{ end }}
     
-    <!--[if IE]>
     <link rel="stylesheet" href="/css/tachyons.css"/>
-    <![endif]-->
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -50,7 +48,3 @@
 	</head>
 
 	<body class="flex flex-column min-vh-100">
-    <div></div>
-    <!--[if !IE]> -->
-    <link rel="stylesheet" href="/css/tachyons.css" lazyload="1"/>
-    <!-- <![endif]-->
