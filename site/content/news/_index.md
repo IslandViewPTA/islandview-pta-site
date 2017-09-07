@@ -6,4 +6,5 @@ description: Listing of recent news from the PTA.
 image: /uploads/deception-pass-bridge.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
+callToAction: true
 ---

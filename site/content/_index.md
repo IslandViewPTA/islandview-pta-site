@@ -6,6 +6,7 @@ description: Homepage for the Island View Elementary PTA website.
 image: /img/home/home_jumbotron.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
+callToAction: true
 ---
 ## Welcome to Island View PTA!
 

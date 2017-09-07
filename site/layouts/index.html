@@ -2,7 +2,7 @@
 
 {{ partial "nav" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle "imageLink" .Params.imageLink "imageCredit" .Params.imageCredit "callToAction" true) }}
+{{ partial "jumbotron" . }}
 
 <main class="w-100 flex-auto center ph3 ph0-l pt3">
   {{ partial "content-block" . }}

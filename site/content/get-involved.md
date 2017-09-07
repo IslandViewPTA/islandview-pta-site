@@ -8,6 +8,7 @@ imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 subtitle: Volunteers make so much possible for our students!
 title: Get Involved
+callToAction: true
 type: get-involved
 
 ---
