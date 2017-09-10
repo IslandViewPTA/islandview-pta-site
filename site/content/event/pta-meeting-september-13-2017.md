@@ -1,10 +1,10 @@
 +++
-date = "2017-09-13T18:00:42-07:00"
+date = "2017-09-10T12:50:00-07:00"
 description = "First PTA Meeting of the year!"
 end = "2017-09-13T19:00:00-07:00"
 image = "/uploads/21433151_10154925485961616_3628743830034399670_n.jpg"
 location = "2501 J Ave, Anacortes, WA 98221"
-start = ""
+start = "2017-09-13T18:00:00-07:00"
 title = "PTA Meeting  9/13/17"
 
 +++
