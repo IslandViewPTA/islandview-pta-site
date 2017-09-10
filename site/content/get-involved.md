@@ -26,7 +26,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 **[Family Fun - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun)**: Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
 
-**[Garden Club - Christina Hansen](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Garden%20Club)**: Works with teachers to fully utilize the new Island View School Garden.
+**[Garden Club - Interested?](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Garden%20Club)**: Works with teachers to fully utilize the new Island View School Garden.
 
 **[Gratitude Group - Meg Mourning](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Gratitude%20Group)**: Fosters the Attitude of Gratitude amongst Island View students, staff, and families through creative expression throughout the year, including the Gratitude Graffiti bulletin boards before Thanksgiving.
 
