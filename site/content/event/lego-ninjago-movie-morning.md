@@ -1,5 +1,5 @@
 +++
-date = "2017-09-22T10:00:35-07:00"
+date = "2017-09-10T10:00:35-07:00"
 description = "School's out - movie's on!"
 end = "2017-09-22T12:00:00-07:00"
 image = "/uploads/Ninjago-01.jpg"
