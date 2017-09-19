@@ -1,7 +1,7 @@
 ---
 date: 2017-09-18T19:08:50-07:00
-publishdate: 2017-09-14
-expirydate: 2017-10-12
+publishdate: 2017-09-14T00:00:00-07:00
+expirydate: 2017-10-12T00:00:00-07:00
 start: 2017-10-11T18:00:00-07:00
 end: 2017-10-11T19:00:00-07:00
 description: "Second PTA Meeting of the year!"
