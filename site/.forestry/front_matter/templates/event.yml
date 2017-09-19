@@ -1,4 +1,7 @@
 ---
+pages:
+- event/kindergarten-coffee.md
+- event/lego-ninjago-movie-morning.md
 hide_body: false
 fields:
 - name: date
@@ -51,17 +54,17 @@ fields:
   description: Enter the street address for the event.
   config:
     required: true
+- name: image
+  label: Featured Image
+  type: file
+  hidden: false
+  default: ''
 - name: description
   label: Event Summary
   type: textarea
   hidden: false
   default: ''
   description: Short description of the event.
-- name: image
-  label: Featured Image
-  type: file
-  hidden: false
-  default: ''
 - name: type
   label: Type
   type: text
