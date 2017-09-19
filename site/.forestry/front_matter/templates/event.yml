@@ -1,19 +1,22 @@
 ---
-pages:
-- event/pta-meeting-september-13-2017.md
-- event/kindergarten-coffee.md
-- event/lego-ninjago-movie-morning.md
 hide_body: false
 fields:
-- name: title
-  label: Event name
-  type: text
+- name: date
+  label: Today's Date
+  type: datetime
   hidden: false
   default: ''
   config:
     required: true
-- name: date
-  label: Today's Date
+- name: publishdate
+  label: Post Publish Date
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: expirydate
+  label: Post Expiration Date
   type: datetime
   hidden: false
   default: ''
@@ -29,6 +32,13 @@ fields:
 - name: end
   label: End Date and Time
   type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: title
+  label: Event name
+  type: text
   hidden: false
   default: ''
   config:

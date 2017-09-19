@@ -1,14 +1,14 @@
-+++
-date = "2017-09-10T10:00:35-07:00"
-description = "School's out - movie's on!"
-end = "2017-09-22T12:00:00-07:00"
-image = "/uploads/Ninjago-01.jpg"
-location = "415 O Ave, Anacortes, WA 98221"
-start = "2017-09-22T10:00:00-07:00"
-title = "Lego Ninjago Movie Morning"
-
-+++
-
+---
+date: 2017-09-10T10:00:35-07:00
+publishdate: 2017-09-10
+expirydate: 2017-10-23
+start: 2017-09-22T10:00:00-07:00
+end: 2017-09-22T12:00:00-07:00
+title: "Lego Ninjago Movie Morning"
+description: "School's out - movie's on!"
+image: "/uploads/Ninjago-01.jpg"
+location: "415 O Ave, Anacortes, WA 98221"
+---
 
 There is no school on Friday, September 22nd - but you can still see all your friends!
 
@@ -18,4 +18,4 @@ For $10, you'll get admission, popcorn and a soda!
 
 This movie event is open to **EVERYONE**, so bring your friends!
 
-<span style="font-size: 1rem;">And thank you for supporting the Island View PTA!</span>
+And thank you for supporting the Island View PTA!
