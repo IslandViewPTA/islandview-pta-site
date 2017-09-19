@@ -18,34 +18,39 @@ fields:
   default: ''
   config:
     required: true
+  description: The date that you want the post to show up after.
 - name: expirydate
   label: Post Expiration Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
   config:
     required: true
+  description: The date that the post should stop showing up on the site.
 - name: start
-  label: Start Date and Time
+  label: Event Start Date/Time
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
   config:
     required: true
+  description: What date and time does the event start?
 - name: end
   label: End Date and Time
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
   config:
     required: true
+  description: What date/time does the event end?
 - name: title
-  label: Event name
+  label: Event Title
   type: text
   hidden: false
   default: ''
   config:
     required: true
+  description: What is the title of this event?
 - name: location
   label: Location
   type: text
