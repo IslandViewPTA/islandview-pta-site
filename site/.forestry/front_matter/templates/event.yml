@@ -8,9 +8,10 @@ fields:
   label: Today's Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
   config:
     required: true
+  description: Enter today's date, this is for when the event was created in the system.
 - name: publishdate
   label: Post Publish Date
   type: datetime
