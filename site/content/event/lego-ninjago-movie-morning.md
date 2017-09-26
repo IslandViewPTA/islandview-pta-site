@@ -1,7 +1,7 @@
 ---
 date: 2017-09-10T10:00:35-07:00
 publishdate: 2017-09-10T00:00:00-07:00
-expirydate: 2017-10-23T00:00:00-07:00
+expirydate: 2017-09-23T00:00:00-07:00
 start: 2017-09-22T10:00:00-07:00
 end: 2017-09-22T12:00:00-07:00
 title: "Lego Ninjago Movie Morning"
