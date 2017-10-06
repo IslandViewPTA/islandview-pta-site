@@ -22,7 +22,7 @@ const defaultArgs = ["-d", "../dist", "-s", "site"];
 var gulpsync = require('gulp-sync')(gulp);
 
 gulp.task("hugo", (cb) => buildSite(cb));
-gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
+gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture", "--templateMetrics"]));
 
 gulp.task("build", gulpsync.sync(["hugo", "tidyhtml", "css", "purify-css"]));
 gulp.task("build-preview", gulpsync.sync(["hugo-preview", "tidyhtml", "css", "purify-css"]));
