@@ -16,6 +16,5 @@ description: |-
 publishdate: 2017-10-11 07:23:21 -0700
 location: 2501 J Ave, Anacortes, WA 98221
 image: "/uploads/WatchDOGS_CLR.jpg"
-draft: true
 
 ---
