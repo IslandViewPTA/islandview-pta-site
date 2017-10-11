@@ -12,14 +12,8 @@ title: Pizza With Dad!
 ---
 
 
-Island View Watch DOGS invites you to
+Island View Watch DOGS invites you to <span style="font-size: 1rem;">Pizza With Dad!</span>
 
-<span style="font-size: 1rem;">Pizza With Dad!</span>
+We need Dads, Uncles, Grandfathers, Role Models, or Moms on “double <span style="font-size: 1rem;">duty” for our Watch DOGS staff.</span>
 
-We need Dads, Uncles, Grandfathers, Role Models, or Moms on “double
-
-duty” for our Watch DOGS staff.
-
-Join us in the Island View Gym this Tuesday, Oct. 17 at 5:30
-
-to learn more while enjoying free pizza. Students welcome.
+Join us in the Island View Gym this Tuesday, Oct. 17 at 5:30 <span style="font-size: 1rem;">to learn more while enjoying free pizza. &nbsp;Students welcome.</span>
