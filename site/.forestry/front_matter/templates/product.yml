@@ -1,0 +1,85 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Product Name
+  type: text
+  hidden: false
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: false
+  default: ''
+- name: price
+  label: Price
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: Invalid date
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: weight
+  label: Sort Weight
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+  description: Must be a unique product ID number.
+- name: itemWeight
+  label: Item Weight
+  type: text
+  hidden: false
+  default: ''
+  description: Enter the weight in grams.
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: product
+- name: url
+  label: Url
+  type: text
+  hidden: false
+  default: "/shop/"
+- name: custom
+  label: Custom
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: options
+    label: Options
+    type: field_group_list
+    fields:
+    - name: option
+      label: Option
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: value
+    label: Value
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- type: text
