@@ -2,7 +2,7 @@
 
   <h2>Latest news</h2>
   <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-    {{ range where .Data.Pages.ByDate "Type" "news" }}
+    {{ range where .Data.Pages.ByDate.Reverse "Type" "news" }}
       <div class="ph1-ns w-50-ns flex">
         {{ .Render "news-li" }}
       </div>
