@@ -3,7 +3,6 @@ title: November PTA Meeting - Nov 15th not 8th
 date: 2017-10-15 10:32:55 +0000
 description: PTA meeting moved back
 image: "/uploads/Screen Shot 2017-10-15 at 10.35.59 AM.png"
-draft: true
 
 ---
 
