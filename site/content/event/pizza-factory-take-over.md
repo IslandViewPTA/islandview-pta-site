@@ -8,7 +8,6 @@ publishdate: 2017-10-01 10:00:00 -0700
 location: 3219 Commercial Ave Anacortes, WA 98221
 image: "/uploads/ls.jpg.png"
 description: Island View Restaurant Take-Over at the Pizza Factory!
-draft: true
 
 ---
 
