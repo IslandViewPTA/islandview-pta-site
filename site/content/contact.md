@@ -7,7 +7,10 @@ image: "/uploads/IMG_6733_resized.JPG"
 imageLink: mailto:webadmin@islandviewpta.org
 imageCredit: Photo by David Mourning
 callToAction: true
+type: page
+
 ---
+
 
 ## PTA Board
 
@@ -16,22 +19,30 @@ Island View PTA is an amazing group of dedicated families and community members.
 Meet the 2017-2018 Board:
 
 **President**:
-Christy Fischer  
+Christy Fischer
+
 [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
 **Vice President**:
-Meg Mourning  
+Meg Mourning
+
 [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 **Treasurer**:
-Darene Follett  
+Darene Follett
+
 [treasurer@islandviewpta.org](mailto:treasurer@islandviewpta.org)
 
 **Secretary**:
-Kristin Rogers  
+Kristin Rogers
+
 [secretary@islandviewpta.org](mailto:secretary@islandviewpta.org)
 
 ## PTA Office Information
+
+Island View Elementary School
+
+<span style="font-size: 1rem;">2501 J Ave, Anacortes, WA 98221</span>
 
 Office Phone: (360) 503-1507
 
