@@ -12,4 +12,4 @@ title: Pumpkin Carving
 ---
 
 
-Come to school on Thursday, October 26th from 5pm to 7pm, or until the pumpkins run out!  First come first served to the pumpkins donated by Schuh Farms.  Please bring your own carving tools and join in on the fun.  This is NOT a drop off event - families stay with and help their children.  Happy Halloween!
+Come to school on Thursday, October 26th from 5pm to 7pm, or until the pumpkins run out!  First come first served to the 100 pumpkins donated by Schuh Farms.  Please bring your own carving tools and join in on the fun.  This is NOT a drop off event - families stay with and help their children.  Happy Halloween!
