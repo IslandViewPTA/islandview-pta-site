@@ -8,7 +8,6 @@ location: 3219 Commercial Ave Anacortes, WA 98221
 publishdate: 2017-10-01 10:00:00 -0700
 start: 2017-11-09 17:00:00 -0800
 title: Pizza Factory Take-Over
-draft: true
 
 ---
 
