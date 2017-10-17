@@ -8,7 +8,6 @@ location: 2501 J Ave, Anacortes, WA 98221
 publishdate: 2017-10-15 10:00:00 -0700
 start: 2017-10-26 17:00:00 -0700
 title: Pumpkin Carving
-draft: true
 
 ---
 
