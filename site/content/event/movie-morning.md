@@ -8,7 +8,6 @@ publishdate: 2017-10-22 21:16:00 -0700
 location: 415 O Ave, Anacortes, WA 98221
 description: 'Family Fun Movie Morning:  My Little Pony Movie'
 image: "/uploads/22554961_10155031407346616_7882615241927245066_n.jpg"
-draft: true
 
 ---
 **School's out... movie's on!** 
