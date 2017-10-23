@@ -10,18 +10,18 @@ start: 2017-10-27 10:00:00 -0700
 title: Movie Morning
 
 ---
-**School's out... movie's on!** 
+**School's out... movie's on!**
 
 \
-There's no school on Friday, October 27, so join us for a movie morning! This event is for EVERYONE, so bring your friends!\
-\
+There's no school on Friday, October 27, so join us for a movie morning! This event is for EVERYONE, so bring your friends!
+
 My Little Pony: The Movie\
 Friday, September 22 at 10:00 am\
 Anacortes Cinemas\
-\(Ticket sales start at 9:30 am.)\
-\
-\$10 for admission, small popcorn and small drink\
-\
-"After a dark force conquers Canterlot, the Mane 6 embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship to save their homeland."\
-\
+\(Ticket sales start at 9:30 am.)
+
+\$10 for admission, small popcorn and small drink
+
+"After a dark force conquers Canterlot, the Mane 6 embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship to save their homeland."
+
 We hope to see you there!!
