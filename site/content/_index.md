@@ -3,7 +3,7 @@ title: Island View PTA
 date: 2017-06-28T19:23:42.379Z
 subtitle: Supporting the students, staff, and community at Island View Elementary.
 description: Homepage for the Island View Elementary PTA website.
-image: /img/home/home_jumbotron.jpg
+image: /uploads/mt-erie.jpg
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
