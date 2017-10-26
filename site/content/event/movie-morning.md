@@ -19,7 +19,7 @@ My Little Pony: The Movie\
 Anacortes Cinemas\
 \(Ticket sales start at 9:30 am.)
 
-\$10 for admission, small popcorn and small drink
+$10 for admission, small popcorn and small drink
 
 "After a dark force conquers Canterlot, the Mane 6 embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship to save their homeland."
 
