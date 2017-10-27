@@ -17,7 +17,7 @@ There's no school on Friday, October 27, so join us for a movie morning! This ev
 My Little Pony: The Movie\
 **Friday, September 27 at 10:00 am**\
 Anacortes Cinemas\
-\(Ticket sales start at 9:30 am.)
+(Ticket sales start at 9:30 am.)
 
 $10 for admission, small popcorn and small drink
 
