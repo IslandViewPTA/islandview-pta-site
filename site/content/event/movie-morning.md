@@ -2,7 +2,7 @@
 date: 2017-10-22 14:14:14 -0700
 description: 'Family Fun Movie Morning:  My Little Pony Movie'
 end: 2017-10-27 12:00:00 -0700
-expirydate: 2017-10-27 18:00:00 +0000
+expirydate: 2017-10-28 11:00:00 -0700
 image: "/uploads/22554961_10155031407346616_7882615241927245066_n.jpg"
 location: 415 O Ave, Anacortes, WA 98221
 publishdate: 2017-10-22 21:16:00 -0700
