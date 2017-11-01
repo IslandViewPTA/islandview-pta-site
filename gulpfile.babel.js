@@ -24,8 +24,8 @@ var gulpsync = require('gulp-sync')(gulp);
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture", "--templateMetrics"]));
 
-gulp.task("build", gulpsync.sync(["hugo", "tidyhtml", "css", "purify-css"]));
-gulp.task("build-preview", gulpsync.sync(["hugo-preview", "tidyhtml", "css", "purify-css"]));
+gulp.task("build", gulpsync.sync(["set-prod-node-env", "hugo", "tidyhtml", "css", "purify-css"]));
+gulp.task("build-preview", gulpsync.sync(["set-dev-node-env", "hugo-preview", "tidyhtml", "css", "purify-css"]));
 
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")
@@ -74,7 +74,7 @@ gulp.task('tidyhtml', function() {
         .pipe(gulp.dest('./dist/'));;
 });
 
-gulp.task("server", gulpsync.sync(["hugo", "svg", "tidyhtml", "css", "purify-css"]), () => {
+gulp.task("server", gulpsync.sync(["set-prod-node-env", "hugo", "svg", "tidyhtml", "css", "purify-css"]), () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
@@ -83,6 +83,14 @@ gulp.task("server", gulpsync.sync(["hugo", "svg", "tidyhtml", "css", "purify-css
   gulp.watch("./src/css/**/*.css", ["css"]);
   gulp.watch("./site/static/img/icons/*.svg", ["svg"]);
   gulp.watch("./site/**/*", ["hugo"]);
+});
+
+gulp.task('set-dev-node-env', function() {
+  return process.env.HUGO_ENV = 'development';
+});
+
+gulp.task('set-prod-node-env', function() {
+  return process.env.HUGO_ENV = 'production';
 });
 
 function buildSite(cb, options) {

@@ -1,0 +1,16 @@
+{{- if eq (getenv "HUGO_ENV") "production" }}
+  {{- $.Scratch.Set "content" .Content -}}
+  {{- $find_regex := "(?:src=\")(.*?)(?:.\")" -}}
+  {{- $originals := findRE $find_regex .Content -}}
+  {{- $body_params := .Site.Params.cloudinary.body_params -}}
+  {{- range $key, $value := $originals }}
+    {{- $content := $.Scratch.Get "content" -}}
+    {{- $image := replace (replace $value "\"" "") "src=" "" -}}
+    {{- $cloudinary_image := replaceRE "\n(.*) " "" (partial "cloudinary/url.html" (dict "context" $ "image" $image "width" ($body_params.width) "height" ($body_params.height)  "aspect_ratio" ($body_params.aspect_ratio) "gravity" ($body_params.gravity) "zoom" ($body_params.zoom) "x" ($body_params.x) "y" ($body_params.y) "fetch_format" ($body_params.fetch_format) "quality" ($body_params.quality) "radius" ($body_params.radius) "angle" ($body_params.angle) "effect" ($body_params.effect) "opacity" ($body_params.opacity) "border" ($body_params.border) "background" ($body_params.background) "overlay" ($body_params.overlay) "underlay" ($body_params.underlay) "default_image" ($body_params.default_image) "delay" ($body_params.delay) "color" ($body_params.color) "color_space" ($body_params.color_space) "dpr" ($body_params.dpr)) "page" ($body_params.page) "density" ($body_params.density) "flags" ($body_params.flags) "transformation" ($body_params.transformation)) -}}
+    {{- $replacement := printf "%s%s%s" "src=\"" $cloudinary_image "\"" -}}
+    {{- $.Scratch.Set "content" (replace $content $value $replacement) -}}
+  {{ end -}}
+  {{ $.Scratch.Get "content" | markdownify }}
+{{ else }}
+  {{ .Content }}
+{{ end -}}

@@ -1,0 +1,34 @@
+{{- if and (isset . "image") (isset . "context") }}
+  {{- $context := .context -}}
+  {{- $preset := (index $context.Site.Params.cloudinary.presets .preset) -}}
+  {{- $preset := cond (isset $ "preset") $preset $context.Site.Params.cloudinary.presets.default -}}
+  {{- $context.Scratch.Set "image" .image -}}
+  {{- $context.Scratch.Set "width" ($preset.width | default "800") -}}
+  {{- $context.Scratch.Set "breakpoints" (slice "") -}}
+  {{- $context.Scratch.Set "sizes" ($preset.sizes | default "100vw") -}}
+  {{- $context.Scratch.Set "quality" ($preset.quality | default "auto") -}}
+  {{- $context.Scratch.Set "min_width" ($preset.min_width | default 320) -}}
+  {{- $context.Scratch.Set "max_width" ($preset.max_width | default 1024) -}}
+  {{- $context.Scratch.Set "steps" ($preset.steps | default 10) -}}
+  {{- $context.Scratch.Set "step_bytes" ($preset.step_bytes | default 20) -}}
+  {{- if eq (getenv "HUGO_ENV") "production" }}
+    {{- $width_query := delimit (slice "auto:breakpoints_" ($context.Scratch.Get "min_width") "_" ($context.Scratch.Get "max_width") "_" ($context.Scratch.Get "step_bytes") "_" ($context.Scratch.Get "steps") ":json") "" -}}
+    {{- $endpoint := (partial "cloudinary/url.html" (dict "context" $context "image" ($context.Scratch.Get "image") "width" $width_query)) -}}
+    {{- $response := getJSON (printf "%s" $endpoint) -}}
+    {{- $context.Scratch.Set "breakpoints" $response.breakpoints -}}
+  {{ end -}}
+  {{- template "srcset" (dict "context" $context "image" ($context.Scratch.Get "image") "alt" .alt "width" ($context.Scratch.Get "width") "breakpoints" ($context.Scratch.Get "breakpoints") "sizes" ($context.Scratch.Get "sizes") "quality" ($context.Scratch.Get "quality") "min_width" ($context.Scratch.Get "min_width") "max_width" ($context.Scratch.Get "max_width") "fallback_width" ($context.Scratch.Get "fallback_width")) -}}
+{{ end -}}
+{{- define "srcset" }}
+{{- $width := .width | default "800" -}}
+{{- $src := replaceRE "\n(.*) " "" (partial "cloudinary/url.html" (dict "context" .context "image" .image "width" $width "quality" .quality)) -}}
+<p>
+  <img src="{{ $src }}" alt="{{ with .alt }}{{ . }}{{ else }}{{ $src }}{{ end }}" 
+  {{- if isset . "breakpoints" }}
+    srcset="{{- range .breakpoints }}
+      {{ replaceRE "\n(.*) " "" (partial "cloudinary/url.html" (dict "context" $.context "image" $.image "width" . "quality" $.quality)) }} {{ . }}w,
+    {{ end -}}"
+    sizes="{{ .sizes | default "100vw" }}"
+  {{ end -}}/>
+</p>
+{{ end -}}

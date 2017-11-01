@@ -7,6 +7,15 @@ metaDataFormat = "yaml"
 [blackfriday]
   hrefTargetBlank = true
 
+[params.cloudinary]
+  cloud_name = "ivepta"
+  use_upload = false
+
+[params.cloudinary.body_params]
+  width = "450"
+  quality = "auto"
+  dpr = "auto"
+
 [params]
   contact = "webadmin@islandviewpta.org" # Optional
   sitetitle = "Island View Elementary PTA"
