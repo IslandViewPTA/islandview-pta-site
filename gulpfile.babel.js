@@ -74,7 +74,7 @@ gulp.task('tidyhtml', function() {
         .pipe(gulp.dest('./dist/'));;
 });
 
-gulp.task("server", gulpsync.sync(["set-prod-node-env", "hugo", "svg", "tidyhtml", "css", "purify-css"]), () => {
+gulp.task("server", gulpsync.sync(["set-dev-node-env", "hugo", "svg", "tidyhtml", "css", "purify-css"]), () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
