@@ -34,7 +34,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**Lego Club - Amy Hong**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees the bi-monthly Lego Club on late-start Wednesdays.
 
-[**Lego Robotics - Bryan Klein**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Media):  Committee that leads the First Lego League teams at Island View.
+[**Lego Robotics - Bryan Klein**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Robotics):  Committee that leads the First Lego League teams at Island View.
 
 [**Media / Website - Bryan Klein**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Media):  Committee that designs and maintains the PTA website as well as the Island View PTA Facebook page.
 
