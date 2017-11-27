@@ -8,7 +8,6 @@ location: " 100 Commercial Ave, Anacortes, WA 98221"
 description: Come cheer on the Dream Team!
 publishdate: 2017-11-27 12:00:00 -0800
 image: "/uploads/Screen Shot 2017-11-27 at 12.34.46 PM.png"
-draft: true
 
 ---
 Help us cheer on the Island View "**Dream Team**" teachers at the annual Anacortes Schools Foundation "Celebrate the Season" fundraiser. 
