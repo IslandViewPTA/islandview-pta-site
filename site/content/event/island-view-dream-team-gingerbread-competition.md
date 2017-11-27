@@ -10,7 +10,7 @@ publishdate: 2017-11-27 12:00:00 -0800
 image: "/uploads/Screen Shot 2017-11-27 at 12.34.46 PM.png"
 
 ---
-Help us cheer on the Island View "**Dream Team**" teachers at the annual Anacortes Schools Foundation "Celebrate the Season" fundraiser. 
+Help us cheer on the Island View "**Dream Team**" teachers at the annual Anacortes Schools Foundation "**Celebrate the Season**" fundraiser. 
 
 Island View teachers Chad Sage, Emily Mansfield, Monica Frost, Sarah Slagle, Pat Tonnemaker, and Angie Hawkins will compete against other teams to create the best gingerbread house. 
 
