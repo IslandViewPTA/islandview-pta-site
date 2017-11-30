@@ -30,15 +30,15 @@ The Island View PTA will hold their monthly meetings on the **Second Wednesday**
 
 Please click the buttons below to read our newsletters.
 
-{{< nl-btn month="Sep" link="https://drive.google.com/file/d/11XWhLn7ltN-E4-mYoxY_69aGAS2_xs7-/view?usp=sharing" >}}
-{{< nl-btn month="Oct" link="https://drive.google.com/file/d/1Y1irX3s0RHOV3tl1UbfpC4hzAOJCvX9P/view?usp=sharing" >}}
-{{< nl-btn month="Nov" link="https://drive.google.com/file/d/1nrt37WudTaJ7KsLYmPlEw-7z3aVDXCL9/view?usp=sharing" >}}
-{{< nl-btn month="Dec" link="#" >}}
-{{< nl-btn month="Jan" link="#" >}}
-{{< nl-btn month="Feb" link="#" >}}
-{{< nl-btn month="Mar" link="#" >}}
-{{< nl-btn month="Apr" link="#" >}}
-{{< nl-btn month="May" link="#" >}}
-{{< nl-btn month="Jun" link="#" >}}
+{{< nl-btn month="SEP" link="https://drive.google.com/file/d/11XWhLn7ltN-E4-mYoxY_69aGAS2_xs7-/view?usp=sharing" >}}
+{{< nl-btn month="OCT" link="https://drive.google.com/file/d/1Y1irX3s0RHOV3tl1UbfpC4hzAOJCvX9P/view?usp=sharing" >}}
+{{< nl-btn month="NOV" link="https://drive.google.com/file/d/1nrt37WudTaJ7KsLYmPlEw-7z3aVDXCL9/view?usp=sharing" >}}
+{{< nl-btn month="DEC" link="#" >}}
+{{< nl-btn month="JAN" link="#" >}}
+{{< nl-btn month="FEB" link="#" >}}
+{{< nl-btn month="MAR" link="#" >}}
+{{< nl-btn month="APR" link="#" >}}
+{{< nl-btn month="MAY" link="#" >}}
+{{< nl-btn month="JUN" link="#" >}}
 
 For past issues, please see the [Google Drive Archive](https://drive.google.com/drive/folders/1NjUF3zXFrqc2J464wPtga85BsbY-nU2e?usp=sharing).
