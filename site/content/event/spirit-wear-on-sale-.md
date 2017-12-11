@@ -13,3 +13,5 @@ description: Orders due December 18th
 The Island View PTA Shop is open for business! 
 
 Now through Monday, December 18, you can order spiritwear online at [www.islandviewpta.org/shop](http://www.islandviewpta.org/shop). 
+
+Orders will be sent home with students in January 2018.
