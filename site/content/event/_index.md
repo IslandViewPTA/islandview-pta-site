@@ -12,3 +12,7 @@ outputs: ["HTML", "Calendar", "EventsJSON"]
 ## Monthly Meetings
 
 The Island View PTA will hold their monthly meetings on the **Second Wednesday** of each month.  Please join us at **6pm** in the **Island View Library** and have your voice heard! We’d love for you to [become a member of the PTA](/membership/). 
+
+## Movie Mornings
+
+Please see the [Movie Mornings](/movie/) page to buy your tickets for the next showtime.
