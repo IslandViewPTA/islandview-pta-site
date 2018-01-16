@@ -14,5 +14,5 @@ Movie Mornings is a great way for the community to enjoy a family friendly movie
 ## Next Showing - A Wrinkle In Time
 March 10, 2018 at 10:00 AM
 
-![A Wrinkle In Time](/images/a-wrinkle-in-time-poster-slice-600x200.jpg)
+![A Wrinkle In Time](/images/a-wrinkle-in-time-poster-slice-600x200.jpg)  
 [Movie Trailer](https://www.youtube.com/watch?v=UhZ56rcWwRQ)
