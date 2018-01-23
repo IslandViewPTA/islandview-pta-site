@@ -1,5 +1,5 @@
 ---
-title: FIRST LEGO League Jr at IVE
+title: FIRST LEGO League Jr
 date: 2018-01-21 15:26:02 -0800
 subtitle: 2017-2018 Aqua Adventure Challenge
 description: News and information related to First Lego League Jr program at Island
