@@ -15,7 +15,7 @@ February Family Fun Night!
 
 Island View families:
 
-Join us Thursday, February 15th at 5:30 pm in the Island View theater for the movie WONDER.
+Join us Thursday, February 15th at 5:30 pm in the Island View theater for the movie WONDER.  Rated PG.
 
 Bring a cozy blanket/pillow and be prepared for a wonderful story based on R.J. Palacio's book.
 
