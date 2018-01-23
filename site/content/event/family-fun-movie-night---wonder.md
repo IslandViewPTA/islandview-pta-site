@@ -11,4 +11,12 @@ description: Join us for this WONDERful movie!
 draft: true
 
 ---
-Please join us for 
+February Family Fun Night!
+
+Island View families:
+
+Join us Thursday, February 15th at 5:30 pm in the Island View theater for the movie WONDER.
+
+Bring a cozy blanket/pillow and be prepared for a wonderful story based on R.J. Palacio's book.
+
+Our infamous Dance Zone will be back for those who need to get up and move!
