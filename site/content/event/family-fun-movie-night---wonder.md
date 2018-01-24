@@ -8,7 +8,6 @@ image: "/uploads/wonder.gif"
 publishdate: 2018-01-24 00:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
 description: Join us for this WONDERful movie!
-draft: true
 
 ---
 February Family Fun Night!
