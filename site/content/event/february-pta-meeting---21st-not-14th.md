@@ -7,7 +7,7 @@ end: 2018-02-21 19:00:00 -0800
 image: "/uploads/FB-2018-Feb-resch-01.jpg"
 publishdate: 2018-01-23 00:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
-description: ''
+description: We would LOVE for you to join us!
 
 ---
 Spend the second Wednesday of February with your beloved Valentine - and spend the third Wednesday with your beloved PTA!
