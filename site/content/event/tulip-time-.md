@@ -7,7 +7,7 @@ end: 2018-02-03 14:00:00 -0800
 publishdate: 2018-01-24 00:00:00 -0800
 image: "/uploads/Screen Shot 2018-01-24 at 2.49.57 PM.png"
 location: 2501 J Ave, Anacortes, WA 98221
-description: ''
+description: Come plant bulbs with Watch DOGS
 
 ---
 Join the Watch DOGS for a tulip bulb planting party at Island View!   
