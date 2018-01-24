@@ -5,7 +5,7 @@ expirydate: 2018-02-03 00:00:00 -0800
 start: 2018-02-02 08:00:00 -0800
 end: 2018-02-02 16:00:00 -0800
 image: "/uploads/FIRSTLegoJr_iconHorz_RGB.jpg"
-publishdate: 2018-01-24 08:00:00 -0800
+publishdate: 2018-01-23 08:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
 description: Sign up now!
 
