@@ -16,6 +16,6 @@ Island View families:
 
 Join us Thursday, February 15th at 5:30 pm in the Island View theater for the movie WONDER.  Rated PG.
 
-Bring a cozy blanket/pillow and be prepared for a wonderful story based on R.J. Palacio's book.
+Bring a cozy blanket/pillow and be prepared for a wonderful story based on R.J. Palacio's book.  Check out the trailer here:  [https://www.youtube.com/watch?v=ngiK1gQKgK8](https://www.youtube.com/watch?v=ngiK1gQKgK8 "Wonder Trailer")
 
 Our infamous Dance Zone will be back for those who need to get up and move!
