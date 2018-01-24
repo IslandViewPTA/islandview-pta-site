@@ -8,7 +8,6 @@ image: "/uploads/FB-fooddrive2-01.jpg"
 location: 2501 J Ave, Anacortes, WA 98221
 publishdate: 2018-01-24 00:00:00 -0800
 description: ''
-draft: true
 
 ---
   
