@@ -12,10 +12,10 @@ description: Join us for this WONDERful movie!
 ---
 February Family Fun Night!
 
-Island View families:
-
 Join us Thursday, February 15th at 5:30 pm in the Island View theater for the movie WONDER.  Rated PG.
 
-Bring a cozy blanket/pillow and be prepared for a wonderful story based on R.J. Palacio's book.  Check out the trailer here:  [https://www.youtube.com/watch?v=ngiK1gQKgK8](https://www.youtube.com/watch?v=ngiK1gQKgK8 "Wonder Trailer")
+Based on the New York Times bestseller, WONDER tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie’s extraordinary journey will unite them all and prove you can’t blend in when you were born to stand out. 
 
-Our infamous Dance Zone will be back for those who need to get up and move!
+Check out the trailer here:  [https://www.youtube.com/watch?v=ngiK1gQKgK8](https://www.youtube.com/watch?v=ngiK1gQKgK8 "https://www.youtube.com/watch?v=ngiK1gQKgK8")
+
+Our infamous dance zone will be back for those who need to get up and dance! Feel free to bring pillows and blankets to snuggle up while you watch the movie. No food or drinks will be allowed in the theater. This is a family event - no drop offs, please.
