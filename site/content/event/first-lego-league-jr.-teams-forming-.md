@@ -8,7 +8,6 @@ image: "/uploads/FIRSTLegoJr_iconHorz_RGB.jpg"
 publishdate: 2018-01-24 08:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
 description: Sign up now!
-draft: true
 
 ---
 FIRST LEGO League Jr teams are forming now for the March-May 2018 season! 
