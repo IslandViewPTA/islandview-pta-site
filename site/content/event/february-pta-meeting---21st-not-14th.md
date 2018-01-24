@@ -10,6 +10,6 @@ location: 2501 J Ave, Anacortes, WA 98221
 description: We would LOVE for you to join us!
 
 ---
-Spend the second Wednesday of February with your beloved Valentine - and spend the third Wednesday with your beloved PTA!
+Spend the second Wednesday of February with your Beloved Valentine - and spend the third Wednesday with your Beloved PTA!
 
-Please join us on Wednesday, February 21st at 6pm in the Island View Library for our monthly PTA meeting.  We would love you to!  
+Please join us on Wednesday, February 21st at 6pm in the Island View Library for our monthly PTA meeting.  We would LOVE to see you!
