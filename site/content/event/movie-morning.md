@@ -17,11 +17,11 @@ There's no school on Friday, February 16, so join us for a movie morning! This e
 Peter Rabbit  
 **Friday, February 16 at 10:00 am**  
 Anacortes Cinemas  
-(Doors open at 9:30 am.)
+\(Doors open at 9:30 am.)
 
-$10 for admission, small popcorn and small drink
+\$10 for admission, small popcorn and small drink
 
-[Get your tickets online!](www.islandviewpta.org/movie "Movie Mornings")
+[Get your tickets online!](https://www.islandviewpta.org/movie "Movie Mornings")
 
 Tickets must be pre-purchased by Thursday, February 15. Only 150 tickets are available, so get yours today!
 
