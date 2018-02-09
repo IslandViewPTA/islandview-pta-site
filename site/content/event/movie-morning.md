@@ -7,7 +7,7 @@ image: "/uploads/peter-rabbit-quad-poster.jpg"
 location: 415 O Ave, Anacortes, WA 98221
 publishdate: 2018-02-08 17:00:00 -0800
 start: 2018-02-16 10:00:00 -0800
-title: Movie Morning
+title: Movie Morning - Peter Rabbit
 
 ---
 **School's out... movie's on!**
@@ -17,9 +17,9 @@ There's no school on Friday, February 16, so join us for a movie morning! This e
 Peter Rabbit  
 **Friday, February 16 at 10:00 am**  
 Anacortes Cinemas  
-\(Doors open at 9:30 am.)
+(Doors open at 9:30 am.)
 
-\$10 for admission, small popcorn and small drink
+$10 for admission, small popcorn and small drink
 
 [Get your tickets online!](www.islandviewpta.org/movie "Movie Mornings")
 
