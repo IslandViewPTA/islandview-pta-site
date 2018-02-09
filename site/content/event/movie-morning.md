@@ -1,26 +1,28 @@
 ---
-date: 2017-10-22 14:14:14 -0700
-description: 'Family Fun Movie Morning:  My Little Pony Movie'
-end: 2017-10-27 12:00:00 -0700
-expirydate: 2017-10-28 11:00:00 -0700
-image: "/uploads/22554961_10155031407346616_7882615241927245066_n.jpg"
+date: 2018-02-08 17:00:14 -0800
+description: 'Family Fun Movie Morning:  Peter Rabbit'
+end: 2018-02-16 12:00:00 -0800
+expirydate: 2018-02-17 11:00:00 -0800
+image: "/uploads/peter-rabbit-quad-poster.jpg"
 location: 415 O Ave, Anacortes, WA 98221
-publishdate: 2017-10-22 21:16:00 -0700
-start: 2017-10-27 10:00:00 -0700
+publishdate: 2018-02-08 21:16:00 -0800
+start: 2018-02-16 10:00:00 -0800
 title: Movie Morning
 
 ---
 **School's out... movie's on!**
 
-There's no school on Friday, October 27, so join us for a movie morning! This event is for EVERYONE, so bring your friends!
+There's no school on Friday, February 16, so join us for a movie morning! This event is for EVERYONE, so bring your friends!
 
-My Little Pony: The Movie\
-**Friday, September 27 at 10:00 am**\
-Anacortes Cinemas\
-(Ticket sales start at 9:30 am.)
+Peter Rabbit  
+**Friday, February 16 at 10:00 am**  
+Anacortes Cinemas  
+\(Doors open at 9:30 am.)
 
-$10 for admission, small popcorn and small drink
+\$10 for admission, small popcorn and small drink
 
-"After a dark force conquers Canterlot, the Mane 6 embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship to save their homeland."
+[Get your tickets online!](www.islandviewpta.org/movie "Movie Mornings")
+
+Tickets must be pre-purchased by Thursday, February 15. Only 150 tickets are available, so get yours today!
 
 We hope to see you there!!
