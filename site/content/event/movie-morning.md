@@ -5,7 +5,7 @@ end: 2018-02-16 12:00:00 -0800
 expirydate: 2018-02-17 11:00:00 -0800
 image: "/uploads/peter-rabbit-quad-poster.jpg"
 location: 415 O Ave, Anacortes, WA 98221
-publishdate: 2018-02-08 21:16:00 -0800
+publishdate: 2018-02-08 17:00:00 -0800
 start: 2018-02-16 10:00:00 -0800
 title: Movie Morning
 
