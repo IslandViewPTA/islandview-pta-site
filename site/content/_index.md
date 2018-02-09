@@ -8,8 +8,8 @@ imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
 type: page
----
 
+---
 ## Welcome to Island View PTA!
 
 Our PTA helps make so much possible for the students and staff at Island View Elementary,
@@ -34,7 +34,7 @@ Please click the buttons below to read our newsletters.
 {{< nl-btn month="OCT" link="https://drive.google.com/file/d/1Y1irX3s0RHOV3tl1UbfpC4hzAOJCvX9P/view?usp=sharing" >}}
 {{< nl-btn month="NOV" link="https://drive.google.com/file/d/1nrt37WudTaJ7KsLYmPlEw-7z3aVDXCL9/view?usp=sharing" >}}
 {{< nl-btn month="DEC" link="#" >}}
-{{< nl-btn month="JAN" link="#" >}}
+{{< nl-btn month="JAN" link="https://drive.google.com/open?id=1aSEwyigNL9royckAXsCXwl4LYKLO0DBZ" >}}
 {{< nl-btn month="FEB" link="#" >}}
 {{< nl-btn month="MAR" link="#" >}}
 {{< nl-btn month="APR" link="#" >}}
