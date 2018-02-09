@@ -18,4 +18,6 @@ Movie Mornings is a great way for the community to enjoy a family friendly movie
 February 16, 2018 at 10:00 AM
 \(Doors open at 9:30 AM)
 
-![](https://cypriumnews.com/wp-content/uploads/2018/02/peter-rabbit-quad-poster.jpg)[Movie Trailer](https://www.youtube.com/watch?v=7Pa_Weidt08)
+![](https://cypriumnews.com/wp-content/uploads/2018/02/peter-rabbit-quad-poster.jpg)
+
+[Movie Trailer](https://www.youtube.com/watch?v=7Pa_Weidt08)
