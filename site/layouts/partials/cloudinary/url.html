@@ -1,95 +1,42 @@
-{{- if and (isset . "image") (isset . "context") }}
-  {{- $page := .context -}}
-  {{- $site := $page.Site -}}
-  {{- $image := cond (in .image "http") .image (delimit (slice $site.BaseURL .image) "") -}}  
-  {{- if eq (getenv "HUGO_ENV") "production" }}
-    {{- $mode := cond (and (in $image "http") (not (in $image $site.Params.BaseURL))) "fetch" "upload" -}}
-    {{- $mode := cond (eq $page.Site.Params.cloudinary.use_upload true) $mode "fetch" }}
-    {{- $cloudinary_url := (delimit (slice "https://res.cloudinary.com/" $site.Params.cloudinary.cloud_name "/image" (.social_network | default "") "/" $mode "/") "") -}}
-    {{- $path := cond (eq (getenv "HUGO_ENV") "production") $cloudinary_url $site.BaseURL -}}
-    {{- with .width }}
-      {{- $page.Scratch.SetInMap "transforms" "width" (delimit (slice "w_" .) "") -}}
-    {{ end -}}
-    {{- with .height }}
-      {{ $page.Scratch.SetInMap "transforms" "height" (delimit (slice "h_" .) "") }}
-    {{ end -}}
-    {{- with .aspect_ratio }}
-      {{ $page.Scratch.SetInMap "transforms" "aspect_ratio" (delimit (slice "ar_" .) "") }}
-    {{ end -}}
-    {{- with .gravity }}
-      {{ $page.Scratch.SetInMap "transforms" "gravity" (delimit (slice "g_" .) "") }}
-    {{ end -}}
-    {{- with .zoom }}
-      {{ $page.Scratch.SetInMap "transforms" "zoom" (delimit (slice "z_" .) "") }}
-    {{ end -}}
-    {{- with .x }}
-      {{ $page.Scratch.SetInMap "transforms" "x" (delimit (slice "x_" .) "") }}
-    {{ end -}}
-    {{- with .y }}
-      {{ $page.Scratch.SetInMap "transforms" "y" (delimit (slice "y_" .) "") }}
-    {{ end -}}
-    {{- with .fetch_format }}
-      {{ $page.Scratch.SetInMap "transforms" "fetch_format" (delimit (slice "f_" .) "") }}
-    {{ end -}}
-    {{- with .quality }}
-      {{ $page.Scratch.SetInMap "transforms" "quality" (delimit (slice "q_" .) "") }}
-    {{ end -}}
-    {{- with .radius }}
-      {{ $page.Scratch.SetInMap "transforms" "radius" (delimit (slice "r_" .) "") }}
-    {{ end -}}
-    {{- with .angle }}
-      {{ $page.Scratch.SetInMap "transforms" "angle" (delimit (slice "a_" .) "") }}
-    {{ end -}}
-    {{- with .effect }}
-      {{ $page.Scratch.SetInMap "transforms" "effect" (delimit (slice "e_" .) "") }}
-    {{ end -}}
-    {{- with .opacity }}
-      {{ $page.Scratch.SetInMap "transforms" "opacity" (delimit (slice "o_" .) "") }}
-    {{ end -}}
-    {{- with .border }}
-      {{ $page.Scratch.SetInMap "transforms" "border" (delimit (slice "bo_" .) "") }}
-    {{ end -}}
-    {{- with .background }}
-      {{ $page.Scratch.SetInMap "transforms" "background" (delimit (slice "b_" .) "") }}
-    {{ end -}}
-    {{- with .overlay }}
-      {{ $page.Scratch.SetInMap "transforms" "overlay" (delimit (slice "l_" .) "") }}
-    {{ end -}}
-    {{- with .underlay }}
-      {{ $page.Scratch.SetInMap "transforms" "underlay" (delimit (slice "u_" .) "") }}
-    {{ end -}}
-    {{- with .default_image }}
-      {{ $page.Scratch.SetInMap "transforms" "default_image" (delimit (slice "d_" .) "") }}
-    {{ end -}}
-    {{- with .delay }}
-      {{ $page.Scratch.SetInMap "transforms" "delay" (delimit (slice "dl_" .) "") }}
-    {{ end -}}
-    {{- with .color }}
-      {{ $page.Scratch.SetInMap "transforms" "color" (delimit (slice "co_" .) "") }}
-    {{ end -}}
-    {{- with .color_space }}
-      {{ $page.Scratch.SetInMap "transforms" "color_space" (delimit (slice "cs_" .) "") }}
-    {{ end -}}
-    {{- with .dpr }}
-      {{ $page.Scratch.SetInMap "transforms" "dpr" (delimit (slice "dpr_" .) "") }}
-    {{ end -}}
-    {{- with .page }}
-      {{ $page.Scratch.SetInMap "transforms" "page" (delimit (slice "pg_" .) "") }}
-    {{ end -}}
-    {{- with .density }}
-      {{ $page.Scratch.SetInMap "transforms" "density" (delimit (slice "dn_" .) "") }}
-    {{ end -}}
-    {{- with .flags }}
-      {{ $page.Scratch.SetInMap "transforms" "flags" (delimit (slice "fl_" .) "") }}
-    {{ end -}}
-    {{- with .transformation }}
-      {{ $page.Scratch.SetInMap "transforms" "transformation" (delimit (slice "t_" .) "") }}
-    {{ end -}}
+{{- if and .pg (isset . "image") -}}
+  {{- $page := .pg -}}
+
+  {{/* Prefix with baseURL if a relative link */}}
+  {{- $image := (cond (or (in .image "http://") (in .image "https://")) .image (.image | absURL)) -}}
+
+  {{/* Only return cloudinary URL in production and not localhost */}}
+  {{- if and (eq (getenv "HUGO_ENV") "production") (eq (len (findRE "://localhost" $image)) 0) -}}
+    {{/* Get fetch mode */}}
+    {{- $mode_config := cond (in $image "://") "fetch" "upload" -}}
+    {{- $mode := cond ($page.Site.Params.cloudinary.use_upload) $mode_config "fetch" -}}
+
+    {{/* Build valid URL prefix */}}
+    {{- $cloudinary_url := (delimit (slice "https://res.cloudinary.com/" $page.Site.Params.cloudinary.cloud_name "/image" (.social_network | default "") "/" $mode "/") "") -}}
+
+    {{/* Get accepted transforms */}}
+    {{- $availableTransforms := getJSON "/layouts/partials/cloudinary/params.json" -}}
+
+    {{/* Set up transform params for regular usage */}}
+    {{- range $key, $param := $availableTransforms -}}
+      {{- $value := (index $ $key) | default $param.default -}}
+      {{- with $value -}}
+        {{- $page.Scratch.SetInMap "transforms" $key (delimit (slice $param.key "_" .) "") -}}
+      {{- end -}}
+    {{- end -}}
     {{- $transforms := $page.Scratch.Get "transforms" -}}
+
+    {{/* Transform params to URL format */}}
     {{- $transforms := delimit $transforms "," -}}
-    {{- $image := delimit (slice $path ($transforms) "/" $image) "" -}}
-    {{- $image -}}
-  {{ else }}
-    {{- $image -}}
-  {{ end -}}
-{{ end -}}
+
+    {{/* Removing leading slash */}}
+    {{- $image := replaceRE "(^/)" "" $image -}}
+
+    {{/* Build cloudinary image URL */}}
+    {{- $image := delimit (slice $cloudinary_url ($transforms) "/" $image) "" -}}
+
+    {{/* Return cloudinary image URL */}}
+    {{- $image | absURL -}}
+  {{- else -}}
+    {{- .image -}}
+  {{- end -}}
+{{- end -}}

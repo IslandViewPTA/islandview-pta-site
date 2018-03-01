@@ -10,11 +10,15 @@ metaDataFormat = "yaml"
 [params.cloudinary]
   cloud_name = "ivepta"
   use_upload = false
-
-[params.cloudinary.body_params]
-  width = "450"
-  quality = "auto"
-  dpr = "auto"
+[params.cloudinary.lazysizes]
+  enabled = true
+[params.cloudinary.presets.default]
+  max_width = 1920
+  min_width = 320
+  quality = 80
+  sizes = "auto"
+  steps = 10
+  width = 450
 
 [params]
   contact = "webadmin@islandviewpta.org" # Optional
@@ -24,7 +28,7 @@ metaDataFormat = "yaml"
 
 [social]
   twitter = "ivepta"
-  facebook = ""
+  facebook = "IslandViewPTA"
 
 [outputFormats.EventsJSON]
   mediaType = "application/json"
