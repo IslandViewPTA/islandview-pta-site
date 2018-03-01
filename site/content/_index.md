@@ -12,8 +12,8 @@ type: page
 ---
 ## Welcome to Island View PTA!
 
-Our PTA helps make so much possible for the students and staff at Island View Elementary,
-including classroom enhancements,
+Our PTA helps make so much possible for the students and staff at Island View Elementary, including classroom enhancements,
+[FIRST LEGO League Jr.](/lego/),
 [Reading is Fundamental’s](http://www.rif.org/) free books,
 [ClassACT School Plays](https://www.facebook.com/Class-ACT-Anacortes-Community-Theatres-School-of-Performing-Arts-105835664376/),
 free popcorn every month, Family Fun Nights,
@@ -35,7 +35,7 @@ Please click the buttons below to read our newsletters.
 {{< nl-btn month="NOV" link="https://drive.google.com/file/d/1nrt37WudTaJ7KsLYmPlEw-7z3aVDXCL9/view?usp=sharing" >}}
 {{< nl-btn month="DEC" link="#" >}}
 {{< nl-btn month="JAN" link="https://drive.google.com/open?id=1aSEwyigNL9royckAXsCXwl4LYKLO0DBZ" >}}
-{{< nl-btn month="FEB" link="#" >}}
+{{< nl-btn month="FEB" link="https://drive.google.com/open?id=1fFLlhBsYXMe3le-lIcOTwaet3ISEIn_0" >}}
 {{< nl-btn month="MAR" link="#" >}}
 {{< nl-btn month="APR" link="#" >}}
 {{< nl-btn month="MAY" link="#" >}}
