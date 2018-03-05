@@ -8,7 +8,6 @@ publishdate: 2018-03-05 00:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
 image: "/uploads/21273515_10154913634696616_889408669662085285_o.jpg"
 description: ''
-draft: true
 
 ---
 **Join us for Lego Club!**
