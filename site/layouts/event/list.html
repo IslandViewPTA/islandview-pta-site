@@ -18,22 +18,8 @@
   </ul>
 
   <section class="mw7 flex-auto pv3 ph3 ph0-l center">
-    <div class="monthly" id="iveptacal"></div>
+    <iframe src="https://calendar.google.com/calendar/embed?src=calendar%40islandviewpta.org&ctz=America%2FLos_Angeles" style="border: 0" width="860" height="800" frameborder="0" scrolling="no"></iframe>
   </section>
 </main>
-
-<script type="text/javascript">
-  $(window).load( function() {
-      $('#iveptacal').monthly(
-        {
-          mode: 'event',
-          jsonUrl: '/event/events.json',
-          dataType: 'json',
-          stylePast: true,
-          eventList: true,
-        }
-      );
-  });
-</script>
 
 {{ partial "footer" . }}
