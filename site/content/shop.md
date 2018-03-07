@@ -6,8 +6,10 @@ image: "/uploads/anacortes-snow.jpg"
 imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 heading: Purchase Island Views shirts, bags and other spirit wear!
-description: The Island View PTA uses funds raised to provide resources and activities for the Students and Teachers of Island View Elementary.
+description: The Island View PTA uses funds raised to provide resources and activities
+  for the Students and Teachers of Island View Elementary.
 callToAction: true
+
 ---
 ## Purchase Island Views shirts, bags and other spirit wear!
 
