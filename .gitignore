@@ -3,3 +3,5 @@ dist/
 /npm-debug.log
 package-lock.json
 public/
+.vscode-upload.json
+Thumbs.db
