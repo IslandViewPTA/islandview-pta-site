@@ -1,0 +1,19 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+<main class="w-100 flex-auto center ph3 ph0-l pt5">
+  {{ partial "content-block" . }}
+  <div class="w-100 flex-ns mhn1-ns flex-wrap">
+    {{ range .Data.Pages }}
+    <a class="link" href="/colorrun/{{ .Params.fname | lower }}{{ .Params.lname | lower }}">
+    <div class="pa2 ma2 bg-light-gray br3 black w5" id="{{ .Params.lname }}">
+      <h3>{{ .Params.fname | lower | humanize }} {{ .Params.lname | lower | humanize }}. - ({{ .Params.gender }})</h3>
+      <p>Teacher: {{ .Params.teacher | lower | humanize }} <br> Grade: {{ .Params.grade }}</p>
+    </div>
+    </a>
+    {{ end }}
+    </div>
+</main>
+
+{{ partial "footer" . }}

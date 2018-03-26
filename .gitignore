@@ -5,3 +5,5 @@ package-lock.json
 public/
 .vscode-upload.json
 Thumbs.db
+.vscode/launch.json
+.vscode/settings.json
