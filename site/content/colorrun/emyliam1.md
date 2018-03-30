@@ -5,5 +5,4 @@ fname: "Emylia"
 lname: "M"
 teacher: "HAWKINS"
 grade: "1"
-gender: "F"
 ---

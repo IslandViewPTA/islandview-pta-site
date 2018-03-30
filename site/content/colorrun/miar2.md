@@ -5,5 +5,4 @@ fname: "Mia"
 lname: "R"
 teacher: "ROSS"
 grade: "2"
-gender: "F"
 ---
