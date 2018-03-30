@@ -36,7 +36,7 @@ for row_index, row in enumerate(datareader):
   # Othrwise, create a YAML file from the data in this row...
   else:
     # Open a new file with filename based on the first column
-    filename = row[0].lower() + row[1].lower().replace(" ", "_") + '.md'
+    filename = row[0].lower().replace(" ", "-") + row[1].lower().replace(" ", "-") + row[3].lower() + '.md'
     outputfile = outputpath / filename
     new_yaml = open(outputfile, 'w')
 
@@ -44,6 +44,9 @@ for row_index, row in enumerate(datareader):
     yaml_text = ""
     yaml_text += "---\n"
     yaml_text += "type: colorrun \n"
+    
+    # Set the Page title value.
+    yaml_text += "title: Donation page for " + row[0] + " " + row[1] + ".\n"
 
     # Loop through each cell in this row...
     for cell_index, cell in enumerate(row):
@@ -51,7 +54,7 @@ for row_index, row in enumerate(datareader):
       # Compile a line of YAML text from our headings list and the text of the current cell, followed by a linebreak.
       # Heading text is converted to lowercase. Spaces are converted to underscores and hyphens are removed.
       # In the cell text, line endings are replaced with commas.
-      cell_heading = data_headings[cell_index].lower().replace(" ", "_").replace("-", "_").replace("%", "percent").replace("$", "").replace(",", "")
+      cell_heading = data_headings[cell_index].lower().replace(" ", "-")
       cell_text = cell_heading + ': "' + cell.replace("\n", ", ") + '"\n'
 
       # Add this line of text to the current YAML string.

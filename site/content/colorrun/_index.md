@@ -3,11 +3,11 @@ title: IVE Color Run
 date: 2018-03-21T12:01:25+08:00
 subtitle: A colorful run for fun.
 description: Join us at the annual Island View Elementary color run.
-image: "/uploads/legos.jpg"
-imageLink: https://timedotcom.files.wordpress.com/2016/03/pile-of-legos-toys-kids-blocks.jpg
-imageCredit: Photo by Time.com
+image: "/img/colorrun/colorrun.jpg"
+imageLink: https://commons.wikimedia.org/wiki/File%3AThe_Color_Run%2C_Grand_Prix_Edition_(Melbourne_2014)_(12869502993).jpg
+imageCredit: By Chris Phutully
 type: colorrun
 callToAction: true
 ---
 
-The color run is fun and stuff.
+To give Island View PTA permission for your student to have an online donation page for the color run, please fill out the form below.

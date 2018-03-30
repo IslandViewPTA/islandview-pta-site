@@ -2,41 +2,43 @@
 <script src="https://checkout.stripe.com/checkout.js"></script>
 
 <div id="content" class="mw7 center cf">
-  <h3>Name: {{ .Params.fname }} {{ .Params.lname }}. - ({{ .Params.gender }}) </h3>
-  <p>Teacher: {{ .Params.teacher | lower | humanize }}, Grade: {{ .Params.grade }}</p>
-  <p>Thank you for helping me raise money for Island View PTA!  The funds will make so much possible for the students and staff at Island View Elementary, including classroom enhancements, FIRST LEGO League Jr., Reading is Fundamental's free books, ClassACT School Plays, free popcorn every month, Family Fun Nights, Watch DOGS, Lego Club, I Love to Read Month, Scolastic Magazines, Educational Software, Mountain School, and MORE!</p>
-  <p>Please enter your personal information and credit card details in the form below to donate to {{ .Params.fname }}'s Color Run activity.</p>
+  <h3>Name: {{ .Params.fname }} {{ .Params.lname }}. - Grade: {{ .Params.grade }} </h3>
+  <p>Thank you for helping me raise money for Island View PTA!  The funds will make so much possible for the students and staff at Island View Elementary, including classroom enhancements, FIRST LEGO League Jr., Reading is Fundamental's free books, ClassACT School Plays, free popcorn every month, Family Fun Nights, Watch DOGS, Lego Club, I Love to Read Month, Scholastic Magazines, Educational Software, Mountain School, and MORE!</p>
+  <p>Please enter your Full Name, Email Address and Donation amount in the form below to make a donation in {{ .Params.fname }}'s name for the Color Run event. Please note that we do not store any of your credit card information.</p>
 
-  <form name="colorrun-donation" id="colorrun-donation" class="pa2 w-30" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.run.webtask.io/ivepta-stripe-payment/payment" method="post" id="payment-form">
+  <form name="colorrun-donation" id="colorrun-donation" class="pa2 w-30" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.run.webtask.io/ivepta-stripe-payment/payment" method="POST">
     <div class="w-100 pv2">
       <label for="name">Name</label>
-      <input id="name" type="text" placeholder="Enter Your Full Name" required="">
+      <input id="name" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
     </div>
     <div class="w-100 pv2">
       <label for="email">Email</label>
-      <input id="email" type="email" placeholder="Primary Email Address" required="">
+      <input id="email" type="email" placeholder="Primary Email Address" required="" autocomplete="email">
     </div>
     <div class="w-100 pv2">
-        <label for="amount">Amount</label>
-        <input id="amount" type="text" placeholder="$ to Donate" required="">
+        <label for="dollarAmount">Amount</label>
+        <input id="dollarAmount" type="text" placeholder="$ to Donate" required="">
     </div>
-    <input type="hidden" name="stripeToken">
-    <button id="donateButton" class="w-100 ba bw0 br2 mt2 ph3 pv2 dib gold bg-primary no-underline">Donate now for {{ .Params.fname }}</button>
+    
+    <input type="hidden" name="stripeToken" id="stripeToken" value="">
+    <input type="hidden" name="amount" id="amount" value="">
+    <input type="hidden" name="description" id="description" value="Color Run Donation for {{ .Params.fname }} {{ .Params.lname }} - {{ .Params.teacher }}.">
+
+    <button id="donateButton" class="w-100 ba bw0 br2 mt2 ph3 pv2 dib gold bg-primary no-underline">Donate</button>
     <div id="error_explanation"></div>
   </form>
 </div>
 
 <script>
-
 var handler = StripeCheckout.configure({
   key: 'pk_test_cInueXV9vrRXpfa4S2mEoMt6',
   name: 'Color Run Donation',
   zipCode: true,
+  allowRememberMe: false,
+  panelLabel: 'Donate',
   description: 'Donation for {{ .Params.fname }} {{ .Params.lname }}.',
   token: function(token) {
     $('input#stripeToken').val(token.id);
-    console.log(token.id);
-    console.log($('input#stripeToken').val());
     $('#colorrun-donation').submit();
   }
 });
@@ -46,7 +48,7 @@ $('#donateButton').on('click', function(e) {
 
   $('#error_explanation').html('');
 
-  var amount = $('input#amount').val();
+  var amount = $('input#dollarAmount').val();
   var email = $('input#email').val();
   amount = amount.replace(/\$/g, '').replace(/\,/g, '')
 
@@ -60,10 +62,12 @@ $('#donateButton').on('click', function(e) {
   }
   else {
     amount = amount * 100; // Needs to be an integer!
+    amount = Math.round(amount);
+    $('input#amount').val(amount);
     handler.open({
-      amount: Math.round(amount),
+      amount: amount,
       email: email
-    })
+    });
   }
 });
 
