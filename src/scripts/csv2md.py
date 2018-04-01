@@ -7,20 +7,19 @@ import csv
 from pathlib import Path
 import os
 
+# Delete old page files. Leave the _index.md file there.
 [ os.remove("site/content/colorrun/" + f) for f in os.listdir("site/content/colorrun/") if not f.startswith("_") and f.endswith(".md") ]
 
+# Path to the csv file to read from.
 filename = "src/scripts/colorrun/colorrundatabase.csv"
-
-# datafile = datapath + filename
-# scriptPath = Path.cwd()
 
 # Open our data file in read-mode.
 csvfile = open(filename, 'r')
 
-# Set location to write files to.
+# Set location to write new files to.
 outputpath = Path("site/content/colorrun/")
 
-# Save a CSV Reader object.
+# Create a CSV Reader object.
 datareader = csv.reader(csvfile, delimiter=',', quotechar='"')
 
 # Empty array for data headings, which we will fill with the first row from our CSV.
