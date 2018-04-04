@@ -1,4 +1,4 @@
-# Takes a file CSV file called "data.csv" and outputs each row as a YAML file named after first column.
+# Takes in a file CSV file and outputs each row as a Markdown file with YAML front matter named after first column.
 # Data in the first row of the CSV is assumed to be the column heading.
 # Original work borrowed from: https://github.com/EvanLovely/csv_to_jekyll
 
