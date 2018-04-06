@@ -42,7 +42,8 @@ for row_index, row in enumerate(datareader):
     # Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
     yaml_text = ""
     yaml_text += "---\n"
-    yaml_text += "type: colorrun \n"
+    yaml_text += "type: colorrun\n"
+    yaml_text += "image: /colorrun/eagle-paint.jpg\n"
     
     # Set the Page title value.
     yaml_text += "title: Donation page for " + row[0] + " " + row[1] + ".\n"
