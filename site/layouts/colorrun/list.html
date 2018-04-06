@@ -4,12 +4,12 @@
 
 {{ partial "jumbotron" . }}
 
-<main class="w-100 flex-auto center ph3 ph0-l pt5">
+<main class="w-100 flex-auto center ph3 ph0-l pt3">
   <section class="mw7 flex-auto pt3 ph3 ph0-l center">
     {{.Content}}
   </section>
   <section class="mw7 flex-auto pt3 ph3 ph0-l center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrWO822wY7J6Ge3tBQFwZHZpNfg_Yc_56Sz9XgoV4Y2WCunA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    {{ partial "colorrun-donation-approval-form" . }}
   </section>
   </main>
 

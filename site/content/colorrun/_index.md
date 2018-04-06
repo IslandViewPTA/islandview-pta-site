@@ -9,5 +9,8 @@ imageCredit: By Chris Phutully
 type: colorrun
 callToAction: true
 ---
+The color run is a great event for the students to get outside, get some exercise and provide an opportunity for the community to donate.
 
-To give Island View PTA permission for your student to have an online donation page for the color run, please fill out the form below.
+## Permission for Student Online Donation Page
+To give Island View PTA permission for your student to have an online donation page for the Color Run, please fill out the form below. 
+Here is an example of a [Student Dontation Form](/colorrun/halles2/).

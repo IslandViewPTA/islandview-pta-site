@@ -1,0 +1,77 @@
+<form id="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwiych5qLnYMVZ358pYrrI9WL1liAVBvhDHb45J0t1XnYEkTve8/exec">
+  <!-- change the form action to your script url -->
+  <h3>Parent/Guardian Information</h3>
+  
+  <fieldset class="bn">
+    <label class="v-mid" for="name">Full Name: </label>
+    <input class="mv1" id="name" name="name" placeholder="Your Full Name" required />
+    <br>
+    <label class="v-mid" for="email">Email Address:</label>
+    <input class="mv1" id="email" name="email" type="email" value="" required placeholder="your.name@email.com" /> <br>
+    <span class="red dib ba br2 pa3 ma2 bg-washed-red" id="email-invalid" style="display:none">
+      Must be a valid email address</span>
+  </fieldset>
+  
+  <h3>Student Information</h3>
+  
+  <fieldset class="bn">
+    <label class="v-mid" for="sfname">Student First Name: </label>
+    <input class="mv1" id="sfname" name="sfname" placeholder="First Name" required />
+    <br>
+    <label class="v-mid" for="slinitial">First Letter of Last Name: </label>
+    <input class="mv1" id="slinitial" name="slinitial" placeholder="Last Initial" required />
+    <br>
+    <label class="v-mid" for="teacher">Teacher's Last Name: </label>
+    <select class="mv1" id="teacher" name="teacher">
+      <option value="Select">Select Teacher</option>
+      <option value="Dale">Dale</option>
+      <option value="Dotzauer">Dotzauer</option>
+      <option value="Fountain">Fountain</option>
+      <option value="Frost">Frost</option>
+      <option value="Garcia">Garcia</option>
+      <option value="Glim">Glim</option>
+      <option value="Goforth">Goforth</option>
+      <option value="Hawkins">Hawkins</option>
+      <option value="Holert">Holert</option>
+      <option value="Holmes">Holmes</option>
+      <option value="Lewis">Lewis</option>
+      <option value="Lincoln">Lincoln</option>
+      <option value="Mansfield">Mansfield</option>
+      <option value="Ng">Ng</option>
+      <option value="Nyland">Nyland</option>
+      <option value="Ross">Ross</option>
+      <option value="Sage">Sage</option>
+      <option value="Salvino">Salvino</option>
+      <option value="Shainin">Shainin</option>
+      <option value="Slagle">Slagle</option>
+      <option value="Tonnemaker">Tonnemaker</option>
+      <option value="Wedul">Wedul</option>
+    </select>
+    <br>
+    <label class="v-mid" for="grade">Teacher's Last Name: </label>
+    <select class="mv1" id="grade" name="grade">
+      <option value="Select">Select Grade</option>
+      <option value="K">K</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+    </select>
+  </fieldset>
+  <br>
+  <label class="sr-only" style="display:none;">Keep this field blank</label>
+  <input id="honeypot" type="text" name="honeypot" value="" style="display:none;" />
+  <button class="f6 link dim br3 ph3 pv2 mb2 dib gold bg-primary">Send Information to the PTA</button>
+  </form>
+  
+  <!-- Customise the Thankyou Message People See when they submit the form: -->
+  <div style="display:none;" id="thankyou_message">
+  <h2>Thank you for participating in the Island View Color Run fundraiser!</h2>
+  <p>You will receive an email soon with details for your student's individual online donation page. Refresh this page to sign up another student.</p>
+  </div>
+  
+  <!-- Submit the Form to Google Using "AJAX" -->
+  <!-- <script data-cfasync="false" type="text/javascript" src="https://cdn.rawgit.com/dwyl/learn-to-send-email-via-google-script-html-no-server/master/form-submission-handler.js"></script> -->
+  <script data-cfasync="false" type="text/javascript" src="/js/form-submission-handler.js"></script>
+  <!-- END -->
