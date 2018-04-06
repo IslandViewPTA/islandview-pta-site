@@ -1,6 +1,6 @@
 ---
 type: colorrun
-image: /colorrun/eagle-paint.jpg
+image: https://www.islandviewpta.org/colorrun/eagle-paint.jpg
 title: Donation page for Kate M.
 fname: "Kate"
 lname: "M"
