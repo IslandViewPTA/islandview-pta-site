@@ -9,4 +9,3 @@ imageCredit: By Chris Phutully
 type: colorrun
 callToAction: true
 ---
-The color run is a great event for the students to get outside, get some exercise and provide an opportunity for the community to donate.
