@@ -1,9 +1,9 @@
 ---
 type: colorrun
 image: https://www.islandviewpta.org/colorrun/eagle_paint.jpg
-title: Donation page for Bella M.
-sfname: "Bella"
+title: Donation page for Charli M.
+sfname: "Charli"
 slinitial: "M"
-teacher: "Lincoln"
-grade: "3"
+teacher: "Holert"
+grade: "1"
 ---

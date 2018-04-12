@@ -2,8 +2,8 @@
 type: colorrun
 image: https://www.islandviewpta.org/colorrun/eagle_paint.jpg
 title: Donation page for Andrew F.
-fname: "Andrew"
-lname: "F"
-teacher: "NG"
+sfname: "Andrew"
+slinitial: "F"
+teacher: "Ng"
 grade: "2"
 ---

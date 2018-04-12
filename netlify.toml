@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "python src/scripts/gspread2md.py && npm run build"
   publish = "dist"
 
 [context.deploy-preview]
