@@ -7,16 +7,17 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pathlib import Path
 import os
+import json
 
 # Delete old page files. Leave the _index.md file there.
 [ os.remove("site/content/colorrun/" + f) for f in os.listdir("site/content/colorrun/") if not f.startswith("_") and f.endswith(".md") ]
 
 # Get JSON_DATA from the build environment.
-json = os.environ['JSON_DATA']
+jsondict = json.loads(os.environ['JSON_DATA'])
 
 # Use creds to create a client to interact with the Google Drive API
 scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
-creds = ServiceAccountCredentials.from_json_keyfile_dict(json, scope)
+creds = ServiceAccountCredentials.from_json_keyfile_dict(jsondict, scope)
 client = gspread.authorize(creds)
 
 # Open the Google Sheet by ID.
