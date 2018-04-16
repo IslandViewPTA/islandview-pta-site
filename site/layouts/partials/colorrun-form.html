@@ -6,14 +6,14 @@
   <p>Thank you for helping me raise money for Island View PTA!  The funds will make so much possible for the students and staff at Island View Elementary, including classroom enhancements, FIRST LEGO League Jr., Reading is Fundamental's free books, ClassACT School Plays, free popcorn every month, Family Fun Nights, Watch DOGS, Lego Club, I Love to Read Month, Scholastic Magazines, Educational Software, Mountain School, and MORE!</p>
   <p>Please enter your Full Name, Email Address and Donation amount in the form below to make a donation in {{ .Params.sfname }}'s name for the Color Run event. Please note that we do not store any of your credit card information.</p>
 
-  <form name="colorrun-donation" id="colorrun-donation" class="pa2 w-30" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.run.webtask.io/ivepta-stripe-payment/payment" method="POST">
+  <form name="colorrun-donation" id="colorrun-donation" class="pa2 w-30" action="https://www.hashemian.com/tools/form-post-tester.php/ivepta1" method="POST">
     <div class="w-100 pv2">
       <label for="name">Name</label>
-      <input id="name" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
+      <input id="name" name="name" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
     </div>
     <div class="w-100 pv2">
       <label for="email">Email</label>
-      <input id="email" type="email" placeholder="Primary Email Address" required="" autocomplete="email">
+      <input id="email" name="email" type="email" placeholder="Primary Email Address" required="" autocomplete="email">
     </div>
     <div class="w-100 pv2">
         <label for="dollarAmount">Amount</label>
