@@ -16,8 +16,7 @@ app.post('/payment', (req,res) => {
   stripe(STRIPE_SECRET_KEY).charges.create({
     amount: req.body.amount,
     currency: 'USD',
-    source: req.body.stripeToken, 
-    name: req.body.donorName,
+    source: req.body.stripeToken,
     receipt_email: req.body.email,
     description: req.body.description
   }, (err, charge) => {
