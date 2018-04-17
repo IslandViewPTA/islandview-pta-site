@@ -8,8 +8,8 @@
 
   <form name="colorrun-donation" id="colorrun-donation" class="pa2 w-30" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.run.webtask.io/ivepta-stripe-payment/payment" method="POST">
     <div class="w-100 pv2">
-      <label for="donorName">Name</label>
-      <input id="donorName" name="donorName" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
+      <label for="name">Name</label>
+      <input id="name" name="name" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
     </div>
     <div class="w-100 pv2">
       <label for="email">Email</label>
@@ -22,9 +22,9 @@
     
     <input type="hidden" name="stripeToken" id="stripeToken" value="">
     <input type="hidden" name="amount" id="amount" value="">
-    <input type="hidden" name="description" id="description" value="Color Run Donation for {{ .Params.sfname }} {{ .Params.slinitial }} - {{ .Params.teacher }} - {{ .Params.grade }}.">
+    <input type="hidden" name="description" id="description" value="">
 
-    <button id="donateButton" class="w-100 ba bw0 br2 mt2 ph3 pv2 dib gold bg-primary no-underline">Donate</button>
+    <button id="donateButton" class="f6 link glow br3 ph3 pv2 mb2 dib gold bg-primary">Donate to the Color Run</button>
     <div id="error_explanation"></div>
   </form>
 </div>
@@ -39,6 +39,9 @@ var handler = StripeCheckout.configure({
   description: 'Donation for {{ .Params.sfname }} {{ .Params.slinitial }}.',
   token: function(token) {
     $('input#stripeToken').val(token.id);
+    var donorname = $('input#name').val();
+    var descriptionstring = "Color Run Donation for {{ .Params.sfname }} {{ .Params.slinitial }} - {{ .Params.teacher }} - {{ .Params.grade }} from " + donorname;
+    $('input#description').val(descriptionstring);
     $('#colorrun-donation').submit();
   }
 });
@@ -47,18 +50,17 @@ $('#donateButton').on('click', function(e) {
   e.preventDefault();
 
   $('#error_explanation').html('');
-
-  var amount = $('input#dollarAmount').val();
   var email = $('input#email').val();
+  var name = $('input#name').val();
+  var amount = $('input#dollarAmount').val();
   amount = amount.replace(/\$/g, '').replace(/\,/g, '');
-
   amount = parseFloat(amount);
 
   if (isNaN(amount)) {
     $('#error_explanation').html("<p class='w-100 ba br2 center pa3 ma2 red bg-washed-red'>Please enter a whole dollar amount in USD ($).</p>");
   }
-  else if (amount < 5.00) {
-    $('#error_explanation').html("<p class='w-100 ba br2 center pa3 ma2 red bg-washed-red'>Donation amount must be at least $5.</p>");
+  else if (amount < 3.00) {
+    $('#error_explanation').html("<p class='w-100 ba br2 center pa3 ma2 red bg-washed-red'>Donation amount must be at least $3.</p>");
   }
   else {
     amount = amount * 100; // Needs to be an integer!
@@ -66,7 +68,8 @@ $('#donateButton').on('click', function(e) {
     $('input#amount').val(amount);
     handler.open({
       amount: amount,
-      email: email
+      email: email,
+      name: name
     });
   }
 });
