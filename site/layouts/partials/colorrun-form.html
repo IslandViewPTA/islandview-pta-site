@@ -50,7 +50,7 @@ $('#donateButton').on('click', function(e) {
 
   var amount = $('input#dollarAmount').val();
   var email = $('input#email').val();
-  amount = amount.replace(/\$/g, '').replace(/\,/g, '')
+  amount = amount.replace(/\$/g, '').replace(/\,/g, '');
 
   amount = parseFloat(amount);
 
