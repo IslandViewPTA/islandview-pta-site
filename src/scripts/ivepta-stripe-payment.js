@@ -17,7 +17,7 @@ app.post('/payment', (req,res) => {
     amount: req.body.amount,
     currency: 'USD',
     source: req.body.stripeToken, 
-    name: req.body.name,
+    name: req.body.donorName,
     receipt_email: req.body.email,
     description: req.body.description
   }, (err, charge) => {
