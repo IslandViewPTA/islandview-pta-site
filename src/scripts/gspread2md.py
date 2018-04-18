@@ -21,16 +21,18 @@ creds = ServiceAccountCredentials.from_json_keyfile_dict(jsondict, scope)
 client = gspread.authorize(creds)
 
 # Open the Google Sheet by ID.
-sheet = client.open_by_key("1KqNkSL6F8AVadHoTSgdyyuLiZ-DQ03XG2L2LRZ2sg2o").sheet1
+sheet1 = client.open_by_key("1KqNkSL6F8AVadHoTSgdyyuLiZ-DQ03XG2L2LRZ2sg2o").sheet1
+sheet2 = client.open_by_key("1XONZtMTfgtj8XsE38Ij7GTllXNXct_rA-6v0z-OfBxk").get_worksheet(1)
 
 # Extract all of the records for each row.
-sheetdata = sheet.get_all_records()
+sheetdata1 = sheet1.get_all_records()
+sheetdata2 = sheet2.get_all_records()
 
 # Set location to write new files to.
 outputpath = Path("site/content/colorrun/")
 
 # Loop through each row...
-for row_index, row in enumerate(sheetdata):
+for row_index, row in enumerate(sheetdata1):
   if row.get("approved") == "x":
     # Open a new file with filename based on the first column
     filename = row.get("sfname").lower().replace(" ", "-") + row.get("slinitial").lower().replace(" ", "-") + str(row.get("grade")).lower() + '.md'
@@ -53,7 +55,13 @@ for row_index, row in enumerate(sheetdata):
         cell_text = cell_heading + ': "' + str(val) + '"\n'
         # Add this line of text to the current YAML string.
         yaml_text += cell_text
-
+        
+    for student in sheetdata2:
+      if student["First Name"] == row.get("sfname") and student["Last"] == row.get("slinitial"):
+        yaml_text += 'online: "' + student["Online"] + '"\n'
+        yaml_text += 'envelope: "' + student["Envelope"] + '"\n'
+        yaml_text += 'total: "' + student["TOTAL"] + '"\n'
+      
     # Write our YAML string to the new text file and close it.
     new_yaml.write(yaml_text + "---\n")
     new_yaml.close()
