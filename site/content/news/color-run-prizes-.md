@@ -2,8 +2,7 @@
 title: Color Run PRIZES!
 date: 2018-04-18 13:48:25 -0700
 image: "/uploads/Website-Promo-Level-100.jpg"
-description: Check out the amazing Color Run prizes!
-draft: true
+description: Check out these amazing Color Run prizes!
 
 ---
 Turn in your collected donations by May 4, 2018 to be eligible for these awesome prizes!
