@@ -1,5 +1,6 @@
 ---
 pages:
+- news/color-run-online-donations-are-better-than-ever-.md
 - news/garden-work-party.md
 - news/i-love-to-read-month.md
 - news/vote-yes-for-anacortes-schools-.md
@@ -7,6 +8,7 @@ pages:
 - news/chocolate-fundraiser.md
 - news/new-pta-website.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
