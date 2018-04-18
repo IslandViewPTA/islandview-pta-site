@@ -1,7 +1,7 @@
 ---
 title: Color Run Fundraiser
 date: 2018-04-17 23:05:23 -0700
-image: "/uploads/Website-Promo-Level-100.jpg"
+image: "/uploads/Eagle-1200x630.jpg"
 description: 2018 Island View Color Run
 
 ---
