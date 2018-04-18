@@ -17,7 +17,7 @@ Step 1: Gather Donations
 
 Ask everyone you know: parents, grandparents, aunts, uncles, cousins – your whole family! Also, ask family friends and neighbors. Bring your fundraising envelope to sports practice, community events, dance classes, everywhere!
 
-You can even gather donations ONLINE! Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, visit [www.islandviewpta.org/colorrun]().
+You can even gather donations ONLINE! Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, visit [www.islandviewpta.org/colorrun](http://www.islandviewpta.org/colorrun "Online Donation Page").
 
 This is not a pledge event - all donations will be collected in advance. Checks can be made payable to Island View PTA.
 
