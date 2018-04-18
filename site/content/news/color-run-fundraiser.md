@@ -3,14 +3,13 @@ title: Color Run Fundraiser
 date: 2018-04-17 23:05:23 -0700
 image: "/uploads/Website-Promo-Level-100.jpg"
 description: 2018 Island View Color Run
-draft: true
 
 ---
 **Island View Color Run**
 
-Join us for a fun, MESSY fundraiser! 
+Join us for a fun, MESSY fundraiser!
 
-On Saturday, May 12, 2018, students and their families and friends will race around the school, stopping at stations on the track to get splattered with color. 
+On Saturday, May 12, 2018, students and their families and friends will race around the school, stopping at stations on the track to get splattered with color.
 
 ![Photo of colorful shoes after a Color Run](/uploads/Shoes-400-crop.jpg "We promise you will get MESSY!")
 
@@ -22,7 +21,7 @@ You can even gather donations ONLINE! Ask an adult to share your personal fundra
 
 This is not a pledge event - all donations will be collected in advance. Checks can be made payable to Island View PTA.
 
-![Sign up for a personalized donation page](/uploads/OnlineDonations.jpg "Sign up for a personalized donation page")
+![Sign up for a personalized donation page](/uploads/OnlineDonations-400.jpg "Sign up for a personalized donation page")
 
 Step 2: Send in collected donations to the PTA by **MAY 4, 2018**
 
