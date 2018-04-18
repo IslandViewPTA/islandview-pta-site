@@ -6,9 +6,7 @@ description: Check out the amazing Color Run prizes!
 draft: true
 
 ---
-We've got some amazing prizes for the Color Run! 
-
-Turn in your collected donations by May 4, 2018 to be eligible.
+Turn in your collected donations by May 4, 2018 to be eligible for these awesome prizes!
 
 If you raise $25:
 
@@ -24,4 +22,24 @@ If you raise $100:
 
 But wait... There's more!
 
-If you're one of the top 5 fundraisers:
+Top 5 fundraisers: Guest Assistant Principal
+
+![](/uploads/FB-CR-4-01-post.jpg)
+
+Top 20 fundraisers: Board Breaking Party from [Anacortes Soo Bahk Do](http://anacortessoobahkdo.com/ "Anacortes Soo Bahk Do")
+
+![](/uploads/FB-CR-7-01-post.jpg)
+
+Highest Earning Classroom: Class Party
+
+![](/uploads/FB-CR-6-01-post.jpg)
+
+Highest Classroom Participation: Kickball with Mr. Hanrahan
+
+![](/uploads/FB-CR-5-01-post.jpg)
+
+Remember: You must turn in your collected donations by May 4, 2018!
+
+Which prize will you win?? 
+
+Questions? Email president@islandviewpta.org
