@@ -11,19 +11,19 @@ Join us for a fun, MESSY fundraiser!
 
 On Saturday, May 12, 2018, students and their families and friends will race around the school, stopping at stations on the track to get splattered with color.
 
-![Photo of colorful shoes after a Color Run](/uploads/Shoes-400-crop.jpg "We promise you will get MESSY!")
-
 Step 1: Gather Donations
 
 Ask everyone you know: parents, grandparents, aunts, uncles, cousins – your whole family! Also, ask family friends and neighbors. Bring your fundraising envelope to sports practice, community events, dance classes, everywhere!
 
-You can even gather donations ONLINE! Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, visit [www.islandviewpta.org/colorrun]().
+{{< figure src="/uploads/Shoes-400-crop.jpg" title="We promise you will get MESSY!" class="ml5 mb3 w6">}}
+
+You can even gather donations ONLINE! Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, visit [www.islandviewpta.org/colorrun](www.islandviewpta.org/colorrun).
 
 This is not a pledge event - all donations will be collected in advance. Checks can be made payable to Island View PTA.
 
-![Sign up for a personalized donation page](/uploads/OnlineDonations-400.jpg "Sign up for a personalized donation page")
-
 Step 2: Send in collected donations to the PTA by **MAY 4, 2018**
+
+{{< figure src="/uploads/OnlineDonations-400.jpg" title="Sign up for a personalized donation page" class="ml5 mb3 w6">}}
 
 Bring in your donations to the PTA by May 4 to be eligible for AWESOME prizes!
 
@@ -33,6 +33,6 @@ Join us on **May 12, 2018** at **10:00 am** at Island View’s south playground 
 
 Friends and family can join in the fun for just $25 each! Their admission counts towards your fundraising goal!
 
-![](/uploads/FB-Jointhefun-sm.jpg "Friends and family can join in for just $25!")
+{{< figure src="/uploads/FB-Jointhefun-sm.jpg" class="ml5 mb3 w6">}}
 
 Scholarships are available! Email president@islandviewpta.org for details.
