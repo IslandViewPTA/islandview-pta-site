@@ -25,7 +25,7 @@ Step 2: Send in collected donations to the PTA by **MAY 4, 2018**
 
 {{< figure src="/uploads/OnlineDonations-400.jpg" title="Sign up for a personalized donation page" class="ml5 mb3 w6">}}
 
-Bring in your donations to the PTA by May 4 to be eligible for AWESOME prizes!
+Bring in your donations to the PTA by May 4 to be eligible for [AWESOME prizes!](https://www.islandviewpta.org/news/color-run-prizes-/ "Awesome prizes")
 
 Step 3: GET MESSY!
 
