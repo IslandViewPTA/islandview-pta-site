@@ -14,6 +14,6 @@ FIRST LEGO League Jr teams are forming now for the March-May 2018 season!
 
 Sign up now for your Island View Eagle (grades 1-4) to learn to build and program LEGO machines. Teams will meet once a week and then share their discoveries at local expos and showcases. 
 
-Find out more at [www.islandviewpta.org/lego](http://www.islandviewpta.org/lego)
+Find out more at [www.islandviewpta.org/lego](/lego)
 
 DEADLINE: February 2, 2018

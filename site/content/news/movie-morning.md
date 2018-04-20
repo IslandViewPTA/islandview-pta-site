@@ -19,7 +19,7 @@ Anacortes Cinemas
 
 \$10 for admission, small popcorn and small drink
 
-[Get your tickets online!](https://www.islandviewpta.org/movie "Movie Mornings")
+[Get your tickets online!](/movie "Movie Mornings")
 
 Tickets must be pre-purchased by Thursday, March 8th. Only 150 tickets are available, so get yours today!
 

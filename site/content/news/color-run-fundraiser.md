@@ -17,7 +17,7 @@ Ask everyone you know: parents, grandparents, aunts, uncles, cousins – your wh
 
 {{< figure src="/uploads/Shoes-400-crop.jpg" title="We promise you will get MESSY!" class="ml5 mb3 w6">}}
 
-You can even gather donations ONLINE! Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, visit [www.islandviewpta.org/colorrun](www.islandviewpta.org/colorrun).
+You can even gather donations ONLINE! Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, visit [www.islandviewpta.org/colorrun](/colorrun).
 
 This is not a pledge event - all donations will be collected in advance. Checks can be made payable to Island View PTA.
 
@@ -25,7 +25,7 @@ Step 2: Send in collected donations to the PTA by **MAY 4, 2018**
 
 {{< figure src="/uploads/OnlineDonations-400.jpg" title="Sign up for a personalized donation page" class="ml5 mb3 w6">}}
 
-Bring in your donations to the PTA by May 4 to be eligible for [AWESOME prizes!](https://www.islandviewpta.org/news/color-run-prizes-/ "Awesome prizes")
+Bring in your donations to the PTA by May 4 to be eligible for [AWESOME prizes!](/news/color-run-prizes-/ "Awesome prizes")
 
 Step 3: GET MESSY!
 
