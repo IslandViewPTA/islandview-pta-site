@@ -3,7 +3,6 @@ title: Yearbook Photos
 date: 2018-04-20 11:54:20 -0700
 description: Send your yearbook photos to yearbook@islandviewpta.org!
 image: "/uploads/Call For Candids-02-1.jpg"
-draft: true
 
 ---
 **Those kids are SO CUTE!** 
