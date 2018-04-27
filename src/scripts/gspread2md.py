@@ -43,7 +43,7 @@ for row_index, row in enumerate(sheetdata1):
     yaml_text = ""
     yaml_text += "---\n"
     yaml_text += "type: colorrun\n"
-    yaml_text += "image: https://www.islandviewpta.org/colorrun/eagle_paint.jpg\n"
+    yaml_text += "image: /colorrun/eagle_paint.jpg\n"
     
     # Set the Page title value.
     yaml_text += "title: Donation page for " + row.get("sfname") + " " + row.get("slinitial") + ".\n"
@@ -57,7 +57,7 @@ for row_index, row in enumerate(sheetdata1):
         yaml_text += cell_text
         
     for student in sheetdata2:
-      if student["First Name"] == row.get("sfname") and student["Last"] == row.get("slinitial"):
+      if student["First Name"] == row.get("sfname") and student["Last"] == row.get("slinitial") and student["Grade"] == row.get("grade"):
         yaml_text += 'online: "' + student["Online"] + '"\n'
         yaml_text += 'envelope: "' + student["Envelope"] + '"\n'
         yaml_text += 'total: "' + student["TOTAL"] + '"\n'
