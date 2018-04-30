@@ -3,7 +3,6 @@ title: Leaderboard Classroom Prizes
 date: 2018-04-30 13:08:18 -0700
 image: "/uploads/Web-CR-4-30-18-01-01-1.jpg"
 description: Help your classroom win prizes!
-draft: true
 
 ---
 **Island View Color Run Classroom Prizes**
