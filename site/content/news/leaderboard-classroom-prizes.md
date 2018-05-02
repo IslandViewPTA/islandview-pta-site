@@ -1,6 +1,6 @@
 ---
 title: Leaderboard Classroom Prizes
-date: 2001-02-01 00:00:00 -0800
+date: 2018-05-02 00:00:00 -0700
 image: "/uploads/Web-CR-4-30-18-01-01-1.jpg"
 description: Help your classroom win prizes!
 
