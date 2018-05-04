@@ -1,24 +1,23 @@
 ---
 title: Leaderboard Classroom Prizes
-date: 2018-04-30 13:08:18 -0700
+date: 2018-05-03 00:00:00 -0700
 image: "/uploads/Web-CR-4-30-18-01-01-1.jpg"
 description: Help your classroom win prizes!
 
 ---
 **Island View Color Run Classroom Prizes**
 
-_Updated: 4/30/2018_
+_Updated: 5/3/2018_
 
-Currently, **Ms. Holert**'s room is winning BOTH classroom prizes! 
+**Mr. Lincoln's class** now leads in BOTH classroom competitions! **38%** of Mr. Lincoln's students have raised a total of **$587** for the Color Run! 
 
-The classroom with the highest participation wins a game of kickball with Mr. Hanrahan! 
+Don't despair! There's still time! Donations are due by the end of the school day on **Friday, May 4.** 
 
-![](/uploads/Web-CR-4-30-18-participation-01.jpg)The classroom that raises the most money for the Color Run will win an ice cream party!
+![](/uploads/FB-CR-Leaderboard-5-3-18-01.jpg)
 
-![](/uploads/Web-CR-4-30-18-Donations-01.jpg)
+![](/uploads/FB-CR-Leaderboard-5-3-18-02.jpg)
 
-Note: We'll update these graphs throughout the week as students bring in their donations. The LAST day is Friday, May 4!
+Note: We'll update these graphs throughout the week as students bring in their donations. The **LAST** day is **Friday, May 4!**
 
-Updated: 4/30/2018  
 Island View PTA Color Run Fundraiser  
 [#colorrrun](https://www.facebook.com/hashtag/colorrrun?source=feed_text) [#islandviewcolorrun](https://www.facebook.com/hashtag/islandviewcolorrun?source=feed_text)
