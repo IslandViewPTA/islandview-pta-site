@@ -3,7 +3,6 @@ title: Color Days
 date: 2018-05-03 22:24:16 -0700
 image: "/uploads/Web-CR-colors-01-1.jpg"
 description: Show your excitement with different colors each day
-draft: true
 
 ---
 **Who is excited for the Color Run?** 
