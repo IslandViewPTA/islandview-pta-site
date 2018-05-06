@@ -3,7 +3,6 @@ title: COLOR RUN huge success
 date: 2018-05-05 20:52:59 -0700
 image: "/uploads/FB-Finals-01.jpg"
 description: Island View families raised $12,421 for the PTA!
-draft: true
 
 ---
 **Island View families are the BEST!!** I am so amazed by the overwhelming support from the families and staff at our school. 
