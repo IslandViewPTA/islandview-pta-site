@@ -6,3 +6,8 @@
 [context.deploy-preview]
   command = "npm run build-preview"
   HUGO_VERSION = "0.38.1"
+
+[[redirects]]
+  from = "/colorrun"
+  to = "/news/color-run-huge-success"
+  status = 302
