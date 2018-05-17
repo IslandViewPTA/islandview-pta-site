@@ -1,11 +1,11 @@
 [build]
   command = "npm run build"
   publish = "dist"
-  HUGO_VERSION = "0.38.1"
+  HUGO_VERSION = "0.40.3"
 
 [context.deploy-preview]
   command = "npm run build-preview"
-  HUGO_VERSION = "0.38.1"
+  HUGO_VERSION = "0.40.3"
 
 [[redirects]]
   from = "/colorrun"
