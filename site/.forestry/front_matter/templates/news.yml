@@ -1,24 +1,4 @@
 ---
-pages:
-- news/color-run-huge-success.md
-- news/color-days.md
-- news/golden-shoe-award.md
-- news/leaderboard-classroom-prizes.md
-- news/send-in-your-color-run-donations.md
-- news/spring-bike-maintenance-4-25-18.md
-- news/bogo-book-fair-4-23-18.md
-- news/yearbook-photos.md
-- news/t-shirts-by-design-donation-to-rachel-s-closet.md
-- news/color-run-prizes-.md
-- news/color-run-fundraiser.md
-- news/earth-day-garden-party.md
-- news/color-run-online-donations-are-better-than-ever-.md
-- news/garden-work-party.md
-- news/i-love-to-read-month.md
-- news/vote-yes-for-anacortes-schools-.md
-- news/november-pta-meeting---nov-15th-not-8th.md
-- news/chocolate-fundraiser.md
-- news/new-pta-website.md
 hide_body: false
 is_partial: false
 fields:
@@ -48,3 +28,24 @@ fields:
   type: text
   hidden: true
   default: news
+pages:
+- news/color-run-huge-success.md
+- news/color-days.md
+- news/golden-shoe-award.md
+- news/leaderboard-classroom-prizes.md
+- news/send-in-your-color-run-donations.md
+- news/spring-bike-maintenance-4-25-18.md
+- news/bogo-book-fair-4-23-18.md
+- news/yearbook-photos.md
+- news/t-shirts-by-design-donation-to-rachel-s-closet.md
+- news/color-run-prizes-.md
+- news/color-run-fundraiser.md
+- news/earth-day-garden-party.md
+- news/color-run-online-donations-are-better-than-ever-.md
+- news/garden-work-party.md
+- news/i-love-to-read-month.md
+- news/vote-yes-for-anacortes-schools-.md
+- news/november-pta-meeting---nov-15th-not-8th.md
+- news/chocolate-fundraiser.md
+- news/new-pta-website.md
+- event/order-yearbook.md
