@@ -14,4 +14,3 @@ Could you help serve lunch to our adorable Island View Eagles? [Click here to si
 
 Note: You need to be an approved school volunteer. Check with the Keiko McCracken to see if you need to fill out a form. kmccracken@asd103.org
 
-![](/uploads/BeckyBurch.jpg)
