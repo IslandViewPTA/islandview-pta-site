@@ -4,7 +4,6 @@ date: 2018-05-25 15:17:37 -0700
 image: "/uploads/FB-Lunch-01.jpg"
 description: Help is needed in the lunchroom while the 4th and 5th grade kitchen helpers
   are away on field trips.
-draft: true
 
 ---
 **Help! Our lunchroom is in a bit of a pickle!!**
