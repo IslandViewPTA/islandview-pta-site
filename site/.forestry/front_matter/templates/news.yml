@@ -29,6 +29,7 @@ fields:
   hidden: true
   default: news
 pages:
+- news/help-needed-in-the-lunchroom.md
 - news/color-run-huge-success.md
 - news/color-days.md
 - news/golden-shoe-award.md
