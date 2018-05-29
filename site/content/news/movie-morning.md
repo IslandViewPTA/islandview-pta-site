@@ -1,6 +1,6 @@
 ---
 date: 2018-05-28 00:00:00 -0700
-description: 'Family Fun Movie Morning:  Incredibles 2'
+description: Join us for the start of an INCREDIBLE summer at Anacortes Cinemas!
 end: 2018-06-16 12:30:00 -0700
 expirydate: 2018-06-16 11:00:00 -0700
 image: "/uploads/The-Incredibles-2-release-date.jpg"
