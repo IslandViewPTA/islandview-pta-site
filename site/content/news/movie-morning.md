@@ -1,27 +1,28 @@
 ---
-date: 2018-02-08 17:00:14 -0800
-description: 'Family Fun Movie Morning:  A Wrinkle in Time'
-end: 2018-03-10 12:30:00 -0800
-expirydate: 2018-03-10 11:00:00 -0800
-image: "/uploads/wrinkleintimeheader.jpg"
+date: 2018-05-28 00:00:00 -0700
+description: 'Family Fun Movie Morning:  Incredibles 2'
+end: 2018-06-16 12:30:00 -0700
+expirydate: 2018-06-16 11:00:00 -0700
+image: "/uploads/The-Incredibles-2-release-date.jpg"
 location: 415 O Ave, Anacortes, WA 98221
-publishdate: 2018-02-09 01:00:00 +0000
-start: 2018-03-10 10:30:00 -0800
+publishdate: 2018-05-28 17:00:00 -0700
+start: 2018-05-28 10:30:00 -0700
 title: Movie Morning - A Wrinkle in Time
 
 ---
-Join us for a fun movie morning to see A Wrinkle in Time on Saturday, March 10th at 10:30 a.m. at the Anacortes Cinemas.  For $10 you get admission to the movie, and a small popcorn and drink.
+**Join us for the start of an INCREDIBLE summer!**
 
-A Wrinkle in Time
-**Saturday, March 10, 2018 at 10:30 a.m.**  
-Anacortes Cinemas  
-\(Doors open at 10am)
+Incredibles 2 - Opening Day!
 
-\$10 for admission, small popcorn and small drink
+Tickets are $10 for admission, a small popcorn and a small drink.
 
-[Get your tickets online!](/movie "Movie Mornings")
+**ONLY 150 TICKETS AVAILABLE!** Purchase tickets [instantly online here](www.islandviewpta.org/movie "Purchase movie tickets online"), or download this [PDF FORM](https://drive.google.com/file/d/1jIWQ8WSnhEmYpO-CB-6v4roTxHk1cp63/view?usp=sharing) and drop it off with your payment.
 
-Tickets must be pre-purchased by Thursday, March 8th. Only 150 tickets are available, so get yours today!
+Friday, June 15, 2018 at 10:00 am  
+\(Doors open at 9:30 am)  
+[Anacortes Cinemas](http://farawayentertainment.com/location/anacortes-cinemas/)
+
+Students must be accompanied by an adult. This is not a drop-off event. Watch the [Incredibles 2 Movie Trailer](https://youtu.be/UhZ56rcWwRQ) here!
 
 BRING YOUR FRIENDS!  This event is open to ALL!
 
