@@ -11,7 +11,7 @@ type: movie
 callToAction: true
 
 ---
-## The Incredibles
+## The Incredibles 2
 
 ![](/uploads/The-Incredibles-2-release-date.jpg)
 
