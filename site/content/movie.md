@@ -11,11 +11,11 @@ type: movie
 callToAction: true
 
 ---
-## The Incredibles 2
+## Incredibles 2
 
 ![](/uploads/The-Incredibles-2-release-date.jpg)
 
-**Join us for OPENING DAY of The Incredibles 2!**
+**Join us for OPENING DAY of Incredibles 2!**
 
 Tickets are $10 for admission, a small popcorn and a small drink. Purchase tickets instantly using the form below, or download this [PDF FORM](https://drive.google.com/file/d/1jIWQ8WSnhEmYpO-CB-6v4roTxHk1cp63/view?usp=sharing) and drop it off with your payment.
 
