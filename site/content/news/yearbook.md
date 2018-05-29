@@ -3,7 +3,6 @@ title: Not too late for yearbook orders
 date: 2018-05-29 12:30:41 -0700
 description: It's not too late to order your yearbook!
 image: "/uploads/FB-NotTooLate-01.jpg"
-draft: true
 
 ---
 **It's not too late to order your yearbook!**
