@@ -7,7 +7,7 @@ image: "/uploads/The-Incredibles-2-release-date.jpg"
 location: 415 O Ave, Anacortes, WA 98221
 publishdate: 2018-05-28 17:00:00 -0700
 start: 2018-05-28 10:30:00 -0700
-title: Movie Morning - A Wrinkle in Time
+title: Movie Morning - Incredibles 2
 
 ---
 **Join us for the start of an INCREDIBLE summer!**
