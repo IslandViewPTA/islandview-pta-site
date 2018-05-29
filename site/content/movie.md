@@ -11,22 +11,20 @@ type: movie
 callToAction: true
 
 ---
-**Join us for OPENING DAY of The Incredibles 2!** 
+## The Incredibles
 
-Tickets are $10 for admission, a small popcorn and a small drink. Purchase tickets instantly using the form below, or download this [PDF FORM](https://drive.google.com/file/d/1jIWQ8WSnhEmYpO-CB-6v4roTxHk1cp63/view?usp=sharing) and drop it off with your payment. 
+![](/uploads/The-Incredibles-2-release-date.jpg)
 
-**ONLY 150 TICKETS AVAILABLE!** 
+**Join us for OPENING DAY of The Incredibles 2!**
+
+Tickets are $10 for admission, a small popcorn and a small drink. Purchase tickets instantly using the form below, or download this [PDF FORM](https://drive.google.com/file/d/1jIWQ8WSnhEmYpO-CB-6v4roTxHk1cp63/view?usp=sharing) and drop it off with your payment.
+
+**ONLY 150 TICKETS AVAILABLE!**
 
 Friday, June 15, 2018 at 10:00 am  
 \(Doors open at 9:30 am)  
 [Anacortes Cinemas](http://farawayentertainment.com/location/anacortes-cinemas/)
 
-Students must be accompanied by an adult. This is not a drop-off event. 
+Students must be accompanied by an adult. This is not a drop-off event. Watch the [Incredibles 2 Movie Trailer](https://youtu.be/UhZ56rcWwRQ) here!
 
 If you have any questions, please do not hesitate to contact: [President - Christy Fischer](mailto:president@islandviewpta.org) or [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org)
-
-## The Incredibles
-
-![](/uploads/Incredibles-FB.jpg)
-
-Watch the [Incredibles 2 Movie Trailer](https://youtu.be/UhZ56rcWwRQ) here!
