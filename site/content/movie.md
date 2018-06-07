@@ -4,7 +4,7 @@ date: 2018-05-28 16:54:00 -0700
 subtitle: Kick off the first day of summer with a movie!
 description: Enjoy a family fun movie and treats while raising funds for the Island
   View PTA.
-image: "/img/movie/Anacortes_Cinemas_01.jpg"
+image: "/uploads/Incredibles.jpg"
 imageLink: https://commons.wikimedia.org/wiki/File:Anacortes_Cinemas_01.jpg
 imageCredit: Photo by Joe Mabel
 type: movie
