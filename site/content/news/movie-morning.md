@@ -1,12 +1,12 @@
 ---
-date: 2018-05-28 00:00:00 -0700
+date: 2018-06-06 00:00:00 -0700
 description: Join us for the start of an INCREDIBLE summer at Anacortes Cinemas!
-end: 2018-06-16 12:30:00 -0700
-expirydate: 2018-06-16 11:00:00 -0700
+end: 2018-06-16 19:30:00 +0000
+expirydate: 2018-06-16 18:00:00 +0000
 image: "/uploads/The-Incredibles-2-release-date.jpg"
 location: 415 O Ave, Anacortes, WA 98221
-publishdate: 2018-05-28 17:00:00 -0700
-start: 2018-05-28 10:30:00 -0700
+publishdate: 2018-06-06 17:00:00 -0700
+start: 2018-06-06 10:30:00 -0700
 title: Movie Morning - Incredibles 2
 
 ---
