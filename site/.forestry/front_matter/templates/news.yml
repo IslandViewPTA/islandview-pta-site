@@ -29,6 +29,7 @@ fields:
   hidden: true
   default: news
 pages:
+- news/thank-you-to-bananabelt-boats.md
 - news/thank-you-to-anacortes-soo-bahk-do.md
 - news/yearbook.md
 - news/help-needed-in-the-lunchroom.md
