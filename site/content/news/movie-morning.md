@@ -16,8 +16,6 @@ Incredibles 2 - Opening Day!
 
 Tickets are $10 for admission, a small popcorn and a small drink.
 
-**ONLY 150 TICKETS AVAILABLE!** [Purchase tickets instantly online here](https://www.islandviewpta.org/movie "Island View PTA Movie Mornings"), or download this [PDF FORM](https://drive.google.com/file/d/1jIWQ8WSnhEmYpO-CB-6v4roTxHk1cp63/view?usp=sharing) and drop it off with your payment.
-
 Friday, June 15, 2018 at 10:00 am  
 \(Doors open at 9:30 am)  
 [Anacortes Cinemas](http://farawayentertainment.com/location/anacortes-cinemas/)
