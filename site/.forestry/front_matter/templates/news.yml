@@ -1,4 +1,5 @@
 ---
+label: News
 hide_body: false
 is_partial: false
 fields:
@@ -29,26 +30,27 @@ fields:
   hidden: true
   default: news
 pages:
-- news/yearbook.md
-- news/color-run-huge-success.md
-- news/leaderboard-classroom-prizes.md
-- news/send-in-your-color-run-donations.md
-- news/spring-bike-maintenance-4-25-18.md
-- news/bogo-book-fair-4-23-18.md
-- news/color-run-prizes-.md
-- news/earth-day-garden-party.md
-- news/color-run-fundraiser.md
-- news/color-run-online-donations-are-better-than-ever-.md
-- news/garden-work-party.md
-- news/i-love-to-read-month.md
-- news/november-pta-meeting---nov-15th-not-8th.md
-- news/thank-you-to-bananabelt-boats.md
-- news/thank-you-to-anacortes-soo-bahk-do.md
-- news/help-needed-in-the-lunchroom.md
-- news/t-shirts-by-design-donation-to-rachel-s-closet.md
-- news/color-days.md
-- news/chocolate-fundraiser.md
-- news/vote-yes-for-anacortes-schools-.md
-- news/new-pta-website.md
-- news/golden-shoe-award.md
-- news/yearbook-photos.md
+- site/content/news/2018-2019-school-supplies.md
+- site/content/news/thank-you-to-anacortes-soo-bahk-do.md
+- site/content/news/help-needed-in-the-lunchroom.md
+- site/content/news/chocolate-fundraiser.md
+- site/content/news/new-pta-website.md
+- site/content/news/vote-yes-for-anacortes-schools-.md
+- site/content/news/yearbook.md
+- site/content/news/color-run-huge-success.md
+- site/content/news/leaderboard-classroom-prizes.md
+- site/content/news/send-in-your-color-run-donations.md
+- site/content/news/spring-bike-maintenance-4-25-18.md
+- site/content/news/bogo-book-fair-4-23-18.md
+- site/content/news/color-run-prizes-.md
+- site/content/news/earth-day-garden-party.md
+- site/content/news/color-run-fundraiser.md
+- site/content/news/color-run-online-donations-are-better-than-ever-.md
+- site/content/news/garden-work-party.md
+- site/content/news/november-pta-meeting---nov-15th-not-8th.md
+- site/content/news/i-love-to-read-month.md
+- site/content/news/thank-you-to-bananabelt-boats.md
+- site/content/news/t-shirts-by-design-donation-to-rachel-s-closet.md
+- site/content/news/color-days.md
+- site/content/news/golden-shoe-award.md
+- site/content/news/yearbook-photos.md

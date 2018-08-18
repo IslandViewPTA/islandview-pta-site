@@ -3,7 +3,27 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/editor/"
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: site/content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: site/content/colorrun
+  label: Colorrun
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/news
+  label: News
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/event
+  label: Event
+  create: all
+  match: "**/*"
 upload_dir: site/static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
