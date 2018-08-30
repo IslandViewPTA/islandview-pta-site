@@ -14,7 +14,7 @@ type: page
 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA.
 
-Meet the 2017-2018 Board:
+Meet the 2018-2019 Board:
 
 **President**:
 Christy Fischer
