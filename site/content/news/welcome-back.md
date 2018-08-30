@@ -3,7 +3,6 @@ title: Welcome back!
 date: 2018-08-29 23:05:50 -0700
 description: Welcome back to Island View!
 image: "/uploads/FB-Welcome Back-01.jpg"
-draft: true
 
 ---
 ## **Welcome back to Island View!**
