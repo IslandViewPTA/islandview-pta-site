@@ -25,7 +25,7 @@ Teachers will be working hard to prepare their classrooms for students the day b
 
 September 5, 2018, 3:30-5:00 pm
 
-Come meet your teachers and drop off some of your school supplies before school starts. It's also a great time to stop by the PTA table and pick up a membership form, but you can get a head start by joining the PTA online at [www.islandviewpta.com/membership](www.islandviewpta.org/membership "Island View PTA Membership"). Your membership fee is tax deductible and it's a wonderful way to get involved in your school.
+Come meet your teachers and drop off some of your school supplies before school starts. It's also a great time to stop by the PTA table and pick up a membership form, but you can get a head start by joining the PTA online at [www.islandviewpta.com/membership](https://www.islandviewpta.org/membership "Island View PTA Membership"). Your membership fee is tax deductible and it's a wonderful way to get involved in your school.
 
 **Kindergarten Coffee**
 
