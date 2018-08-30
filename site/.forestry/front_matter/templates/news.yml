@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/pta-meeting-september-12-2018.md
 - site/content/news/2018-2019-school-supplies.md
 - site/content/news/thank-you-to-anacortes-soo-bahk-do.md
 - site/content/news/help-needed-in-the-lunchroom.md
