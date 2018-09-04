@@ -15,12 +15,12 @@
 
   <form name="pta-donation" id="pta-donation" class="pa2 w-30" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.sandbox.auth0-extend.com/ivepta-stripe-payment/payment" method="POST">
     <div class="w-100 pv2">
-      <label for="name">Name</label>
-      <input id="name" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
+      <label for="donorname">Name</label>
+      <input id="donorname" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
     </div>
     <div class="w-100 pv2">
-      <label for="email">Email</label>
-      <input id="email" type="email" placeholder="Primary Email Address" required="" autocomplete="email">
+      <label for="donoremail">Email</label>
+      <input id="donoremail" type="email" placeholder="Primary Email Address" required="" autocomplete="email">
     </div>
     <div class="w-100 pv2">
         <label for="dollarAmount">Amount</label>
@@ -51,9 +51,9 @@ var handler = StripeCheckout.configure({
   description: 'Chocolate Fundraiser, Buy Out Donation.',
   token: function(token) {
     $('input#stripeToken').val(token.id);
-    var donorname = $('input#name').val();
+    var donorname = $('input#donorname').val();
     var credit = $('input#creditTo').val();
-    var descriptionstring = "PTA Donation from " + donorname + " for " + credit + ".";
+    var descriptionstring = "Chocolate Buy Out from " + donorname + " for " + credit + ".";
     $('input#description').val(descriptionstring);
     $('#pta-donation').submit();
   }
@@ -63,8 +63,8 @@ $('#donateButton').on('click', function(e) {
   e.preventDefault();
 
   $('#error_explanation').html('');
-  var email = $('input#email').val();
-  var name = $('input#name').val();
+  var email = $('input#donoremail').val();
+  var name = $('input#donorname').val();
   var amount = $('input#dollarAmount').val();
   amount = amount.replace(/\$/g, '').replace(/\,/g, '');
   amount = parseFloat(amount);
