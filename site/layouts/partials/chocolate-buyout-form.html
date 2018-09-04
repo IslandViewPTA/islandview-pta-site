@@ -26,6 +26,10 @@
         <label for="dollarAmount">Amount</label>
         <input id="dollarAmount" type="text" placeholder="$ to Donate" required="">
     </div>
+    <div class="w-100 pv2">
+        <label for="creditTo">Credit this Donation to:</label>
+        <input id="creditTo" type="text" placeholder="Student & Teacher Name" required="">
+    </div>
     
     <input type="hidden" name="stripeToken" id="stripeToken" value="">
     <input type="hidden" name="amount" id="amount" value="">
@@ -48,7 +52,8 @@ var handler = StripeCheckout.configure({
   token: function(token) {
     $('input#stripeToken').val(token.id);
     var donorname = $('input#name').val();
-    var descriptionstring = "PTA Donation from " + donorname;
+    var credit = $('input#creditTo').val();
+    var descriptionstring = "PTA Donation from " + donorname + " for " + credit + ".";
     $('input#description').val(descriptionstring);
     $('#pta-donation').submit();
   }
