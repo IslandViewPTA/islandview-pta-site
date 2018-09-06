@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/movie-morning-small-foot.md
 - site/content/news/color-run-fundraiser.md
 - site/content/news/spring-bike-maintenance-4-25-18.md
 - site/content/news/color-run-online-donations-are-better-than-ever-.md
