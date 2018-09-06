@@ -9,7 +9,6 @@ imageLink: ''
 imageCredit: ''
 type: movie
 callToAction: true
-draft: true
 
 ---
 ## Small Foot
