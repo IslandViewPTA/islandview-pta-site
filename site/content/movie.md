@@ -1,10 +1,10 @@
 ---
 title: Movie Mornings
-date: 2018-05-28 16:54:00 -0700
-subtitle: Kick off the first day of summer with a movie!
+date: 2018-09-06 00:00:00 -0700
+subtitle: School's out... Movie's ON!
 description: Enjoy a family fun movie and treats while raising funds for the Island
   View PTA.
-image: "/uploads/Incredibles.jpg"
+image: "/uploads/Smallfoot-Official-Movie-Trailer color.png"
 imageLink: ''
 imageCredit: ''
 type: movie
@@ -12,24 +12,24 @@ callToAction: true
 draft: true
 
 ---
-## Incredibles 2
+## Small Foot
 
-![](/uploads/The-Incredibles-2-release-date.jpg)
+![](/uploads/Smallfoot-Official-Movie-Trailer color.png)
 
-**Join us for the start of an INCREDIBLE summer!**
+**School's out... Movie's on!**
 
-Incredibles 2 - Opening Day!
+Small Foot - Opening Day!
 
 Tickets are $10 for admission, a small popcorn and a small drink.
 
-**ONLY 150 TICKETS AVAILABLE!** Purchase tickets instantly using the form below, or download this [PDF FORM](https://drive.google.com/file/d/1jIWQ8WSnhEmYpO-CB-6v4roTxHk1cp63/view?usp=sharing) and drop it off with your payment.
+**ONLY 150 TICKETS AVAILABLE!** Purchase tickets instantly using the form below, or download this [PDF FORM](https://drive.google.com/file/d/1VEvT7wnYb9eCHuqgrjxSotVnAmhv_dsZ/view?usp=sharing) and drop it off with your payment.
 
 Friday, June 15, 2018 at 10:00 am  
-\(Doors open at 9:30 am)  
+(Doors open at 9:30 am)  
 [Anacortes Cinemas](http://farawayentertainment.com/location/anacortes-cinemas/)
 
-Students must be accompanied by an adult. This is not a drop-off event. Watch the [Incredibles 2 Movie Trailer](https://youtu.be/UhZ56rcWwRQ) here! 
+Students must be accompanied by an adult. This is not a drop-off event. Watch the [Small Foot movie trailer](https://youtu.be/uBw6EvIxIS8) here!
 
-BRING YOUR FRIENDS!  This event is open to ALL! 
+BRING YOUR FRIENDS!  This event is open to ALL!
 
 If you have any questions, please do not hesitate to contact: [President - Christy Fischer](mailto:president@islandviewpta.org) or [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org)
