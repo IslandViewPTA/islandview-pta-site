@@ -235,3 +235,16 @@ h2 {
 h3 {
   @inherit: .f4, .mb1, .b, .lh-title, .primary;
 }
+
+
+.pagination {
+  @inherit: .list, .flex, .center;
+}
+
+.pagination li {
+    @inherit: .mt4, .mb2;
+}
+
+.pagination li a {
+  @inherit: .f6, .ba, .bw0, .br2, .ph3, .pv2, .bg-primary, .gold, .center, .link;
+}
