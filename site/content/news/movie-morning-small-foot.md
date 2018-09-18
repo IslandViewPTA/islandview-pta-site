@@ -4,7 +4,6 @@ date: 2018-09-12 19:03:50 +0000
 description: School's out... Movie's On!
 image: "/uploads/Smallfoot-Official-Movie-Trailer color.png"
 type: ''
-draft: true
 
 ---
 **School's out... Movie's on!**
