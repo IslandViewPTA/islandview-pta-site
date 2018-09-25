@@ -3,7 +3,6 @@ title: World's Finest Chocolate Fundraiser
 date: 2018-09-25 12:09:21 -0700
 description: Island View's fundraiser is off to a great start!
 image: "/uploads/Website-Chocolate-01.jpg"
-draft: true
 
 ---
 **Island View PTA's fundraiser is off to a fantastic start!**
