@@ -30,7 +30,7 @@ The Island View PTA will hold their monthly meetings on the **FIRST Wednesday** 
 
 Please click the blue buttons below to read our newsletters.
 
-{{< nl-btn month="SEP" link="#" >}}
+{{< nl-btn month="SEP" link="https://drive.google.com/a/islandviewpta.org/file/d/17g_1mN9RVFpSzL8OK4T5cR8xeeKG_oU5/view?usp=drivesdk" >}}
 {{< nl-btn month="OCT" link="#" >}}
 {{< nl-btn month="NOV" link="#" >}}
 {{< nl-btn month="DEC" link="#" >}}
