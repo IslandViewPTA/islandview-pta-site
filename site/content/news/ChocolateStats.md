@@ -9,7 +9,7 @@ image: "/uploads/Website-Chocolate-01.jpg"
 
 As of 9/25/18, our school has raised $6,512 of our $18,000 goal!
 
-![](/uploads/Web-Chocolate-09-25-18-01.jpg)
+![](/uploads/Website-Chocolate-9-25-18-test-04.jpg)
 
 Ms. Frost's class held their lead for another day in the Classroom Sales competition with $782. The classroom that brings in the most money wins an enormously delicious 5 pound chocolate bar to share with the class!
 
