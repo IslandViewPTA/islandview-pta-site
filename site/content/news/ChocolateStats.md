@@ -1,9 +1,9 @@
 ---
-title: World's Finest Chocolate Fundraiser
-date: 2018-09-25 12:09:21 -0700
-description: Island View's fundraiser is off to a great start!
+title: Island View PTA Chocolate Fundraiser Stats
+date: 2018-09-25 12:45:51 -0700
+description: Island View PTA World's Finest Chocolate fundraiser is off to a great
+  start!
 image: "/uploads/Website-Chocolate-01.jpg"
-draft: true
 
 ---
 **Island View PTA's fundraiser is off to a fantastic start!**
@@ -19,5 +19,7 @@ Ms. Frost's class held their lead for another day in the Classroom Sales competi
 ![](/uploads/Web-Chocolate-09-25-18-02.jpg)
 
 Ms. Shainin's class currently leads the Classroom Participation competition with 70% of students helping to sell chocolate bars. Ms. Slagle and Ms. Frost are close behind with 67% each! The winner will get a game of kickball with Mr. Hanrahan.
+
+It's not too late to join the fun! To request your box of chocolate, register online at [www.islandviewpta.org/chocolate](https://www.islandviewpta.org/chocolate "Island View PTA World's Finest Chocolate Fundraiser").
 
 Check back daily for updates!
