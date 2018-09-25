@@ -7,6 +7,8 @@ image: "/uploads/Website-Chocolate-01.jpg"
 ---
 **Island View PTA's fundraiser is off to a fantastic start!**
 
+![](/uploads/Web-Chocolate-09-25-18-01.jpg)
+
 As of 9/25/18, our school has raised $6,512 of our $18,000 goal!
 
 ![](/uploads/Web-Chocolate-09-25-18-03.jpg)
