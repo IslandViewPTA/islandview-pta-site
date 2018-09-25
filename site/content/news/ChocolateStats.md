@@ -2,7 +2,7 @@
 title: Island View PTA World's Finest Chocolate Fundraiser
 date: 2018-09-25 12:45:51 -0700
 description: Check back daily for fundraiser updates!
-image: "/uploads/Website-Chocolate-01.jpg"
+image: "/uploads/Website-Chocolate-9-25-18_TotalSales.jpg"
 
 ---
 **Island View PTA's fundraiser is off to a fantastic start!**
