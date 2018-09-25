@@ -19,4 +19,4 @@ Ms. Shainin's class currently leads the Classroom Participation competition with
 
 It's not too late to join the fun! To request your box of chocolate, register online at [www.islandviewpta.org/chocolate](https://www.islandviewpta.org/chocolate "Island View PTA World's Finest Chocolate Fundraiser").
 
-Check back daily for updates!![](/uploads/Website-Chocolate-9-25-18_TotalSales.jpg)
+Check back daily for updates!
