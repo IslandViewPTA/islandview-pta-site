@@ -7,7 +7,7 @@ image: "/uploads/Website-Chocolate-01.jpg"
 ---
 **Island View PTA's fundraiser is off to a fantastic start!**
 
-As of 9/25/18, our school has raised $6,512 of our $18,000 goal!
+As of 9/25/18, our school has raised $6,512 of our $18,000 goal! 
 
 Ms. Frost's class held their lead for another day in the Classroom Sales competition with $782. The classroom that brings in the most money wins an enormously delicious 5 pound chocolate bar to share with the class!
 
