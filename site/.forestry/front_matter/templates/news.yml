@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/ChocolateStats.md
 - site/content/news/movie-morning-small-foot.md
 - site/content/news/color-run-fundraiser.md
 - site/content/news/leaderboard-classroom-prizes.md
