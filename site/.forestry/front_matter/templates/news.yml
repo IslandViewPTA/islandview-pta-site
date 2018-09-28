@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/sample-text-for-movie-morning-page.md
 - site/content/news/ChocolateStats.md
 - site/content/news/ChocolateStats.md
 - site/content/news/movie-morning-small-foot.md
