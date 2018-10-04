@@ -3,7 +3,6 @@ title: Book Wrapping Help Need in the Island View Library
 date: 2018-10-04 12:59:38 -0700
 description: Help us get those books on the shelves!
 image: "/uploads/Wrapping-01.jpg"
-draft: true
 
 ---
 ### (W)rappers wanted!
@@ -22,7 +21,7 @@ Can you help with library needs?
 
 Ms. Davis needs help from a few volunteers
 
-Stop by anytime for some book wrapping cheers!
+Stop by anytime for some library cheers!
 
 Ok, so that wasn't the kind of (w)rapping Ms. Davis requested... Before books can be checked out by your students, they must be wrapped in a protective cover. Ms. Davis has a TON of books ready to be wrapped and put on the shelves. 
 
