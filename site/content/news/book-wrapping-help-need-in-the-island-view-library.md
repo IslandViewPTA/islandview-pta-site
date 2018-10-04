@@ -23,7 +23,7 @@ Ms. Davis needs help from a few volunteers
 
 Stop by anytime for some library cheers!
 
-Ok, so that wasn't the kind of (w)rapping Ms. Davis requested... Before books can be checked out by your students, they must be wrapped in a protective cover. Ms. Davis has a TON of books ready to be wrapped and put on the shelves. 
+Ok, so that wasn't the kind of (w)rapping our librarian Ms. Davis requested... Before books can be checked out by your students, they must be wrapped in a protective cover. Ms. Davis has a TON of books ready to be wrapped and put on the shelves. 
 
 #### How can you help?
 
