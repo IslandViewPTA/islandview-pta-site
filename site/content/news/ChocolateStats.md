@@ -2,7 +2,7 @@
 title: Island View PTA World's Finest Chocolate Fundraiser
 date: 2018-10-03 09:45:00 -0700
 description: Check back daily for fundraiser updates!
-image: "/uploads/Website-Chocolate-10-3-18_TotalSales.jpg"
+image: ''
 
 ---
 **Island View PTA's fundraiser is off to a fantastic start!**
@@ -13,11 +13,7 @@ Because of the wild success students have had selling chocolate bars at the Satu
 
 _(Reminder: Deliver your money envelopes to the PTA office or the PTA drop box. Please don't give them to your teacher.)_
 
-![](/uploads/Website-Chocolate-10-3-18_Classroom.jpg)
-
 Ms. Frost's class continues to lead the competition with $1,502! Ms. Wedul's class has moved into 2nd place with $1,080 - can her class close the gap by Monday? The classroom that brings in the most money wins an enormously delicious 5 pound chocolate bar to share with the class!
-
-![](/uploads/Website-Chocolate-10-3-18_Participation.jpg)
 
 Ms. Frost's class is also leading the school in the Classroom Participation competition with 72% of students helping to sell chocolate bars. Ms. Shainin and Ms. Slagle are close behind! The winning class will get a game of kickball with Mr. Hanrahan!
 
