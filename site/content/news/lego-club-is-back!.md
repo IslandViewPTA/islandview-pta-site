@@ -3,7 +3,6 @@ title: Lego Club is back!
 date: 2018-10-04 12:24:11 -0700
 description: Free-build Legos with your friends and Island View PTA
 image: "/uploads/LegoClubWebsiteAnnouncement-01.jpg"
-draft: true
 
 ---
 ## **Lego Club is back!**
