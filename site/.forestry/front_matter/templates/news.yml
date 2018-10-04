@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/book-wrapping-help-need-in-the-island-view-library.md
 - site/content/news/lego-club-is-back!.md
 - site/content/news/sample-text-for-movie-morning-page.md
 - site/content/news/ChocolateStats.md
