@@ -5,7 +5,7 @@ description: Thank you for making our fundraiser a success!
 image: "/uploads/Website-Chocolate-10-9-18-04.jpg"
 
 ---
-**Island View PTA's fundraiser is a smashing sucess!**
+### **Island View PTA's fundraiser is a smashing success!**
 
 Our fundraiser officially wrapped up on Monday and it was a HUGE success!
 
@@ -45,6 +45,8 @@ The student who sells the most chocolate will win this gigantic teddybear! This 
 
 ### Top 3 Sellers
 
-The top 3 sellers in our World's Finest Chocolate Fundraiser get gift certificates to San Juan Lanes Bar and Grill!
+![](/uploads/Website-Chocolate-10-9-18-06.jpg)
 
-Check back daily for updates!
+The top 3 sellers in our World's Finest Chocolate Fundraiser get gift certificates to San Juan Lanes Bar and Grill! These students will also be announced at the assembly next week.
+
+Thank you to all of our wonderful teachers and parents for supporting students in this fundraiser. You make this PTA amazing!
