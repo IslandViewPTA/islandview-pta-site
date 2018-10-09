@@ -1,22 +1,44 @@
 ---
 title: Island View PTA World's Finest Chocolate Fundraiser
 date: 2018-10-04 09:45:00 -0700
-description: Check back daily for fundraiser updates!
-image: ''
+description: Thank you for making our fundraiser a success!
+image: "/uploads/Website-Chocolate-10-9-18-04.jpg"
 
 ---
-**Island View PTA's fundraiser is off to a fantastic start!**
+**Island View PTA's fundraiser is a smashing sucess!**
 
-As of 10/4/18, our school has raised $13,595 of our $18,000 goal! We're so close to reaching our goal! Let's keep that momentum going!
+Our fundraiser officially wrapped up on Monday and it was a HUGE success! 
 
-Because of the wild success students have had selling chocolate bars at the Soccerday - I mean, Saturday - soccer games, we've decided to extend the deadline to **MONDAY, OCTOBER 8, 2018.**
+Our goal of $18,000 was pretty high. In fact, it was higher than we've ever reached for this fundraiser! As one of our two major fundraisers of the year, we had to make this one a success. 
 
-_(Reminder: Deliver your money envelopes to the PTA office or the PTA drop box. Please don't give them to your teacher.)_
+As of 10/9/18, Island View students raised a whopping $21,891! That money will pay for SO MUCH at our school!  
 
-Ms. Frost's class continues to lead the competition with $1,502! Ms. Holmes's class has jumped up to $1,260, and Ms. Wedul and Ms. Dale are close behind! The classroom that brings in the most money wins an enormously delicious 5 pound chocolate bar to share with the class!
+(If you haven't turned in your money and unsold chocolate bars yet, please do so as soon as possible! We can't return opened boxes for a refund, so please try to sell as many of the bars as you can.)
 
-Ms. Frost's class is also leading the school in the Classroom Participation competition with 72% of students helping to sell chocolate bars. Ms. Shainin and Ms. Slagle are close behind! The winning class will get a game of kickball with Mr. Hanrahan!
+Classrooms participated in 2 competitions: 
 
-It's not too late to join the fun! To request your box of chocolate, register online at [www.islandviewpta.org/chocolate](https://www.islandviewpta.org/chocolate "Island View PTA World's Finest Chocolate Fundraiser").
+### Highest Classroom Participation
+
+Ms. Frost's class lead the school with 72% of students selling chocolates. Because they had the highest participation rate, they will get to play a game of kickball with Mr. Hanrahan!
+
+![](/uploads/Website-Chocolate-10-9-18_Participation.jpg)
+
+### Highest Classroom Sales
+
+The classroom that brings in the most money wins an enormously delicious 5 pound chocolate bar to share with the class! Ms. Frost's students brought in $2,222! 
+
+Congratulations to Ms. Frost's class!
+
+![](/uploads/Website-Chocolate-10-9-18_Classroom.jpg)
+
+But wait, there's more!
+
+### Sell 1 Box of Chocolate
+
+Students who sold at least 1 box of chocolate will receive an invitation to bring their family to a special movie screening! We are still finalizing a few of the details and will have more information for families soon. 
+
+Top Seller
+
+The top 
 
 Check back daily for updates!
