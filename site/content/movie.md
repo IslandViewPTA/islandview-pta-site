@@ -13,6 +13,6 @@ callToAction: true
 ---
 ## Movie Mornings with Island View PTA
 
-Check back soon for ticket information for our next movie morning!
+Check back soon for ticket information for our next movie mornings!
 
 If you have any questions, please do not hesitate to contact: [President - Christy Fischer](mailto:president@islandviewpta.org) or [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org)
