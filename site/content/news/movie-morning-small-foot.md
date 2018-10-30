@@ -2,7 +2,7 @@
 title: Movie Morning
 date: 2018-10-30 12:03:00 -0700
 description: Join us for a fun movie morning!
-image: "/uploads/MM-GrindleRalph-01.jpg"
+image: ''
 type: ''
 
 ---
