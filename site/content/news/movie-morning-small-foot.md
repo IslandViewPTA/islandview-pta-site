@@ -10,7 +10,7 @@ type: ''
 
 Bring your friends to Anacortes Cinemas for special movie screening!
 
-> Fantastic Beasts: The Crimes of Grindlewald
+> **Fantastic Beasts: The Crimes of Grindlewald**
 >
 > Saturday, November 17, 2018
 >
@@ -18,7 +18,7 @@ Bring your friends to Anacortes Cinemas for special movie screening!
 >
 > [Watch the trailer here](https://www.youtube.com/watch?v=vvFybpmyB9E)
 
-> Ralph Breaks the Internet
+> **Ralph Breaks the Internet**
 >
 > Saturday, November 24, 2018
 >
