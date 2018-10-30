@@ -29,9 +29,4 @@ Saturday, November 24, 2018
 
 Tickets must be pre-purchased. Only 150 tickets available for each show, so get yours today!
 
-<div class="cognito">
-<script src="https://services.cognitoforms.com/s/l-I5djcT8kGLQzW1N5ENCw"></script>
-<script>Cognito.load("forms", { id: "5" });</script>
-</div>
-
 If you have any questions, please do not hesitate to contact: [President - Christy Fischer](mailto:president@islandviewpta.org) or [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org)
