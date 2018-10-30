@@ -13,6 +13,20 @@ callToAction: true
 ---
 ## Movie Mornings with Island View PTA
 
-Check back soon for ticket information for our next movie mornings!
+Join your friends for a fun movie morning! For $10 you get to see the movie, and enjoy a small popcorn and drink!
+
+**Fantastic Beasts: The Crimes of Grindlewald**
+
+Saturday, November 17, 2018
+
+10:00 am (doors open at 9:30 am)
+
+**Ralph Breaks the Internet**
+
+Saturday, November 24, 2018
+
+10:00 am (doors open at 9:30 am)
+
+Tickets must be pre-purchased. Only 150 tickets available for each show, so get yours today!
 
 If you have any questions, please do not hesitate to contact: [President - Christy Fischer](mailto:president@islandviewpta.org) or [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org)
