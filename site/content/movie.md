@@ -13,19 +13,23 @@ callToAction: true
 ---
 ## Movie Mornings with Island View PTA
 
-Join your friends for a fun movie morning! For $10 you get to see the movie, and enjoy a small popcorn and drink!
+Join your friends for a fun movie morning at Anacortes Cinemas!! For $10 you get to see the movie, and enjoy a small popcorn and drink!
 
-**Fantastic Beasts: The Crimes of Grindlewald**
+> **Fantastic Beasts: The Crimes of Grindlewald**
+>
+> Saturday, November 17, 2018
+>
+> 10:00 am (doors open at 9:30 am)
+>
+> (Click here for the movie trailer)
 
-Saturday, November 17, 2018
-
-10:00 am (doors open at 9:30 am)
-
-**Ralph Breaks the Internet**
-
-Saturday, November 24, 2018
-
-10:00 am (doors open at 9:30 am)
+> **Ralph Breaks the Internet**
+>
+> Saturday, November 24, 2018
+>
+> 10:00 am (doors open at 9:30 am)
+>
+> (Click here for the movie trailer)
 
 Tickets must be pre-purchased. Only 150 tickets available for each show, so get yours today!
 
