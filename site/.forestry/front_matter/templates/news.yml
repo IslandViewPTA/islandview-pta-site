@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/movie-mornings.md
 - site/content/news/movie-morning-small-foot.md
 - site/content/news/book-wrapping-help-needed-in-the-island-view-library.md
 - site/content/news/lego-club-is-back!.md
