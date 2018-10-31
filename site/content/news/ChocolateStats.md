@@ -2,7 +2,7 @@
 title: Island View PTA World's Finest Chocolate Fundraiser
 date: 2018-10-09 09:45:00 -0700
 description: Thank you for making our fundraiser a success!
-image: "/uploads/Website-Chocolate-10-9-18-04.jpg"
+image: "/uploads/Website-Chocolate-10-31-18-04.jpg"
 
 ---
 ### **Island View PTA's fundraiser is a smashing success!**
@@ -11,7 +11,7 @@ Our fundraiser officially wrapped up on Monday and it was a HUGE success!
 
 Our goal of $18,000 was pretty high. In fact, it was higher than we've ever reached for this fundraiser! As one of our two major fundraisers of the year, we had to make this one a success.
 
-As of 10/9/18, Island View students raised a whopping $21,891! That money will pay for SO MUCH at our school!
+As of 10/31/18, Island View students raised a whopping $23,130! That money will pay for SO MUCH at our school!
 
 (If you haven't turned in your money and unsold chocolate bars yet, please do so as soon as possible! We can't return opened boxes for a refund, so please try to sell as many of the bars as you can.)
 
