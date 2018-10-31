@@ -11,9 +11,9 @@ type: movie
 callToAction: true
 
 ---
-## Movie Mornings with Island View PTA
+## Movie Mornings at Anacortes Cinema
 
-Join your friends for a fun movie morning at Anacortes Cinemas!! For $10 you get to see the movie, and enjoy a small popcorn and drink!
+Join us for fun movie mornings at Anacortes Cinema!! For $10 you get to see the movie, and enjoy a small popcorn and drink. These events are open to ALL, so bring your friends!
 
 Tickets must be pre-purchased. Only 150 tickets available for each show, so get yours today!
 
