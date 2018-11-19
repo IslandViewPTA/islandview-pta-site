@@ -8,7 +8,7 @@ image: "/uploads/Ralph-Breaks-the-Internet-Movie-Review-3-1.jpg"
 imageLink: ''
 imageCredit: ''
 type: movie
-callToAction: true
+callToAction: false
 
 ---
 ## Movie Mornings at Anacortes Cinema
