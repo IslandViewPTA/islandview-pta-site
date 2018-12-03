@@ -7,15 +7,16 @@ image: "/uploads/deception-pass-bridge.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
+
 ---
 ## Monthly Newsletters
 
 Please click the buttons below to read our newsletters.
 
-{{< nl-btn month="SEP" link="https://drive.google.com/a/islandviewpta.org/file/d/17g_1mN9RVFpSzL8OK4T5cR8xeeKG_oU5/view?usp=drivesdk" >}}
-{{< nl-btn month="OCT" link="#" >}}
-{{< nl-btn month="NOV" link="#" >}}
-{{< nl-btn month="DEC" link="#" >}}
+{{< nl-btn month="SEP" link="https://drive.google.com/open?id=17g_1mN9RVFpSzL8OK4T5cR8xeeKG_oU5" >}}
+{{< nl-btn month="OCT" link="https://drive.google.com/open?id=1YiXxhCNw49m7xt-YYsCWEX8hwZllJWO4" >}}
+{{< nl-btn month="NOV" link="https://drive.google.com/open?id=1ZVRbyutYEQgcXSLI1sSYRM7NKZg425bD" >}}
+{{< nl-btn month="DEC" link="https://drive.google.com/open?id=1uFwijHFwrLjj7H3xpDftuCjrxrtmkyov" >}}
 {{< nl-btn month="JAN" link="#" >}}
 {{< nl-btn month="FEB" link="#" >}}
 {{< nl-btn month="MAR" link="#" >}}
