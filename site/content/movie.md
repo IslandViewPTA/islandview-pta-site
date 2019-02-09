@@ -1,9 +1,8 @@
 ---
-title: 'How to Train Your Dragon: The Hidden World'
+title: Movie Mornings
 date: 2019-02-09 10:00:00 -0800
 subtitle: "  "
-description: Enjoy a family fun movie and treats while raising funds for the Island
-  View PTA.
+description: Purchase your movie tickets instantly!
 image: "/uploads/Website-Dragon3-2.jpg"
 imageLink: ''
 imageCredit: ''
