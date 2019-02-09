@@ -1,7 +1,7 @@
 ---
 title: Movie Mornings
 date: 2019-02-09 10:00:00 -0800
-subtitle: Join us for a movie morning!
+subtitle: ''
 description: Enjoy a family fun movie and treats while raising funds for the Island
   View PTA.
 image: "/uploads/Website-Dragon3-1.jpg"
