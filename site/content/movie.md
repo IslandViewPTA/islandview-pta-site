@@ -1,7 +1,7 @@
 ---
 title: Movie Mornings
 date: 2019-02-09 10:00:00 -0800
-subtitle: "  "
+subtitle: "  with Island View PTA"
 description: Purchase your movie tickets instantly!
 image: "/uploads/Curtain-01.jpg"
 imageLink: ''
