@@ -34,8 +34,8 @@ Please click the blue buttons below to read our newsletters.
 {{< nl-btn month="OCT" link="https://drive.google.com/open?id=1YiXxhCNw49m7xt-YYsCWEX8hwZllJWO4" >}}
 {{< nl-btn month="NOV" link="https://drive.google.com/open?id=1ZVRbyutYEQgcXSLI1sSYRM7NKZg425bD" >}}
 {{< nl-btn month="DEC" link="https://drive.google.com/open?id=1uFwijHFwrLjj7H3xpDftuCjrxrtmkyov" >}}
-{{< nl-btn month="JAN" link="#" >}}
-{{< nl-btn month="FEB" link="#" >}}
+{{< nl-btn month="JAN" link="https://drive.google.com/open?id=1U0zBFxPxF8LegYojWly6prY2N-d2VVXm" >}}
+{{< nl-btn month="FEB" link="https://drive.google.com/open?id=10AiJhKMj1D5pXTCFg8Gx5pzbgegyuZPO" >}}
 {{< nl-btn month="MAR" link="#" >}}
 {{< nl-btn month="APR" link="#" >}}
 {{< nl-btn month="MAY" link="#" >}}
