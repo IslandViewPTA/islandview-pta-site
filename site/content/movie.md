@@ -6,7 +6,7 @@ description: Purchase your movie tickets instantly!
 image: "/uploads/Curtain-01.jpg"
 imageLink: ''
 imageCredit: ''
-type: news
+type: movie
 callToAction: false
 
 ---
