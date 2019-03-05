@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: news
 pages:
+- site/content/news/100th-day-food-drive-success.md
 - site/content/news/100th-day-food-drive-1.md
 - site/content/movie.md
 - site/content/news/movie-morning-small-foot.md
