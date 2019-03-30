@@ -20,12 +20,12 @@ app.post('/payment', (req,res) => {
     receipt_email: req.body.email,
     description: req.body.description
   }, (err, charge) => {
-    const status = err ? 400: 200;
-    const message = err ? err.message: 'Payment done!';
+    const status = err ? 400 : 200;
+    const message = err ? err.message : 'Payment done!';
     // res.writeHead(status, { 'Content-Type': 'text/html' });
     // return res.end('<h1>' + message + '</h1>');
     res.redirect('https://www.islandviewpta.org/thankyou/');
   });
 });
 
-module.exports = fromExpress(app);  
+module.exports = fromExpress(app);
