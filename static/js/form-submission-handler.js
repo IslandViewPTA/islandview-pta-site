@@ -81,7 +81,7 @@ function handleFormSubmit(event) {  // handles form submit without any jquery
         console.log( xhr.status, xhr.statusText );
         console.log( xhr.responseText );
         document.getElementById("gform").style.display = "none"; // hide form
-        document.getElementById("chocolate-buyout").style.display = "none"; // hide form
+        // document.getElementById("chocolate-buyout").style.display = "none"; // hide form
         document.getElementById("thankyou_message").style.display = "block";
         return;
     };
