@@ -9,7 +9,7 @@ import os
 import json
 
 # Delete old page files. Leave the _index.md file there.
-[ os.remove("site/content/colorrun/" + f) for f in os.listdir("site/content/colorrun/") if not f.startswith("_") and f.endswith(".md") ]
+[ os.remove("content/colorrun/" + f) for f in os.listdir("content/colorrun/") if not f.startswith("_") and f.endswith(".md") ]
 
 # Get JSON_DATA from the build environment.
 jsondict = json.loads(os.environ['JSON_DATA'])
@@ -28,7 +28,7 @@ sheetdata1 = sheet1.get_all_records()
 sheetdata2 = sheet2.get_all_records()
 
 # Set location to write new files to.
-outputpath = Path("site/content/colorrun/")
+outputpath = Path("content/colorrun/")
 
 # Loop through each row...
 for row_index, row in enumerate(sheetdata1):
