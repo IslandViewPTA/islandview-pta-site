@@ -1,16 +1,36 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: "/editor/"
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/colorrun
+  label: Colorrun
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/news
+  label: News
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/event
+  label: Event
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
-front_matter_path: ''
+front_matter_path: "/uploads"
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_command: "./bin/hugo.linux -E -F -D -b $DEPLOY_URL -d public"
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
   publish_command: hugo -d public
   preview_env:
   - HUGO_ENV=staging
