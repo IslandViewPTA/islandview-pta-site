@@ -1,0 +1,32 @@
+<div class="pt6 ph3 bg-center bg-primary cover" style="background-image: url( {{ .Params.image }} )">
+  <div class="mw7 center">
+    <div class="db mb3">
+      {{ with .Params.title }}
+      <div class="relative mb3">
+        <h1 class="f2 f1-l b lh-title white ts">
+          {{ . }}
+        </h1>
+      </div>
+      {{ end }}
+      {{ with .Params.subtitle }}
+      <div class="relative mb2">
+        <p class="f3 b lh-title mb2 white ts">
+          {{ . }}
+        </p>
+      </div>
+      {{ end }}
+      {{ if .Params.callToAction }}
+      <div class="relative">
+          {{ partial "call-to-action" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ if .Params.imageCredit }}
+  <div class="relative h3 w-100">
+    <div class="absolute bottom-0 right-0">
+      <a href="{{ .Params.imageLink }}" target="_blank" class="link f6 white ts">{{ .Params.imageCredit }}</a>
+    </div>
+  </div>
+  {{ end }}
+</div>

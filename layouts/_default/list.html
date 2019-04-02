@@ -1,0 +1,17 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+{{ partial "jumbotron" . }}
+
+<main class="w-100 flex-auto center ph3 ph0-l">
+  <ul class="mw7 center flex-ns flex-wrap mhn1-ns pt3 list">
+      {{ range .Data.Pages }}
+          <div class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+</main>
+
+{{ partial "footer" . }}

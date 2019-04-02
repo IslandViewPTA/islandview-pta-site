@@ -1,0 +1,37 @@
+baseurl = "https://www.islandviewpta.org"
+languageCode = "en-us"
+title = "Island View Elementary PTA"
+navigateToChanged = true
+metaDataFormat = "yaml"
+enableEmoji = true
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params.cloudinary]
+  cloud_name = "ivepta"
+  use_upload = false
+[params.cloudinary.lazysizes]
+  enabled = true
+[params.cloudinary.presets.default]
+  max_width = 1920
+  min_width = 320
+  quality = 80
+  sizes = "auto"
+  steps = 10
+  width = 450
+
+[params]
+  contact = "webadmin@islandviewpta.org" # Optional
+  sitetitle = "Island View Elementary PTA"
+  dateformat = "Jan 2, 2006" # Optional
+  googleAnalytics = "UA-105410484-1" # Optional
+
+[social]
+  twitter = "ivepta"
+  facebook = "IslandViewPTA"
+
+[outputFormats.EventsJSON]
+  mediaType = "application/json"
+  baseName = "events"
+  isPlainText = true

@@ -1,0 +1,249 @@
+/*
+
+  STYLES
+
+  Add custom styles here.
+
+*/
+
+/* Used in the navbar */
+.divider-grey {
+  box-shadow: inset 0 -4px 0 var(--grey-1);
+  /* Link hover states */
+  & a {
+    transition: var(--hover-transition);
+  }
+  & ul a:hover, & ul a:focus {
+    box-shadow: inset 0 -4px 0 var(--primary);
+  }
+}
+
+::selection {
+  background-color: var(--highlight);
+}
+
+.p-share {
+  min-width: 100%;
+}
+
+.p-share .share-inner {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.p-share a {
+  display: table-cell;
+  text-align: center;
+  font-weight: 700;
+  font-size: .8rem;
+  padding: .75rem 0;
+  color: #fff;
+}
+
+.p-share a.ht { background-color: #00a4de; }
+.p-share a.fb { background-color: #3b5998; }
+.p-share a.tw { background-color: #1da1f2; }
+.p-share a.gp { background-color: #dd4b39; }
+.p-share a.ln { background-color: #00c300; }
+
+.p-share a.ht::before { content: 'Hatena'; }
+.p-share a.fb::before { content: 'Facebook'; }
+.p-share a.tw::before { content: 'Twitter'; }
+.p-share a.gp::before { content: 'Google+'; }
+.p-share a.ln::before { content: 'LINE'; }
+
+ul,ol {
+  list-style-type: disc;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+ul li
+{
+  margin-left: 1rem;
+}
+
+ul.list li
+{
+  margin-left: 0rem;
+}
+
+ul ol {
+  margin-bottom: 0;
+}
+
+ul ol li {
+  list-style-position: inside;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: 0;
+  padding-left:0;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol li {
+  list-style-position: inside;
+}
+
+ol ul {
+  margin-bottom: 0;
+}
+
+.snip-form__label {
+  position: static;
+  left: auto;
+  top: auto;
+  background-color: rgba(0, 0, 0, 0);
+  opacity: 1;
+}
+
+p.snip-product__empty {
+  max-width: 100%!important;
+}
+
+.ts {
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.grad {
+  background: white; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left,rgba(255,0,0,0),rgba(255,255,255,1)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(255,0,0,0),rgba(255,255,255,1)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(255,0,0,0),rgba(255,255,255,1)); /*Fx 3.6-15*/
+  background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,255,255,1)); /*Standard*/
+}
+
+.snip-layout__main-container {
+  margin-top: 6em!important;
+}
+
+table
+{
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+td, th {
+  padding: $spacing-medium;
+}
+
+th:not(:first-child), td:not(:first-child) {
+  text-align: right;
+}
+
+th {
+  color: var(--grey-3);
+  font-weight: 700;
+  white-space: nowrap;
+   {
+    white-space: wrap;
+  }
+}
+
+tr th {
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--grey-1);
+}
+
+html {
+  font-size: var(--font-size);
+  @media (--breakpoint-medium) {
+    font-size: var(--font-size-m);
+  }
+  @media (--breakpoint-large) {
+    font-size: var(--font-size-l);
+  }
+  background-color: var(--black);
+}
+
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--off-white);
+ }
+
+p {
+  margin-bottom: var(--spacing-medium);
+  max-width: var(--para-width);
+}
+
+strong {
+  font-weight: var(--bold-font-weight);
+}
+
+em {
+  font-style: italic;
+}
+
+sup {
+  font-size: .6rem;
+  font-weight: 700;
+  vertical-align: super;
+}
+
+.primary {
+  color: var(--primary);
+}
+
+.bg-primary {
+  background-color: var(--primary);
+}
+
+.b--primary {
+  border-color: var(--primary);
+}
+
+.highlight {
+  color: var(--highlight);
+}
+
+.b--highlight {
+  border-color: --var(--highlight);
+}
+
+.gold {
+  color: var(--pta-gold);
+}
+
+.white {
+  color: var(--white);
+}
+
+.off-white {
+  color: var(--off-white);
+}
+
+.grey-1 {
+  color: var(--grey-1);
+}
+
+h1 {
+  @inherit: .f2, .mb2, .lh-title, .primary;
+}
+
+h2 {
+  @inherit: .f3, .mb2, .b, .lh-title, .primary;
+}
+
+h3 {
+  @inherit: .f4, .mb1, .b, .lh-title, .primary;
+}
+
+.pagination {
+  @inherit: .list, .flex, .center;
+}
+
+.pagination li {
+    @inherit: .mt4, .mb2;
+}
+
+.pagination li a {
+  @inherit: .f6, .ba, .bw0, .br2, .ph3, .pv2, .bg-primary, .gold, .center, .link;
+}

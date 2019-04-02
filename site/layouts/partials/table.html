@@ -1,8 +1,0 @@
-<div class="mw7 center">
-  <h2>Items for Sale</h2>
-	<div class="cf mhn2-ns mw7">
-	{{ range $products := sort ($.Site.Data.products) "weight" "asec" }}
-		<div class="fl w-100 w-50-m w-25-l ph2">{{ partial "product-item" . }}</div>
-	{{ end }}
-	</div>
-</div>

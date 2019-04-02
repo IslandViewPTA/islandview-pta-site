@@ -1,0 +1,80 @@
+/*
+
+   FORMS
+   
+*/
+
+.input-reset {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.button-reset::-moz-focus-inner,
+.input-reset::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+fieldset
+{
+  position: relative;
+}
+
+
+input, textarea {
+  background-color: var(--grey-2);
+  border-radius: var(--border-radius);
+  padding: 12px 16px 10px;
+  font-size: var(--spacing-medium);
+  line-height: 1.25;
+  position: relative;
+  transition: var(--hover-transition);
+  z-index: 2;
+  &:focus {
+    background-color: var(--white);
+  }
+  &:focus + label {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(-120%);
+  }
+}
+
+::-webkit-input-placeholder {
+   color: var(--black);
+   font-size: var(--spacing-medium);
+   line-height: normal;
+}
+
+:-moz-placeholder {
+   color: var(--black);
+   font-size: var(--spacing-medium);
+   line-height: normal;
+}
+
+::-moz-placeholder {
+   color: var(--black);
+   font-size: var(--spacing-medium);
+   line-height: normal;
+}
+
+:-ms-input-placeholder {
+   color: var(--black);
+   font-size: var(--spacing-medium);
+   line-height: normal;
+}
+
+label
+{
+  font-size: .875rem;
+  font-weight: 800;
+  color: var(--primary);
+  padding: var(--spacing-extra-small) var(--spacing-small);
+  position: relative;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  line-height: 1;
+  transition: var(--hover-transition);
+  z-index: 2;
+}

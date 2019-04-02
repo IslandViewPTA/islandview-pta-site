@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+{{ partial "jumbotron" . }}
+
+<main class="w-100 flex-auto center ph3 ph0-l">
+  <section class="mw7 flex-auto pt3 ph3 ph0-l center">
+    {{.Content}}
+  </section>
+  <section class="mw7 flex-auto pv3 ph3 ph0-l center">
+    <iframe src="https://calendar.google.com/calendar/embed?src=calendar%40islandviewpta.org&ctz=America%2FLos_Angeles" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+  </section>
+</main>
+
+{{ partial "footer" . }}

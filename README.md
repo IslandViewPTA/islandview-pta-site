@@ -6,9 +6,7 @@ The site is based on the following technologies.
 - [Tachyons](http://tachyons.io/)
 - [Gognito Forms](https://www.cognitoforms.com/)
 - [Stripe](https://stripe.com/)
-- [Gulp](https://gulpjs.com/)
 - [PostCSS](http://postcss.org/)
-- [Webpack](https://webpack.js.org/)
 - [Netlify](https://www.netlify.com/)
 - [Forestry](https://forestry.io/)
 
