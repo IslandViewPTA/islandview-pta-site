@@ -25,8 +25,9 @@ sheet2 = client.open_by_key("1XONZtMTfgtj8XsE38Ij7GTllXNXct_rA-6v0z-OfBxk").get_
 
 # Extract all of the records for each row.
 sheetdata1 = sheet1.get_all_records()
+print(sheetdata1)
 sheetdata2 = sheet2.get_all_records()
-
+print(sheetdata2)
 # Set location to write new files to.
 outputpath = Path("content/colorrun/")
 
@@ -36,6 +37,7 @@ for row_index, row in enumerate(sheetdata1):
     # Open a new file with filename based on the first column
     filename = row.get("sfname").lower().replace(" ", "-") + row.get("slinitial").lower().replace(" ", "-") + str(row.get("grade")).lower() + '.md'
     outputfile = outputpath / filename
+    print(outputfile)
     new_yaml = open(outputfile, 'w')
 
     # Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
@@ -56,7 +58,7 @@ for row_index, row in enumerate(sheetdata1):
         yaml_text += cell_text
         
     for student in sheetdata2:
-      if student["First Name"] == row.get("sfname") and student["Last"] == row.get("slinitial") and student["Grade"] == row.get("grade"):
+      if student["First"] == row.get("sfname") and student["Last"] == row.get("slinitial") and student["Grade"] == row.get("grade"):
         yaml_text += 'online: "' + student["Online"] + '"\n'
         yaml_text += 'envelope: "' + student["Envelope"] + '"\n'
         yaml_text += 'total: "' + student["TOTAL"] + '"\n'
