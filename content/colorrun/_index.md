@@ -1,8 +1,8 @@
 ---
-title: IVE Color Run
+title: Island View Color Run Fundraiser
 date: 2019-04-01T12:01:25+08:00
-subtitle: A colorful run for fun.
-description: Join us at the annual Island View Elementary color run.
+subtitle: Join us for a fun, messy fundraiser!
+description: Join us for a fun, messy fundraiser!
 image: "/img/colorrun/colorrun.jpg"
 imageLink: http://www.islandviewpta.org/contact/
 imageCredit: By Christy Fischer
