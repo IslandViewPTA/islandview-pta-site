@@ -26,6 +26,7 @@ sheet2 = client.open_by_key("1XONZtMTfgtj8XsE38Ij7GTllXNXct_rA-6v0z-OfBxk").get_
 # Extract all of the records for each row.
 sheetdata1 = sheet1.get_all_records()
 sheetdata2 = sheet2.get_all_records()
+
 # Set location to write new files to.
 outputpath = Path("content/colorrun/")
 
@@ -33,7 +34,7 @@ outputpath = Path("content/colorrun/")
 for row_index, row in enumerate(sheetdata1):
   if row.get("approved") == "x":
     # Open a new file with filename based on the first column
-    filename = row.get("sfname").lower().replace(" ", "-") + row.get("slinitial").lower().replace(" ", "-") + str(row.get("grade")).lower() + '.md'
+    filename = str(row.get("url")).lower() + '.md'
     outputfile = outputpath / filename
     new_yaml = open(str(outputfile), 'w')
 
@@ -44,13 +45,17 @@ for row_index, row in enumerate(sheetdata1):
     yaml_text += "image: /colorrun/eagle_paint.jpg\n"
     
     # Set the Page title value.
-    yaml_text += "title: Donation page for " + row.get("sfname") + " " + row.get("slinitial") + ".\n"
+    yaml_text += "title: Donation page for " + row.get("sfname") + " " + row.get("slinitial")[0] + ".\n"
     # Loop through each cell in this row...
     for key,val in row.items():
       # Compile a line of YAML text from our spreadsheet keys and the value of the current value, followed by a linebreak.
       if key == "sfname" or key == "slinitial" or key == "teacher" or key == "grade":
-        cell_heading = str(key)
-        cell_text = cell_heading + ': "' + str(val) + '"\n'
+        if key == "slinitial":
+          cell_heading = str(key)
+          cell_text = cell_heading + ': "' + str(val)[0] + '"\n'
+        else:
+          cell_heading = str(key)
+          cell_text = cell_heading + ': "' + str(val) + '"\n'
         # Add this line of text to the current YAML string.
         yaml_text += cell_text
         
