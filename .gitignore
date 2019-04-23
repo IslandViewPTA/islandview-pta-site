@@ -1,8 +1,8 @@
 node_modules/
 resources/
-/npm-debug.log
 public/
 dist/
+/npm-debug.log
 .vscode-upload.json
 Thumbs.db
 .vscode/launch.json
