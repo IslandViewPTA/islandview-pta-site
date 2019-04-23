@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/editor/"
+admin_path: "/static/editor"
 webhook_url: 
 sections:
 - type: directory
