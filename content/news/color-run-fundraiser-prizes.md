@@ -1,7 +1,7 @@
 ---
 title: Color Run Fundraiser Prizes
 date: 2019-04-24 00:00:00 -0700
-description: So many prizes!
+description: Check out the amazing Color Run prizes!
 image: "/uploads/Vec-Prizes-circ_200.jpg"
 
 ---
@@ -31,12 +31,12 @@ But wait... there's more!
 
 For every $20 raised, you'll get a ticket entered into the grand prize drawing!
 
-![](/uploads/FB-CR-Grandprize-website-01.jpg)
+![](/uploads/Web-grandprize.jpg)
 
 * Waterproof Action Camera with helmet and bike mounts
 * Family Movie & Game Night package with 12 movie rentals, fun games, plus popcorn and candy for the whole family!
 
-**Race Captain**
+**Race Captain & Assistant Principal**
 
 The top earner for the school gets to help Mr. Hanrahan as Assistant Principal for the Day and gets to start the race on May 18th!
 
