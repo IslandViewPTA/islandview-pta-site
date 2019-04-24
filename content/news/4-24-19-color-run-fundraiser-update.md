@@ -3,7 +3,6 @@ title: 4-24-19 Color Run Fundraiser Update
 date: 2019-04-24 00:00:00 -0700
 description: Mr. Fountain's class leads both classroom competitions!
 image: "/uploads/FB-CR-4-24-19-01.jpg"
-draft: true
 
 ---
 ### The 2019 Island View Color Run Fundraiser is off to a great start! 
