@@ -5,7 +5,7 @@ description: Check out the amazing Color Run prizes!
 image: "/uploads/Vec-Prizes-circ_200.jpg"
 
 ---
-#### PRIZES! PRIZES! PRIZES!
+### PRIZES! PRIZES! PRIZES!
 
 The[ Island View Color Run Fundraiser](https://www.islandviewpta.org/news/2019-color-run-fundraiser/ "Island View Color Run") is up and running and wowza, we have some INCREDIBLE prizes!
 
