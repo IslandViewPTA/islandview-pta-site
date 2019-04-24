@@ -60,4 +60,4 @@ The classroom with the highest percentage of participation gets to choose betwee
 
 ![](/uploads/Web-Prizes-ClassParticipation_5.jpg)
 
-Check our leaderboard to see how your classroom is doing! We're so excited for this wonderfully messy fundraiser and we look forward to running with you on May 18th!
+[Check our leaderboard ](https://www.islandviewpta.org/news/4-24-19-color-run-fundraiser-update/ "Color Run Leaderboard")to see how your classroom is doing! We're so excited for this wonderfully messy fundraiser and we look forward to running with you on May 18th!
