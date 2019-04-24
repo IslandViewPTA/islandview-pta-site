@@ -29,6 +29,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/2019-color-run-fundraiser.md
 - content/news/yearbook-photos.md
 - content/news/golden-shoe-award.md
 - content/news/color-days.md
