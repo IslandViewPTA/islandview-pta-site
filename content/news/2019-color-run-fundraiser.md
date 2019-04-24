@@ -5,7 +5,7 @@ description: Join us for a fun, MESSY fundraiser!
 image: "/uploads/Eagle-01.jpg"
 
 ---
-#### Join us for a fun, MESSY fundraiser! 
+### Join us for a fun, MESSY fundraiser!
 
 It's time for the Island View Color Run Fundraiser!
 
