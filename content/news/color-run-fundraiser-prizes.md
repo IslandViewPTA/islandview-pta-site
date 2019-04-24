@@ -10,11 +10,11 @@ draft: true
 
 The Island View Color Run Fundraiser is up and running and wowza, we have some INCREDIBLE prizes!
 
-**If you raise $25,** you'll get admission to the run and a one-of-a-kind race t-shirt.
+**If you raise $25,** you'll get admission to the run, a one-of-a-kind race t-shirt, and 1 ticket for the grand prize drawing.
 
 ![](/uploads/Web-Prizes_25.jpg)
 
-**If you raise $50**, you also get a light-up spinning top, cool 100% UVB safe sunglasses, a silicone race cup. 
+**If you raise $50**, you also get a light-up spinning top, cool 100% UVB safe sunglasses, a silicone race cup, and 2 tickets for the grand prize drawing
 
 ![](/uploads/Web-Prizes_50.jpg)
 
@@ -24,13 +24,13 @@ The Island View Color Run Fundraiser is up and running and wowza, we have some I
 
 **If you raise $200**, your prizes will also include a FREE yearbook, activity watch, and a personal MP3/video player!
 
-![](/uploads/Web-Prizes_200-1.jpg)
+![](/uploads/Web-Prizes_200.jpg)
 
 But wait... there's more!
 
 **Grand Prize Drawing**
 
-For every $20 raised, you'll get a ticket entered into the grand prize drawing! 
+For every $20 raised, you'll get a ticket entered into the grand prize drawing!
 
 ![](/uploads/FB-CR-Grandprize-website-01.jpg)
 
