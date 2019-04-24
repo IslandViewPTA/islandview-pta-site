@@ -1,13 +1,12 @@
 ---
 title: Island View Elementary Yearbook
-date: 2019-04-24T10:59:41-07:00
-subtitle: Capture happy memories in a yearbook.
-description: Capture happy memories in a yearbook.
+date: 2019-04-24 17:59:41 +0000
+subtitle: Order your 2018-2019 Yearbook
+description: Order your 2018-2019 Island View Yearbook by May 15!
 image: "/img/colorrun/colorrun.jpg"
 imageLink: http://www.islandviewpta.org/contact/
 imageCredit: By Christy Fischer
 type: yearbook
 callToAction: false
----
 
-Add content for the page here.
+---
