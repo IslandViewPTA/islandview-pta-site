@@ -7,7 +7,7 @@ image: "/uploads/Vec-Prizes-circ_200.jpg"
 ---
 #### PRIZES! PRIZES! PRIZES!
 
-The Island View Color Run Fundraiser is up and running and wowza, we have some INCREDIBLE prizes!
+The[ Island View Color Run Fundraiser](https://www.islandviewpta.org/news/2019-color-run-fundraiser/ "Island View Color Run") is up and running and wowza, we have some INCREDIBLE prizes!
 
 **If you raise $25,** you'll get admission to the run, a one-of-a-kind race t-shirt, and 1 ticket for the grand prize drawing.
 
@@ -60,4 +60,4 @@ The classroom with the highest percentage of participation gets to choose betwee
 
 ![](/uploads/Web-Prizes-ClassParticipation_5.jpg)
 
-We're so excited for this wonderfully messy fundraiser and we look forward to running with you on May 18th!
+Check our leaderboard to see how your classroom is doing! We're so excited for this wonderfully messy fundraiser and we look forward to running with you on May 18th!
