@@ -29,9 +29,9 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/4-24-19-color-run-fundraiser-update.md
 - content/news/color-run-fundraiser-prizes.md
 - content/news/2019-color-run-fundraiser.md
-- content/news/4-24-19-color-run-fundraiser-update.md
 - content/news/yearbook-photos.md
 - content/news/golden-shoe-award.md
 - content/news/color-days.md
