@@ -40,16 +40,24 @@ For every $20 raised, you'll get a ticket entered into the grand prize drawing!
 
 The top earner for the school gets to help Mr. Hanrahan as Assistant Principal for the Day and gets to start the race on May 18th!
 
+![](/uploads/Web-Prizes-RaceCaptain_5.jpg)
+
 **Color Captain**
 
 The top earner for each grade level gets to throw color for your class station!
+
+![](/uploads/Web-Prizes-ColorCaptain_5.jpg)
 
 **Top Earning Classroom**
 
 The classroom that raises the most money wins a game of kickball with Mr. Hanrahan.
 
+![](/uploads/Web-Prizes-HighestEarningClassroom_5.jpg)
+
 **Top Classroom Participation**
 
 The classroom with the highest percentage of participation gets to choose between an extra recess or an ice cream party!
+
+![](/uploads/Web-Prizes-ClassParticipation_5.jpg)
 
 We're so excited for this wonderfully messy fundraiser and we look forward to running with you on May 18th!
