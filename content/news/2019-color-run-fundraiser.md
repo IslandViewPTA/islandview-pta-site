@@ -5,7 +5,7 @@ description: Join us for a fun, MESSY fundraiser!
 image: "/uploads/Eagle-01.jpg"
 
 ---
-![](/uploads/Flyer header-03.png)
+![](/uploads/Flyer header-02.png)
 
 It's time for the Island View Color Run Fundraiser!
 
@@ -14,7 +14,7 @@ It's time for the Island View Color Run Fundraiser!
 Ask everyone you know: parents, grandparents, aunts, uncles, cousins – your whole family! Also, ask family friends and neighbors. Bring your fundraising envelope to sports practice, community events, dance classes, everywhere!
 
 **You can even gather donations ONLINE!**  
- Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, ask a parent or guardian to visit [**www.islandviewpta.org/colorrun**](http://www.islandviewpta.org/colorrun).
+Ask an adult to share your personal fundraising page on Facebook and in emails using your link. If you haven’t signed up for an online donation page yet, ask a parent or guardian to visit [**www.islandviewpta.org/colorrun**](http://www.islandviewpta.org/colorrun).
 
 **Step 2: RETURN DONATIONS TO PTA BY: MAY 13, 2019 at 9:00 am**
 
