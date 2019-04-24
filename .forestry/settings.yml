@@ -4,24 +4,22 @@ auto_deploy: false
 admin_path: "/static/editor"
 webhook_url: 
 sections:
-- type: document
-  path: content/yearbook/_index.md
-  label: Yearbook
+- type: directory
+  path: content/news
+  label: News
+  create: all
   match: "**/*"
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/colorrun
-  label: Colorrun
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/news
-  label: News
-  create: all
+- type: document
+  path: content/yearbook/_index.md
+  label: Yearbook
+- type: document
+  path: content/colorrun/_index.md
+  label: Color Run
   match: "**/*"
 - type: directory
   path: content/event
