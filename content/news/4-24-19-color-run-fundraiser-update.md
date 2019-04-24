@@ -11,7 +11,7 @@ So far, we've brought in a total of **$3,030** of our $13,000 goal!
 
 Most of that has been from online donations! If you haven't signed up your student for a personalized online donation page, visit our [Color Run Online Donation Signup ](www.islandviewpta.org/colorrun "Color Run Online Donation Signup")page.
 
-In addition to the incredible individual prizes, the kids have some awesome classroom prizes to earn!
+In addition to the incredible individual prizes, [the kids have some awesome classroom prizes to earn!](https://www.islandviewpta.org/news/color-run-fundraiser-prizes/ "Color Run Fundraiser Prizes")
 
 **Top Earning Classroom: Class Party**
 
