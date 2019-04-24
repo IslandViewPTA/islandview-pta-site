@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/static/editor"
 webhook_url: 
 sections:
+- type: document
+  path: content/yearbook/_index.md
+  label: Yearbook
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
