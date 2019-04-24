@@ -1,5 +1,5 @@
 [build]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.55.3"
 
 [context.deploy-preview]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.55.3"
