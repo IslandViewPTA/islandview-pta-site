@@ -1,8 +1,9 @@
 ---
 title: Color Run Fundraiser Leaderboard
-date: 2019-05-03T00:00:00-07:00
+date: 2019-05-03T07:00:00.000+00:00
 description: Mr. Fountain and Ms. Ross are leading the competition!
 image: "/uploads/FB-CR-5-3-19-01.jpg"
+type: ''
 
 ---
 ### The 2019 Island View Color Run Fundraiser is off to a great start!
@@ -21,7 +22,7 @@ Currently, Mr. Fountain's class maintains the lead with $1,125.
 
 **Most Classroom Participation: Kickball with Mr. Hanrahan**
 
-Ms. Ross' class has a lead of 1%!
+Ms. Ross' class is leading with 26%!
 
 ![](/uploads/FB-CR-5-3-19_ClassroomParticipation.jpg)
 
