@@ -2,7 +2,7 @@
 title: Color Run Fundraiser Leaderboard
 date: 2019-05-03T07:00:00.000+00:00
 description: Mr. Fountain and Ms. Ross are leading the competition!
-image: "/uploads/FB-CR-5-3-19-01.jpg"
+image: ''
 type: ''
 
 ---
@@ -18,12 +18,8 @@ In addition to the incredible individual prizes, [the kids have some awesome cla
 
 Currently, Mr. Fountain's class maintains the lead with $1,125.
 
-![](/uploads/FB-CR-5-3-19_TopEarningClassroom.jpg)
-
 **Most Classroom Participation: Kickball with Mr. Hanrahan**
 
 Ms. Ross' class is leading with 26%!
-
-![](/uploads/FB-CR-5-3-19_ClassroomParticipation.jpg)
 
 Check back often! We'll update the leaderboards as more money comes in. Thank you for all your support and hard work to make this fundraiser a success!
