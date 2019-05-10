@@ -9,7 +9,7 @@ import os
 import json
 
 # Delete old page files. Leave the _index.md file there.
-[ os.remove("content/colorrun/" + f) for f in os.listdir("content/colorrun/") if not f.startswith("_") and f.startswith("register") and f.endswith(".md") ]
+# [ os.remove("content/colorrun/" + f) for f in os.listdir("content/colorrun/") if not f.startswith("_") and f.startswith("register") and f.endswith(".md") ]
 
 # Get JSON_DATA from the build environment.
 jsondict = json.loads(os.environ['JSON_DATA'])
