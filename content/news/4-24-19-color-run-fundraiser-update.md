@@ -8,7 +8,7 @@ type: ''
 ---
 ### The 2019 Island View Color Run Fundraiser is off to a great start!
 
-So far, we've brought in a total of **$7,243** of our $13,000 goal! All donations are due Monday, May 13 at 9:00 am to be eligible for prizes!
+So far, we've brought in a total of **$7,243** of our $13,000 goal! All donations are due Monday, May 13 at 9:00 am to be eligible for prizes. 
 
 Most of that has been from online donations! If you haven't signed up your student for a personalized online donation page, visit our [Color Run Online Donation Signup](https://www.islandviewpta.org/colorrun/ "Color Run Online Donation Signup") page.
 
@@ -26,4 +26,4 @@ Mr. Lincoln has taken the lead with 33% of his class participating in the fundra
 
 [![](/uploads/FB-CR-5-10-19_ClassroomParticipation.jpg)](https://www.islandviewpta.org/uploads/FB-CR-5-7-19_ClassroomParticipation.jpg "Most Classroom Participation")
 
-Check back often! We'll update the leaderboards as more money comes in. Thank you for all your support and hard work to make this fundraiser a success!
+Thank you for all your support and hard work to make this fundraiser a success!
