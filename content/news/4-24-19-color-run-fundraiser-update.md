@@ -16,13 +16,13 @@ In addition to the incredible individual prizes, [the kids have some awesome cla
 
 [**Top Earning Classroom: Class Party**](https://www.islandviewpta.org/uploads/FB-CR-5-10-19_TopEarningClassroom.jpg "Top Earning Classroom Chart")
 
-Currently, Mr. Fountain's class maintains the lead with $1,505!
+Currently, Mr. Fountain's class maintains the lead with $1,505! Click on the chart below to see each classroom's total.
 
 [![](/uploads/FB-CR-5-10-19_TopEarningClassroom.jpg)](https://www.islandviewpta.org/uploads/FB-CR-5-10-19_TopEarningClassroom.jpg "Top Earning Classroom")
 
 [**Most Classroom Participation: Kickball with Mr. Hanrahan**](https://www.islandviewpta.org/uploads/FB-CR-5-10-19_ClassroomParticipation.jpg "Most Classroom Participation Chart")
 
-Mr. Lincoln has taken the lead with 33% of his class participating in the fundraiser!
+Mr. Lincoln has taken the lead with 33% of his class participating in the fundraiser! Click on the chart below to see each classroom's participation.
 
 [![](/uploads/FB-CR-5-10-19_ClassroomParticipation.jpg)](https://www.islandviewpta.org/uploads/FB-CR-5-10-19_ClassroomParticipation.jpg "Most Classroom Participation")
 
