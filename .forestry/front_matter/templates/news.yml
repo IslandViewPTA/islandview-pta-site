@@ -29,6 +29,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/movie.md
 - content/news/4-24-19-color-run-fundraiser-update.md
 - content/news/color-run-fundraiser-prizes.md
 - content/news/2019-color-run-fundraiser.md
@@ -54,7 +55,6 @@ pages:
 - content/news/lego-club-is-back!.md
 - content/news/january-pta-meeting.md
 - content/news/movie-morning-small-foot.md
-- content/movie.md
 - content/news/100th-day-food-drive-1.md
 - content/news/100th-day-food-drive-success.md
 - content/news/new-pta-website.md
