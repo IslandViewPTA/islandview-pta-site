@@ -17,7 +17,6 @@ sections:
 - type: document
   path: content/movie.md
   label: Movie
-  match: "**/*"
 - type: document
   path: content/yearbook/_index.md
   label: Yearbook
