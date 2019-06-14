@@ -18,4 +18,4 @@ The Island View PTA uses funds raised to provide resources and activities for th
 Please click the button below to enter the Island View PTA storefront.  
 <a class="f6 ba bw0 br2 mr1 mt1 ph3 pv2 dib gold bg-primary no-underline" target="_blank" href="https://squareup.com/store/islandviewpta">Shop Online</a>
 
-If you have any questions, please do not hesitate to contact: [President - Christy Fischer](mailto:president@islandviewpta.org) or [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org)
+If you have any questions, please do not hesitate to contact: [President - Meg Mourning](mailto:president@islandviewpta.org) or [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org)
