@@ -11,7 +11,7 @@ description: The Island View PTA uses funds raised to provide resources and acti
 callToAction: true
 
 ---
-## Purchase Island Views shirts, bags and other spirit wear!
+## Purchase Island Views shirts, sweatshirts and other spirit wear!
 
 The Island View PTA uses funds raised to provide resources and activities for the Students and Teachers of Island View Elementary.
 
