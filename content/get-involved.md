@@ -46,9 +46,9 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**RIF (Reading is Fundamental)**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20RIF): Twice a year, every K-3 grader gets to pick out their very own book to keep, thanks to the generous donors to Fidalgo Island Reading Is Fundamental.
 
-[**Safe Routes**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Safe%20Routes): Committee promotes and runs the monthly Walk and Wheel Wednesday events.
+[**Safe Routes**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Safe%20Routes): Committee promotes and runs the monthly Walk and Wheel events.
 
-[**Teacher Representatives**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Teacher%20Representative): Represent the teachers at our PTA meetings.
+[**Teacher Representatives**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Teacher%20Representative): Represent the teachers and staff at our PTA meetings.
 
 [**Volunteer Coordinator**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Volunteer%20Coordinator):  The ever-important task of soliciting and organizing volunteers for our many PTA events.  Handled mainly via SignUpGenius and email.
 
