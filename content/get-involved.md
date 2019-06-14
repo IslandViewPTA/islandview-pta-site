@@ -1,5 +1,5 @@
 ---
-date: 2017-07-30 14:30:34 -0700
+date: 2017-07-30T21:30:34.000+00:00
 description: Our PTA thrives because LOTS of fabulous individuals give a little (or
   a lot) of their time and talents, working together to serve the students and staff
   of Island View Elementary.
@@ -32,7 +32,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**I Love to Read Month**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20I%20Love%20to%20Read%20Month): Committee that organizes a month full of fun activities to encourage each student’s love of reading.
 
-[**Lego Club**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees the bi-monthly Lego Club on late-start Wednesdays.
+[**Lego Club**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees the bi-monthly Lego Club.
 
 [**Lego Robotics**](mailto:president@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Robotics):  Committee that leads the First Lego League teams at Island View.
 
@@ -68,12 +68,9 @@ The PTA raises funds to provide classroom enhancements, help send students to Mo
 * Book Fair
 * Box Tops
 * Candy Bar Sales
-* Coin Wars
 * Restaurant Take-Overs
 * Spirit Wear
 
-If you have any questions, please do not hesitate to contact any of the board members:
-[President - Christy Fischer](mailto:president@islandviewpta.org), [Vice President - Meg Mourning](mailto:vicepresident@islandviewpta.org), [Treasurer - Darene Follett](mailto:treasurer@islandviewpta.org), [Secretary - Jackie Bornemann](mailto:secretary@islandviewpta.org)
-
+If you have any questions, please do not hesitate to contact any of the board members: [President - Meg Mourning](mailto:president@islandviewpta.org), [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org), [Treasurer - Lesa Singleton](mailto:treasurer@islandviewpta.org), [Secretary - Jackie Bornemann](mailto:secretary@islandviewpta.org)
 
 **THANK YOU** for your support of all the students and staff at Island View Elementary!
