@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2017-08-12 10:33:37 -0700
+date: 2017-08-12T17:33:37.000+00:00
 subtitle: How to Contact Us
 description: Information about the PTA.
 image: "/uploads/IMG_6733_resized.JPG"
@@ -14,20 +14,23 @@ type: page
 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA.
 
-Meet the 2018-2019 Board:
+Meet the 2019 - 2020 Board:
 
-**President**:
-Christy Fischer
+**President**: 
+
+Meg Mourning
 
 [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-**Vice President**:
-Meg Mourning
+**Vice President**: 
+
+Eric Mithen
 
 [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-**Treasurer**:
-Darene Follett
+**Treasurer**: 
+
+Lesa Singleton
 
 [treasurer@islandviewpta.org](mailto:treasurer@islandviewpta.org)
 
