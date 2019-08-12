@@ -14,7 +14,7 @@ The first day of school for 1st through 5th grade is Thursday, September 5, 2019
 
 September 3, 2019, 5:00 pm - 6:30 pm
 
-Students who will be NEW to Island View, and their families, are invited to a special open house to get acquainted with the building before school starts.  We would love volunteers, including returning student leaders, to help show the new families around.  Please sign up to help at this fun event: [https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-neweagles](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-neweagles "https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-neweagles")
+Students who will be NEW to Island View, and their families, are invited to a special open house to get acquainted with the building before school starts.  We would love volunteers, including returning student leaders, to help show the new families around.  Please sign up to help at this fun event: [https://www.signupgenius.com/go/10c0d44aead2da3f58-neweagles](https://www.signupgenius.com/go/10c0d44aead2da3f58-neweagles "https://www.signupgenius.com/go/10c0d44aead2da3f58-neweagles")
 
 **Makin’ Copies**
 
