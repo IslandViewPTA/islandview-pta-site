@@ -30,8 +30,3 @@ enableEmoji = true
 [social]
   twitter = "ivepta"
   facebook = "IslandViewPTA"
-
-[outputFormats.EventsJSON]
-  mediaType = "application/json"
-  baseName = "events"
-  isPlainText = true

@@ -12,6 +12,6 @@ type: membership
 ---
 Please take a look at all the amazing – and FUN – things the PTA does for our beloved Island View students and staff, and let us know what YOU may be interested in helping with next year. Click here to contact the PTA!
 
-Please do not hesitate to contact Meg Mourning ([president@islandviewpta.org](ivepta@gmail.com)) or Eric Mithen ([vicepresident@islandviewpta.org](ivepta@gmail.com)) if you have any questions.
+Please do not hesitate to contact [Meg Mourning](mailto:president@islandviewpta.org)) or [Eric Mithen](mailto:vicepresident@islandviewpta.org) if you have any questions.
 
 **THANK YOU** for your support of all the students and staff at Island View Elementary!

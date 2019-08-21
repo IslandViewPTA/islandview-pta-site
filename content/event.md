@@ -7,12 +7,9 @@ image: "/uploads/puget-sound.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
-outputs:
-- HTML
-- Calendar
-- EventsJSON
-
+type: event
 ---
+
 ## Monthly Meetings
 
 The Island View PTA will hold their monthly meetings on the **FIRST Wednesday** of each month.  Please join us at **6pm** in the **Island View Library** and have your voice heard! We’d love for you to [become a member of the PTA](/membership/).
