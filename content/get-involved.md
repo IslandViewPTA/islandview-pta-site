@@ -20,7 +20,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**Class ACT School Play**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20ACT%20School%20Play): The PTA works with the Anacortes Community Theatre’s School for the Performing Arts to create an annual school play starring up to 80 Island View students.
 
-[**Display/Bulletin Board**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Display-Reader%20Board): Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
+[**Display / Bulletin Board**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Display-Reader%20Board): Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
 
 [**Family Fun**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun): Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
 
@@ -28,7 +28,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**Gratitude Group**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Gratitude%20Group): Fosters the Attitude of Gratitude amongst Island View students, staff, and families through creative expression throughout the year, including the Gratitude Graffiti bulletin boards before Thanksgiving.
 
-[**Hospitality/Staff Appreciation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Hospitality-Staff%20Appreciation): The PTA provides dinner for the teachers during evening conferences, and plans other staff appreciation events throughout the year.
+[**Hospitality / Staff Appreciation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Hospitality-Staff%20Appreciation): The PTA provides dinner for the teachers during evening conferences, and plans other staff appreciation events throughout the year.
 
 [**I Love to Read Month**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20I%20Love%20to%20Read%20Month): Committee that organizes a month full of fun activities to encourage each student’s love of reading.
 
@@ -64,12 +64,12 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**FUNDRAISING**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Fundraising)
 
-The PTA raises funds to provide classroom enhancements, help send students to Mountain School, and to pay for all of the things listed above.  Below are some of the ways our PTA raises funds throughout the years, and this year **we need YOU**!
+The PTA raises funds to provide classroom and school-wide enhancements and to pay for all of the things listed above.  Below are some of the ways our PTA raises funds throughout the years, and this year **we need YOU**!
 
-* Color Run
+* Candy Bar Sales in the Fall
+* Color Run in the Spring
 * Book Fair
 * Box Tops
-* Candy Bar Sales
 * Restaurant Take-Overs
 * Spirit Wear
 
