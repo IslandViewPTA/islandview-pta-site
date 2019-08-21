@@ -30,6 +30,7 @@ fields:
   default: news
 pages:
 - content/news/back-to-school.md
+- content/movie.md
 - content/news/color-run-fundraiser-prizes.md
 - content/news/4-24-19-color-run-fundraiser-update.md
 - content/news/2019-color-run-fundraiser.md
@@ -56,7 +57,6 @@ pages:
 - content/news/bogo-book-fair-4-23-18.md
 - content/news/leaderboard-classroom-prizes.md
 - content/news/book-wrapping-help-needed-in-the-island-view-library.md
-- content/movie.md
 - content/news/yearbook-photos.md
 - content/news/golden-shoe-award.md
 - content/news/t-shirts-by-design-donation-to-rachel-s-closet.md

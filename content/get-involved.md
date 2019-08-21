@@ -20,7 +20,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**Class ACT School Play**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20ACT%20School%20Play): The PTA works with the Anacortes Community Theatre’s School for the Performing Arts to create an annual school play starring up to 80 Island View students.
 
-[**Display/Reader Board**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Display-Reader%20Board): Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
+[**Display/Bulletin Board**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Display-Reader%20Board): Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
 
 [**Family Fun**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun): Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
 
