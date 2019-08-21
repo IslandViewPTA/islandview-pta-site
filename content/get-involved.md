@@ -32,7 +32,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**I Love to Read Month**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20I%20Love%20to%20Read%20Month): Committee that organizes a month full of fun activities to encourage each student’s love of reading.
 
-[**Lego Club**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees the bi-monthly Lego Club.
+[**Lego Club**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees students creating with Legos on early-release Wednesday afternoons.
 
 [**Lego Robotics**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Robotics):  Committee that leads the First Lego League teams at Island View.
 
