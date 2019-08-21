@@ -6,7 +6,7 @@ metaDataFormat = "yaml"
 enableEmoji = true
 
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = false
 
 [params.cloudinary]
   cloud_name = "ivepta"
