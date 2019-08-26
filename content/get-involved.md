@@ -48,7 +48,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**Safe Routes**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Safe%20Routes): Committee promotes and runs the monthly Walk and Wheel events.
 
-[**Field Day**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Field%20Day): Planning and coordinating much of the activites and fun on Field Day.
+[**Field Day**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Field%20Day): Planning and coordinating much of the activities and fun on Field Day.
 
 [**100th Day Food Drive**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Food%20Drive): Help support our local food banks and celebrate the 100th day of school with a 100th Day Food Drive!
 
