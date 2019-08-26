@@ -23,11 +23,6 @@ sections:
 - type: document
   path: content/colorrun/_index.md
   label: Color Run
-- type: directory
-  path: content/event
-  label: Event
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
