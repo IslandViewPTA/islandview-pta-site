@@ -29,12 +29,12 @@ fields:
   hidden: true
   default: news
 pages:
+- content/movie.md
 - content/news/back-to-school.md
 - content/movie.md
 - content/news/color-run-fundraiser-prizes.md
 - content/news/4-24-19-color-run-fundraiser-update.md
 - content/news/2019-color-run-fundraiser.md
-- content/movie.md
 - content/news/spring-bike-maintenance-4-25-18.md
 - content/news/earth-day-garden-party.md
 - content/news/help-needed-in-the-lunchroom.md
