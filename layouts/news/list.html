@@ -10,7 +10,7 @@
     <h2>News</h2>
   </section>
   <ul class="mw7 center flex-ns flex-wrap mhn1-ns pt2 list">
-      {{ range .Data.Pages.ByDate.Reverse }}
+      {{ range .Site.RegularPages.ByDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "news-li"}}
           </div>

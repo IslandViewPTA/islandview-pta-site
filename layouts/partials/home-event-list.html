@@ -2,7 +2,7 @@
 
   <h2>Upcoming events</h2>
   <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-    {{ range where (.Data.Pages.ByParam "start") "Type" "event" }}
+    {{ range where (.Site.RegularPages.ByParam "start") "Type" "event" }}
       <div class="ph1-ns w-50-ns flex">
         {{ .Render "li" }}
       </div>

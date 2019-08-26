@@ -1,6 +1,6 @@
 ---
 title: Back to School!
-date: 2019-08-12T00:00:00-07:00
+date: "2019-08-12T00:00:00-07:00"
 description: Here's to the start of a great year!
 image: "/uploads/Welcome-Back-to-School.jpg"
 
