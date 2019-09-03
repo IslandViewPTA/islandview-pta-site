@@ -5,7 +5,7 @@ type: shop
 image: "/uploads/anacortes-snow.jpg"
 imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
-heading: Purchase Island Views shirts, bags and other spirit wear!
+heading: Purchase Island View shirts, hats and other spirit wear!
 description: |-
   The shop is open!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
 
