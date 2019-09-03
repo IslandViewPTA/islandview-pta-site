@@ -1,5 +1,5 @@
 ---
-title: IVE PTA Shop
+title: Island View PTA Shop
 subtitle: Support the Island View PTA and find great items for the family.
 type: shop
 image: "/uploads/anacortes-snow.jpg"
