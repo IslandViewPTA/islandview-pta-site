@@ -13,9 +13,11 @@ description: |-
 callToAction: true
 
 ---
-## Purchase Island Views shirts, sweatshirts and other spirit wear!
+## Purchase Island View shirts, sweatshirts and other spirit wear!
 
-The Island View PTA uses funds raised to provide resources and activities for the Students and Teachers of Island View Elementary.
+The shop is open!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
+
+The Island View PTA uses funds raised to provide resources and activities for the Students and Staff of Island View Elementary.
 
 Please click the button below to enter the Island View PTA storefront.  
 <a class="f6 ba bw0 br2 mr1 mt1 ph3 pv2 dib gold bg-primary no-underline" target="_blank" href="https://squareup.com/store/islandviewpta">Shop Online</a>
