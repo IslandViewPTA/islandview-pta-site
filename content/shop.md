@@ -2,9 +2,9 @@
 title: Island View PTA Shop
 subtitle: Show your school spirit!
 type: shop
-image: "/uploads/anacortes-snow.jpg"
-imageCredit: Photo by Rakan AlDuaij
-imageLink: http://www.photosbyrakan.com/
+image: "/uploads/Spiritwear-2.jpg"
+imageCredit: Photo by Christy Fisher
+imageLink: #
 heading: Purchase Island View shirts, hats and other spirit wear!
 description: |-
   The shop is OPEN!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
