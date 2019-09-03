@@ -7,7 +7,7 @@ imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 heading: Purchase Island View shirts, hats and other spirit wear!
 description: |-
-  The shop is open!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
+  The shop is OPEN!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
 
   The Island View PTA uses funds raised to provide resources and activities for the Students and Staff of Island View Elementary.
 callToAction: true
