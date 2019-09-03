@@ -18,11 +18,17 @@ Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of
 
 Check out all the different ways you can get involved.  Just click any that interest you and your email will be forwarded to the correct person.
 
+[**5th Grade Graduation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%205th%20Grade%20Graduation): Prepare for our 5th Graders to leave the Eagles Nest and fly off to Middle School.
+
+[**100th Day Food Drive**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Food%20Drive): Help support our local food banks and celebrate the 100th day of school with the 100th Day Food Drive!
+
 [**Class ACT School Play**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20ACT%20School%20Play): The PTA works with the Anacortes Community Theatre’s School for the Performing Arts to create an annual school play starring up to 80 Island View students.
 
 [**Display / Bulletin Board**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Display-Reader%20Board): Committee that helps with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
 
 [**Family Fun**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun): Throughout the year, the PTA hosts several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
+
+[**Field Day**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Field%20Day): Planning and coordinating much of the activities and fun on Field Day.
 
 [**Garden Club**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Garden%20Club): Works with teachers to fully utilize the new Island View School Garden.
 
@@ -32,7 +38,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**I Love to Read Month**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20I%20Love%20to%20Read%20Month): Committee that organizes a month full of fun activities to encourage each student’s love of reading.
 
-[**Lego Club**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees students creating with Legos on early-release Wednesday afternoons.
+[**Lego Club**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Committee that oversees students creating with Legos every other Wednesday morning.
 
 [**Lego Robotics**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Robotics):  Committee that leads the First Lego League teams at Island View.
 
@@ -47,12 +53,6 @@ Check out all the different ways you can get involved.  Just click any that inte
 [**RIF (Reading is Fundamental)**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20RIF): Twice a year, every K-3 grader gets to pick out their very own book to keep, thanks to the generous donors to Fidalgo Island Reading Is Fundamental.
 
 [**Safe Routes**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Safe%20Routes): Committee promotes and runs the monthly Walk and Wheel events.
-
-[**Field Day**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Field%20Day): Planning and coordinating much of the activities and fun on Field Day.
-
-[**100th Day Food Drive**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Food%20Drive): Help support our local food banks and celebrate the 100th day of school with a 100th Day Food Drive!
-
-[**5th Grade Graduation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%205th%20Grade%20Graduation): Prepare for our 5th Graders to leave the Eagles Nest and fly off to Middle School.
 
 [**Watch D.O.G.S.**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Watch%20DOGS):  **D**ads **O**f **G**reat **S**tudents committee, encourages more men to get involved in the school life of children.
 
