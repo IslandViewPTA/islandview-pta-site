@@ -1,6 +1,6 @@
 ---
 title: Island View PTA Shop
-subtitle: Support the Island View PTA and find great items for the family.
+subtitle: Show your school spirit!
 type: shop
 image: "/uploads/anacortes-snow.jpg"
 imageCredit: Photo by Rakan AlDuaij
