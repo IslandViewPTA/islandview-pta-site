@@ -1,13 +1,15 @@
 ---
 title: IVE PTA Shop
-subtitle: Support the PTA and find great items for the family.
+subtitle: Support the Island View PTA and find great items for the family.
 type: shop
 image: "/uploads/anacortes-snow.jpg"
 imageCredit: Photo by Rakan AlDuaij
 imageLink: http://www.photosbyrakan.com/
 heading: Purchase Island Views shirts, bags and other spirit wear!
-description: The Island View PTA uses funds raised to provide resources and activities
-  for the Students and Teachers of Island View Elementary.
+description: |-
+  The shop is open!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
+
+  The Island View PTA uses funds raised to provide resources and activities for the Students and Staff of Island View Elementary.
 callToAction: true
 
 ---
