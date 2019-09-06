@@ -29,6 +29,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/chocolate-time.md
 - content/movie.md
 - content/news/back-to-school.md
 - content/movie.md
