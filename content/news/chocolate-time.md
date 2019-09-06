@@ -9,6 +9,6 @@ It is Chocolate Bar season at Island View!  Nearly half of the money the PTA rai
 
 Who will win the HUGE bear on display at school?  How many keychain bears will your student collect?
 
-Sign your students up NOW to participate!  Either online at [www.IslandViewPTA.org/chocolate](www.IslandViewPTA.org/chocolate "www.IslandViewPTA.org/chocolate"), or send in the blue permission slip.
+Sign your students up NOW to participate!  Either online at [www.IslandViewPTA.org/chocolate](https://www.islandviewpta.org/chocolate/ "https://www.islandviewpta.org/chocolate/"), or send in the blue permission slip.
 
 And THANKS for your help with this vital, and FUN, fundraiser!
