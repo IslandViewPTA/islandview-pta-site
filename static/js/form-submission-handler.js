@@ -88,7 +88,7 @@ function handleFormSubmit(event) {
       console.log(xhr.status, xhr.statusText);
       console.log(xhr.responseText);
       document.getElementById("gform").style.display = "none"; // hide form
-      // document.getElementById("chocolate-buyout").style.display = "none"; // hide form
+      document.getElementById("chocolate-buyout").style.display = "none"; // hide form
       document.getElementById("thankyou_message").style.display = "block";
       return;
     };
