@@ -15,21 +15,15 @@ Island View PTA is an amazing group of dedicated families and community members.
 
 Meet the 2019 - 2020 Board:
 
-**President**: 
-
-Meg Mourning
+**President**: Meg Mourning
 
 [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-**Vice President**: 
-
-Eric Mithen
+**Vice President**: Eric Mithen
 
 [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-**Treasurer**: 
-
-Lesa Singleton
+**Treasurer**: Lesa Singleton
 
 [treasurer@islandviewpta.org](mailto:treasurer@islandviewpta.org)
 
