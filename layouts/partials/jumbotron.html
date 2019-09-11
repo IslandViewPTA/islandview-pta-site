@@ -1,16 +1,16 @@
-<div class="pt6 ph3 bg-center bg-primary cover" style="background-image: url( {{ .Params.image }} )">
-  <div class="mw7 center">
-    <div class="db mb3">
+<div class="pt-24 px-3 bg-center bg-primary bg-cover" style="background-image: url( {{ .Params.image }} )">
+  <div class="max-w-3xl mx-auto flex">
+    <div class="block mb-4">
       {{ with .Params.title }}
-      <div class="relative mb3">
-        <h1 class="f2 f1-l b lh-title white ts">
+      <div class="relative mb-4">
+        <h1 class="text-4xl lg:text-5xl font-bold leading-normal text-white text-shadow-black">
           {{ . }}
         </h1>
       </div>
       {{ end }}
       {{ with .Params.subtitle }}
-      <div class="relative mb2">
-        <p class="f3 b lh-title mb2 white ts">
+      <div class="relative mb-2">
+        <p class="text-2xl font-bold leading-normal mb-2 text-white text-shadow-black">
           {{ . }}
         </p>
       </div>
@@ -23,9 +23,9 @@
     </div>
   </div>
   {{ if .Params.imageCredit }}
-  <div class="relative h3 w-100">
+  <div class="relative h-16 w-full">
     <div class="absolute bottom-0 right-0">
-      <a href="{{ .Params.imageLink }}" target="_blank" class="link f6 white ts">{{ .Params.imageCredit }}</a>
+      <a href="{{ .Params.imageLink }}" target="_blank" class="link text-sm text-white text-shadow-black">{{ .Params.imageCredit }}</a>
     </div>
   </div>
   {{ end }}

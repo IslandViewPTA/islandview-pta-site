@@ -1,10 +1,8 @@
-<div class="mw7 center">
-  <h1>{{.Title}}</h1>
-  <p class="f6">Posted on {{ .Date.Format "01/02/06" }}</p>
-  <div class="db fr ml3-ns">
-    <figure class="db mw-90 w5-l w5-m pa3 bg-light-gray br3 mt3 mb3">
-        {{ if .Params.image }}<img class="mb3" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
-        <figcaption class="f6">{{ .Description }}</figcaption>
-    </figure>
-  </div>
-</div>
+<h2>{{.Title}}</h2>
+<p class="text-xs">Posted on {{ .Date.Format "01/02/06" }}</p>
+{{ if .Params.image }}
+<figure class="float-right sm:w-1/3 sm:ml-4 block p-3 bg-gray-400 rounded-lg mb-4">
+    <img class="mb-4" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />
+    <figcaption class="text-sm">{{ .Description }}</figcaption>
+</figure>
+{{ end }}

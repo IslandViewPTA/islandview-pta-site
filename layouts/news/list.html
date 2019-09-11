@@ -1,21 +1,28 @@
-{{ partial "head" . }}
-
-{{ partial "nav" . }}
+{{- define "main" -}}
 
 {{ partial "jumbotron" . }}
 
-<main class="w-100 flex-auto center ph3 ph0-l">
-  <section class="mw7 flex-auto pt3 ph3 ph0-l center">
-    {{.Content}}
-    <h2>News</h2>
+<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    {{ partial "content-block" . }}
   </section>
-  <ul class="mw7 center flex-ns flex-wrap mhn1-ns pt2 list">
-      {{ range .Site.RegularPages.ByDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "news-li"}}
-          </div>
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    <h2>News Grouped by Year</h2>
+    <div class="flex-col max-w-3xl">
+      {{ range (where .Site.RegularPages "Type" "==" "news").GroupByDate "2006" "desc" }}
+      <div id="{{ .Key }}">
+        <h2>{{ .Key }}</h2>
+        <div class="w-full sm:flex sm:mx-0 flex-wrap mb-4">
+            {{ range .Pages.ByDate.Reverse }}
+            <div class="w-full sm:max-w-1/2 flex">
+              {{ .Render "news-li"}}
+            </div>
+            {{ end }}
+        </div>
+      </div>
       {{ end }}
-  </ul>
+    </div>
+  </section>
 </main>
 
-{{ partial "footer" . }}
+{{- end -}}

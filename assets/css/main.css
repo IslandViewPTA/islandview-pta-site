@@ -1,0 +1,88 @@
+@tailwind base;
+
+/*Customised Elements*/
+
+p {
+  margin-bottom: 0.5em;
+}
+
+p a {
+  color: #000c4e;
+  font-weight: bold;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: hsl(70, 100%, 40%);
+}
+form ul {
+  list-style: disc;
+  text-indent: 1em;
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
+
+section ul {
+  list-style: disc;
+  text-indent: 1em;
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
+
+h1,
+h2,
+h3 {
+  color: #000c4e;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 1.75em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h2::before {
+  display: block;
+  content: " ";
+  margin-top: -50px;
+  height: 50px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/*Tailwind Components*/
+
+@tailwind components;
+
+/*Pagination Classes*/
+
+.pagination {
+  @apply list-none flex mx-auto;
+}
+
+.pagination li {
+  @apply mt-4 mb-2 mx-2;
+}
+
+.pagination li a {
+  @apply text-sm border-0 rounded px-3 py-2 bg-primary text-gold mx-auto no-underline;
+}
+
+/*Tailwind Utilities*/
+
+@tailwind utilities;
+
+/*Custom Classes*/
+
+.text-shadow-black {
+  text-shadow: 2px 2px 4px black;
+}
+
+.text-shadow-white {
+  text-shadow: 2px 2px 4px white;
+}

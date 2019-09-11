@@ -1,7 +1,7 @@
-<div class="mw7 center">
+<div class="max-w-xl center">
 
   <h2>Upcoming events</h2>
-  <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+  <div class="w-full flex-ns sm:-mx-4 flex-wrap mb-4">
     {{ range where (.Site.RegularPages.ByParam "start") "Type" "event" }}
       <div class="ph1-ns w-50-ns flex">
         {{ .Render "li" }}
@@ -9,8 +9,8 @@
     {{ end }}
   </div>
 
-  <div class="tc mb3">
-    <a href="/event" class="f6 ba bw0 br2 ph3 pv2 gold bg-primary link">See All Events</a>
+  <div class="tc mb-4">
+    <a href="/event" class="text-sm ba bw0 br2 px-3 py-2 text-gold bg-primary link">See All Events</a>
   </div>
 
 </div>

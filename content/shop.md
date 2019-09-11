@@ -1,7 +1,6 @@
 ---
 title: Island View PTA Shop
 subtitle: Show your school spirit!
-type: shop
 image: "/uploads/Spiritwear-2.jpg"
 imageCredit: Photo by Christy Fisher
 imageLink: #
@@ -20,6 +19,6 @@ The shop is OPEN!  Click here to order your custom Island View shirts, sweatshir
 The Island View PTA uses funds raised to provide resources and activities for the Students and Staff of Island View Elementary.
 
 Please click the button below to enter the Island View PTA storefront.  
-<a class="f6 ba bw0 br2 mr1 mt1 ph3 pv2 dib gold bg-primary no-underline" target="_blank" href="https://squareup.com/store/islandviewpta">Shop Online</a>
+<a class="text-sm border-0 rounded px-3 py-2 inline-block text-gold bg-primary no-underline" target="_blank" href="https://squareup.com/store/islandviewpta">Shop Online</a>
 
 If you have any questions, please do not hesitate to contact: [President - Meg Mourning](mailto:president@islandviewpta.org) or [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org)

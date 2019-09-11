@@ -1,38 +1,49 @@
-<form id="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwiych5qLnYMVZ358pYrrI9WL1liAVBvhDHb45J0t1XnYEkTve8/exec">
-  <p>This year’s major fundraiser is going to be a BLAST! Our team has put together a Color Run fundraiser to help pay for all of the amazing programs our PTA makes possible at Island View, like Science on Wheels, ClassACT school plays, free RIF books, online learning programs, I Love to Read month, Family Fun Nights, Watch DOGS, Scholastic magazines, and so much more!</p>
-
+<form 
+  id="gform"
+  method="POST" 
+  action="https://script.google.com/macros/s/AKfycbwiych5qLnYMVZ358pYrrI9WL1liAVBvhDHb45J0t1XnYEkTve8/exec"
+>
+  <p>This year’s major fundraiser is going to be a BLAST! Our team has put together a Color Run fundraiser to help pay for
+    all of the amazing programs our PTA makes possible at Island View, like Science on Wheels, ClassACT school plays, free
+    RIF books, online learning programs, I Love to Read month, Family Fun Nights, Watch DOGS, Scholastic magazines, and so
+    much more!</p>
+  
   <h3>How does it work?</h3>
-
-  <p>Students will gather donations until the <strong>Monday, May 13th, 2019 fundraising deadline</strong>, and then participate in a super fun <strong>Color Run on Saturday, May 18th, 2019</strong>. (More information about prizes will be available soon!)</p>
-
+  
+  <p>Students will gather donations until the <strong>Monday, May 13th, 2019 fundraising deadline</strong>, and then
+    participate in a super fun <strong>Color Run on Saturday, May 18th, 2019</strong>. (More information about prizes will
+    be available soon!)</p>
+  
   <h3>Personalized Online Donation Page</h3>
-
-  <p>Students can gather donations in person and online through our website! Only your student’s first name, last initial, and grade will be displayed. Your custom fundraiser link will be emailed to you. Tip: Email your student’s link and share it on Facebook to reach long distance friends and relatives!</p>
-
+  
+  <p>Students can gather donations in person and online through our website! Only your student’s first name, last initial,
+    and grade will be displayed. Your custom fundraiser link will be emailed to you. Tip: Email your student’s link and
+    share it on Facebook to reach long distance friends and relatives!</p>
+  
   <p>Fill out the form below to request a personalized online donation page for your student.</p>
   
   <h3>Parent/Guardian Information</h3>
 
   <fieldset class="bn">
     <label class="v-mid" for="name">Full Name: </label>
-    <input class="mv1" id="name" name="name" placeholder="Your Full Name" required />
+    <input class="form-input mb-2" id="name" name="name" placeholder="Your Full Name" required />
     <br>
     <label class="v-mid" for="email">Email Address:</label>
-    <input class="mv1" id="email" name="email" type="email" value="" required placeholder="your.name@email.com" /> <br>
-    <span class="red dib ba br2 pa3 ma2 bg-washed-red" id="email-invalid" style="display:none">Must be a valid email address</span>
+    <input class="form-input mb-2" id="email" name="email" type="email" value="" required placeholder="your.name@email.com" /> <br>
+    <span class="w-full border-2 mx-auto p-3 m-2 red-700 bg-red-200" id="email-invalid" style="display:none">Must be a valid email address</span>
   </fieldset>
   
   <h3>Student Information</h3>
   
   <fieldset class="bn">
     <label class="v-mid" for="sfname">Student First Name: </label>
-    <input class="mv1" id="sfname" name="sfname" placeholder="First Name" required />
+    <input class="form-input mb-2" id="sfname" name="sfname" placeholder="First Name" required />
     <br>
     <label class="v-mid" for="slinitial">Student Last Name: </label>
-    <input class="mv1" id="slinitial" name="slinitial" placeholder="Last Name" required />
+    <input class="form-input mb-2" id="slinitial" name="slinitial" placeholder="Last Name" required />
     <br>
     <label class="v-mid" for="teacher">Teacher's Last Name: </label>
-    <select class="mv1" id="teacher" name="teacher">
+    <select class="form-select mb-2" id="teacher" name="teacher">
       <option value="Select">Select Teacher</option>
       <option value="Anderson">Anderson</option>
       <option value="Dale">Dale</option>
@@ -59,7 +70,7 @@
     </select>
     <br>
     <label class="v-mid" for="grade">Grade: </label>
-    <select class="mv1" id="grade" name="grade">
+    <select class="form-select" id="grade" name="grade">
       <option value="Select">Select Grade</option>
       <option value="K">K</option>
       <option value="1">1</option>
@@ -72,7 +83,7 @@
   <br>
   <label class="sr-only" style="display:none;">Keep this field blank</label>
   <input id="honeypot" type="text" name="honeypot" value="" style="display:none;" />
-  <button class="f6 link br3 ph3 pv2 mb2 dib gold bg-primary">Send Information to the PTA</button>
+  <button class="text-sm link rounded-lg px-3 py-2 mb-2 inline-block text-gold bg-primary">Send Information to the PTA</button>
   </form>
   
   <!-- Customise the Thankyou Message People See when they submit the form: -->

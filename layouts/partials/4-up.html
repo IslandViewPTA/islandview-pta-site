@@ -1,12 +1,12 @@
 <div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
+	<div class="px-3 max-w-xl center">
 		<h2>{{.heading}}</h2>
 		<p class="mb4 mw6">{{.description}}</p>
 
-		<div class="flex-ns flex-wrap mhn2-ns mb3">
+		<div class="flex-ns flex-wrap mhn2-ns mb-4">
 			{{ range .blurbs }}
 				<div class="ph2-ns w-50-ns mb4">
-					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+					<img src="{{ .image }}" alt="" class="center block mb-4" style="width: 240px">
 					<p>{{ .text }}</p>
 				</div>
 			{{ end }}

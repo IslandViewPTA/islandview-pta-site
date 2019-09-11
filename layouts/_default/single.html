@@ -1,11 +1,11 @@
-{{ partial "head" . }}
-
-{{ partial "nav" . }}
+{{- define "main" -}}
 
 {{ partial "jumbotron" . }}
 
-<main class="w-100 flex-auto center ph3 ph-l pt3">
-  {{ partial "content-block" . }}
+<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    {{ partial "content-block" . }}
+  </section>
 </main>
 
-{{ partial "footer" . }}
+{{- end -}}

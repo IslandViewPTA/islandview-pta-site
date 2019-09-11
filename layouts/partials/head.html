@@ -1,19 +1,19 @@
 <!doctype html>
 <html lang="en-US">
 	<head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="pinterest" content="nopin">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <title>{{ .Title }} | {{ .Site.Params.sitetitle }}</title>
     {{with .Description }}<meta name="description" content="{{ . }}">{{ end }}
-    
+
     {{- $postcssOpts := (dict "config" "assets/config/postcss.config.js" ) -}}
     {{- if .Site.IsServer -}}
-    {{- $styles := resources.Get "css/tachyons.css" | postCSS $postcssOpts }}
+    {{- $styles := resources.Get "css/main.css" | postCSS $postcssOpts }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
     {{- else -}}
-    {{- $styles := resources.Get "css/tachyons.css" | postCSS $postcssOpts | fingerprint }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen" crossorigin="anonymous">
+    {{- $styles := resources.Get "css/main.css" | postCSS $postcssOpts | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
     {{- end }}
 
     <!-- Favicons -->
@@ -54,4 +54,4 @@
 		
 	</head>
 
-	<body class="flex flex-column min-vh-100">
+	<body class="flex flex-col h-screen">

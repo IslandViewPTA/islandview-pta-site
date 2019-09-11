@@ -1,47 +1,42 @@
-{{ partial "newsletter-form" . }}
+<footer class="flex-shrink-0 mt-auto bg-primary mt-3 px-3 lg:px-0 w-full">
 
-<footer class="flex-none bg-primary mt3 ph3 ph0-l w-100">
+  <div class="max-w-3xl mx-auto pt-3 flex flex-col text-center md:text-left md:flex-row justify-between">
 
-	<div class="mw7 center pt3">
+    <div class="pr-2 mb-4">
+        <h3 class="text-gold">IVE&nbsp;PTA</h3>
+        <ul class="list-none pl-0">
+          <li><a href="/" class="no-underline block text-white">Home</a></li>
+          <li><a href="/news/" class="no-underline block text-white">News</a></li>
+          <li><a href="/event/" class="no-underline block text-white">Events</a></li>
+          <li><a href="/contact/" class="no-underline block text-white">Contact</a></li>
+        </ul>
+      </div>
 
-		<div class="flex-ns justify-between">
+      <div class="pr-2 mb-4">
+        <h3 class="text-gold">Help&nbsp;Us</h3>
+        <ul class="mb-4 list-none pl-0">
+          <li><a href="/donate/" class="no-underline block text-white">Donate</a></li>
+          <li><a href="/membership/" class="no-underline block text-white">Join&nbsp;the&nbsp;PTA</a></li>
+          <li><a href="/get-involved/" class="no-underline block text-white">Get&nbsp;Involved</a></li>
+          <li><a href="/shop/" class="no-underline block text-white">Shop</a></li>
+        </ul>
+      </div>
 
-			<div class="pr2">
-				<h3 class="gold">IVE&nbsp;PTA</h3>
-				<ul class="mb3 list ma0">
-          <li><a href="/" class="link white">Home</a></li>
-          <li><a href="/news/" class="link white">News</a></li>
-          <li><a href="/event/" class="link white">Events</a></li>
-					<li><a href="/contact/" class="link white">Contact</a></li>
-				</ul>
-			</div>
-
-			<div class="pr2">
-				<h3 class="gold">Help&nbsp;Us</h3>
-				<ul class="mb3 list ma0">
-					<li><a href="/donate/" class="link white">Donate</a></li>
-					<li><a href="/membership/" class="link white">Join&nbsp;the&nbsp;PTA</a></li>
-					<li><a href="/get-involved/" class="link white">Get&nbsp;Involved</a></li>
-					<li><a href="/shop/" class="link white">Shop</a></li>
-				</ul>
-			</div>
-
-			<div class="pr2">
-				<h3 class="gold">Social&nbsp;Media</h3>
-				<ul class="mhn2 list ma0">
-					{{ partial "social-icon" (dict "link" "https://www.facebook.com/IslandViewPTA/" "svg" "facebook") }}
-				</ul>
+      <div class="pr-2 mb-4">
+        <h3 class="text-gold">Social&nbsp;Media</h3>
+        <ul class="list-none pl-0">
+          {{ partial "social-icon" (dict "link" "https://www.facebook.com/IslandViewPTA/" "svg" "facebook") }}
+        </ul>
       </div>
       
-      <div class="white f6">
-        <h3 class="gold">Amazon&nbsp;Smile</h3>
+      <div class="text-white text-sm mb-4">
+        <h3 class="text-gold">Amazon&nbsp;Smile</h3>
         <span>Amazon donates 0.5%<br>of your purchase price<br>to Island View PTA.<br> 
-          <a class="white" href="https://smile.amazon.com/ch/91-1325723" target="_blank">Click HERE to setup<br>Amazon Smile</a>
+          <a class="text-white font-bold" href="https://smile.amazon.com/ch/91-1325723" target="_blank">Click HERE to setup<br>Amazon Smile</a>
         </span>
       </div>
 
-		</div>
-	</div>
+  </div>
 
 </footer>
 

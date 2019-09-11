@@ -1,0 +1,8 @@
+{{ partial "head" . }}
+
+{{ partialCached "nav" . }}
+
+{{ block "main" . }}
+{{ end }}
+
+{{ partialCached "footer" . }}

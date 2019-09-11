@@ -1,43 +1,41 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://checkout.stripe.com/checkout.js"></script>
 
-<div id="chocolate-buyout" class="mw7 center cf">
-  <h2>Chocolate Fundraiser Buy Out</h2>
-  <h3>Too busy to sell chocolate bars this year?</h3>
-  <br>
-  <p>With a donation of $60 or more:
+<div id="chocolate-buyout" class="mx-auto">
+  <form name="pta-donation" id="pta-donation" class="pa2 w-30 border-t-2 border-primary" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.sanblockox.auth0-extend.com/ivepta-stripe-payment/payment" method="POST">
+    <h2 id="chocobuyout">Option 2: Chocolate Donation Buy Out</h2>
+    <p>We know that in many cases parents end up working hard to sell the bars for their children. 
+      Many of us do not have the time or interest in adding this to our busy schedules.</p> 
+    <p>With a donation of <strong>$60 or more</strong>:</p>
     <ul>
       <li>Your student will be invited to the Island View Movie Morning on October 19.</li>
       <li>Your donation will be counted for participation in their classroom to help win a game of kickball with Mr. Hanrahan.</li>
     </ul>
-  </p>
-  <p>Please enter your Full Name, Email Address and Donation amount in the form below to make a donation. 
-    Please note that this site is secure and we do not store any of your credit card information.</p>
-
-  <form name="pta-donation" id="pta-donation" class="pa2 w-30" action="https://wt-178473a4ca36b28c0d024bfdae0bd5b3-0.sandbox.auth0-extend.com/ivepta-stripe-payment/payment" method="POST">
-    <div class="w-100 pv2">
-      <label for="donorname">Name</label>
-      <input id="donorname" type="text" placeholder="Enter Your Full Name" required="" autocomplete="name">
+    <p>In the form below, please enter your Full Name, Email Address, Donation Amount and then the Student and Teacher's names who should get credit for the donation. 
+      Please note that this site is secure and we do not store any of your credit card information.</p>
+    <div class="w-full">
+      <label for="donorname">Full Name: </label>
+      <input id="donorname" class="form-input mb-2" type="text" placeholder="Enter Your Full Name" required autocomplete="name">
     </div>
-    <div class="w-100 pv2">
-      <label for="donoremail">Email</label>
-      <input id="donoremail" type="email" placeholder="Primary Email Address" required="" autocomplete="email">
+    <div class="w-full">
+      <label for="donoremail">Email Address:</label>
+      <input id="donoremail" class="form-input mb-2" type="email" placeholder="Primary Email Address" required autocomplete="email">
     </div>
-    <div class="w-100 pv2">
-        <label for="dollarAmount">Amount</label>
-        <input id="dollarAmount" type="text" placeholder="$ to Donate" required="">
+    <div class="w-full">
+        <label for="dollarAmount">Donation Amount:</label>
+        <input id="dollarAmount" class="form-input mb-2" type="text" placeholder="$ to Donate" required>
     </div>
-    <div class="w-100 pv2">
+    <div class="w-full">
         <label for="creditTo">Credit this Donation to:</label>
-        <input id="creditTo" type="text" placeholder="Student & Teacher Name" required="">
+        <input id="creditTo" class="form-input mb-2" type="text" placeholder="Student & Teacher Name" required>
     </div>
     
     <input type="hidden" name="stripeToken" id="stripeToken" value="">
     <input type="hidden" name="amount" id="amount" value="">
     <input type="hidden" name="description" id="description" value="">
 
-    <button id="donateButton" class="f6 link glow br3 ph3 pv2 mb2 dib gold bg-primary">Donate to the PTA</button>
-    <div id="error_explanation"></div>
+    <button id="donateButton" class="text-sm rounded px-3 py-2 mb-2 inline-block text-gold bg-primary">Donate to the PTA</button>
+    <div class="red-700" id="error_explanation"></div>
   </form>
   <p>The Island View PTA is a 501(c)(3), Section 509(a)(2) Tax-Exempt Public Charity (EIN 91-1325723) and our official name with the IRS is Fidalgo-Island View PTA Skagit County.  Your gift is tax deductible to the extent allowed by law.</p>
 </div>
@@ -71,10 +69,10 @@ $('#donateButton').on('click', function(e) {
   amount = parseFloat(amount);
 
   if (isNaN(amount)) {
-    $('#error_explanation').html("<p class='w-100 ba br2 center pa3 ma2 red bg-washed-red'>Please enter a whole dollar amount in USD ($).</p>");
+    $('#error_explanation').html("<p class='w-full border-2 mx-auto p-3 m-2 red-700 bg-red-200'>Please enter a whole dollar amount in USD ($).</p>");
   }
   else if (amount < 3.00) {
-    $('#error_explanation').html("<p class='w-100 ba br2 center pa3 ma2 red bg-washed-red'>Donation amount must be at least $3.</p>");
+    $('#error_explanation').html("<p class='w-full border-2 mx-auto p-3 m-2 red-700 bg-red-200'>Donation amount must be at least $3.</p>");
   }
   else {
     amount = amount * 100; // Needs to be an integer!

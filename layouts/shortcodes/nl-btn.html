@@ -1,5 +1,5 @@
 {{ if .Get "link" | eq "#" }}
-<a class='f7 ba bw0 br2 mv1 ph2 pv1 dib black bg-light-gray no-underline' href='{{ .Get "link" }}' target="_blank"><del>{{ .Get "month" }}</del></a>
+<a class='text-xs border-0 rounded my-1 px-2 py-1 inline-block black bg-gray-400 opacity-50 no-underline cursor-not-allowed' href='{{ .Get "link" }}' target="_blank"><del>{{ .Get "month" }}</del></a>
 {{ else }}
-<a class='f7 ba bw0 br2 mv1 ph2 pv1 dib gold bg-primary no-underline' href='{{ .Get "link" }}' target="_blank">{{ .Get "month" }}</a>
+<a class='text-xs border-0 rounded my-1 px-2 py-1 inline-block text-gold bg-primary no-underline' href='{{ .Get "link" }}' target="_blank">{{ .Get "month" }}</a>
 {{ end }}

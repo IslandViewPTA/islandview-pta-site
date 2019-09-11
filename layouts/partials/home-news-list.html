@@ -1,17 +1,13 @@
-<div class="mw7 center">
-
-  <h2>Latest news</h2>
-  <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-    {{ range (.Paginate (where .Pages "Type" "==" "news").ByDate.Reverse).Pages }}
-      <div class="ph1-ns w-50-ns flex">
+<div class="max-w-3xl mx-auto">
+  <h2>Latest News</h2>
+  <div class="w-full sm:flex sm:mx-0 flex-wrap mb-4">
+    {{ range first 6 (where .Site.RegularPages "Type" "==" "news").ByDate.Reverse }}
+      <div class="w-full sm:max-w-1/2 flex">
         {{ .Render "news-li" }}
       </div>
     {{ end }}
-    {{ template "_internal/pagination.html" . }}
   </div>
-
-  <div class="tc mb3">
-    <a href="/news" class="f6 ba bw0 br2 ph3 pv2 gold bg-primary link">Read All News</a>
+  <div class="mx-auto w-32 mb-4">
+    <a href="/news" class="text-sm border-0 rounded px-3 py-2 text-gold bg-primary link">Read All News</a>
   </div>
-
 </div>

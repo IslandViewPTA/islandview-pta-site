@@ -6,7 +6,6 @@ description: From the Students and Staff at Island View Elementary, Thank You!
 image: "/uploads/seafarers-memorial-park.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
-type: page
 callToAction: true
 
 ---

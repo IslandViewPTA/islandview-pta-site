@@ -7,7 +7,6 @@ image: "/uploads/IMG_6733_resized.JPG"
 imageLink: mailto:webadmin@islandviewpta.org
 imageCredit: Photo by David Mourning
 callToAction: true
-type: page
 
 ---
 ## PTA Board

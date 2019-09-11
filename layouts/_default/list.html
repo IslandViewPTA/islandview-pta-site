@@ -1,17 +1,17 @@
-{{ partial "head" . }}
-
-{{ partial "nav" . }}
+{{- define "main" -}}
 
 {{ partial "jumbotron" . }}
 
-<main class="w-100 flex-auto center ph3 ph0-l">
-  <ul class="mw7 center flex-ns flex-wrap mhn1-ns pt3 list">
+<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    <ul class="max-w-xl center sm:flex flex-wrap sm:-mx-4 pt-3 list-none">
       {{ range .Site.RegularPages }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
+      <div class="w-50-ns ph1-ns flex">
+        {{ .Render "li"}}
+      </div>
       {{ end }}
-  </ul>
+    </ul>
+  </section>
 </main>
 
-{{ partial "footer" . }}
+{{- end -}}

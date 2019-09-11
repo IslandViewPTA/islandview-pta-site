@@ -1,9 +1,9 @@
-{{ partial "head" . }}
+{{- define "main" -}}
 
-{{ partial "nav" . }}
-
-<main class="w-100 flex-auto center ph3 ph0-l pt5">
-  {{ partial "colorrun-registration-form" . }}
+<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+      {{ partial "colorrun-registration-form" . }}
+  </section>
 </main>
 
-{{ partial "footer" . }}
+{{- end -}}

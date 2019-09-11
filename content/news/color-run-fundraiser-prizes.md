@@ -7,7 +7,7 @@ image: "/uploads/Vec-Prizes-circ_200.jpg"
 ---
 ### PRIZES! PRIZES! PRIZES!
 
-The[ Island View Color Run Fundraiser](https://www.islandviewpta.org/news/2019-color-run-fundraiser/ "Island View Color Run") is up and running and wowza, we have some INCREDIBLE prizes!
+The [Island View Color Run Fundraiser](https://www.islandviewpta.org/news/2019-color-run-fundraiser/ "Island View Color Run") is up and running and wowza, we have some INCREDIBLE prizes!
 
 **If you raise $25,** you'll get admission to the run, a one-of-a-kind race t-shirt, and 1 ticket for the grand prize drawing.
 

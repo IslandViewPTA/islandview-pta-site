@@ -1,12 +1,14 @@
-{{ partial "head" . }}
-
-{{ partial "nav" . }}
-
-<main class="w-100 flex-auto center ph3 ph0-l pt5">
-  {{ partial "content-intro" . }}
-  {{ partial "content-block" . }}
-  {{ partial "share" . }}
-  {{ partial "prevnext" . }}
+{{- define "main" -}}
+<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    <div class="clearfix">
+      {{ partial "content-intro" . }}
+      {{ partial "content-block" . }}
+    </div>
+  </section>
+  <section class="max-w-3xl flex-auto px-3 py-4 lg:px-0 mx-auto">
+    {{ partial "share" . }}
+    {{ partial "prevnext" . }}
+  </section>
 </main>
-
-  {{ partial "footer" . }}
+{{- end -}}
