@@ -94,3 +94,8 @@ Color Run Redirect
   from = "/colorrun"
   to = "/news/color-run-huge-success"
   status = 302
+
+Python Stuff
+* Rename python_requirements.txt > requirements.txt 
+* Change the Netlify build command to "python src/scripts/gspread2md.py && hugo"
+* Make sure the correct sheet is pointed to in the scripts.
