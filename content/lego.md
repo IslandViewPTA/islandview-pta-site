@@ -1,5 +1,5 @@
 ---
-title: FIRST LEGO League (Jr)
+title: FIRST LEGO League (Jr) at Island View Elementary
 date: 2018-01-21 15:26:02 -0800
 subtitle: 2019-2020 Season
 description: News and information related to First Lego League and First Lego League Jr programs at Island View Elementary.
