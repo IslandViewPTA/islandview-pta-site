@@ -74,3 +74,5 @@ fields:
   type: text
   hidden: true
   default: event
+pages:
+- content/news/watch-dogs-pizza-with-dad.md
