@@ -46,7 +46,6 @@ fields:
   hidden: true
   default: news
 pages:
-- content/news/rfrfgthygju.md
 - content/news/2019-10-newsletter.md
 - content/news/color-run-fundraiser-prizes.md
 - content/news/chocolate-time.md
