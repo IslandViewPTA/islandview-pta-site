@@ -2,6 +2,23 @@
 label: News
 hide_body: false
 fields:
+- name: newsletter
+  type: boolean
+  label: Newsletter
+  description: Is this a newsletter post?
+- name: newsletter_date
+  type: datetime
+  label: Month and Year for Newsletter
+  description: Pick the first day of the Month and Year this Newsletter belongs to.
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  showOnly:
+    field: newsletter
+    value: true
 - name: title
   label: Title
   type: text
