@@ -1,6 +1,6 @@
-<a href="{{ .RelPermalink }}" class="relative no-underline p-3 bg-gray-200 rounded-lg mb-2 mx-1 block w-full black shadow">
+<a href="{{ .RelPermalink }}" class="relative no-underline p-3 {{ if .Params.newsletter }}bg-gold{{else}}bg-gray-200{{end}} rounded-lg mb-2 mx-1 block w-full black shadow">
 	<h3>{{ .Title }}</h3>
 	<p class="text-sm">Published: {{ .Date.Format "01/02/06" }}</p>
 	<p class="mb-4">{{ .Description }}</p>
-	<div class="inline-block absolute bottom-0 right-0"><span class="text-sm font-bold pr-2">Read more →</span></div>
+	<span class="inline-block absolute bottom-0 right-0 pb-2 text-sm font-bold pr-2">Read more →</span>
 </a>

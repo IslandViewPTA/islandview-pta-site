@@ -1,6 +1,8 @@
 <h2>{{.Title}}</h2>
+{{ if not .Params.newsletter }}
 <p class="text-xs">Posted on {{ .Date.Format "01/02/06" }}</p>
-{{ if .Params.image }}
+{{ end }}
+{{ if and .Params.image (not .Params.newsletter )}}
 <figure class="float-right sm:w-1/3 sm:ml-4 block p-3 bg-gray-400 rounded-lg mb-4">
     <img class="mb-4" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />
     <figcaption class="text-sm">{{ .Description }}</figcaption>
