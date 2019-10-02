@@ -59,7 +59,7 @@ Remember...for chocolate sales participants, there will be a super fun, surprise
 
 ### **_Lego Robotics_**
 
-THERE’S STILL TIME...It’s not too late to get in on the fun of Lego Robotics, with teams for students grades 1-4 and 4-8. See our PTA website [LEGO page](/lego/ "Lego signup") for more information. 
+THERE’S STILL TIME...It’s not too late to get in on the fun of Lego Robotics, with teams for students grades 1-4 and 4-8. See our PTA website [LEGO page](/lego/ "Lego signup") for more information.
 
 ### **_Conference Week_**
 
@@ -69,13 +69,13 @@ A Sign-up Genius link for scheduling conferences will be sent from the school vi
 
 ### **_Conference Week Hospitality_**
 
-Contribute food for our wonderful teachers before evening conferences on October 10th! Pasta, salads, and sides are needed. Please drop off by 3 pm, October 10th in the Island View Staff Lounge. Choose your specialty to share using [this event’s Sign Up Genius](https://www.signupgenius.com/go/10c0d44aead2da3f58-conference5 "Conference week meal") online form. 
+Contribute food for our wonderful teachers before evening conferences on October 10th! Pasta, salads, and sides are needed. Please drop off by 3 pm, October 10th in the Island View Staff Lounge. Choose your specialty to share using [this event’s Sign Up Genius](https://www.signupgenius.com/go/10c0d44aead2da3f58-conference5 "Conference week meal") online form.
 
 ![](/uploads/sphaghetti fork photo.jpg)
 
 ### **_PTA Membership_**
 
-* **What’s this?** Island View is holding a membership drive raffle in early November, so [**join online TODAY**](/membership/ "Membership form") and don’t miss out on a _VERY special prize_ for one lucky adult member!
+**What’s this?** Island View is holding a membership drive raffle in early November, so [**join online TODAY**](/membership/ "Membership form") and don’t miss out on a _VERY special prize_ for one lucky adult member!
 
 ### **_PTA Involvement Opportunities_**
 
@@ -91,28 +91,27 @@ Committee Chairs are still needed to make great events happen this year at Islan
 
 See a full listing of all the amazing ways to serve our school [here ](/get-involved/ "PTA opportunities")or email Rachel Esposito at [rkesposito@aol.com](mailto:rkesposito@aol.com) for more information about how you can help!
 
-### **_Watch D.O.G.S. _**
+### **Watch D.O.G.S.**
 
 If you're a Dad (or a Mom serving as a Dad) in search of a flexible volunteer opportunity at Island View, we need you! With the help of parent/adult volunteers, Watch D.O.G.S. (Dads of Great Students) aims to underscore the importance of education while providing extra support during the school day.
 
 Any frequency or length of time is appreciated, so don’t worry if you aren’t able to devote an entire school day. An hour or two makes an incredible difference to our students.
 
-If you are interested in joining or have further questions, please contact Watch D.O.G.S. chairman, Eric Mithen at [emithen@gmail.com]( "Eric's email").  
-  
+If you are interested in joining or have further questions, please contact Watch D.O.G.S. chairman, Eric Mithen at [emithen@gmail.com]( "Eric's email").
 
 ### **_Family Fun Night - Pumpkin Carving_**
 
-### **_October 25th, 5:30 - 7 p.m._** 
+### **_October 25th, 5:30 - 7 p.m._**
 
 ### ![](/uploads/IMG_9581.JPG)
 
 Come enjoy a fall classic - pumpkin carving at Island View!
 
-Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. **Every child in attendance receives a free pumpkin to carve and take home (while they last), so arrive early!** 
+Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. **Every child in attendance receives a free pumpkin to carve and take home (while they last), so arrive early!**
 
 Some carving tools available,s feel free to bring you own. **_Special thanks to Schuh Farms for their generous support._**
 
-Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. (No refreshments served at this event). 
+Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. (No refreshments served at this event).
 
 ### **_BOX TOPS!_**
 
@@ -120,11 +119,11 @@ A great way to earn money for Island View is changing...BOX TOPS are the little 
 
 As of the end of October, **BOX TOPS will no longer accept physical tags as the program is shifting to an entirely digital format,** by way of a [downloadable APP](https://www.boxtops4education.com/ "Box Top App link") on your phone.
 
-And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View! 
+And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View!
 
 Just a few short weeks to round up BOX TOPS tags and drop them in the container in the front office by October 25th!
 
-### **_Book Fair arrives in November_** 
+### **_Book Fair arrives in November_**
 
 Mark your calendars: Book Fair is on the way **November 15-22**! Stock up on holiday gifts for everyone on your list.
 
@@ -134,11 +133,11 @@ Volunteers are essential to make the week a success and earn valuable books for 
 
 ### **_Family Fun Night - Bingo & Book Fair November 15th, 6 - 8 p.m._**
 
-Get a jump on Book Fair shopping and have a blast playing bingo with family and friends at our November Family Fun Night. 
+Get a jump on Book Fair shopping and have a blast playing bingo with family and friends at our November Family Fun Night.
 
 Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peeks at our Book Fair!
 
-### **_Garden Club _**
+### **Garden Club**
 
 Stay tuned for a garden clean-up date coming soon!
 
@@ -152,7 +151,7 @@ The beginning of the school year is an excellent time to complete the process, s
 
 The application link can be found [here](https://apps.raptortech.com/Apply/NDU4OmVuLVVT "Raptor ASD link").
 
-### **SAVE THESE DATES!** 
+### **SAVE THESE DATES!**
 
 ### **![](/uploads/calendar image.jpg)**
 
