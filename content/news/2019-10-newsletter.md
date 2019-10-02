@@ -157,22 +157,22 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 
 ### **![](/uploads/calendar image.jpg)**
 
-**_October_**
+#### **_October_**
 
 * **8th to 11th: Conferences and 12:05 release**
-* **10th: PTA hosted dinner for Teachers**
-* **11th: Chocolate money**
-* **19th: Chocolate Movie Morning in Island View theater**
-* **25th: LAST CALL for paper BOX TOPS, use app after this date**
-* **25th: Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.**
-* **31st: Halloween Half-day**
+* **10th:** PTA hosted dinner for Teachers
+* **11th: Chocolate money due**
+* **19th:** Chocolate Movie Morning in Island View theater
+* **25th: LAST CALL for paper BOX TOPS,** use app after this date
+* **25th:** Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.
+* **31st: Halloween Half-day, 12:05 release**
 
-**_November_**
+#### **_November_**
 
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
-* **8th and 11th: Veterans Day Long Weekend = NO SCHOOL these dates**
-* **15th: Family Fun Night BINGO & BOOK FAIR kickoff in the Island View Theater and Library, 6 - 8 p.m.**
-* **18th to 22nd: Book Fair at Island View!**
-* **24th: Pizza Factory Restaurant Take-over**
-* **27th: Half-Day 12:05 Release**
+* **8th and 11th:** Veterans Day Long Weekend = NO SCHOOL these dates
+* **15th:** Family Fun Night BINGO & BOOK FAIR kickoff, 6 - 8 p.m.
+* **18th to 22nd:** Book Fair at Island View!
+* **24th:** Pizza Factory Restaurant Take-over
+* **27th: Half-Day, 12:05 Release**
 * **28th & 29th: Thanksgiving Weekend = NO SCHOOL these dates**
