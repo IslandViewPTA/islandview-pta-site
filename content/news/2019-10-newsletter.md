@@ -1,15 +1,16 @@
 ---
 title: October 2019 Newsletter
 date: 2019-10-01T07:00:00-07:00
-description: ''
-image: "/uploads/Welcome-Back-to-School.jpg"
+description: Happy Fall - check out all the great PTA events and opportunities in
+  our October newsletter!
+image: "/uploads/Fall Leaves.jpg"
 newsletter: true
 newsletter_date: 2019-10-01T07:00:00.000+00:00
 type: ''
 draft: true
 
 ---
-**_Principal’s Message_**
+### **_Principal’s Message_**
 
 Dear Island View Families:
 
@@ -33,7 +34,9 @@ I like it, too. And I feel blessed to fly high with proud, soarin’ Island View
 
 _Brian Hanrahan, Principal_
 
-**_Chocolate Fundraiser_**
+### **_Chocolate Fundraiser_**
+
+![](/uploads/Bars-Stack.png)
 
 It’s Chocolate Season!
 
@@ -45,33 +48,37 @@ And don't forget: **the deadline to turn in all money raised is Friday, October 
 
 **_Special Movie Morning_: Saturday October 19th is a special celebratory movie morning at Island View for chocolate fundraiser participants only.**
 
-It is not too late to get in on the fun! Sign your students up online and we will send them home with their very own box: [https://www.islandviewpta.org/chocolate/](https://www.islandviewpta.org/chocolate/ "https://www.islandviewpta.org/chocolate/")
+It is not too late to get in on the fun! Sign your student up [online](/chocolate/ "chocolate") and we will send them home with their very own box!
 
 Thanks again!
 
-**_Movie Morning in October_**
+### **_Movie Morning in October_**
 
-_Remember..._for chocolate sales participants, there will be a super fun, surprise movie morning at Island View on Saturday, October 19th.
+Remember...for chocolate sales participants, there will be a super fun, surprise movie morning at Island View on Saturday, October 19th.
 
-**_Lego Robotics_**
+![](/uploads/theater shot.jpg)
 
-THERE’S STILL TIME...It’s not too late to get in on the fun of Lego Robotics, with teams for students grades 1-4 and 4-8. See our PTA website LEGO page for more information. [https://gsua1kavu8-now.instant.forestry.io/lego/](https://gsua1kavu8-now.instant.forestry.io/lego/ "https://gsua1kavu8-now.instant.forestry.io/lego/")
+### **_Lego Robotics_**
 
-**_Conference Week_**
+THERE’S STILL TIME...It’s not too late to get in on the fun of Lego Robotics, with teams for students grades 1-4 and 4-8. See our PTA website [LEGO page](/lego/ "Lego signup") for more information. 
 
-Mark your calendars! Fall 2019 conference week and Island View half-day release at 12:05 is happening October 8th through October 11th. Evening conferences will be on Thursday, October 10th.
+### **_Conference Week_**
+
+Mark your calendars! Fall 2019 conferences and Island View half-day release at 12:05 are happening October 8th through October 11th. Evening conferences will be on Thursday, October 10th.
 
 A Sign-up Genius link for scheduling conferences will be sent from the school via email.
 
-**_Conference Week Hospitality_**
+### **_Conference Week Hospitality_**
 
-Contribute food for our wonderful teachers before evening conferences on October 10th! Pasta, salads, and sides are needed. Please drop off by 3 pm, October 10th in the Island View Staff Lounge. Choose your specialty to share using this event’s Sign Up Genius list. (hyperlink to the signup genius)
+Contribute food for our wonderful teachers before evening conferences on October 10th! Pasta, salads, and sides are needed. Please drop off by 3 pm, October 10th in the Island View Staff Lounge. Choose your specialty to share using [this event’s Sign Up Genius](https://www.signupgenius.com/go/10c0d44aead2da3f58-conference5 "Conference week meal") online form. 
 
-**_PTA Membership_**
+![](/uploads/sphaghetti fork photo.jpg)
 
-* **What’s this?** Island View is holding a membership drive raffle in early November, so **join online TODAY** (hyperlink to membership page) and don’t miss out on a _VERY special prize_ for one lucky adult member!
+### **_PTA Membership_**
 
-**_PTA Involvement Opportunities_**
+* **What’s this?** Island View is holding a membership drive raffle in early November, so [**join online TODAY**](/membership/ "Membership form") and don’t miss out on a _VERY special prize_ for one lucky adult member!
+
+### **_PTA Involvement Opportunities_**
 
 Committee Chairs are still needed to make great events happen this year at Island View! Check out the list of ways **you can help make 2019/2020 the best school year ever:**
 
@@ -83,22 +90,44 @@ Committee Chairs are still needed to make great events happen this year at Islan
 * Spirit Wear
 * Young Authors
 
-See a full listing of all the amazing ways to serve our school here (hyperlink to Get Involved page) or email Rachel Esposito ([rkesposito@aol.com](mailto:rkesposito@aol.com)) for more information about how you can help!
+See a full listing of all the amazing ways to serve our school [here ](/get-involved/ "PTA opportunities")or email Rachel Esposito at [rkesposito@aol.com](mailto:rkesposito@aol.com) for more information about how you can help!
 
-**_Watch D.O.G.S._ (Eric M.)**
+### **_Watch D.O.G.S. _**
 
-**_October Family Fun Night - Pumpkin Carving_**
+If you're a Dad (or a Mom serving as a Dad) in search of a flexible volunteer opportunity at Island View, we need you! With the help of parent/adult volunteers, Watch D.O.G.S. (Dads of Great Students) aims to underscore the importance of education while providing extra support during the school day.
+
+Any frequency or length of time is appreciated, so don’t worry if you aren’t able to devote an entire school day. An hour or two makes an incredible difference to our students.
+
+If you are interested in joining or have further questions, please contact Watch D.O.G.S. chairman, Eric Mithen at [emithen@gmail.com]( "Eric's email").  
+  
+
+### **_Family Fun Night - Pumpkin Carving_**
+
+### **_October 25th, 5:30 - 7 p.m._** 
+
+### ![](/uploads/IMG_9581.JPG)
 
 Come enjoy a fall classic - pumpkin carving at Island View!
 
 Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. Every child in attendance receives a free pumpkin to carve and take home!
 
-**_BOX TOPS!_**
+Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. 
 
-**_Garden Club_ (waiting on Erin W. for possible input)**
+### **_BOX TOPS!_**
 
-  
-**_Anacortes School District Volunteer Background check_**
+A great way to earn money for Island View is changing...BOX TOPS are the little tags on the top flap of many General Mills products that earn Island View $0.10 per item when the tag is cut out, brought to school, and redeemed by the PTA.
+
+As of the end of October, **BOX TOPS will no longer accept physical tags as the program is shifting to an entirely digital format,** by way of a [downloadable APP](https://www.boxtops4education.com/ "Box Top App link") on your phone.
+
+And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View! 
+
+Just a few short weeks to round up BOX TOPS tags and drop them in the container in the front office by October 25th!
+
+### **_Garden Club _**
+
+Stay tuned for a garden clean-up date coming soon!
+
+### **_Anacortes School District Volunteer Background check_**
 
 _DON'T FORGET!_
 
@@ -108,9 +137,11 @@ The beginning of the school year is an excellent time to complete the process, s
 
 The application link can be found [here](https://apps.raptortech.com/Apply/NDU4OmVuLVVT) (link if needed: [https://apps.raptortech.com/Apply/NDU4OmVuLVVT](https://apps.raptortech.com/Apply/NDU4OmVuLVVT "https://apps.raptortech.com/Apply/NDU4OmVuLVVT"))
 
-**_Save these Dates!_**
+### **Save these Dates!** 
 
-**October**
+### **![](/uploads/calendar image.jpg)**
+
+**_October_**
 
 * **8th to 11th: Conferences and 12:05 release**
 * **10th: PTA hosted dinner for Teachers**
@@ -120,7 +151,7 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 * **25th: Pumpkin Carving Family Fun Night**
 * **31st: Halloween Half-day**
 
-**November**
+**_November_**
 
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
 * **8th and 11th: Veterans Day Long Weekend = NO SCHOOL these dates**
