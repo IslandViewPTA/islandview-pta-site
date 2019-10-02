@@ -107,9 +107,9 @@ If you are interested in joining or have further questions, please contact the W
 
 Come enjoy a fall classic - pumpkin carving at Island View!
 
-Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. **Every child in attendance receives a free pumpkin to carve and take home (while they last), so arrive early!**
+Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. **Every child in attendance receives a free pumpkin to carve and take home (while supplies last), so arrive early!**
 
-Some carving tools available,s feel free to bring you own. **_Special thanks to Schuh Farms for their generous support._**
+Some carving tools will be available and feel free to bring your own. **_Special thanks to Schuh Farms for their generous support._**
 
 Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. (No refreshments served at this event).
 
