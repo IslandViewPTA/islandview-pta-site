@@ -121,7 +121,7 @@ As of the end of October, **BOX TOPS will no longer accept physical tags as the 
 
 And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View!
 
-Just a few short weeks to round up BOX TOPS tags and drop them in the container in the front office by October 25th!
+Just a few short weeks to round up BOX TOPS tags and **drop them in the container in the front office by October 25th!**
 
 ### **_Book Fair arrives in November_**
 
