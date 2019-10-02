@@ -89,7 +89,7 @@ Committee Chairs are still needed to make great events happen this year at Islan
 * Spirit Wear
 * Young Authors
 
-See a full listing of all the amazing ways to serve our school [here ](/get-involved/ "PTA opportunities")or email Rachel Esposito at [rkesposito@aol.com](mailto:rkesposito@aol.com) for more information about how you can help!
+See a full listing of all the amazing ways to serve our school [here ](/get-involved/ "PTA opportunities")or email Rachel Esposito at [membership@islandviewpta.org]( "Rachel's email") for more information about how you can help!
 
 ### **Watch D.O.G.S.**
 
@@ -97,7 +97,7 @@ If you're a Dad (or a Mom serving as a Dad) in search of a flexible volunteer op
 
 Any frequency or length of time is appreciated, so don’t worry if you aren’t able to devote an entire school day. An hour or two makes an incredible difference to our students.
 
-If you are interested in joining or have further questions, please contact Watch D.O.G.S. chairman, Eric Mithen at [emithen@gmail.com]( "Eric's email").
+If you are interested in joining or have further questions, please contact the Watch D.O.G.S. coordinator Eric Mithen at [vicepresident@islandviewpta.org]( "Eric's PTA email").
 
 ### **_Family Fun Night - Pumpkin Carving_**
 
