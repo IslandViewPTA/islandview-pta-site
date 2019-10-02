@@ -109,9 +109,11 @@ If you are interested in joining or have further questions, please contact Watch
 
 Come enjoy a fall classic - pumpkin carving at Island View!
 
-Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. Every child in attendance receives a free pumpkin to carve and take home!
+Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spooky spirit of Halloween. **Every child in attendance receives a free pumpkin to carve and take home (while they last), so arrive early!** 
 
-Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. 
+Some carving tools available,s feel free to bring you own. **_Special thanks to Schuh Farms for their generous support._**
+
+Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. (No refreshments served at this event). 
 
 ### **_BOX TOPS!_**
 
@@ -122,6 +124,20 @@ As of the end of October, **BOX TOPS will no longer accept physical tags as the 
 And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View! 
 
 Just a few short weeks to round up BOX TOPS tags and drop them in the container in the front office by October 25th!
+
+### **_Book Fair arrives in November_** 
+
+Mark your calendars: Book Fair is on the way **November 15-22**! Stock up on holiday gifts for everyone on your list.
+
+Volunteers are essential to make the week a success and earn valuable books for our school library and our students! Signup [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall "Book Fair signup") to help with a shift, including options before, during, and after school.  It's easy, fun, and no experience needed.
+
+![](/uploads/stack of books.jpg)
+
+### **_Family Fun Night - Bingo & Book Fair November 15th, 6 - 8 p.m._**
+
+Get a jump on Book Fair shopping and have a blast playing bingo with family and friends at our November Family Fun Night. 
+
+Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peeks at our Book Fair!
 
 ### **_Garden Club _**
 
@@ -135,9 +151,9 @@ _DON'T FORGET!_
 
 The beginning of the school year is an excellent time to complete the process, so that you can be ready to volunteer in the schools or chaperone a field trip.
 
-The application link can be found [here](https://apps.raptortech.com/Apply/NDU4OmVuLVVT) (link if needed: [https://apps.raptortech.com/Apply/NDU4OmVuLVVT](https://apps.raptortech.com/Apply/NDU4OmVuLVVT "https://apps.raptortech.com/Apply/NDU4OmVuLVVT"))
+The application link can be found [here](https://apps.raptortech.com/Apply/NDU4OmVuLVVT "Raptor ASD link").
 
-### **Save these Dates!** 
+### **SAVE THESE DATES!** 
 
 ### **![](/uploads/calendar image.jpg)**
 
@@ -148,14 +164,14 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 * **11th: Chocolate money**
 * **19th: Chocolate Movie Morning in Island View theater**
 * **25th: LAST CALL for paper BOX TOPS, use app after this date**
-* **25th: Pumpkin Carving Family Fun Night**
+* **25th: Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.**
 * **31st: Halloween Half-day**
 
 **_November_**
 
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
 * **8th and 11th: Veterans Day Long Weekend = NO SCHOOL these dates**
-* **15th: Family Fun Night BOOK FAIR kickoff in the Island View Theater and Library**
+* **15th: Family Fun Night BINGO & BOOK FAIR kickoff in the Island View Theater and Library, 6 - 8 p.m.**
 * **18th to 22nd: Book Fair at Island View!**
 * **24th: Pizza Factory Restaurant Take-over**
 * **27th: Half-Day 12:05 Release**
