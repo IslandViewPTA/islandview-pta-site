@@ -135,7 +135,7 @@ Volunteers are essential to make the week a success and earn valuable books for 
 
 Get a jump on Book Fair shopping and have a blast playing bingo with family and friends at our November Family Fun Night.
 
-Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peeks at our Book Fair!
+Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peek at our Book Fair!
 
 ### **Garden Club**
 
