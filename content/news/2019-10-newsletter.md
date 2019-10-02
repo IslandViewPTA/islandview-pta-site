@@ -79,7 +79,7 @@ Contribute food for our wonderful teachers before evening conferences on October
 
 ### **_PTA Involvement Opportunities_**
 
-Committee Chairs are still needed to make great events happen this year at Island View! Check out the list of ways **you can help make 2019/2020 the best school year ever:**
+Committee Chairs are still needed to make great events happen this year at Island View! Check out the list of ways **you can help make 2019-2020 the best school year ever:**
 
 * Box Tops
 * Color Run
