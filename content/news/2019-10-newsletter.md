@@ -97,7 +97,7 @@ If you're a Dad (or a Mom serving as a Dad) in search of a flexible volunteer op
 
 Any frequency or length of time is appreciated, so don’t worry if you aren’t able to devote an entire school day. An hour or two makes an incredible difference to our students.
 
-If you are interested in joining or have further questions, please contact the Watch D.O.G.S. coordinator Eric Mithen at vicepresident@islandviewpta.org.
+If you are interested in joining or have further questions, please contact the Watch D.O.G.S. coordinator Eric Mithen at vicepresident@islandviewpta.org
 
 ### **_Family Fun Night - Pumpkin Carving_**
 
