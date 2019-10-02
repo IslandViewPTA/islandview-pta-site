@@ -7,7 +7,6 @@ image: "/uploads/Fall Leaves.jpg"
 newsletter: true
 newsletter_date: 2019-10-01T07:00:00.000+00:00
 type: ''
-draft: true
 
 ---
 ### **_Principal’s Message_**
