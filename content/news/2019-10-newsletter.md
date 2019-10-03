@@ -161,12 +161,12 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 
 ### October
 
-* **8th to 11th: Teacher Conferences, Release @ 12:05 p.m.**
+* **8th to 11th: Conferences, Release @ 12:05 p.m.**
 * **10th:** PTA hosted dinner for Teachers
 * **11th: Chocolate Sales money due!**
 * **19th:** Movie for Chocolate Sales participants only
 * **25th: LAST CALL for paper BOX TOPS**
-* **25th:** Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.
+* **25th:** Pumpkin Carving Party @ school, 5:30 - 7 p.m.
 * **31st: Halloween Half-day, 12:05 release**
 
 ### November
