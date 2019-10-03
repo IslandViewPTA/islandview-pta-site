@@ -143,7 +143,7 @@ Join Island View students and families on Friday, November 15th in the Theater a
 
 Stay tuned for a garden clean-up date coming soon!
 
-Do you love gardens? Do you want to help maintain an incredible outdoor learning space for your child? Volunteers are needed to help support this wonderful resource for all Island View students. Contact [Rachel Esposito](membership@islandviewpta.org) for more information about how _you_ can help.
+Do you love gardens? Do you want to help maintain an incredible outdoor learning space at our school? Volunteers are needed to help support this wonderful resource for all Island View students. Contact [Rachel Esposito](membership@islandviewpta.org) for more information about how _you_ can help.
 
 ## Anacortes School District Volunteer Background check
 
@@ -161,10 +161,10 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 
 ### October
 
-* **8th to 11th: Teacher Conferences, Early Release @ 12:05 p.m.**
-* **10th:** PTA hosted dinner for Teachers, drop food by 3 p.m.
+* **8th to 11th: Teacher Conferences, Release @ 12:05 p.m.**
+* **10th:** PTA hosted dinner for Teachers
 * **11th: Chocolate Sales money due!**
-* **19th:** Movie for Chocolate Sales participants only, 10 a.m. school theater
+* **19th:** Movie for Chocolate Sales participants only, 10 a.m.
 * **25th: LAST CALL for paper BOX TOPS,** use app after this date
 * **25th:** Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.
 * **31st: Halloween Half-day, 12:05 release**
@@ -174,8 +174,8 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
 * **8th:** Staff Development = **NO SCHOOL**
 * **11th:** Veterans Day = **NO SCHOOL**
-* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m. _(Volunteers needed)_
-* **18th to 22nd:** Book Fair at Island View! _(Volunteers needed)_
-* **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m. _(Volunteers needed)_
+* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m. 
+* **18th to 22nd:** Book Fair at Island View! 
+* **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m. 
 * **27th: Half-Day, 12:05 Release**
 * **28th & 29th:** Thanksgiving Break **= NO SCHOOL** 
