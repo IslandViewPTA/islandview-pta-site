@@ -45,6 +45,9 @@
       ga('send', 'pageview');
     </script>
 
+    <!-- Mailchimp Sign-up -->
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/af1ea326b552eee6ec1a9ebf6/c87cd8411089583292e1aaa0d.js");</script>
+
     {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .RelPermalink }}">{{ end }}
 
     <link rel="canonical" href="{{ .Permalink }}">
