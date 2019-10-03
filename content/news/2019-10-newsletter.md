@@ -1,6 +1,6 @@
 ---
 title: October 2019 Newsletter
-date: 2019-10-01T07:00:00-07:00
+date: 2019-10-01T14:00:00.000+00:00
 description: Happy Fall - check out all the great PTA events and opportunities in
   our October newsletter!
 image: "/uploads/Fall Leaves.jpg"
@@ -15,7 +15,7 @@ Dear Island View Families:
 
 It’s official! The 2019-20 school year has truly begun. Our hallways are already lined with water-colored artwork, photos of smiling students, and construction paper cut-out hearts and apples. It is so good to have the building filled with your students and their positive enthusiasm for school.
 
-This year we are implementing RULER with students. RULER is a framework for integrating social/emotional learning into schools developed at the Yale Center for Emotional Intelligence. It is designed to help students **R**ecognize, **U**nderstand, **L**abel, **E**xpress, and **R**egulate their emotions. As a first step in our implementation, all classrooms are developing a Charter. Together, students identify how they want to feel in their classrooms and then brainstorm specific actions that nurture those feelings in themselves and others. For example, the students in one primary classroom decided they wanted to feel “happy.” 
+This year we are implementing RULER with students. RULER is a framework for integrating social/emotional learning into schools developed at the Yale Center for Emotional Intelligence. It is designed to help students **R**ecognize, **U**nderstand, **L**abel, **E**xpress, and **R**egulate their emotions. As a first step in our implementation, all classrooms are developing a Charter. Together, students identify how they want to feel in their classrooms and then brainstorm specific actions that nurture those feelings in themselves and others. For example, the students in one primary classroom decided they wanted to feel “happy.”
 
 They committed to acting in the following ways to create happiness:
 
@@ -115,7 +115,7 @@ Some carving tools will be available and feel free to bring your own. **_Special
 
 A great way to earn money for Island View is changing...BOX TOPS are the little tags on the top flap of many General Mills products that earn Island View $0.10 per item when the tag is cut out, brought to school, and redeemed by the PTA.
 
-As of the end of October, **BOX TOPS will no longer accept physical tags as the program is shifting to an entirely digital format,** by way of a [downloadable APP](https://www.boxtops4education.com/ "Box Top App link") on your phone.
+As of the end of October, **BOX TOPS will no longer accept physical tags as the program is shifting to an entirely digital format,** by way of a [downloadable APP](https://www.boxtops4education.com/ "Box Top App link") on your phone. 
 
 And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View!
 
@@ -131,7 +131,7 @@ Mark your calendars: Book Fair is on the way! Stock up on holiday gifts for ever
 
 Volunteers are essential to make the week a success and earn valuable books for our school library and our students! Signup [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall "Book Fair signup") to help with a shift, including options before, during, and after school.  It's easy, fun, and no experience needed.
 
-## Family Fun Night - Bingo & Book Fair
+## Family Fun Night - Bingo & Books
 
 **November 15th, 6 - 8 p.m.**
 
@@ -142,6 +142,8 @@ Join Island View students and families on Friday, November 15th in the Theater a
 ## Garden Club
 
 Stay tuned for a garden clean-up date coming soon!
+
+Do you love gardens? Do you want to help maintain an incredible outdoor learning space for your child? Volunteers are needed to help support this wonderful resource for all Island View students. Contact [Rachel Esposito](membership@islandviewpta.org) for more information about how _you_ can help.
 
 ## Anacortes School District Volunteer Background check
 
@@ -159,10 +161,10 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 
 ### October
 
-* **8th to 11th: Conferences and 12:05 release**
-* **10th:** PTA hosted dinner for Teachers
-* **11th: Chocolate money due**
-* **19th:** Chocolate Movie Morning in Island View theater
+* **8th to 11th: Teacher Conferences, Early Release @ 12:05 p.m.**
+* **10th:** PTA hosted dinner for Teachers, drop food by 3 p.m.
+* **11th: Chocolate Sales money due!**
+* **19th:** Movie for Chocolate Sales participants only, 10 a.m. school theater
 * **25th: LAST CALL for paper BOX TOPS,** use app after this date
 * **25th:** Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.
 * **31st: Halloween Half-day, 12:05 release**
@@ -170,9 +172,10 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 ### November
 
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
-* **8th and 11th:** Veterans Day Long Weekend = NO SCHOOL these dates
-* **15th:** Family Fun Night BINGO & BOOK FAIR kickoff, 6 - 8 p.m.
-* **18th to 22nd:** Book Fair at Island View!
-* **24th:** Pizza Factory Restaurant Take-over
+* **8th:** Staff Development = **NO SCHOOL**
+* **11th:** Veterans Day = **NO SCHOOL**
+* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m. _(Volunteers needed)_
+* **18th to 22nd:** Book Fair at Island View! _(Volunteers needed)_
+* **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m. _(Volunteers needed)_
 * **27th: Half-Day, 12:05 Release**
-* **28th & 29th: Thanksgiving Weekend = NO SCHOOL these dates**
+* **28th & 29th:** Thanksgiving Break **= NO SCHOOL** 
