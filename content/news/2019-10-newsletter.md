@@ -9,19 +9,19 @@ newsletter_date: 2019-10-01T07:00:00.000+00:00
 type: ''
 
 ---
-### **_Principal’s Message_**
+## Principal’s Message
 
 Dear Island View Families:
 
 It’s official! The 2019-20 school year has truly begun. Our hallways are already lined with water-colored artwork, photos of smiling students, and construction paper cut-out hearts and apples. It is so good to have the building filled with your students and their positive enthusiasm for school.
 
-This year we are implementing RULER with students. RULER is a framework for integrating social/emotional learning into schools developed at the Yale Center for Emotional Intelligence. It is designed to help students **R**ecognize, **U**nderstand, **L**abel, **E**xpress, and **R**egulate their emotions. As a first step in our implementation, all classrooms are developing a Charter. Together, students identify how they want to feel in their classrooms and then brainstorm specific actions that nurture those feelings in themselves and others. For example, the students in one primary classroom decided they wanted to feel “happy.” They committed to acting in the following ways to create happiness:
+This year we are implementing RULER with students. RULER is a framework for integrating social/emotional learning into schools developed at the Yale Center for Emotional Intelligence. It is designed to help students **R**ecognize, **U**nderstand, **L**abel, **E**xpress, and **R**egulate their emotions. As a first step in our implementation, all classrooms are developing a Charter. Together, students identify how they want to feel in their classrooms and then brainstorm specific actions that nurture those feelings in themselves and others. For example, the students in one primary classroom decided they wanted to feel “happy.” 
 
-· I will smile at others.
+They committed to acting in the following ways to create happiness:
 
-· I will act friendly.
-
-· I will give compliments and use nice words.
+* I will smile at others.
+* I will act friendly.
+* I will give compliments and use nice words.
 
 Clearly, our students understand the importance of social and emotional well-being. Please ask your students about their class Charter and the specific emotions they want to feel at school. I also encourage you to check in with your students daily or weekly to see if their class Charter is working for them. The Island View staff is committed to creating a culture that is accepting, caring, and positive.
 
@@ -33,9 +33,9 @@ I like it, too. And I feel blessed to fly high with proud, soarin’ Island View
 
 _Brian Hanrahan, Principal_
 
-### **_Chocolate Fundraiser_**
+## Chocolate Fundraiser
 
-![](/uploads/Bars-Stack.png)
+{{< fig src="/uploads/Bars-Stack.png" class="max-w-xs" align="right" >}}
 
 It’s Chocolate Season!
 
@@ -51,33 +51,33 @@ It is not too late to get in on the fun! Sign your student up [online](/chocolat
 
 Thanks again!
 
-### **_Movie Morning in October_**
+## Movie Morning in October
+
+{{< fig src="/uploads/theater shot.jpg" class="max-w-xs" align="right" >}}
 
 Remember...for chocolate sales participants, there will be a super fun, surprise movie morning at Island View on Saturday, October 19th.
 
-![](/uploads/theater shot.jpg)
-
-### **_Lego Robotics_**
+## Lego Robotics
 
 THERE’S STILL TIME...It’s not too late to get in on the fun of Lego Robotics, with teams for students grades 1-4 and 4-8. See our PTA website [LEGO page](/lego/ "Lego signup") for more information.
 
-### **_Conference Week_**
+## Conference Week
 
 Mark your calendars! Fall 2019 conferences and Island View half-day release at 12:05 are happening October 8th through October 11th. Evening conferences will be on Thursday, October 10th.
 
 A Sign-up Genius link for scheduling conferences will be sent from the school via email.
 
-### **_Conference Week Hospitality_**
+## Conference Week Hospitality
+
+{{< fig src="/uploads/sphaghetti fork photo.jpg" class="max-w-xs" align="right" >}}
 
 Contribute food for our wonderful teachers before evening conferences on October 10th! Pasta, salads, and sides are needed. Please drop off by 3 pm, October 10th in the Island View Staff Lounge. Choose your specialty to share using [this event’s Sign Up Genius](https://www.signupgenius.com/go/10c0d44aead2da3f58-conference5 "Conference week meal") online form.
 
-![](/uploads/sphaghetti fork photo.jpg)
-
-### **_PTA Membership_**
+## PTA Membership
 
 **What’s this?** Island View is holding a membership drive raffle in early November, so [**join online TODAY**](/membership/ "Membership form") and don’t miss out on a _VERY special prize_ for one lucky adult member!
 
-### **_PTA Involvement Opportunities_**
+## PTA Involvement Opportunities
 
 Committee Chairs are still needed to make great events happen this year at Island View! Check out the list of ways **you can help make 2019-2020 the best school year ever:**
 
@@ -89,21 +89,29 @@ Committee Chairs are still needed to make great events happen this year at Islan
 * Spirit Wear
 * Young Authors
 
+<<<<<<< Updated upstream
 See a full listing of all the amazing ways to serve our school [here ](/get-involved/ "PTA opportunities")or email Rachel Esposito at **membership@islandviewpta.org** for more information about how you can help!
+=======
+See a full listing of all the amazing ways to serve our school [here](/get-involved/ "PTA opportunities") or email [Rachel Esposito](mailto:membership@islandviewpta.org) for more information about how you can help!
+>>>>>>> Stashed changes
 
-### **Watch D.O.G.S.**
+## Watch D.O.G.S.
 
 If you're a Dad (or a Mom serving as a Dad) in search of a flexible volunteer opportunity at Island View, we need you! With the help of parent/adult volunteers, Watch D.O.G.S. (Dads of Great Students) aims to underscore the importance of education while providing extra support during the school day.
 
 Any frequency or length of time is appreciated, so don’t worry if you aren’t able to devote an entire school day. An hour or two makes an incredible difference to our students.
 
+<<<<<<< Updated upstream
 If you are interested in joining or have further questions, please contact the Watch D.O.G.S. coordinator Eric Mithen at **vicepresident@islandviewpta.org**.
+=======
+If you are interested in joining or have further questions, please contact the Watch D.O.G.S. coordinator [Eric Mithen](mailto:vicepresident@islandviewpta.org).
+>>>>>>> Stashed changes
 
-### **_Family Fun Night - Pumpkin Carving_**
+## Family Fun Night - Pumpkin Carving
 
-### **_October 25th, 5:30 - 7 p.m._**
+**October 25th, 5:30 - 7 p.m.** in the Island View cafeteria. (No refreshments served at this event).
 
-### ![](/uploads/IMG_9581.JPG)
+{{< fig src="/uploads/IMG_9581.JPG" class="max-w-xs" align="right" >}}
 
 Come enjoy a fall classic - pumpkin carving at Island View!
 
@@ -111,9 +119,7 @@ Our wonderful Watch D.O.G.S. proudly sponsors this fun night to get in the spook
 
 Some carving tools will be available and feel free to bring your own. **_Special thanks to Schuh Farms for their generous support._**
 
-Thursday October 25th @ 5:30 p.m. in the Island View cafeteria. (No refreshments served at this event).
-
-### **_BOX TOPS!_**
+## BOX TOPS!
 
 A great way to earn money for Island View is changing...BOX TOPS are the little tags on the top flap of many General Mills products that earn Island View $0.10 per item when the tag is cut out, brought to school, and redeemed by the PTA.
 
@@ -123,25 +129,29 @@ And here's a [listing](https://www.boxtops4education.com/Participating-Products-
 
 Just a few short weeks to round up BOX TOPS tags and **drop them in the container in the front office by October 25th!**
 
-### **_Book Fair arrives in November_**
+## Book Fair arrives in November
 
-Mark your calendars: Book Fair is on the way **November 15-22**! Stock up on holiday gifts for everyone on your list.
+{{< fig src="/uploads/stack of books.jpg" class="max-w-xs" align="right" >}}
+
+**November 15-22**
+
+Mark your calendars: Book Fair is on the way! Stock up on holiday gifts for everyone on your list.
 
 Volunteers are essential to make the week a success and earn valuable books for our school library and our students! Signup [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall "Book Fair signup") to help with a shift, including options before, during, and after school.  It's easy, fun, and no experience needed.
 
-![](/uploads/stack of books.jpg)
+## Family Fun Night - Bingo & Book Fair
 
-### **_Family Fun Night - Bingo & Book Fair November 15th, 6 - 8 p.m._**
+**November 15th, 6 - 8 p.m.**
 
 Get a jump on Book Fair shopping and have a blast playing bingo with family and friends at our November Family Fun Night.
 
 Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peek at our Book Fair!
 
-### **Garden Club**
+## Garden Club
 
 Stay tuned for a garden clean-up date coming soon!
 
-### **_Anacortes School District Volunteer Background check_**
+## Anacortes School District Volunteer Background check
 
 _DON'T FORGET!_
 
@@ -151,11 +161,11 @@ The beginning of the school year is an excellent time to complete the process, s
 
 The application link can be found [here](https://apps.raptortech.com/Apply/NDU4OmVuLVVT "Raptor ASD link").
 
-### **SAVE THESE DATES!**
+## SAVE THESE DATES!
 
-### **![](/uploads/calendar image.jpg)**
+{{< fig src="/uploads/calendar image.jpg" class="max-w-xs" align="right" >}}
 
-#### **_October_**
+### October
 
 * **8th to 11th: Conferences and 12:05 release**
 * **10th:** PTA hosted dinner for Teachers
@@ -165,7 +175,7 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 * **25th:** Pumpkin Carving Family Fun Night, 5:30 - 7 p.m.
 * **31st: Halloween Half-day, 12:05 release**
 
-#### **_November_**
+### November
 
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
 * **8th and 11th:** Veterans Day Long Weekend = NO SCHOOL these dates
