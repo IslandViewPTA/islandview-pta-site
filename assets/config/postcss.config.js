@@ -15,6 +15,7 @@ module.exports = {
         /open/,
         /search/,
         /lg:max-w-/,
+        /max-w-/,
         /border-2/,
         /md:1\//,
         /sm:col-count-/,

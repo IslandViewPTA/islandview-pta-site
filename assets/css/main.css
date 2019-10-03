@@ -46,13 +46,17 @@ h3 {
   font-size: 1.2em;
 }
 
-h2::before {
+h1::before {
   display: block;
   content: "&nbsp;";
   margin-top: -4rem;
   height: 4rem;
   visibility: hidden;
   pointer-events: none;
+}
+
+div#content > h2 {
+  margin-top: 0.75em;
 }
 
 /*Tailwind Components*/
