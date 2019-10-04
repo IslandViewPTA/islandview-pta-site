@@ -46,6 +46,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/deadline-extended.md
 - content/news/box-tops-due-october-25th.md
 - content/news/2019-10-newsletter.md
 - content/news/color-run-fundraiser-prizes.md
