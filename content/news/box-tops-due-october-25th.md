@@ -9,6 +9,4 @@ image: "/uploads/Screen Shot 2019-10-04 at 11.05.34 AM.png"
 ---
 It is time to gather up all those little **Box Tops for Education** you've been collecting!  Please turn them in by **October 25th** - each one is worth ten cents for Island View - they really do add up!
 
-Here’s a [**listing**](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases.
-
 Thank you!
