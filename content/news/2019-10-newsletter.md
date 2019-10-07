@@ -35,7 +35,7 @@ _Brian Hanrahan, Principal_
 
 ## Chocolate Fundraiser
 
-{{< fig src="/uploads/Bars-Stack.png" class="max-w-xs" align="right" >}}
+{{< fig src="Bars-Stack.png" class="max-w-xs" align="right" >}}
 
 It’s Chocolate Season!
 
@@ -53,7 +53,7 @@ Thanks again!
 
 ## Movie Morning in October
 
-{{< fig src="/uploads/theater shot.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="theater shot.jpg" class="max-w-xs" align="right" >}}
 
 Remember...for chocolate sales participants, there will be a super fun, surprise movie morning at Island View on Saturday, October 19th.
 
@@ -69,7 +69,7 @@ A Sign-up Genius link for scheduling conferences will be sent from the school vi
 
 ## Conference Week Hospitality
 
-{{< fig src="/uploads/sphaghetti fork photo.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="sphaghetti fork photo.jpg" class="max-w-xs" align="right" >}}
 
 Contribute food for our wonderful teachers before evening conferences on October 10th! Pasta, salads, and sides are needed. Please drop off by 3 pm, October 10th in the Island View Staff Lounge. Choose your specialty to share using [this event’s Sign Up Genius](https://www.signupgenius.com/go/10c0d44aead2da3f58-conference5 "Conference week meal") online form.
 
@@ -103,7 +103,7 @@ If you are interested in joining or have further questions, please contact the W
 
 **October 25th, 5:30 - 7 p.m.** in the Island View cafeteria. (No refreshments served at this event).
 
-{{< fig src="/uploads/IMG_9581.JPG" class="max-w-xs" align="right" >}}
+{{< fig src="IMG_9581.JPG" class="max-w-xs" align="right" >}}
 
 Come enjoy a fall classic - pumpkin carving at Island View!
 
@@ -123,7 +123,7 @@ Just a few short weeks to round up BOX TOPS tags and **drop them in the containe
 
 ## Book Fair arrives in November
 
-{{< fig src="/uploads/stack of books.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="stack of books.jpg" class="max-w-xs" align="right" >}}
 
 **November 15-22**
 
@@ -145,11 +145,11 @@ Stay tuned for a garden clean-up date coming soon!
 
 Do you love gardens? Do you want to help maintain an incredible outdoor learning space at our school? Volunteers are needed to help support this wonderful resource for all Island View students. Contact [Rachel Esposito](membership@islandviewpta.org) for more information about how _you_ can help.
 
-## Gift Items for ASF Basket
+## Gift Items for Holiday Basket
 
-{{< fig src="/uploads/holiday lantern scene.jpg" title="holiday lantern image" align="right" class="max-w-xs" >}}
+{{< fig src="holiday lantern scene.jpg" title="holiday lantern image" align="right" class="max-w-xs" >}}
 
-Anacortes Schools Foundation (ASF) raises and directs a ton of money for scholarships, programs, learning experiences, and materials benefitting our students from preschool through college entrance. One of their major fundraising events, Celebrate the Season, is coming up and they've asked for our help!
+Anacortes Schools Foundation (ASF) raises and directs money for scholarships, programs, learning experiences, and materials benefitting our students from preschool through college entrance. One of their major fundraising events, Celebrate the Season, is coming up and they've asked for our help!
 
 [Sign up](https://www.signupgenius.com/go/10c0d44aead2da3f58-items) to purchase an item and bring it to the PTA office by Nov 25th with a note "For Nicole" on it. The items will be compiled in a phenomenal, jaw-dropping basket for the event on Dec 7.
 
@@ -167,7 +167,7 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 
 ## SAVE THESE DATES!
 
-{{< fig src="/uploads/calendar image.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="calendar image.jpg" class="max-w-xs" align="right" >}}
 
 ### October
 
