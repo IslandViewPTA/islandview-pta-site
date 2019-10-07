@@ -46,6 +46,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/gift-items-for-holiday-basket.md
 - content/news/2019-10-newsletter.md
 - content/news/box-tops-due-october-25th.md
 - content/news/deadline-extended.md
