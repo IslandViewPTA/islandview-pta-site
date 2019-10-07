@@ -147,7 +147,9 @@ Do you love gardens? Do you want to help maintain an incredible outdoor learning
 
 ## Gift Items for ASF Basket
 
-Anacortes Schools Foundation (ASF) raises and directs a ton of money for scholarships, programs, learning experiences, and materials benefitting our students from preschool through college entrance. One of their major fundraising events, Celebrate the Season, is coming up and they've asked for our help! 
+{{< fig src="/uploads/holiday lantern scene.jpg" title="holiday lantern image" align="right" class="max-w-xs" >}}
+
+Anacortes Schools Foundation (ASF) raises and directs a ton of money for scholarships, programs, learning experiences, and materials benefitting our students from preschool through college entrance. One of their major fundraising events, Celebrate the Season, is coming up and they've asked for our help!
 
 [Sign up](https://www.signupgenius.com/go/10c0d44aead2da3f58-items) to purchase an item and bring it to the PTA office by Nov 25th with a note "For Nicole" on it. The items will be compiled in a phenomenal, jaw-dropping basket for the event on Dec 7.
 
