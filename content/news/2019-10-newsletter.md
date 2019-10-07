@@ -115,7 +115,7 @@ Some carving tools will be available and feel free to bring your own. **_Special
 
 A great way to earn money for Island View is changing...BOX TOPS are the little tags on the top flap of many General Mills products that earn Island View $0.10 per item when the tag is cut out, brought to school, and redeemed by the PTA.
 
-As of the end of October, **BOX TOPS will no longer accept physical tags as the program is shifting to an entirely digital format,** by way of a [downloadable APP](https://www.boxtops4education.com/ "Box Top App link") on your phone. 
+As of the end of October, **BOX TOPS will no longer accept physical tags as the program is shifting to an entirely digital format,** by way of a [downloadable APP](https://www.boxtops4education.com/ "Box Top App link") on your phone.
 
 And here's a [listing](https://www.boxtops4education.com/Participating-Products-Page "Box Top eligible items") of BOX TOP eligible purchases...remember, every eligible purchase is worth $0.10 for Island View!
 
@@ -144,6 +144,14 @@ Join Island View students and families on Friday, November 15th in the Theater a
 Stay tuned for a garden clean-up date coming soon!
 
 Do you love gardens? Do you want to help maintain an incredible outdoor learning space at our school? Volunteers are needed to help support this wonderful resource for all Island View students. Contact [Rachel Esposito](membership@islandviewpta.org) for more information about how _you_ can help.
+
+## Gift Items for ASF Basket
+
+Anacortes Schools Foundation (ASF) raises and directs a ton of money for scholarships, programs, learning experiences, and materials benefitting our students from preschool through college entrance. One of their major fundraising events, Celebrate the Season, is coming up and they've asked for our help! 
+
+[Sign up](https://www.signupgenius.com/go/10c0d44aead2da3f58-items) to purchase an item and bring it to the PTA office by Nov 25th with a note "For Nicole" on it. The items will be compiled in a phenomenal, jaw-dropping basket for the event on Dec 7.
+
+When shopping, kindly select items that are seasonal in theme--think "festive winter"--so as to appeal to the widest range of bidders!
 
 ## Anacortes School District Volunteer Background check
 
@@ -174,8 +182,8 @@ The application link can be found [here](https://apps.raptortech.com/Apply/NDU4O
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
 * **8th:** Staff Development = **NO SCHOOL**
 * **11th:** Veterans Day = **NO SCHOOL**
-* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m. 
-* **18th to 22nd:** Book Fair at Island View! 
-* **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m. 
+* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m.
+* **18th to 22nd:** Book Fair at Island View!
+* **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m.
 * **27th: Half-Day, 12:05 Release**
-* **28th & 29th:** Thanksgiving Break **= NO SCHOOL** 
+* **28th & 29th:** Thanksgiving Break **= NO SCHOOL**
