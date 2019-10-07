@@ -155,6 +155,8 @@ Anacortes Schools Foundation (ASF) raises and directs money for scholarships, pr
 
 When shopping, kindly select items that are seasonal in theme--think "festive winter"--so as to appeal to the widest range of bidders!
 
+(Note: ASF and the Celebrate the Season event are not district sponsored or endorsed.)
+
 ## Anacortes School District Volunteer Background check
 
 _DON'T FORGET!_
