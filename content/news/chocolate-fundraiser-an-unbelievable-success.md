@@ -25,7 +25,7 @@ Ms. Holmes' class brought in the most money ($3,744) and won a five-pound chocol
 
 Students won a keychain teddy bear for each box sold.  They sold so many, we ran out!  But fear not - we have ordered more and will distribute them soon.
 
-And every participating family in invited to watch Toy Story 4 at Island View on Saturday 10/19 at 10am!
+And every participating family is invited to watch Toy Story 4 at Island View on Saturday, October 19th at 10am!
 
 But the biggest winner of all is everyone here at Island View!  This money will pay for so many wonderful things that benefit the entire school.
 
