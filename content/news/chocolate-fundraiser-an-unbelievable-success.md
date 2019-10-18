@@ -23,6 +23,10 @@ Mr. Lincoln's class had 73% participation and won a game of Gaga Ball with Mr. H
 
 Ms. Holmes' class brought in the most money ($3,744) and won a five-pound chocolate bar!
 
+Students won a keychain teddy bear for each box sold.  They sold so many, we ran out!  But fear not - we have ordered more and will distribute them soon.
+
+And every participating family in invited to watch Toy Story 4 at Island View on Saturday 10/19 at 10am!
+
 But the biggest winner of all is everyone here at Island View!  This money will pay for so many wonderful things that benefit the entire school.
 
 THANKS AGAIN for your help making this all come true!
