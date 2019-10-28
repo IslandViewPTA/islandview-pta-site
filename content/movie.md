@@ -10,7 +10,6 @@ type: movie
 callToAction: false
 newsletter: false
 newsletter_date: 
-draft: true
 
 ---
 ## Movie Mornings at Anacortes Cinema
