@@ -1,13 +1,16 @@
 ---
 title: Movie Mornings
-date: "2019-05-21T07:00:00.000+00:00"
+date: 2019-10-28T00:00:00-07:00
 subtitle: " with Island View PTA"
 description: Purchase your movie tickets instantly!
-image: "/uploads/Curtain-SLP2.jpg"
+image: "/uploads/Frozen II.jpg"
 imageLink: ''
 imageCredit: ''
 type: movie
 callToAction: false
+newsletter: false
+newsletter_date: 
+draft: true
 
 ---
 ## Movie Mornings at Anacortes Cinema
