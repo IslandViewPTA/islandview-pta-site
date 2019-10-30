@@ -4,13 +4,12 @@ newsletter: false
 title: Frozen II Movie Morning
 date: 2019-10-28T00:00:00-07:00
 description: Join us for a fun movie morning!
-image: "/uploads/Frozen II narrow-1.jpg"
-draft: true
+image: "/uploads/Frozen n.jpg"
 
 ---
-Join us at 10am on Saturday, November 23rd for Frozen II at Anacortes Cinema!  
+Join us at 10:30 on Saturday, November 23rd for Frozen II at Anacortes Cinema!  (Doors open at 10am.)
 
-For $10 you'll enjoy the show and your very own small popcorn and small soda.  
+For $10 you'll enjoy the show and your very own small popcorn and small soda.
 
 BRING YOUR FRIENDS, but order your tickets soon, since seats are limited. [https://www.islandviewpta.org/movie](https://www.islandviewpta.org/movie "order your tickets")
 
