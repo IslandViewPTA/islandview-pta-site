@@ -134,10 +134,17 @@ Please include a blurb about RIF and this link: [https://www.signupgenius.com/go
 ### November
 
 * **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
+* **7th:** Veteran's Day Assembly
 * **8th:** Staff Development = **NO SCHOOL**
 * **11th:** Veterans Day = **NO SCHOOL**
-* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m.
+* **15th:** Book Fair Opens & Family Fun Night BINGO, 6 to 8 p.m.
 * **18th to 22nd:** Book Fair at Island View!
+* **23rd:** Movie Morning at Anacortes Cinema, 10:30 a.m.
 * **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m.
-* **27th: Half-Day, 12:05 Release**
+* **27th: Early Release, 12:05 p.m.**
 * **28th & 29th:** Thanksgiving Break **= NO SCHOOL**
+
+### December
+
+* **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m.
+* **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students 
