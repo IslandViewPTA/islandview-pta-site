@@ -77,3 +77,5 @@ It's almost time for RIF Day!
 Please include a blurb about RIF and this link: [https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-fall1](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-fall1 "https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-fall1")
 
 ## Celebrate the Season
+
+![](/uploads/Celebrate_the_Season_Flyer.png)
