@@ -27,6 +27,8 @@ Brian
 
 ## Chocolate Sales a Sweet Success!
 
+![](/uploads/Chocolate Winners s.jpg)
+
 Thanks to YOU the chocolate fundraiser was a HUGE success!  We had hoped to raise $20,000, but actually brought in over $32,000!!!!!  Wow!
 
 Because we had sooo many big sellers, we awarded the three runners-up bears, too!
