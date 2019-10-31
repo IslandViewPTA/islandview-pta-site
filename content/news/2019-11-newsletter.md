@@ -93,9 +93,9 @@ Join Island View students and families on Friday, November 15th in the Theater a
 
 {{< fig src="" class="max-w-xs" align="right" >}}
 
-Grab your friends and head to Anacortes Cinema on Saturday, November 23 at 10:30 a.m. for a fun-filled screening of FROZEN II.
+Grab your friends and head to Anacortes Cinema on Saturday, November 23 at 10:30 a.m. for a fun-filled morning of FROZEN II.
 
-$10 each includes personal soda and popcorn
+$10 each includes personal soda and popcorn.
 
 There are a limited number of seats, so buy your tickets early and remember...this is not a drop off event.
 
