@@ -73,8 +73,6 @@ This is a super easy, fun way to teach our kids to look for the good in the worl
 
 ## Book Fair arrives in November
 
-{{< fig src="stack of books.jpg" class="max-w-xs" align="right" >}}
-
 **November 15-22**
 
 Mark your calendars: Book Fair is on the way! Stock up on holiday gifts for everyone on your list.
@@ -122,8 +120,6 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 ![](/uploads/Celebrate_the_Season_Flyer.png)
 
 ## SAVE THESE DATES!
-
-{{< fig src="calendar image.jpg" class="max-w-xs" align="right" >}}
 
 ### November
 
