@@ -41,6 +41,10 @@ Ms. Holmes' class brought in the most money ($3,744) and won a five-pound chocol
 
 THANKS AGAIN for your help making this all come true!
 
+## PTA Meeting
+
+Our November PTA meeting will be on November 6th, 6-7 p.m. in the Island View Library. This meeting promises to be the best PTA meeting yet!
+
 ## Membership Raffle
 
 Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing.
@@ -53,6 +57,8 @@ A HUGE thank you to Island Whale Watching for supporting Island View PTA and pro
 
 ## Gratitude Group
 
+{{< fig src="" title="Gratitude Postcards Coming Soon" class="max-w-xs" align="right" >}}
+
 **_This year for the Gratitude Wall we will take our gratitude off the wall and out into the community._**
 
 Very soon we will send your child home with a post card...this is to give to a community member special to them. Maybe they have a favorite waitress or a bookstore worker that is always kind. A friendly face at a gas station, a pastor at church, a grandmother, the business owner of their favorite place, a stranger that is kind, the mail delivery person---anyone they see doing something nice. If possible, take time searching for someone that they can give it to!
@@ -64,8 +70,6 @@ Now here is the fun part! Take a picture with whomever they give the card to and
 [Email](yestokindness@gmail.com) your pictures or text (518) 593-4741.
 
 This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey [yestokindness@gmail.com](mailto:yestokindness@gmail.com). 
-
-![](/uploads/Gratitude_postcard.jpeg)
 
 ## Book Fair arrives in November
 
