@@ -129,7 +129,7 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 * **15th:** Book Fair Opens & Family Fun Night BINGO, 6 to 8 p.m.
 * **18th to 22nd:** Book Fair at Island View!
 * **21st to 30th:** Spirit Wear Flash Sale
-* **23rd:** Movie Morning at Anacortes Cinema, 10:30 a.m.
+* **23rd:** FROZEN II Movie Morning at Anacortes Cinema, 10:30 a.m.
 * **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m.
 * **27th: Early Release, 12:05 p.m.**
 * **28th & 29th:** Thanksgiving Break **= NO SCHOOL**
