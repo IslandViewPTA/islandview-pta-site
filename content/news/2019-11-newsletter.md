@@ -3,8 +3,9 @@ newsletter_date: 2019-11-01T10:29:50-07:00
 newsletter: true
 title: November 2019 Newsletter
 date: 2019-10-28T00:00:00-07:00
-description: ''
-image: ''
+description: November is a great month to jump in and support the amazing array of
+  fun events at Island View!
+image: "/uploads/Give_thanks.jpg"
 draft: true
 
 ---
