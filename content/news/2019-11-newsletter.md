@@ -57,7 +57,7 @@ A HUGE thank you to Island Whale Watching for supporting Island View PTA and pro
 
 ## Gratitude Group
 
-{{< fig src="" title="Gratitude Postcards Coming Soon" class="max-w-xs" align="right" >}}
+{{< fig src="Gratitude_postcard" title="Gratitude Postcards Coming Soon" class="max-w-xs" align="right" >}}
 
 **_This year for the Gratitude Wall we will take our gratitude off the wall and out into the community._**
 
@@ -69,7 +69,7 @@ Now here is the fun part! Take a picture with whomever they give the card to and
 
 [Email](yestokindness@gmail.com) your pictures or text (518) 593-4741.
 
-This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey [yestokindness@gmail.com](mailto:yestokindness@gmail.com). 
+This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
 
 ## Book Fair arrives in November
 
@@ -110,6 +110,8 @@ Buy tickets at [https://www.islandviewpta.org/movie](https://www.islandviewpta.o
 ## Restaurant Takeover
 
 November 24th might be a few weeks away, but can you smell the pizza already?
+
+Our first Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some 
 
 ![](/uploads/Nov_PizzaFactoryTakeover.jpg)
 
