@@ -126,3 +126,18 @@ Please include a blurb about RIF and this link: [https://www.signupgenius.com/go
 ## Celebrate the Season
 
 ![](/uploads/Celebrate_the_Season_Flyer.png)
+
+## SAVE THESE DATES!
+
+{{< fig src="calendar image.jpg" class="max-w-xs" align="right" >}}
+
+### November
+
+* **6th: FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
+* **8th:** Staff Development = **NO SCHOOL**
+* **11th:** Veterans Day = **NO SCHOOL**
+* **15th:** Family Fun Night BINGO & Books, 6 to 8 p.m.
+* **18th to 22nd:** Book Fair at Island View!
+* **24th:** Pizza Factory Restaurant Take-over, 5 to 8 p.m.
+* **27th: Half-Day, 12:05 Release**
+* **28th & 29th:** Thanksgiving Break **= NO SCHOOL**
