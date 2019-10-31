@@ -67,9 +67,9 @@ Very soon we will send your child home with a post card...this is to give to a c
 
 Now here is the fun part! Take a picture with whomever they give the card to and the PTA will print those to put on the gratitude wall!
 
-[Email](yestokindness@gmail.com) your pictures or text (518) 593-4741.
+Email your pictures to yestokindness@gmail.com or text (518) 593-4741.
 
-This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
+This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey at yestokindness@gmail.com.
 
 ## Book Fair arrives in November
 
