@@ -27,9 +27,7 @@ Brian
 
 ## Chocolate Sales a Sweet Success!
 
-{{< fig src="" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
-
-![](/uploads/Chocolate Winners s.jpg)
+{{< fig src="Chocolate Winners s" class="max-w-xs" align="right" >}}
 
 Thanks to YOU the chocolate fundraiser was a HUGE success!  We had hoped to raise $20,000, but actually brought in over $32,000!!!!!  Wow!
 
@@ -57,9 +55,9 @@ THANKS AGAIN for your help making this all come true!
 
 ## Membership Raffle
 
-Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing. 
+Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing.
 
-**The first drawing will be held on Tuesday, November 6th at 6pm LIVE on our Facebook page from our PTA Meeting.** The winner will receive 4 FREE tickets (2 adult & 2 children) for a 4-5hr Island Whale Watching tour!! To be eligible, simply join the Island View PTA by Monday, November 4th! 
+**The first drawing will be held on Tuesday, November 6th at 6pm LIVE on our Facebook page from our PTA Meeting.** The winner will receive 4 FREE tickets (2 adult & 2 children) for a 4-5hr Island Whale Watching tour!! To be eligible, simply join the Island View PTA by Monday, November 4th!
 
 Membership forms are available outside the PTA office or you can join online at [www.isladviewpta.org/membership](http://www.isladviewpta.org/membership). If you have any questions feel free to email [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
 
@@ -127,7 +125,7 @@ November 24th might be a few weeks away, but can you smell the pizza already?
 
 It's almost time for RIF Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
 
-RIF arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy. 
+RIF arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.
 
 ## Celebrate the Season
 
@@ -156,5 +154,5 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 ### December
 
 * **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m.
-* **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students 
+* **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students
 * 
