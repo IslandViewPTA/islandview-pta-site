@@ -124,8 +124,7 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 ### November
 
 * **6th: PTA mtg,** 6-7 p.m. and...
-
-  **FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
+* **FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
 * **7th:** Veteran's Day Assembly
 * **8th:** Staff Development = **NO SCHOOL**
 * **11th:** Veterans Day = **NO SCHOOL**
