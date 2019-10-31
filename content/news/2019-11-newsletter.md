@@ -103,7 +103,7 @@ Get your tickets online [here](/movie/) and see you at the movies!
 
 November 24th might be a few weeks away, but can you smell the pizza already?
 
-The first PTA Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some serious deliciousness!
+The first PTA Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. Pizza Factory will generously donate 20% of all sales (dine in, take out, or delivery) to Island View PTA during this special evening.  See you there for some serious deliciousness!
 
 ## Reading Is Fundamental (RIF)
 
