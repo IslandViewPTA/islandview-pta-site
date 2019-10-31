@@ -47,6 +47,24 @@ This is a super easy, fun way to teach our kids to look for the good in the worl
 
 ![](/uploads/Gratitude_postcard.jpeg)
 
+## Book Fair arrives in November
+
+{{< fig src="stack of books.jpg" class="max-w-xs" align="right" >}}
+
+**November 15-22**
+
+Mark your calendars: Book Fair is on the way! Stock up on holiday gifts for everyone on your list.
+
+Volunteers are essential to make the week a success and earn valuable books for our school library and our students! Signup [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall "Book Fair signup") to help with a shift, including options before, during, and after school.  It's easy, fun, and no experience needed.
+
+## Family Fun Night - Bingo & Books
+
+**November 15th, 6 - 8 p.m.**
+
+Get a jump on Book Fair shopping and have a blast playing bingo with family and friends at our November Family Fun Night.
+
+Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peek at our Book Fair!
+
 ## Movie Morning
 
 Frozen II Movie Morning
