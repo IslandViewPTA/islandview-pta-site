@@ -89,21 +89,17 @@ Get a jump on Book Fair shopping and have a blast playing bingo with family and 
 
 Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peek at our Book Fair!
 
-## Movie Morning
+## FROZEN II Movie Morning 
 
-Frozen II Movie Morning
+{{< fig src="" class="max-w-xs" align="right" >}}
 
-10:30 am on Saturday, November 23 at Anacortes Cinema
+Grab your friends and head to Anacortes Cinema on Saturday, November 23 at 10:30 a.m. for a fun-filled screening of FROZEN II.
 
 $10 each includes personal soda and popcorn
 
-Not a drop off event
+There are a limited number of seats, so buy your tickets early and remember...this is not a drop off event.
 
-Bring friends
-
-Limited number of seats
-
-Buy tickets at [https://www.islandviewpta.org/movie](https://www.islandviewpta.org/movie "https://www.islandviewpta.org/movie")
+Get your tickets online [here](/movie/) and see you at the movies! 
 
 ![](/uploads/Frozen_Graphic.jpg)
 
