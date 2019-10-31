@@ -25,6 +25,8 @@ Brian
 
 ![](/uploads/FriendlyFrankenstein.jpg)![](/uploads/RedTruck.jpg)
 
+## Chocolate Sales a Sweet Success!
+
 ## Membership Raffle
 
 Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing. The first drawing will be held on Tuesday, November 6th at 6pm LIVE on our Facebook page from our PTA Meeting. The winner will receive 4 FREE tickets (2 adult & 2 children) for a 4-5hr Island Whale Watching tour!! All you have to do to be entered is to join the Island View PTA by Monday, November 4th! Membership forms are available outside the PTA office or you can join online at [www.isladviewpta.org/membership](http://www.isladviewpta.org/membership). If you have any questions feel free to email [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
