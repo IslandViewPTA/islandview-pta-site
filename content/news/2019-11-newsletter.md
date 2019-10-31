@@ -27,6 +27,8 @@ Brian
 
 ## Chocolate Sales a Sweet Success!
 
+{{< fig src="" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
 ![](/uploads/Chocolate Winners s.jpg)
 
 Thanks to YOU the chocolate fundraiser was a HUGE success!  We had hoped to raise $20,000, but actually brought in over $32,000!!!!!  Wow!
@@ -55,7 +57,11 @@ THANKS AGAIN for your help making this all come true!
 
 ## Membership Raffle
 
-Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing. The first drawing will be held on Tuesday, November 6th at 6pm LIVE on our Facebook page from our PTA Meeting. The winner will receive 4 FREE tickets (2 adult & 2 children) for a 4-5hr Island Whale Watching tour!! All you have to do to be entered is to join the Island View PTA by Monday, November 4th! Membership forms are available outside the PTA office or you can join online at [www.isladviewpta.org/membership](http://www.isladviewpta.org/membership). If you have any questions feel free to email [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
+Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing. 
+
+**The first drawing will be held on Tuesday, November 6th at 6pm LIVE on our Facebook page from our PTA Meeting.** The winner will receive 4 FREE tickets (2 adult & 2 children) for a 4-5hr Island Whale Watching tour!! To be eligible, simply join the Island View PTA by Monday, November 4th! 
+
+Membership forms are available outside the PTA office or you can join online at [www.isladviewpta.org/membership](http://www.isladviewpta.org/membership). If you have any questions feel free to email [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
 
 A HUGE thank you to Island Whale Watching for supporting Island View PTA and providing this fantastic opportunity to one lucky PTA member!
 
@@ -119,11 +125,13 @@ November 24th might be a few weeks away, but can you smell the pizza already?
 
 ## Reading Is Fundamental (RIF)
 
-It's almost time for RIF Day!
+It's almost time for RIF Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
 
-Please include a blurb about RIF and this link: [https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-fall1](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-fall1 "https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-fall1")
+RIF arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy. 
 
 ## Celebrate the Season
+
+The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port of Anacortes. Don't miss out on amazing family-friendly holiday activities and a not-to-miss evening of festive entertainment Dec 7th, available through ticket purchase. See the flyer for details!
 
 ![](/uploads/Celebrate_the_Season_Flyer.png)
 
