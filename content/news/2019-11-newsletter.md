@@ -57,7 +57,7 @@ A HUGE thank you to Island Whale Watching for supporting Island View PTA and pro
 
 ## Gratitude Group
 
-{{< fig src="Gratitude_postcard" title="Gratitude Postcards Coming Soon" class="max-w-xs" align="right" >}}
+{{< fig src="Gratitude_postcard.jpeg" title="Gratitude Postcards Coming Soon" class="max-w-xs" align="right" >}}
 
 **_This year for the Gratitude Wall we will take our gratitude off the wall and out into the community._**
 
