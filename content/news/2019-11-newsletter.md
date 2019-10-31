@@ -27,6 +27,30 @@ Brian
 
 ## Chocolate Sales a Sweet Success!
 
+Thanks to YOU the chocolate fundraiser was a HUGE success!  We had hoped to raise $20,000, but actually brought in over $32,000!!!!!  Wow!
+
+Because we had sooo many big sellers, we awarded the three runners-up bears, too!
+
+Sophia Coonce sold 17 boxes!
+
+Liberty Guffey sold 23 boxes!
+
+Alex Zavala sold 29 boxes!
+
+And Kaezin Berry took home the HUGE bear for selling an unbelievable 34 boxes of chocolates!!!
+
+Mr. Lincoln's class had 73% participation and won a game of Gaga Ball with Mr. Hanrahan!
+
+Ms. Holmes' class brought in the most money ($3,744) and won a five-pound chocolate bar!
+
+Students won a keychain teddy bear for each box sold.  They sold so many, we ran out!  But fear not - we have ordered more and will distribute them soon.
+
+And every participating family is invited to watch Toy Story 4 at Island View on Saturday, October 19th at 10am!
+
+But the biggest winner of all is everyone here at Island View!  This money will pay for so many wonderful things that benefit the entire school.
+
+THANKS AGAIN for your help making this all come true!
+
 ## Membership Raffle
 
 Island View PTA will be holding three Membership Raffles this year and we have some truly AWESOME prizes in store for each drawing. The first drawing will be held on Tuesday, November 6th at 6pm LIVE on our Facebook page from our PTA Meeting. The winner will receive 4 FREE tickets (2 adult & 2 children) for a 4-5hr Island Whale Watching tour!! All you have to do to be entered is to join the Island View PTA by Monday, November 4th! Membership forms are available outside the PTA office or you can join online at [www.isladviewpta.org/membership](http://www.isladviewpta.org/membership). If you have any questions feel free to email [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
