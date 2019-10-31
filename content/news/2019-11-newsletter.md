@@ -107,7 +107,7 @@ November 24th might be a few weeks away, but can you smell the pizza already?
 
 The first PTA Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some serious deliciousness!
 
-{{< fig src="" class="max-w-xs" align="right" >}}
+{{< fig src="November_PizzaFactoryTakeover.jpg" class="max-w-xs" align="right" >}}
 
 ![](/uploads/Nov_PizzaFactoryTakeover.jpg)
 
