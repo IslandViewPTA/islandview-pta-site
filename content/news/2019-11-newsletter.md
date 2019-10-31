@@ -89,9 +89,9 @@ Get a jump on Book Fair shopping and have a blast playing bingo with family and 
 
 Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peek at our Book Fair!
 
-## FROZEN II Movie Morning 
+## FROZEN II Movie Morning
 
-{{< fig src="" class="max-w-xs" align="right" >}}
+{{< fig src="frozen n" class="max-w-xs" align="right" >}}
 
 Grab your friends and head to Anacortes Cinema on Saturday, November 23 at 10:30 a.m. for a fun-filled morning of FROZEN II.
 
@@ -99,7 +99,7 @@ $10 each includes personal soda and popcorn.
 
 There are a limited number of seats, so buy your tickets early and remember...this is not a drop off event.
 
-Get your tickets online [here](/movie/) and see you at the movies! 
+Get your tickets online [here](/movie/) and see you at the movies!
 
 ![](/uploads/Frozen_Graphic.jpg)
 
@@ -107,7 +107,7 @@ Get your tickets online [here](/movie/) and see you at the movies!
 
 November 24th might be a few weeks away, but can you smell the pizza already?
 
-Our first Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some 
+Our first Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some
 
 ![](/uploads/Nov_PizzaFactoryTakeover.jpg)
 
