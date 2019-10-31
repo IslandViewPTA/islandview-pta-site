@@ -105,8 +105,6 @@ November 24th might be a few weeks away, but can you smell the pizza already?
 
 The first PTA Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some serious deliciousness!
 
-{{< fig src="PizzaFactory.jpg" class="max-w-xs" align="right" >}}
-
 ## Reading Is Fundamental (RIF)
 
 It's almost time for RIF Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
