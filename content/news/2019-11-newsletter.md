@@ -91,7 +91,7 @@ Join Island View students and families on Friday, November 15th in the Theater a
 
 ## FROZEN II Movie Morning
 
-{{< fig src="Frozen n" class="max-w-xs" align="right" >}}
+{{< fig src="Frozen n.jpeg" class="max-w-xs" align="right" >}}
 
 Grab your friends and head to Anacortes Cinema on Saturday, November 23 at 10:30 a.m. for a fun-filled morning of FROZEN II.
 
@@ -108,8 +108,6 @@ November 24th might be a few weeks away, but can you smell the pizza already?
 The first PTA Restaurant Takeover of the year will be Sunday, November 24th 5-8 p.m. at Pizza Factory. See you there for some serious deliciousness!
 
 {{< fig src="November_PizzaFactoryTakeover.jpg" class="max-w-xs" align="right" >}}
-
-![](/uploads/Nov_PizzaFactoryTakeover.jpg)
 
 ## Reading Is Fundamental (RIF)
 
