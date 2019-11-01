@@ -7,7 +7,7 @@ description: November is a great month to jump in and support the amazing array 
   fun events at Island View!
 image: "/uploads/Thankful.jpg"
 type: ''
-draft: true
+draft: false
 
 ---
 ## Principal's Message
@@ -110,9 +110,11 @@ There are a limited number of seats, so buy your tickets early and remember...th
 
 Get your tickets [online](/movie/) and see you at the movies!
 
+{{< break >}}
+
 ## Restaurant Takeover
 
-{{< fig src="PizzaTakeover.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="PizzaTakeover.jpg" class="max-w-xs" align="" >}}
 
 November 24th might be a few weeks away, but can you smell the pizza already?
 
@@ -128,7 +130,7 @@ R.I.F. arrives on December 5th, and your help is needed to make the event a smas
 
 The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port of Anacortes. Don't miss out on amazing family-friendly holiday activities and a not-to-miss evening of festive entertainment Dec 7th, available through ticket purchase. See the flyer for details!
 
-![](/uploads/Celebrate_the_Season_Flyer.png)
+[{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](/uploads/ASFflyer.png)
 
 ## SAVE THESE DATES!
 
