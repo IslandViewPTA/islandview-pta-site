@@ -89,9 +89,9 @@ Join Island View students and families on Friday, November 15th in the Theater a
 
 ## Spirit Wear FLASH SALE
 
-Just in time for the holidays, a final chance to grab some Island View Spirit Wear. 
+Just in time for the holidays, a final chance to grab some Island View Spirit Wear.
 
-November 21st - 30th, all your favorite attire for you and everyone on your gift list is on sale [here](/shop/). Orders delivered mid-December!
+November 21st - 30th, all your favorite attire is on sale [here](/shop/). Orders delivered mid-December!
 
 ## FROZEN II Movie Morning
 
@@ -107,7 +107,7 @@ Get your tickets [online](/movie/) and see you at the movies!
 
 ## Restaurant Takeover
 
-{{< fig src="" class="max-w-xs" align="right" >}}
+{{< fig src="PizzaTakeover.jpg" class="max-w-xs" align="right" >}}
 
 November 24th might be a few weeks away, but can you smell the pizza already?
 
@@ -115,9 +115,9 @@ The first PTA Restaurant Takeover of the year will be Sunday, November 24th 5-8 
 
 ## Reading Is Fundamental (RIF)
 
-It's almost time for RIF Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
+It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
 
-RIF arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.
+R.I.F. arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.
 
 ## Celebrate the Season
 
@@ -145,5 +145,9 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 ### December
 
 * **4th: PTA Meeting,** 6-7 p.m.
+* **5th:** Reading Is Fundamental (R.I.F.)
 * **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m.
 * **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students
+* **mid-Dec:** Flash Sale purchases delivered 
+* **20th: Early Release, 12:05 p.m.**
+* **21st to Jan X:** Winter Break **= NO SCHOOL**
