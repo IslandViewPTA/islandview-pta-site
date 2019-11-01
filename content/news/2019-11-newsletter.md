@@ -79,7 +79,7 @@ This is a super easy, fun way to teach our kids to look for the good in the worl
 
 Mark your calendars: Book Fair is on the way! Stock up on holiday gifts for everyone on your list.
 
-Volunteers are essential to make the week a success and earn valuable books for our school library and our students! Signup [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall "Book Fair signup") to help with a shift, including options before, during, and after school.  It's easy, fun, and no experience needed.
+**_Volunteers are essential_** to make the week a success and earn valuable books for our school library and our students! Signup [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall "Book Fair signup") to help with a shift, including options before, during, and after school.  It's easy, fun, and no experience needed.
 
 ## Family Fun Night - Bingo & Books
 
