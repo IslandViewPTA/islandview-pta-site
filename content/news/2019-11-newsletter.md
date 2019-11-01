@@ -114,7 +114,7 @@ Get your tickets [online](/movie/) and see you at the movies!
 
 ## Restaurant Takeover
 
-{{< fig src="PizzaTakeover.jpg" class="max-w-xs" align="" >}}
+{{< fig src="RestaurantTakeover.jpg" class="max-w-xs" align="" >}}
 
 November 24th might be a few weeks away, but can you smell the pizza already?
 
