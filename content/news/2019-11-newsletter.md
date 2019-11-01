@@ -1,11 +1,12 @@
 ---
-newsletter_date: 2019-11-01T10:29:50-07:00
+newsletter_date: 2019-11-01T17:29:50.000+00:00
 newsletter: true
 title: November 2019 Newsletter
-date: 2019-10-28T00:00:00-07:00
+date: 2019-10-28T07:00:00.000+00:00
 description: November is a great month to jump in and support the amazing array of
   fun events at Island View!
 image: "/uploads/Thankful.jpg"
+type: ''
 draft: true
 
 ---
@@ -26,8 +27,6 @@ It is hard to believe we are moving into the Thanksgiving season. At Island View
 I wish you a November filled with warm family experiences and a time of thanksgiving.
 
 Brian
-
-
 
 ## Chocolate Sales a Sweet Success!
 
@@ -71,9 +70,9 @@ Very soon we will send your child home with a post card...this is to give to a c
 
 Now here is the fun part! Take a picture with whomever they give the card to and the PTA will print those to put on the gratitude wall!
 
-Email your pictures to yestokindness@gmail.com or text (518) 593-4741.
+Email your pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com) or text (518) 593-4741.
 
-This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey at yestokindness@gmail.com.
+This is a super easy, fun way to teach our kids to look for the good in the world and share gratitude! Watch for this postcard coming home soon! Any questions please contact Tammy Guffey at [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
 
 ## Book Fair arrives in November
 
