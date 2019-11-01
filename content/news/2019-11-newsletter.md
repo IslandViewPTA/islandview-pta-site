@@ -87,6 +87,12 @@ Get a jump on Book Fair shopping and have a blast playing bingo with family and 
 
 Join Island View students and families on Friday, November 15th in the Theater and Library, and remember your gift list as you get first peek at our Book Fair!
 
+## Spirit Wear FLASH SALE
+
+Just in time for the holidays, a final chance to grab some Island View Spirit Wear. 
+
+November 21st - 30th, all your favorite attire for you and everyone on your gift list is on sale [here](/shop/). Orders delivered mid-December!
+
 ## FROZEN II Movie Morning
 
 {{< fig src="Frozen n.jpg" class="max-w-xs" align="right" >}}
@@ -97,7 +103,7 @@ $10 each includes personal soda and popcorn.
 
 There are a limited number of seats, so buy your tickets early and remember...this is not a drop off event.
 
-Get your tickets online [here](/movie/) and see you at the movies!
+Get your tickets [online](/movie/) and see you at the movies!
 
 ## Restaurant Takeover
 
