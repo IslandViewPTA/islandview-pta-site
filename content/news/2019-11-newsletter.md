@@ -13,9 +13,13 @@ draft: true
 
 Island View Families:
 
-I love how the school year follows the seasons. As October comes to an end, the tree outside my office window is on fire with red-orange leaves. Our hallways are adorned with artwork that celebrates the time of year—beautiful birch trees, friendly Frankensteins, and red farm trucks ladened with pumpkins.
+{{< fig src="FriendlyFrankenstein.jpg" class="max-w-xs" align="left" >}}
+
+I love how the school year follows the seasons. As October comes to an end, the tree outside my office window is on fire with red-orange leaves. Our hallways are adorned with artwork that celebrates the time of year—beautiful birch trees, friendly Frankensteins, and red farm trucks laden with pumpkins.
 
 True to the bountiful season, October is a full and busy month: fall testing is complete, conferences are over, and students have settled into productive routines. As I spend time in classrooms, I see your children actively engaged in collaborative learning. For example, I recently watched two students discuss (in a productively argumentative way😊) the best way to draw a leaf in their science journals. I am very proud of the learning opportunities your teachers create for your students.
+
+{{< fig src="RedTruck.jpg" class="max-w-xs" align="right" >}}
 
 It is hard to believe we are moving into the Thanksgiving season. At Island View, we try to nurture a culture that celebrates gratitude and thankfulness daily. That said, November is a good month to really take stock of the many gifts we have as a community. My life is filled with much gratitude—I am grateful to be part of a caring and hard-working staff; I am grateful for an **INCREDIBLE** school community and PTA; and finally, I am grateful for 417 students who make me smile and laugh and feel joy every day.
 
@@ -23,7 +27,7 @@ I wish you a November filled with warm family experiences and a time of thanksgi
 
 Brian
 
-![](/uploads/FriendlyFrankenstein.jpg)![](/uploads/RedTruck.jpg)
+
 
 ## Chocolate Sales a Sweet Success!
 
@@ -43,7 +47,7 @@ THANKS AGAIN for your help making this all come true!
 
 ## PTA Meeting
 
-Our November PTA meeting will be on November 6th, 6-7 p.m. in the Island View Library. This meeting promises to be the best PTA meeting yet!
+Our November PTA meeting will be on **November 6th, 6-7 p.m.** in the Island View Library. This meeting promises to be the best PTA meeting yet!
 
 ## Membership Raffle
 
