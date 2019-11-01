@@ -7,7 +7,7 @@ description: November is a great month to jump in and support the amazing array 
   fun events at Island View!
 image: "/uploads/Thankful.jpg"
 type: ''
-draft: false
+draft: true
 
 ---
 ## Principal's Message
