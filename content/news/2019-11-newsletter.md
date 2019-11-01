@@ -150,4 +150,4 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 * **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students
 * **mid-Dec:** Flash Sale purchases delivered 
 * **20th: Early Release, 12:05 p.m.**
-* **21st to Jan X:** Winter Break **= NO SCHOOL**
+* **21st to Jan 5:** Winter Break **= NO SCHOOL**
