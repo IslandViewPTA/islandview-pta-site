@@ -2,7 +2,7 @@
 newsletter_date: 2019-11-01T17:29:50.000+00:00
 newsletter: true
 title: November 2019 Newsletter
-date: 2019-11-01T10:47:09-07:00
+date: 2019-11-01T17:47:09.000+00:00
 description: November is a great month to jump in and support the amazing array of
   fun events at Island View!
 image: "/uploads/Thankful.jpg"
@@ -127,7 +127,9 @@ R.I.F. arrives on December 5th, and your help is needed to make the event a smas
 
 ## Celebrate the Season
 
-The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port of Anacortes. Don't miss out on amazing family-friendly holiday activities and a not-to-miss evening of festive entertainment Dec 7th, available through ticket purchase. See the flyer for details!
+The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port of Anacortes. Don't miss out on amazing family-friendly holiday activities (free), and a not-to-miss evening of festive entertainment Dec 7th (available through ticket purchase). See the flyer for details!
+
+In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down.  Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
 
 [{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](/uploads/ASFflyer.png)
 
