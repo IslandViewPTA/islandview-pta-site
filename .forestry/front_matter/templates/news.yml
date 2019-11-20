@@ -46,6 +46,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/december-2019-newsletter.md
 - content/news/2019-11-newsletter.md
 - content/movie.md
 - content/news/frozen-ii-movie-morning.md
