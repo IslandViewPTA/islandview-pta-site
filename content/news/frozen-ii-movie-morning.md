@@ -1,10 +1,11 @@
 ---
-newsletter_date: 2019-10-28T13:40:58-07:00
+newsletter_date: 2019-10-28T20:40:58.000+00:00
 newsletter: false
 title: Frozen II Movie Morning
-date: 2019-10-28T00:00:00-07:00
+date: 2019-10-28T07:00:00.000+00:00
 description: Join us for a fun movie morning!
-image: "/uploads/Frozen n.jpg"
+image: "/uploads/frozen sold out-1.jpg"
+type: ''
 
 ---
 Join us at 10:30 on Saturday, November 23rd for Frozen II at Anacortes Cinema!  (Doors open at 10am.)
