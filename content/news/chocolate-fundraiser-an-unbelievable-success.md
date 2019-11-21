@@ -4,7 +4,7 @@ newsletter: false
 title: Chocolate Fundraiser an Unbelievable Success!!!
 date: 2019-10-18T00:00:00-07:00
 description: So proud of all of your hard work!
-image: "/uploads/Chocolate Winners-1.JPG"
+image: "/uploads/Chocolate Winners s.jpg"
 
 ---
 Thanks to YOU the chocolate fundraiser was a HUGE success!  We had hoped to raise $20,000, but actually brought in over $32,000!!!!!  Wow!
