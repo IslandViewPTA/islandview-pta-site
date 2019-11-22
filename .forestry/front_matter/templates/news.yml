@@ -46,6 +46,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/pizza-factory-takeover-sunday-5-8pm.md
 - content/news/frozen-ii-movie-morning.md
 - content/news/chocolate-fundraiser-an-unbelievable-success.md
 - content/movie.md
