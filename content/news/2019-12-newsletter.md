@@ -97,7 +97,7 @@ In order to create the incredible 'Celebrate the Season' winter wonderland, your
 
 It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
 
-R.I.F. arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.
+R.I.F. arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.![](/uploads/holy berry.jpg)
 
 ## Class Act School Play signup NOW
 
