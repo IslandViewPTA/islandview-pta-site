@@ -54,6 +54,12 @@ The December PTA meeting is **cancelled** due to the busy holiday season. We loo
 
 ## 'Tis the Season for GRATITUDE
 
+![](/uploads/Nov 2019 Gratitude Wall.jpeg)
+
+Gratitude wall is filling up nicely! Only thing missing is you! If you haven’t gotten your picture in- there is still time! Remember to email pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
+
+It’s so easy to see what is wrong with the world and this is a great opportunity to teach our kids how to look for the good in others and let them know! Thank you in advance for your participation in this fun community project!
+
 ## Thanks UNICEF Trick-or-Treaters
 
 An enormous thank you to all of the Island View students that so thoughtfully collected Halloween donations for UNICEF. Your efforts **raised over $500.00** to provide "medicine, better nutrition, safe water, education, emergency relief, and other support to children in more than 150 countries" (unicef.org). 
@@ -88,7 +94,7 @@ Dec 16 is when we let parents know whether their kid is in (or waitlisted). Firs
 
 Permission forms are due ____, but turn them in right away, because the first 80 students to sign up will be in the play. Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) should have a SignUpGenius created soon, seeking volunteers to help with the play.
 
-## Celebrate our Staff with treats 
+## Celebrate our Staff with TREATS! 
 
 ![](/uploads/holiday cookie photo.jpg)
 
