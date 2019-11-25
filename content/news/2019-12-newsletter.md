@@ -119,27 +119,23 @@ Questions? Please contact: [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@ya
 
 Thank you!!! And [sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-tis) to share delicious holiday cheer.
 
+## SAVE THESE DATES!
+
 ### November
 
-* **6th: PTA Meeting,** 6-7 p.m. and...
-* **FIRST EVER! Membership Drive Raffle _live from the PTA mtg_**
-* **7th:** Veteran's Day Assembly
-* **8th:** Staff Development = **NO SCHOOL**
-* **11th:** Veterans Day = **NO SCHOOL**
-* **15th:** Book Fair Opens & Family Fun Night BINGO, 6 to 8 p.m.
-* **18th to 22nd:** Book Fair at Island View!
-* **21st to 30th:** Spirit Wear Flash Sale
-* **23rd:** FROZEN II Movie Morning at Anacortes Cinema, 10:30 a.m.
-* **24th:** Pizza Factory Restaurant Take-Over, 5 to 8 p.m.
 * **27th: Early Release, 12:05 p.m.**
 * **28th & 29th:** Thanksgiving Break **= NO SCHOOL**
 
 ### December
 
-* **4th: PTA Meeting,** 6-7 p.m.
+* **4th: PTA Meeting CANCELLED!**
 * **5th:** Reading Is Fundamental (R.I.F.)
 * **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m.
 * **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students
 * **mid-Dec:** Flash Sale purchases delivered
 * **20th: Early Release, 12:05 p.m.**
 * **21st to Jan 5:** Winter Break **= NO SCHOOL**
+
+### January
+
+* 
