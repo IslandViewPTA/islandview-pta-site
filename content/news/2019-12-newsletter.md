@@ -83,7 +83,7 @@ The PTA Hospitality duo of Jennifer Jones and Nicole Mortimer delivered 'room se
 
 ## Island View Choir Performances![](/uploads/eagle singing.jpg)
 
-details about when/where the school choir will be performing in December.
+The Island View Choir has been practicing all season to help spread holiday cheer. Come get festive and support our student singers at the following performances in December: 
 
 ## ASF Celebrate the Season
 
