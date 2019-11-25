@@ -8,7 +8,7 @@ image: ''
 draft: true
 
 ---
-## Principal's Message 
+## Principal's Message
 
 Dear Island View Families:
 
@@ -50,7 +50,7 @@ Brian Hanrahan, Principal
 
 ## DEC PTA Meeting CANCELLED!
 
-The December PTA meeting is **cancelled** due to the busy holiday season. We look forward to seeing everyone at the **next PTA meeting on Wednesday, January 8th at 6pm** in the Island View Library. 
+The December PTA meeting is **cancelled** due to the busy holiday season. We look forward to seeing everyone at the **next PTA meeting on Wednesday, January 8th at 6pm** in the Island View Library.
 
 ## 'Tis the Season for GRATITUDE
 
@@ -62,19 +62,19 @@ It’s so easy to see what is wrong with the world and this is a great opportuni
 
 ## Thanks UNICEF Trick-or-Treaters
 
-An enormous thank you to all of the Island View students that so thoughtfully collected Halloween donations for UNICEF. Your efforts **raised over $500.00** to provide "medicine, better nutrition, safe water, education, emergency relief, and other support to children in more than 150 countries" (unicef.org). 
+An enormous thank you to all of the Island View students that so thoughtfully collected Halloween donations for UNICEF. Your efforts **raised over $500.00** to provide "medicine, better nutrition, safe water, education, emergency relief, and other support to children in more than 150 countries" (unicef.org).
 
-## BOOK FAIR Thank You 
+## BOOK FAIR Thank You
 
-With over $13,000 in sales, last week's BOOK FAIR was the **highest selling ever for Island View!**  A HUGE thank you to all of those that shopped and volunteered during the week, your support of the library and our students made all the difference! 
+With over $13,000 in sales, last week's BOOK FAIR was the **highest selling ever for Island View!**  A HUGE thank you to all of those that shopped and volunteered during the week, your support of the library and our students made all the difference!
 
-Keep your eyes on the shelves...Island View library will have over 200 new books purchased from the fair, plus some updated STEM books arriving soon. 
+Keep your eyes on the shelves...Island View library will have over 200 new books purchased from the fair, plus some updated STEM books arriving soon.
 
 ## Pizza Factory Restaurant Takeover Success!
 
-Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a HUGE thank you to Pizza Factory for their donation of $_____ to Island View PTA. 
+Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a HUGE thank you to Pizza Factory for their donation of $_____ to Island View PTA.
 
-## Love = Staff 'Room Service' 
+## Love = Staff 'Room Service'
 
 ![](/uploads/Nicole and Jennifer.jpg)
 
@@ -86,6 +86,12 @@ details about when/where the school choir will be performing in December.
 
 ## ASF Celebrate the Season
 
+The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port of Anacortes. Don't miss out on amazing family-friendly holiday activities (free), and a not-to-miss evening of festive entertainment Dec 7th (available through ticket purchase). See the flyer for details!
+
+In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down.  Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
+
+[{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](/uploads/ASFflyer.png)
+
 ## Reading Is Fundamental (RIF)
 
 ## Class Act School Play signup NOW
@@ -94,7 +100,7 @@ Dec 16 is when we let parents know whether their kid is in (or waitlisted). Firs
 
 Permission forms are due ____, but turn them in right away, because the first 80 students to sign up will be in the play. Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) should have a SignUpGenius created soon, seeking volunteers to help with the play.
 
-## Celebrate our Staff with TREATS! 
+## Celebrate our Staff with TREATS!
 
 ![](/uploads/holiday cookie photo.jpg)
 
@@ -106,4 +112,4 @@ Please help us spoil our amazing staff by bringing in some of your favorite holi
 
 Questions? Please contact: [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
-Thank you!!! And [sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-tis) to share delicious holiday cheer. 
+Thank you!!! And [sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-tis) to share delicious holiday cheer.
