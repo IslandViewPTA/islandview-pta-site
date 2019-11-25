@@ -5,7 +5,7 @@ title: December 2019 Newsletter
 date: 2019-11-28T00:00:00-08:00
 description: The holiday season is here and there's so much FUN you don't want to
   miss...read this so you'll know where to be and when!
-image: "/uploads/berry branch.jpg"
+image: "/uploads/holy berry.jpg"
 draft: true
 
 ---
@@ -97,7 +97,7 @@ In order to create the incredible 'Celebrate the Season' winter wonderland, your
 
 It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
 
-R.I.F. arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.![](/uploads/holy berry.jpg)
+R.I.F. arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.
 
 ## Class Act School Play signup NOW
 
