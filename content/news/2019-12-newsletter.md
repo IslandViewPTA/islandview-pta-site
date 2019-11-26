@@ -55,7 +55,7 @@ The December PTA meeting is **cancelled** due to the busy holiday season. We loo
 
 ## Reading Is Fundamental (RIF)
 
-[{{< fig src="stack of books.jpg" align="left" class="max-w-xs" >}}](/uploads/stack of books.jpg/)
+{{< fig src="stack of books.jpg" align="left" class="max-w-xs" >}}
 
 It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every K-3rd grade student can select a free book to keep_.
 
