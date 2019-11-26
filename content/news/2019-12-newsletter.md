@@ -55,7 +55,7 @@ The December PTA meeting is **cancelled** due to the busy holiday season. We loo
 
 ## Reading Is Fundamental (RIF)
 
-[{{< fig src="stack of books.jpg" align="left" class="max-w-XS" >}}](/uploads/stack of books.jpg/)
+[{{< fig src="stack of books.jpg" align="left" class="max-w-xs" >}}](/uploads/stack of books.jpg/)
 
 It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every K-3rd grade student can select a free book to keep_.
 
@@ -73,7 +73,7 @@ Just in time for the holidays, a final chance to grab some Island View Spirit We
 
 ## 'Tis the Season for GRATITUDE
 
-[{{< fig src="gratitude.jpeg" align="left" class="max-w-XS" >}}](/uploads/gratitude.jpeg/)
+{{< fig src="gratitude.jpeg" align="left" class="max-w-xs" >}}
 
 The gratitude wall is filling up nicely - the only thing missing is you! If you haven’t gotten your picture in, there's still time! Remember to email pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
 
@@ -95,13 +95,13 @@ Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, 
 
 ## Staff Appreciation = Room Service
 
-[{{< fig src="staffdelivery.jpg" align="right" class="max-w-XS" >}}](/uploads/staffdelivery.jpg/)
+{{< fig src="staffdelivery.jpg" align="right" class="max-w-xs" >}}
 
 The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After staff selected from a wide menu of drinks and snacks, the duo assembled and delivered to each staff member tangible, tailor-made evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
 
 ## Island View Choir Performs
 
-[{{< fig src="eaglesinging.jpg" align="left" class="max-w-XS" >}}](/uploads/eaglesinging.jpg/)
+{{< fig src="eaglesinging.jpg" align="left" class="max-w-xs" >}}
 
 It's time to hear Island View Eagle voices soar to new heights as they spread holiday cheer around town. Come get festive and support our student singers at the following performances in December:
 
@@ -115,7 +115,7 @@ Dec 14th - Anacortes Parks & Recreation **"Wonderland Walk at Washington Park", 
 
 ## ASF Celebrate the Season
 
-[{{< fig src="ASFflyer.png" class="max-w-xs" align="left" >}}](/uploads/ASFflyer.png)
+{{< fig src="ASFflyer.png" class="max-w-xs" align="left" >}}
 
 The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port Transit Shed. Don't miss out on amazing family-friendly holiday activities (free), and a not-to-miss evening of festive entertainment Dec 7th (available through ticket purchase). See the flyer for details!
 
@@ -127,7 +127,7 @@ Calling all kitchen mavens!! Ladies and gentlemen, don your aprons, man your mix
 
 Please help us spoil our amazing staff by bringing in some of your favorite holiday treats to send home for the holidays. Homemade or store-bought treats are both fabulous!
 
-[{{< fig src="holidaycookies.jpg" align="right" class="max-w-XS" >}}](/uploads/holidaycookies.jpg/)
+{{< fig src="holidaycookies.jpg" align="right" class="max-w-XS" >}}
 
 **We'll be collecting treats on Tuesday morning December 17th between 8:30-9:30 am to prepare for distribution on that same day.** We have 60 staff members, and want to send them each home with a generous box of goodies, so please donate as much a you can!
 
