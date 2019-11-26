@@ -57,33 +57,33 @@ The December PTA meeting is **cancelled** due to the busy holiday season. We loo
 
 ![](/uploads/Nov 2019 Gratitude Wall.jpeg)
 
-Gratitude wall is filling up nicely! Only thing missing is you! If you haven’t gotten your picture in- there is still time! Remember to email pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
+The gratitude wall is filling up nicely - the only thing missing is you! If you haven’t gotten your picture in, there's still time! Remember to email pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
 
-It’s so easy to see what is wrong with the world and this is a great opportunity to teach our kids how to look for the good in others and let them know! Thank you in advance for your participation in this fun community project!
+It’s so easy to see what is wrong with the world and the postcard project is a great opportunity to teach our kids how to look for the good in others and share gratitude! Thank you in advance for your participation in this fun community project!
 
 ## Thanks UNICEF Trick-or-Treaters
 
-An enormous thank you to all of the Island View students that so thoughtfully collected Halloween donations for UNICEF. Your efforts **raised over $500.00** to provide "medicine, better nutrition, safe water, education, emergency relief, and other support to children in more than 150 countries" (unicef.org).
+An enormous thank you to all of the Island View students that so diligently collected Halloween donations for UNICEF. Your efforts **raised over $500.00** to provide "medicine, better nutrition, safe water, education, emergency relief, and other support to children in more than 150 countries" (unicef.org).
 
 ## BOOK FAIR Thank You
 
-With over $13,000 in sales, last week's BOOK FAIR was the **highest selling ever for Island View!**  A HUGE thank you to all of those that shopped and volunteered during the week, your support of the library and our students made all the difference!
+With over **$13,000** in sales, last week's BOOK FAIR was the **highest selling ever for Island View!**  A HUGE thank you to all of those that shopped and volunteered during the week, your support of the library and our students made all the difference!
 
-Keep your eyes on the shelves...Island View library will have over 200 new books purchased from the fair, plus some updated STEM books arriving soon.
+Keep your eyes on the shelves...Island View library will have over 200 new books purchased from the fair inventory, plus some updated STEM books arriving soon.
 
 ## Pizza Factory Restaurant Takeover Success!
 
 Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a HUGE thank you to Pizza Factory for their donation of $_____ to Island View PTA.
 
-## Love = Staff 'Room Service'
+## Staff Appreciation = Room Service
 
 ![](/uploads/Nicole and Jennifer.jpg)
 
-The PTA Hospitality duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After selecting from a varied menu of drinks and snacks, the duo assembled and delivered to each staff member tangible evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
+The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After staff selected from a wide menu of drinks and snacks, the duo assembled and delivered to each staff member tangible, tailor-made evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
 
 ## Island View Choir Performances![](/uploads/eagle singing.jpg)
 
-The Island View Choir has been practicing all season to help spread holiday cheer. Come get festive and support our student singers at the following performances in December: 
+It's time to hear Island View Eagle voices soar to new heights as they spread holiday cheer around town. Come get festive and support our student singers at the following performances in December:
 
 ## ASF Celebrate the Season
 
