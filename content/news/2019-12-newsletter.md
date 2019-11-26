@@ -101,6 +101,8 @@ R.I.F. arrives on December 5th, and your help is needed to make the event a smas
 
 ## Class Act School Play signup NOW
 
+Class Act 
+
 Dec 16 is when we let parents know whether their kid is in (or waitlisted). First rehearsal day is Jan 9. Watch for a sign up in early January.
 
 Permission forms are due ____, but turn them in right away, because the first 80 students to sign up will be in the play. Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) should have a SignUpGenius created soon, seeking volunteers to help with the play.
