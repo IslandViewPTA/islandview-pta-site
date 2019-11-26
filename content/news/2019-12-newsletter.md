@@ -73,7 +73,7 @@ Just in time for the holidays, a final chance to grab some Island View Spirit We
 
 ## 'Tis the Season for GRATITUDE
 
-{{< fig src="gratitude.jpeg" align="left" class="max-w-xs" >}}
+{{< fig src="gratitudewall.jpg" align="left" class="max-w-xs" >}}
 
 The gratitude wall is filling up nicely - the only thing missing is you! If you haven’t gotten your picture in, there's still time! Remember to email pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
 
