@@ -85,9 +85,11 @@ Keep your eyes on the shelves...Island View library will have over 200 new books
 
 ## Pizza Factory Restaurant Takeover Success!
 
-Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a **HUGE thank you to Pizza Factory for their donation to Island View PTA.**  PTA funded support to our students and teachers happens because of the generosity of our amazing Anacortes community!
+Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a **HUGE thank you to Pizza Factory for their donation to Island View PTA.**  PTA funded support to our students and teachers is possible through the generosity of our amazing Anacortes community!
 
 ## Staff Appreciation = Room Service
+
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
 
 The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After staff selected from a wide menu of drinks and snacks, the duo assembled and delivered to each staff member tangible, tailor-made evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
 
