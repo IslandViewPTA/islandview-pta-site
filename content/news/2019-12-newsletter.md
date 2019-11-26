@@ -57,13 +57,17 @@ The December PTA meeting is **cancelled** due to the busy holiday season. We loo
 
 It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every K-3rd grade student can select a free book to keep_.
 
-R.I.F. arrives on **December 5th**, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give some of your time for literacy.
+R.I.F. arrives on **December 5th, and your help is needed** to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give some of your time for literacy.
 
 ## School Play signup NOW
 
-Once again, Anacortes' very own and wonderful CLASS ACT will be hosting Island View's school play. Signup/permission forms went home last week and are available in the school office, **due December 13th but turn them in ASAP because only the first 80 students to sign up will be in the play.**  
+Once again, Anacortes' very own and wonderful CLASS ACT will be hosting Island View's school play. Signup/permission forms went home last week and are available in the school office, **due December 13th but turn them in ASAP because only the first 80 students to sign up will be in the play.**
 
 There are no auditions, this is a first-come-first-served signup. Parents will be notified Dec 16 about student status - either in or waitlisted. The first rehearsal is Jan 9. Thanks to Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) for heading up the school play again this year!
+
+## Spirit Wear FLASH SALE
+
+Just in time for the holidays, a final chance to grab some Island View Spirit Wear. **Through December 1st, all your favorite attire is on sale** [**here**](/shop/)**. Orders delivered mid-December!**
 
 ## 'Tis the Season for GRATITUDE
 
