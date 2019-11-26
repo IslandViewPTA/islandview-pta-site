@@ -123,7 +123,7 @@ Calling all kitchen mavens!! Ladies and gentlemen, don your aprons, man your mix
 
 Please help us spoil our amazing staff by bringing in some of your favorite holiday treats to send home for the holidays. Homemade or store-bought treats are both fabulous!
 
-[{{< fig src="holiday cookies.jpg" class="max-w-xs" align="left" >}}]()
+[{{< fig src="holiday cookies.jpg" class="max-w-xs" align="right" >}}]()
 
 **We'll be collecting treats on Tuesday morning December 17th between 8:30-9:30 am to prepare for distribution on that same day.** We have 60 staff members, and want to send them each home with a generous box of goodies, so please donate as much a you can!
 
