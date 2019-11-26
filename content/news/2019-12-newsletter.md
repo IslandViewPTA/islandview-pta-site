@@ -99,7 +99,7 @@ The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 
 
 ## Island View Choir Performs
 
-[{{< fig src="eaglesigning.jpg" class="max-w-xs" align="left" >}}](/uploads/eaglesinging.png)
+[{{< fig src="eaglesinging.jpg" align="left" class="max-w-XS" >}}](/uploads/eaglesinging.jpg/)
 
 It's time to hear Island View Eagle voices soar to new heights as they spread holiday cheer around town. Come get festive and support our student singers at the following performances in December:
 
