@@ -61,6 +61,12 @@ The gratitude wall is filling up nicely - the only thing missing is you! If you 
 
 It’s so easy to see what is wrong with the world and the postcard project is a great opportunity to teach our kids how to look for the good in others and share gratitude! Thank you in advance for your participation in this fun community project!
 
+## Reading Is Fundamental (RIF)
+
+It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every K-3rd grade student can select a free book to keep_.
+
+R.I.F. arrives on **December 5th**, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give some of your time for literacy.
+
 ## Thanks UNICEF Trick-or-Treaters
 
 An enormous thank you to all of the Island View students that so diligently collected Halloween donations for UNICEF. Your efforts **raised over $500.00** to provide "medicine, better nutrition, safe water, education, emergency relief, and other support to children in more than 150 countries" (unicef.org).
@@ -85,27 +91,27 @@ The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 
 
 It's time to hear Island View Eagle voices soar to new heights as they spread holiday cheer around town. Come get festive and support our student singers at the following performances in December:
 
+December 6th - Anacortes Chamber of Commerce Tree Lighting starting at 6pm at the corner of 9th and Commercial 
+
+December 7th - Lions Club Holiday Parade starting at 11am along Commercial between 3rd and 10th
+
+December 7th - Anacortes Schools Foundation "Celebrate the Season" at the Port Transit Shed beginning at 1pm
+
+December 14th - Anacortes Parks & Recreation "Wonderland Walk at Washington Park" starting at 6pm
+
 ## ASF Celebrate the Season
 
-The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port of Anacortes. Don't miss out on amazing family-friendly holiday activities (free), and a not-to-miss evening of festive entertainment Dec 7th (available through ticket purchase). See the flyer for details!
+The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port Transit Shed. Don't miss out on amazing family-friendly holiday activities (free), and a not-to-miss evening of festive entertainment Dec 7th (available through ticket purchase). See the flyer for details!
 
 In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down.  Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
 
 [{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](/uploads/ASFflyer.png)
 
-## Reading Is Fundamental (RIF)
-
-It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every_ _student can select a free book to keep_.
-
-R.I.F. arrives on December 5th, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give an hour of your time for literacy.
-
-## Class Act School Play signup NOW
-
-Class Act 
+## Class ACT School Play signup NOW
 
 Dec 16 is when we let parents know whether their kid is in (or waitlisted). First rehearsal day is Jan 9. Watch for a sign up in early January.
 
-Permission forms are due ____, but turn them in right away, because the first 80 students to sign up will be in the play. Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) should have a SignUpGenius created soon, seeking volunteers to help with the play.
+Permission forms are due December 13th, but turn them in right away, because the first 80 students to sign up will be in the play.  Thanks to Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) for heading up the school play again this year!
 
 ## Celebrate our Staff with TREATS!
 
@@ -132,12 +138,17 @@ Thank you!!! And sign-up [here](https://www.signupgenius.com/go/10c0d44aead2da3f
 
 * **4th: PTA Meeting CANCELLED!**
 * **5th:** Reading Is Fundamental (R.I.F.)
-* **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m.
-* **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students
-* **mid-Dec:** Flash Sale purchases delivered
+* **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m., free
+* **7th:** Celebrate Express Dinner to benefit _all_ Anacortes students, ticketed event
+* **mid-Dec:** Spirit Wear Flash Sale purchases delivered
 * **20th: Early Release, 12:05 p.m.**
 * **21st to Jan 5:** Winter Break **= NO SCHOOL**
 
 ### January
 
-* 
+* **8th:**  PTA Meeting, 6pm, Island View Library
+* **9th-23rd:**  Class ACT School Play Rehearsals after school
+* **17th:**  NO SCHOOL for Students
+* **20th:**  Martin Luther King Day observed, NO SCHOOL
+* **24th:**  School Play Performance, 7pm
+* **25th:**  School Play Performance, 2pm
