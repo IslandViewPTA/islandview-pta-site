@@ -81,7 +81,7 @@ Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, 
 
 The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After staff selected from a wide menu of drinks and snacks, the duo assembled and delivered to each staff member tangible, tailor-made evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
 
-## Island View Choir Performances![](/uploads/eagle singing.jpg)
+## Island View Choir Performs![](/uploads/eagle singing.jpg)
 
 It's time to hear Island View Eagle voices soar to new heights as they spread holiday cheer around town. Come get festive and support our student singers at the following performances in December:
 
@@ -117,7 +117,7 @@ Please help us spoil our amazing staff by bringing in some of your favorite holi
 
 Questions? Please contact: [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
-Thank you!!! And [sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-tis) to share delicious holiday cheer.
+Thank you!!! And sign-up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-tis) to share delicious holiday cheer.
 
 ## SAVE THESE DATES!
 
