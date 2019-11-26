@@ -119,7 +119,7 @@ In order to create the incredible 'Celebrate the Season' winter wonderland, your
 
 ## Celebrate our Staff with TREATS!
 
-[{{< fig src="holiday cookies.jpeg" align="left" class="max-w-xs" >}}]()
+[{{< fig src="holiday cookies.jpg" class="max-w-xs" align="left" >}}]()
 
 Calling all kitchen mavens!! Ladies and gentlemen, don your aprons, man your mixers, and break out those treasured family recipes.
 
