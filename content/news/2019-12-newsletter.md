@@ -93,7 +93,7 @@ Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, 
 
 ## Staff Appreciation = Room Service
 
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+[{{< fig src="staffdelivery.jpg" align="right" class="max-w-XS" >}}](/uploads/staffdelivery.jpg/)
 
 The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After staff selected from a wide menu of drinks and snacks, the duo assembled and delivered to each staff member tangible, tailor-made evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
 
@@ -124,8 +124,6 @@ In order to create the incredible 'Celebrate the Season' winter wonderland, your
 Calling all kitchen mavens!! Ladies and gentlemen, don your aprons, man your mixers, and break out those treasured family recipes.
 
 Please help us spoil our amazing staff by bringing in some of your favorite holiday treats to send home for the holidays. Homemade or store-bought treats are both fabulous!
-
-[{{< fig src="staffdelivery.jpg" align="right" class="max-w-XS" >}}](/uploads/staffdelivery.jpg/)
 
 **We'll be collecting treats on Tuesday morning December 17th between 8:30-9:30 am to prepare for distribution on that same day.** We have 60 staff members, and want to send them each home with a generous box of goodies, so please donate as much a you can!
 
