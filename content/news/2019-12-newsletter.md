@@ -61,6 +61,8 @@ It's almost time for R.I.F. Day, where children's literacy is celebrated and sup
 
 R.I.F. arrives on **December 5th, and your help is needed** to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give some of your time for literacy.
 
+{{< break >}}
+
 ## School Play signup NOW
 
 Once again, Anacortes' very own and wonderful CLASS ACT will be hosting Island View's school play. Signup/permission forms went home last week and are available in the school office, **due December 13th but turn them in ASAP because only the first 80 students to sign up will be in the play.**
