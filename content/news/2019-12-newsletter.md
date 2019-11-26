@@ -111,11 +111,11 @@ Dec 14th - Anacortes Parks & Recreation **"Wonderland Walk at Washington Park", 
 
 ## ASF Celebrate the Season
 
+[{{< fig src="ASFflyer.png" class="max-w-xs" align="left" >}}](/uploads/ASFflyer.png)
+
 The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacortes district students steams into town December 7th & 8th at the Port Transit Shed. Don't miss out on amazing family-friendly holiday activities (free), and a not-to-miss evening of festive entertainment Dec 7th (available through ticket purchase). See the flyer for details!
 
 In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down.  Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
-
-[{{< fig src="ASFflyer.png" class="max-w-xs" align="right" >}}](/uploads/ASFflyer.png)
 
 ## Celebrate our Staff with TREATS!
 
