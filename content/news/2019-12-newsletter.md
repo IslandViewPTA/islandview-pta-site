@@ -125,6 +125,8 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 
 In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down. Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
 
+{{< break >}}
+
 ## Celebrate our Staff with TREATS!
 
 Calling all kitchen mavens!! Ladies and gentlemen, don your aprons, man your mixers, and break out those treasured family recipes.
