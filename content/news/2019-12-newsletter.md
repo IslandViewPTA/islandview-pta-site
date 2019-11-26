@@ -140,6 +140,7 @@ Thank you!!! And sign-up [here](https://www.signupgenius.com/go/10c0d44aead2da3f
 
 ### December
 
+* **1st:** Last Day for Spirit Wear FLASH SALE
 * **4th: PTA Meeting CANCELLED!**
 * **5th:** Reading Is Fundamental (R.I.F.)
 * **7th & 8th:** Celebrate the Season, 11 a.m. to 3 p.m., free
@@ -150,6 +151,7 @@ Thank you!!! And sign-up [here](https://www.signupgenius.com/go/10c0d44aead2da3f
 
 ### January
 
+* **6th: First Day of School in 2020**
 * **8th:**  PTA Meeting, 6pm, Island View Library
 * **9th-23rd:**  Class ACT School Play Rehearsals after school
 * **17th:**  NO SCHOOL for Students
