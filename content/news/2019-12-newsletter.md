@@ -53,6 +53,18 @@ Brian Hanrahan, Principal
 
 The December PTA meeting is **cancelled** due to the busy holiday season. We look forward to seeing everyone at the **next PTA meeting on Wednesday, January 8th at 6pm** in the Island View Library.
 
+## Reading Is Fundamental (RIF)
+
+It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every K-3rd grade student can select a free book to keep_.
+
+R.I.F. arrives on **December 5th**, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give some of your time for literacy.
+
+## School Play signup NOW
+
+Once again, Anacortes' very own and wonderful CLASS ACT will be hosting Island View's school play. Signup/permission forms went home last week and are available in the school office, **due December 13th but turn them in ASAP because only the first 80 students to sign up will be in the play.**  
+
+There are no auditions, this is a first-come-first-served signup. Parents will be notified Dec 16 about student status - either in or waitlisted. The first rehearsal is Jan 9. Thanks to Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) for heading up the school play again this year!
+
 ## 'Tis the Season for GRATITUDE
 
 ![](/uploads/Nov 2019 Gratitude Wall.jpeg)
@@ -60,12 +72,6 @@ The December PTA meeting is **cancelled** due to the busy holiday season. We loo
 The gratitude wall is filling up nicely - the only thing missing is you! If you haven’t gotten your picture in, there's still time! Remember to email pictures to [yestokindness@gmail.com](mailto:yestokindness@gmail.com).
 
 It’s so easy to see what is wrong with the world and the postcard project is a great opportunity to teach our kids how to look for the good in others and share gratitude! Thank you in advance for your participation in this fun community project!
-
-## Reading Is Fundamental (RIF)
-
-It's almost time for R.I.F. Day, where children's literacy is celebrated and supported through guest readers and hundreds of free books from which _every K-3rd grade student can select a free book to keep_.
-
-R.I.F. arrives on **December 5th**, and your help is needed to make the event a smashing success! Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-fall1) for shift times and give some of your time for literacy.
 
 ## Thanks UNICEF Trick-or-Treaters
 
@@ -79,11 +85,9 @@ Keep your eyes on the shelves...Island View library will have over 200 new books
 
 ## Pizza Factory Restaurant Takeover Success!
 
-Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a HUGE thank you to Pizza Factory for their donation of $_____ to Island View PTA.
+Warm appreciation to all who attended the Pizza Factory Take Over on Nov. 24th, and a **HUGE thank you to Pizza Factory for their donation to Island View PTA.**  PTA funded support to our students and teachers happens because of the generosity of our amazing Anacortes community!
 
 ## Staff Appreciation = Room Service
-
-![](/uploads/Nicole and Jennifer.jpg)
 
 The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 'room service' to the teachers and staff on Friday Nov 15th. After staff selected from a wide menu of drinks and snacks, the duo assembled and delivered to each staff member tangible, tailor-made evidence of our collective gratitude for all that they do for our students and school. We love you Island View staff!
 
@@ -91,13 +95,13 @@ The PTA Hospitality dynamic duo of Jennifer Jones and Nicole Mortimer delivered 
 
 It's time to hear Island View Eagle voices soar to new heights as they spread holiday cheer around town. Come get festive and support our student singers at the following performances in December:
 
-December 6th - Anacortes Chamber of Commerce Tree Lighting starting at 6pm at the corner of 9th and Commercial 
+Dec 6th - **Anacortes Chamber of Commerce Tree Lighting, 6pm** at the corner of 9th and Commercial
 
-December 7th - Lions Club Holiday Parade starting at 11am along Commercial between 3rd and 10th
+Dec 7th - **Lions Club Holiday Parade, 11am** along Commercial between 3rd and 10th
 
-December 7th - Anacortes Schools Foundation "Celebrate the Season" at the Port Transit Shed beginning at 1pm
+Dec 7th - Anacortes Schools Foundation **"Celebrate the Season" at the Port Transit Shed, 1pm**
 
-December 14th - Anacortes Parks & Recreation "Wonderland Walk at Washington Park" starting at 6pm
+Dec 14th - Anacortes Parks & Recreation **"Wonderland Walk at Washington Park", 6pm**
 
 ## ASF Celebrate the Season
 
@@ -106,12 +110,6 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down.  Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
 
 [{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](/uploads/ASFflyer.png)
-
-## Class ACT School Play signup NOW
-
-Dec 16 is when we let parents know whether their kid is in (or waitlisted). First rehearsal day is Jan 9. Watch for a sign up in early January.
-
-Permission forms are due December 13th, but turn them in right away, because the first 80 students to sign up will be in the play.  Thanks to Nicole Mortimer ([nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)) for heading up the school play again this year!
 
 ## Celebrate our Staff with TREATS!
 
