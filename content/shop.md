@@ -3,12 +3,12 @@ title: Island View PTA Shop
 subtitle: Show your school spirit!
 image: "/uploads/Spiritwear-2.jpg"
 imageCredit: Photo by Christy Fisher
-imageLink: #
+imageLink: 
 heading: Purchase Island View shirts, hats and other spirit wear!
-description: |-
-  The shop is OPEN!  Click here to order your custom Island View shirts, sweatshirts, vests, hats, and more!  On sale for a limited time only!
-
-  The Island View PTA uses funds raised to provide resources and activities for the Students and Staff of Island View Elementary.
+description: "The shop is CLOSED until Spring. Check back then to order your custom
+  Island View shirts, sweatshirts, vests, hats, and more! \n\nThe Island View PTA
+  uses funds raised to provide resources and activities for the Students and Staff
+  of Island View Elementary."
 callToAction: true
 
 ---
