@@ -1,15 +1,19 @@
 ---
 title: Color Run Fundraiser
-date: 2018-04-17 23:05:23 -0700
+date: 2018-04-18T06:05:23.000+00:00
 image: "/uploads/Eagle-1200x630.jpg"
-description: 2018 Island View Color Run
+description: 2020 Island View Color Run
+newsletter: false
+newsletter_date: 
+type: ''
+draft: true
 
 ---
 **Island View Color Run**
 
 Join us for a fun, MESSY fundraiser!
 
-On Saturday, May 12, 2018, students and their families and friends will race around the school, stopping at stations on the track to get splattered with color.
+On Saturday, May 16, 2020, students and their families and friends will race around the school, stopping at stations on the track to get splattered with color.
 
 Step 1: Gather Donations
 
@@ -25,11 +29,11 @@ Step 2: Send in collected donations to the PTA by **MAY 4, 2018**
 
 {{< figure src="/uploads/OnlineDonations-400.jpg" title="Sign up for a personalized donation page" class="ml5-ns ml1 mb3 w6">}}
 
-Bring in your donations to the PTA by May 4 to be eligible for [AWESOME prizes!](/news/color-run-prizes-/ "Awesome prizes")
+Bring in your donations to the PTA by **May 11** to be eligible for [AWESOME prizes!](/news/color-run-prizes-/ "Awesome prizes")
 
 Step 3: GET MESSY!
 
-Join us on **May 12, 2018** at **10:00 am** at Island View’s south playground for a very fun, very messy COLOR RUN! Pick up your t-shirt and run to stations around the track to get splattered with color!
+Join us on **May 16, 2020** at **9:30 am** at Island View’s south playground for a very fun, very messy COLOR RUN! Pick up your t-shirt and run to stations around the track to get splattered with color!
 
 Friends and family can join in the fun for just $25 each! Their admission counts towards your fundraising goal!
 

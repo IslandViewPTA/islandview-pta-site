@@ -46,6 +46,7 @@ fields:
   hidden: true
   default: news
 pages:
+- content/news/color-run-fundraiser.md
 - content/movie.md
 - content/news/2019-12-newsletter.md
 - content/news/pizza-factory-takeover-sunday-5-8pm.md
@@ -66,7 +67,6 @@ pages:
 - content/news/earth-day-garden-party.md
 - content/news/help-needed-in-the-lunchroom.md
 - content/news/chocolate-fundraiser.md
-- content/news/color-run-fundraiser.md
 - content/news/january-pta-meeting.md
 - content/news/thank-you-to-anacortes-soo-bahk-do.md
 - content/news/color-days.md
