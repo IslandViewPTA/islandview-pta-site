@@ -3,8 +3,7 @@ newsletter_date: 2020-01-01T00:00:00-08:00
 newsletter: true
 title: January 2020 Newsletter
 date: 2020-01-06T00:00:00-08:00
-description: Hello to a new decade and a new year, and a very warm welcome back to
-  school!
+description: Hello to a new decade, a new year, and a very warm welcome back to school!
 image: ''
 draft: true
 
