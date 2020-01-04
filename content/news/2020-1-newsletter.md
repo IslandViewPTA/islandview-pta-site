@@ -40,24 +40,28 @@ Brian Hanrahan, Principal
 
 **_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
 
-Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award! 
+Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
 
 If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join at [www.islandviewpta.org/membership](http://www.islandviewpta.org/membership)
 
 ## PTA Meeting Jan 8 @ 6 p.m.
 
-**Witness magic in the making!** Attend, be 'in the know' and make things happen for your student(s) and our incredibly school community. 
+**Witness magic in the making!** Mark your calendars to be 'in the know' and make things happen for your student(s) and our incredible school community.
 
-The January meeting is on Wednesday, Jan 8th at 6 p.m. in the Island View Library. Don't be late and don't miss out!
+The January meeting is on Wednesday, Jan 8th at 6 p.m. in the Island View Library. Don't be late so you don't miss out!
 
 ## Island View Play by Class ACT
 
-The renown Class ACT team is bringing another superb student production to the Island View Stage in an original presentation of **_Movie Mayhem_**. 
+The renown Class ACT team is bringing another superb student experience to the Island View Stage in this year's school play, **_Movie Mayhem_**.
 
-* Thursday 1/9: 3:35-4:35 Auditions for K-5th, 4:35-5:35 Auditions Continue for 3rd-5th
+Important dates and details:
+
+* Thursday 1/9: 3:35-4:35 Auditions for K-5th, 4:35-5:35 Auditions continue for 3rd-5th
 * Thursday 1/9: 4:20-4:35 Parent Meeting for K-2nd
 * Thursday 1/9: 5:20-5:35 Parent Meeting for 3rd-5th
-* Auditions are for children in the program and staff, not intended for parent viewing.
+* Auditions are for children in the program and Class ACT staff, not intended for parent viewing.
 * If you have a child in the K-2 group and 3rd-5th group, please plan to pick your younger child up when s/he is dismissed. There is no child care provided after actors are finished with their scheduled time.
+* Rehearsal dates are as follows:
+  * 
 * While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets. You will know your child’s assigned group after auditions on the evening of Jan 9.
-* We need LOTS of volunteers to make this program run smoothly!!!
+* We need LOTS of volunteers to make this program run smoothly, so sign-up to help make this another amazing experience for our students!!!
