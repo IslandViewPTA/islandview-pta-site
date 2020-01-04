@@ -67,4 +67,4 @@ Important dates and details:
 * **Performance dates**:
   * Friday Jan 24 at 10:30 a.m. and 7 p.m., Sat Jan 25 at 2 p.m.
 * **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
-* **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to help make this another amazing experience for our students!!!
+* **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to provide another amazing experience for our students!!!
