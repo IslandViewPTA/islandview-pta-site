@@ -75,7 +75,7 @@ Heartfelt gratitude for all those that contributed edibles for the Staff Treat b
 
 Check out the assembly line of deliciousness...
 
-{{< fig src="StaffTreats.Jpeg" class="max-w-xs" align="right"  >}}
+{{< fig src="StaffTreats.jpeg" class="max-w-xs" align="right"  >}}
 
 ## Island View PTA wins Award
 
@@ -83,4 +83,6 @@ Check out the assembly line of deliciousness...
 
 Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
 
-If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join at [www.islandviewpta.org/membership](http://www.islandviewpta.org/membership)
+If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join [here](www.islandviewpta.org/membership). 
+
+{{< fig src="" class="max-w-xs" align="left"  >}}
