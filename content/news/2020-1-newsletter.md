@@ -86,15 +86,13 @@ Prizes include:
 
 **Mark your calendars...20 February, 2020 at 2:30 is when the planning begins for the most talked about, not-to-miss event of the year!** The Color Run is our most fun, most memorable, and MESSIEST fundraiser of the year. Get involved in the planning and make this the best run yet!
 
-## THANK YOU to our members...
-
-## Tasty Staff Treats!
+## Thanks for the tasty Staff Treats!
 
 Check out the assembly line of deliciousness...
 
 {{< fig src="StaffTreats.jpeg" class="max-w-xs" align="left" >}}
 
-Heartfelt gratitude for all those that contributed delicious edibles for the Staff Treat boxes distributed before Winter Break. So many wonderful goodies were enjoyed by each and every staff member, thanks to YOUR generosity!
+Heartfelt gratitude for all those that contributed edibles for the Staff Treat boxes distributed before Winter Break. So many wonderful goodies were enjoyed by each and every staff member, thanks to YOUR generosity!
 
 ## Island View PTA wins Award
 
@@ -113,8 +111,8 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 * **6th:  First Day of School in 2020**
 * **8th:**  PTA Meeting, 6pm, Island View Library
 * **9th-23rd:**  Class ACT School Play Rehearsals after school
-* **17th:**  NO SCHOOL for Students
-* **20th:**  Martin Luther King Day observed, NO SCHOOL
+* **17th:**  **No School** for Students
+* **20th:**  Martin Luther King Day observed, **No School**
 * **24th:**  Half-day, **12:05 Release**
 * **24th:**  School Play Performance, 7pm
 * **25th:**  School Play Performance, 2pm
