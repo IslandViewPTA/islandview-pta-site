@@ -61,7 +61,13 @@ Important dates and details:
 * **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
 * **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to provide another amazing experience for our students!!!
 
-## THANK YOU...
+## 2nd PTA Raffle Drawing in Feb 
+
+## Feb Color Run Planning Mtg
+
+**Mark your calendars...20 February, 2020 at 2:30 is when the planning begins for the most talked about, not-to-miss event of the year!** The Color Run is our most fun, most memorable, and MESSIEST fundraiser of the year. Get involved in the planning and make this the best run yet!
+
+## THANK YOU to our members...
 
 ## Island View PTA wins Award
 
@@ -71,8 +77,6 @@ Island View PTA has recently been recognized by Washington State PTA as a Platin
 
 If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join at [www.islandviewpta.org/membership](http://www.islandviewpta.org/membership)
 
-## for Dec Staff Treats!
+## Tasty Dec Staff Treats!
 
-## Feb PTA Raffle Drawing
-
-## Feb Color Run Planning Mtg
+## 
