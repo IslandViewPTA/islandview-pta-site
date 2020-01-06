@@ -78,7 +78,7 @@ Prizes include:
 
 ## Feb Color Run Planning Mtg
 
-{{< fig src="ColorRun19.jpg" class="max-w-xs" align="left" >}}
+{{< fig src="ColorRun19.jpg" class="max-w-xs" align="right" >}}
 
 **Mark your calendars...20 February, 2020 at 2:30 is when the planning begins for the most talked about, not-to-miss event of the year!** The Color Run is our most fun, most memorable, and MESSIEST fundraiser of the year. Get involved in the planning and make this the best run yet!
 
@@ -90,7 +90,7 @@ Heartfelt gratitude for all those that contributed edibles for the Staff Treat b
 
 Check out the assembly line of deliciousness...
 
-{{< fig src="StaffTreats.jpeg" class="max-w-xs" align="right" >}}
+{{< fig src="StaffTreats.jpeg" class="max-w-xs" align="left" >}}
 
 ## Island View PTA wins Award
 
@@ -98,9 +98,9 @@ Check out the assembly line of deliciousness...
 
 Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
 
-If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
-
 {{< fig src="PTAaward.png" class="max-w-xs" align="left" >}}
+
+If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
 
 ## SAVE THESE DATES!
 
