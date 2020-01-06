@@ -61,6 +61,12 @@ Important dates and details:
 
 This program is 100% funded by our wonderful PTA!  Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
+## Jan 13th Room Service delivery to Island View staff 
+
+Our devoted Island View staff members will enjoy room service delivery of their selected favorite treats on Jan 13. 
+
+Our PTA is honored to have the opportunity to say "Thank You!" to the hard-working ISV staff!
+
 ## 2nd PTA Raffle Feb 5th
 
 **Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.**
