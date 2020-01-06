@@ -41,7 +41,7 @@ Brian Hanrahan, Principal
 
 **Witness magic in the making!** Mark your calendars to be 'in the know' and make things happen for your student(s) and our incredible school community.
 
-The January meeting is on Wednesday, Jan 8th at 6 p.m. in the ISV Library.
+The January meeting is on Wednesday, Jan 8th at 6 p.m. in the Island View Library.
 
 ## Class ACT school play starts Jan 9
 
@@ -71,7 +71,7 @@ Our PTA is honored to have the opportunity to say "Thank You!" to the hard-worki
 
 ## 2nd PTA Raffle Feb 5th
 
-**Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.**
+**Join the PTA by Feb 3rd for your chance to win!** Current members (who did not win in our first drawing) along with any NEW members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.**
 
 Prizes include:
 
@@ -94,7 +94,7 @@ Check out the assembly line of deliciousness...
 
 {{< fig src="StaffTreats.jpeg" class="max-w-xs" align="left" >}}
 
-Heartfelt gratitude for all those that contributed edibles for the Staff Treat boxes distributed before Winter Break. So many wonderful goodies were enjoyed by each and every staff member, thanks to YOUR generosity!
+Heartfelt gratitude for all those that contributed delicious edibles for the Staff Treat boxes distributed before Winter Break. So many wonderful goodies were enjoyed by each and every staff member, thanks to YOUR generosity!
 
 ## Island View PTA wins Award
 
@@ -104,7 +104,7 @@ Island View PTA has recently been recognized by Washington State PTA as a Platin
 
 {{< fig src="PTAaward.png" class="max-w-xs" align="right" >}}
 
-If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
+If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all it does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
 
 ## SAVE THESE DATES!
 
@@ -126,4 +126,4 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 * **10th-13th:**  Conference Week, **12:05 Release**
 * **14th:  No School**
 * **17th:**  President's Day Observed, **No School**
-* **20th:** Planning meeting for spring 2020 Color Run
+* **20th:** Planning meeting for spring 2020 Color Run, 2:30pm
