@@ -5,7 +5,7 @@ title: January 2020 Newsletter
 date: 2020-01-06T00:00:00-08:00
 description: Hello to a new decade, a new year, and so many ways to help make it the
   best year yet for our students and school!
-image: "/uploads/HappyNewYearsign.jpg"
+image: "/uploads/2020 -1.jpg"
 draft: true
 
 ---
