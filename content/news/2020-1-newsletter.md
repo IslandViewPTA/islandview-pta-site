@@ -58,9 +58,10 @@ Important dates and details:
   * Jan 24 at 10:30 _for students and staff only_.
   * Jan 24 at 7pm
   * Jan 25 at 2pm
-  * **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
 
-  This program is 100% funded by our wonderful PTA!  Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
+  **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
+
+This program is 100% funded by our wonderful PTA!  Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
 ## 2nd PTA Raffle Feb 5th
 
