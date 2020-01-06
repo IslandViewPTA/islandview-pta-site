@@ -105,5 +105,6 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 
 ### February
 
-* 
-* **20th:** Planning meeting for 2020 Color Run
+* **3rd:** **Deadline to join PTA for Raffle eligibility**
+* **5th:** PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
+* **20th:** Planning meeting for spring 2020 Color Run
