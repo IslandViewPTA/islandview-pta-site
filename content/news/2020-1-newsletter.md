@@ -70,6 +70,8 @@ Our devoted Island View staff members will enjoy room service delivery of their 
 
 Our PTA is honored to have the opportunity to say "Thank You!" to the hard-working ISV staff!
 
+{{< break >}}
+
 ## 2nd PTA Raffle Feb 5th
 
 **Join the PTA by Feb 3rd for your chance to win!** Current members (who did not win in our first drawing) along with any NEW members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.**
