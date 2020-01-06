@@ -45,20 +45,20 @@ The January meeting is on Wednesday, Jan 8th at 6 p.m. in the ISV Library.
 
 ## Class ACT school play starts Jan 9
 
-{{< fig src="ClassAct19.jpg" class="max-w-xs" align="left" >}}
+{{< fig src="ClassAct19.jpg" class="max-w-xs" align="right" >}}
 
 The renown Class ACT team is bringing another superb student experience to the Island View Stage in this year's school play, **_Movie Mayhem_**.
 
 Important dates and details:
 
-Class ACT program begins Jan 9 for 80 Island View Eagles in grades K-5th. 
+* Class ACT program begins Jan 9 for 80 Island View Eagles in grades K-5th. 
+
 
 * **Free performances of _Movie Mayhem_:** 
   * Jan 24 at 10:30 _for students and staff only_.
   * Jan 24 at 7pm
   * Jan 25 at 2pm
-
-  **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
+  * **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
 
   This program is 100% funded by our wonderful PTA!  Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
