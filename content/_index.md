@@ -28,5 +28,5 @@ The Island View PTA will hold their monthly meetings on the **FIRST Wednesday** 
 
 ## Monthly Newsletters
 
-Please click the blue buttons below to read our newsletters.
-For past issues, please see the [Google Drive Archive](https://drive.google.com/drive/folders/1NjUF3zXFrqc2J464wPtga85BsbY-nU2e?usp=sharing).
+Please click the blue buttons below to read our most recent newsletters.
+For past issues, please see the yellow highlighted blocks on the [News](/news) page.

@@ -11,5 +11,5 @@ callToAction: true
 ---
 ## Monthly Newsletters
 
-Please click the buttons below to read our newsletters.
-For past issues, please see the [Google Drive Archive](https://drive.google.com/drive/folders/1NjUF3zXFrqc2J464wPtga85BsbY-nU2e?usp=sharing).
+Please click the blue buttons below to read our most recent newsletters. For older issues, please see the yellow highlighted blocks within the year groups below.
+For issues prior to October 2019, please see the [Google Drive Archive](https://drive.google.com/drive/folders/1NjUF3zXFrqc2J464wPtga85BsbY-nU2e?usp=sharing).
