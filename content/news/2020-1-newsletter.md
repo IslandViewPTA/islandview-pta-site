@@ -3,7 +3,8 @@ newsletter_date: 2020-01-01T00:00:00-08:00
 newsletter: true
 title: January 2020 Newsletter
 date: 2020-01-06T00:00:00-08:00
-description: Hello to a new decade, a new year, and a very warm welcome back to school!
+description: Hello to a new decade, a new year, and so many ways to help make it the
+  best year yet for our students and school!
 image: "/uploads/2020 -1.jpg"
 draft: true
 
@@ -61,7 +62,8 @@ Important dates and details:
 * **Performance dates**:
   * Friday Jan 24 at 10:30 a.m. and 7 p.m., Sat Jan 25 at 2 p.m.
 * **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
-* **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to provide another amazing experience for our students!!!
+
+  **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
 
 ## 2nd PTA Raffle Feb 5th
 
