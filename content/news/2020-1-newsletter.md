@@ -69,6 +69,8 @@ Important dates and details:
 
 ## THANK YOU to our members...
 
+## Tasty Dec Staff Treats!
+
 ## Island View PTA wins Award
 
 **_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
@@ -76,7 +78,3 @@ Important dates and details:
 Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
 
 If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join at [www.islandviewpta.org/membership](http://www.islandviewpta.org/membership)
-
-## Tasty Dec Staff Treats!
-
-## 
