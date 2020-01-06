@@ -104,9 +104,9 @@ Heartfelt gratitude for all those that contributed edibles for the Staff Treat b
 
 ## Island View PTA Wins Award
 
-**_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
-
 {{< fig src="PTAaward.png" class="max-w-xs" align="right" >}}
+
+**_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
 
 Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
 
