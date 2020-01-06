@@ -61,7 +61,7 @@ Important dates and details:
 * **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
 * **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to provide another amazing experience for our students!!!
 
-## 2nd PTA Raffle Drawing in Feb 
+## 2nd PTA Raffle Drawing in Feb
 
 ## Feb Color Run Planning Mtg
 
@@ -70,6 +70,12 @@ Important dates and details:
 ## THANK YOU to our members...
 
 ## Tasty Dec Staff Treats!
+
+Heartfelt gratitude for all those that contributed edibles for the Staff Treat boxes distributed before Winter Break. So many wonderful goodies were enjoyed by each and every staff member, thanks to YOUR generosity!
+
+Check out the assembly line of deliciousness...
+
+{{< fig src="StaffTreats.Jpeg" class="max-w-xs" align="right"  >}}
 
 ## Island View PTA wins Award
 
