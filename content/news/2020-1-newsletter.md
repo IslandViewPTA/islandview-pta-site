@@ -61,9 +61,11 @@ Important dates and details:
 
 This program is 100% funded by our wonderful PTA!  Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
-## Jan 13th Room Service delivery to Island View staff 
+## Jan 13th Room Service delivery to Island View staff
 
-Our devoted Island View staff members will enjoy room service delivery of their selected favorite treats on Jan 13. 
+{{< fig src="coffeedelivery.jpg" class="max-w-xs" align="left" >}}
+
+Our devoted Island View staff members will enjoy room service delivery of their selected favorite treats on Jan 13.
 
 Our PTA is honored to have the opportunity to say "Thank You!" to the hard-working ISV staff!
 
