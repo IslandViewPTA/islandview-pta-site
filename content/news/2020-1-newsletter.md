@@ -51,7 +51,8 @@ The renown Class ACT team is bringing another superb student experience to the I
 
 Important dates and details:
 
-* Class ACT program begins Jan 9 for 80 Island View Eagles in grades K-5th. 
+Class ACT program begins Jan 9 for 80 Island View Eagles in grades K-5th. 
+
 * **Free performances of _Movie Mayhem_:** 
   * Jan 24 at 10:30 _for students and staff only_.
   * Jan 24 at 7pm
