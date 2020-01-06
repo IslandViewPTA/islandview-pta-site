@@ -51,29 +51,26 @@ The renown Class ACT team is bringing another superb student experience to the I
 
 Important dates and details:
 
-* **Thursday Jan 9: 3:35-4:35 Auditions for K-5th, 4:35-5:35 Auditions continue for 3rd-5th**
-* Thursday Jan 9:  **4:20-4:35 Parent Meeting for K-2nd**
-* Thursday Jan 9:  **5:20-5:35 Parent Meeting for 3rd-5th**
-* Auditions are for children in the program and Class ACT staff, not intended for parent viewing.
-* If you have a child in the K-2 group and 3rd-5th group, please plan to pick your younger child up when s/he is dismissed. There is no child care provided after actors are finished with their scheduled time.
-* **Rehearsal dates**:
-  * Friday Jan 10, Mon Jan 13-Thur Jan 16, Tue Jan 21.
-  * Dress rehearsals (all cast members): Wed Jan 22 and Thur Jan 23.
-* **Performance dates**:
-  * Friday Jan 24 at 10:30 a.m. and 7 p.m., Sat Jan 25 at 2 p.m.
-* **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
+* Class ACT program begins Jan 9 for 80 Island View Eagles in grades K-5th. 
+* **Free performances of _Movie Mayhem_:** 
+  * Jan 24 at 10:30 _for students and staff only_.
+  * Jan 24 at 7pm
+  * Jan 25 at 2pm
 
-  **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
+
+* **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thursday Jan 9th** **to provide another amazing experience for our students!!!**
+
+  This program is 100% funded by our wonderful PTA! Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
 ## 2nd PTA Raffle Feb 5th
 
-**Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.** 
+**Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.**
 
 Prizes include:
 
 * 4 Movie & 2 Popcorn Tickets to Anacortes Cinemas
-* 2 Tickets to Escape Anacortes 
-* Rockfish Bar & Grill: $15 Gift Card 
+* 2 Tickets to Escape Anacortes
+* Rockfish Bar & Grill: $15 Gift Card
 * Rockfish Bar & Grill: 2 Pint Glasses & 1 Growler
 
 ## Feb Color Run Planning Mtg
@@ -121,5 +118,5 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 * **5th:**  PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
 * **10th-13th:**  Conference Week, **12:05 Release**
 * **14th:  No School**
-* **17th:**  President's Day Observed, **No School** 
+* **17th:**  President's Day Observed, **No School**
 * **20th:** Planning meeting for spring 2020 Color Run
