@@ -40,7 +40,7 @@ Brian Hanrahan, Principal
 
 **Witness magic in the making!** Mark your calendars to be 'in the know' and make things happen for your student(s) and our incredible school community.
 
-The January meeting is on Wednesday, Jan 8th at 6 p.m. in the ISV Library. 
+The January meeting is on Wednesday, Jan 8th at 6 p.m. in the ISV Library.
 
 ## Class ACT school play starts Jan 9
 
@@ -106,3 +106,4 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 ### February
 
 * 
+* **20th:** Planning meeting for 2020 Color Run
