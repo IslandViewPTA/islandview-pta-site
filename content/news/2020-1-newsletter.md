@@ -19,17 +19,17 @@ That said, the holidays can be a taxing and stressful time for adults and childr
 
 As part of my holiday greeting to staff before the start of winter break, I shared the following story:
 
-Staff-
-
-As I was leaving school one recent evening, I stopped to admire the simplicity of the little white flowers in my office and noticed one button-head was looking away from me and toward the wall. I chuckled out loud and thought to myself, “That flower reminds me of… (a “defiant” student I had worked with that day).
-
-Then it hit me.
-
-Turn the vase around, Brian, and that one little flower is no longer defiant; instead, it is pleasant and radiant. **A different perspective changes everything**.
-
-That change in perspective reminded me of a quote from _The Secret Garden_: “If you look the right way, you can see that the whole world is a garden.” Isn’t that a lovely way to see our students? It’s a perspective that allows us to see the unique beauty and wonder in each little Island View eagle—every day.
-
-That is the reminder I will carry with me into 2020.
+> Staff-
+>
+> As I was leaving school one recent evening, I stopped to admire the simplicity of the little white flowers in my office and noticed one button-head was looking away from me and toward the wall. I chuckled out loud and thought to myself, “That flower reminds me of… (a “defiant” student I had worked with that day).
+>
+> Then it hit me.
+>
+> Turn the vase around, Brian, and that one little flower is no longer defiant; instead, it is pleasant and radiant. **A different perspective changes everything**.
+>
+> That change in perspective reminded me of a quote from _The Secret Garden_: “If you look the right way, you can see that the whole world is a garden.” Isn’t that a lovely way to see our students? It’s a perspective that allows us to see the unique beauty and wonder in each little Island View eagle—every day.
+>
+> That is the reminder I will carry with me into 2020.
 
 As always, please let me know your questions, concerns, and suggestions. I can be reached at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org).
 
@@ -43,7 +43,7 @@ Brian Hanrahan, Principal
 
 The January meeting is on Wednesday, Jan 8th at 6 p.m. in the Island View Library.
 
-## Class ACT school play starts Jan 9
+## Class ACT School Play Starts Jan 9
 
 {{< fig src="ClassAct19.jpg" class="max-w-xs" align="right" >}}
 
@@ -62,7 +62,7 @@ Class ACT program begins Jan 9 for 80 Island View Eagles in grades K-5th.
 
 This program is 100% funded by our wonderful PTA!  Questions? [nicole_mortimer@yahoo.com](mailto:nicole_mortimer@yahoo.com)
 
-## Jan 13th Room Service delivery to Island View staff
+## Jan 13th Room Service Delivery to Island View Staff
 
 {{< fig src="coffeedelivery.jpg" class="max-w-xs" align="left" >}}
 
@@ -89,7 +89,9 @@ Prizes include:
 
 **Mark your calendars...20 February, 2020 at 2:30 is when the planning begins for the most talked about, not-to-miss event of the year!** The Color Run is our most fun, most memorable, and MESSIEST fundraiser of the year. Get involved in the planning and make this the best run yet!
 
-## Thanks for the tasty Staff Treats!
+{{< break >}}
+
+## Thanks for the Tasty Staff Treats!
 
 Check out the assembly line of deliciousness...
 
@@ -97,7 +99,9 @@ Check out the assembly line of deliciousness...
 
 Heartfelt gratitude for all those that contributed edibles for the Staff Treat boxes distributed before Winter Break. So many wonderful goodies were enjoyed by each and every staff member, thanks to YOUR generosity!
 
-## Island View PTA wins Award
+{{< break >}}
+
+## Island View PTA Wins Award
 
 **_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
 
@@ -106,6 +110,8 @@ Island View PTA has recently been recognized by Washington State PTA as a Platin
 {{< fig src="PTAaward.png" class="max-w-xs" align="right" >}}
 
 If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all it does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
+
+{{< break >}}
 
 ## SAVE THESE DATES!
 
