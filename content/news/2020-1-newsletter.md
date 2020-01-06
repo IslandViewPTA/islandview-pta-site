@@ -51,9 +51,9 @@ The renown Class ACT team is bringing another superb student experience to the I
 
 Important dates and details:
 
-* **Thursday 1/9: 3:35-4:35 Auditions for K-5th, 4:35-5:35 Auditions continue for 3rd-5th**
-* Thursday 1/9: 4:20-4:35 **Parent Meeting for K-2nd**
-* Thursday 1/9: 5:20-5:35 **Parent Meeting for 3rd-5th**
+* **Thursday Jan 9: 3:35-4:35 Auditions for K-5th, 4:35-5:35 Auditions continue for 3rd-5th**
+* Thursday Jan 9:  **4:20-4:35 Parent Meeting for K-2nd**
+* Thursday Jan 9:  **5:20-5:35 Parent Meeting for 3rd-5th**
 * Auditions are for children in the program and Class ACT staff, not intended for parent viewing.
 * If you have a child in the K-2 group and 3rd-5th group, please plan to pick your younger child up when s/he is dismissed. There is no child care provided after actors are finished with their scheduled time.
 * **Rehearsal dates**:
