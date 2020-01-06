@@ -7,7 +7,6 @@ description: Hello to a new decade, a new year, and so many ways to help make it
   best year yet for our students and school!
 image: "/uploads/2020 -1.jpg"
 type: ''
-draft: true
 
 ---
 ## Principal's Message
