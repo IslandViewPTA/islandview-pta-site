@@ -106,17 +106,20 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 
 ### January
 
-* **6th: First Day of School in 2020**
+* **6th:  First Day of School in 2020**
 * **8th:**  PTA Meeting, 6pm, Island View Library
 * **9th-23rd:**  Class ACT School Play Rehearsals after school
 * **17th:**  NO SCHOOL for Students
 * **20th:**  Martin Luther King Day observed, NO SCHOOL
+* **24th:**  Half-day, **12:05 Release**
 * **24th:**  School Play Performance, 7pm
 * **25th:**  School Play Performance, 2pm
 
 ### February
 
-* **3rd:** **Deadline to join PTA for Raffle eligibility**
-* **5th:** PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
-* 
+* **3rd:**  **Deadline to join PTA for Raffle eligibility**
+* **5th:**  PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
+* **10th-13th:**  Conference Week, **12:05 Release**
+* **14th:  No School**
+* **17th:**  President's Day Observed, **No School** 
 * **20th:** Planning meeting for spring 2020 Color Run
