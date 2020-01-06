@@ -36,7 +36,7 @@ Happy New Year!
 
 Brian Hanrahan, Principal
 
-## Thank you for Dec Staff Treats!
+## Thank YOU for Dec Staff Treats!
 
 ## Island View PTA wins Award
 
@@ -73,4 +73,4 @@ Important dates and details:
 
 ## Feb PTA Raffle Drawing
 
-## Feb Color Run Planning Mtg 
+## Feb Color Run Planning Mtg
