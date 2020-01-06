@@ -86,3 +86,19 @@ Island View PTA has recently been recognized by Washington State PTA as a Platin
 If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
 
 {{< fig src="PTAaward.png" class="max-w-xs" align="left"  >}}
+
+## SAVE THESE DATES!
+
+### January
+
+* **6th: First Day of School in 2020**
+* **8th:**  PTA Meeting, 6pm, Island View Library
+* **9th-23rd:**  Class ACT School Play Rehearsals after school
+* **17th:**  NO SCHOOL for Students
+* **20th:**  Martin Luther King Day observed, NO SCHOOL
+* **24th:**  School Play Performance, 7pm
+* **25th:**  School Play Performance, 2pm
+
+### February
+
+* 
