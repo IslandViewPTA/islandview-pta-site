@@ -65,7 +65,7 @@ Important dates and details:
 
 ## 2nd PTA Raffle Feb 5th
 
-**Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. 
+**Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. **Membership is $12 for the 2019-2020 school year, details and online form** [**here**](https://www.islandviewpta.org/membership/)**.** 
 
 Prizes include:
 
@@ -116,4 +116,5 @@ If you haven’t yet signed up for a 2019-2020 PTA membership, please consider j
 
 * **3rd:** **Deadline to join PTA for Raffle eligibility**
 * **5th:** PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
+* 
 * **20th:** Planning meeting for spring 2020 Color Run
