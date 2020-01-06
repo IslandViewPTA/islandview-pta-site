@@ -40,9 +40,11 @@ Brian Hanrahan, Principal
 
 **Witness magic in the making!** Mark your calendars to be 'in the know' and make things happen for your student(s) and our incredible school community.
 
-The January meeting is on Wednesday, Jan 8th at 6 p.m. in the Island View Library. Don't be late so you don't miss out!
+The January meeting is on Wednesday, Jan 8th at 6 p.m. in the ISV Library. 
 
 ## Class ACT school play starts Jan 9
+
+{{< fig src="ClassAct19.jpg" class="max-w-xs" align="left" >}}
 
 The renown Class ACT team is bringing another superb student experience to the Island View Stage in this year's school play, **_Movie Mayhem_**.
 
@@ -65,6 +67,8 @@ Important dates and details:
 
 ## Feb Color Run Planning Mtg
 
+{{< fig src="ColorRun19.jpg" class="max-w-xs" align="left" >}}
+
 **Mark your calendars...20 February, 2020 at 2:30 is when the planning begins for the most talked about, not-to-miss event of the year!** The Color Run is our most fun, most memorable, and MESSIEST fundraiser of the year. Get involved in the planning and make this the best run yet!
 
 ## THANK YOU to our members...
@@ -75,7 +79,7 @@ Heartfelt gratitude for all those that contributed edibles for the Staff Treat b
 
 Check out the assembly line of deliciousness...
 
-{{< fig src="StaffTreats.jpeg" class="max-w-xs" align="right"  >}}
+{{< fig src="StaffTreats.jpeg" class="max-w-xs" align="right" >}}
 
 ## Island View PTA wins Award
 
@@ -85,7 +89,7 @@ Island View PTA has recently been recognized by Washington State PTA as a Platin
 
 If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join [here](www.islandviewpta.org/membership).
 
-{{< fig src="PTAaward.png" class="max-w-xs" align="left"  >}}
+{{< fig src="PTAaward.png" class="max-w-xs" align="left" >}}
 
 ## SAVE THESE DATES!
 
