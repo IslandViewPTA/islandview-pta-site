@@ -63,7 +63,16 @@ Important dates and details:
 * **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
 * **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to provide another amazing experience for our students!!!
 
-## 2nd PTA Raffle Drawing in Feb
+## 2nd PTA Raffle Feb 5th
+
+**Join the PTA by Feb 3rd for your chance to win!** Those already members (who did not win in our first drawing) along with any new members will be automatically entered into our LIVE FB drawing happening during the Feb 5th PTA Meeting. 
+
+Prizes include:
+
+* 4 Movie & 2 Popcorn Tickets to Anacortes Cinemas
+* 2 Tickets to Escape Anacortes 
+* Rockfish Bar & Grill: $15 Gift Card 
+* Rockfish Bar & Grill: 2 Pint Glasses & 1 Growler
 
 ## Feb Color Run Planning Mtg
 
