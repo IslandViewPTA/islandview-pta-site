@@ -36,23 +36,13 @@ Happy New Year!
 
 Brian Hanrahan, Principal
 
-## Thank YOU for Dec Staff Treats!
-
-## Island View PTA wins Award
-
-**_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
-
-Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
-
-If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join at [www.islandviewpta.org/membership](http://www.islandviewpta.org/membership)
-
 ## PTA Meeting Jan 8 @ 6 p.m.
 
 **Witness magic in the making!** Mark your calendars to be 'in the know' and make things happen for your student(s) and our incredible school community.
 
 The January meeting is on Wednesday, Jan 8th at 6 p.m. in the Island View Library. Don't be late so you don't miss out!
 
-## Island View Play by Class ACT
+## Class ACT school play starts Jan 9
 
 The renown Class ACT team is bringing another superb student experience to the Island View Stage in this year's school play, **_Movie Mayhem_**.
 
@@ -70,6 +60,18 @@ Important dates and details:
   * Friday Jan 24 at 10:30 a.m. and 7 p.m., Sat Jan 25 at 2 p.m.
 * **While your child needs to keep all noted dates available for rehearsal at this point, they will not be called everyday. They will be called for rehearsal only on the dates their assigned group meets.** You will know your child’s assigned group after auditions on the evening of Jan 9.
 * **We need LOTS of volunteers to make this program run smoothly, so look for the Sign-Up Genius email on Thur Jan 9th** to provide another amazing experience for our students!!!
+
+## THANK YOU...
+
+## Island View PTA wins Award
+
+**_Washington State PTA Recognizes Island View PTA with Platinum Membership Growth Award_**
+
+Island View PTA has recently been recognized by Washington State PTA as a Platinum Membership Growth Award recipient! PTAs are presented with this award for enrolling members equaling at least 120% of their previous year’s total membership. That means our PTA is growing! Thank you to everyone who has become a member so far this year: YOU are the reason our PTA achieved this award!
+
+If you haven’t yet signed up for a 2019-2020 PTA membership, please consider joining today! By doing so, you are demonstrating your support for our PTA and all if does for Island View Elementary. You can join at [www.islandviewpta.org/membership](http://www.islandviewpta.org/membership)
+
+## for Dec Staff Treats!
 
 ## Feb PTA Raffle Drawing
 
