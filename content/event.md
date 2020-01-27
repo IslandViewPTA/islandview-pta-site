@@ -7,6 +7,7 @@ image: "/uploads/puget-sound.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
+calendarURL: "https://calendar.google.com/calendar/embed?src=calendar%40islandviewpta.org&ctz=America%2FLos_Angeles"
 type: event
 ---
 
