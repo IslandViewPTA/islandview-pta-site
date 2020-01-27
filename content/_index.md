@@ -17,7 +17,7 @@ Our PTA helps make so much possible for the students and staff at Island View El
 [Reading is Fundamental’s](http://www.rif.org/) free books,
 [ClassACT School Plays](https://www.facebook.com/Class-ACT-Anacortes-Community-Theatres-School-of-Performing-Arts-105835664376/),
 free popcorn every month, Family Fun Nights,
-[Watch DOGS](http://www.fathers.com/watchdogs/),
+[Watch DOGS](/watchdogs/),
 Lego Club,
 I Love to Read Month,
 [Scholastic Magazines](http://classroommagazines.scholastic.com/Landing-Pages/subscribers),

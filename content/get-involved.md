@@ -53,7 +53,7 @@ Check out all the different ways you can get involved.  Just click any that inte
 
 [**Safe Routes**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Safe%20Routes): Committee promotes and runs the monthly Walk and Wheel events.
 
-[**Watch D.O.G.S.**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Watch%20DOGS):  **D**ads **O**f **G**reat **S**tudents committee, encourages more men to get involved in the school life of children.
+[**Watch D.O.G.S.**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Watch%20DOGS):  **D**ads **O**f **G**reat **S**tudents committee, encourages more men to get involved in the school life of children. [PTA Page](/watch-dogs)
 
 [**Wednesday Copies**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Wednesday%20Copies):  Committee that copies and distributes the weekly take-home paperwork for students.
 
