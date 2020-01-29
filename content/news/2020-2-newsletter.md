@@ -72,7 +72,7 @@ The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS e
 
 It's not too late to contribute to the Conference Night Taco Bar for Teachers! Let's make it a night to remember and give our wonderful teachers a delicious meal before evening conferences on Wednesday, 12 February. Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6)!
 
-## COLOR RUN meeting on 23 Feb
+## COLOR RUN meeting on 20 Feb
 
 {{< fig src="color spray.jpg" class="max-w-xs" align="left" >}}
 
