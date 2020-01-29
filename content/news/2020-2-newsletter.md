@@ -12,6 +12,10 @@ draft: true
 
 Insert Brian's message here!
 
+## Food Drive Happening NOW
+
+This year's theme is "Take a Bite Out of Hunger". The winning grade level wins cookies. :) Also, the change is that Challenge students will donate to their respective grade levels instead of being separated out.
+
 ## Family Fun Night! Mon, 3 Feb
 
 Invitation to Family Fun Night on February 3rd.
