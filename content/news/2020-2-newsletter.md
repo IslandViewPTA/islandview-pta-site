@@ -30,6 +30,8 @@ Time is running out! Join the Island View PTA by Monday, February 3rd and automa
 
 One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing LIVE on our FB page. [https://www.facebook.com/IslandViewPTA/](https://www.facebook.com/IslandViewPTA/ "https://www.facebook.com/IslandViewPTA/")
 
+{{< fig src=".jpg" class="max-w-xs" align="left" >}}
+
 Prize Package Includes:
 
 4 Anacortes Cinemas Movie Tickets
