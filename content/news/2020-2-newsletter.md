@@ -74,7 +74,7 @@ It's not too late to contribute to the Conference Night Taco Bar for Teachers! L
 
 ## COLOR RUN meeting on 20 Feb
 
-{{< fig src="color spray.jpg" class="max-w-xs" align="left" >}}
+Need photo here!
 
 Everyone is invited to the first planning meeting on 2/20 at 2:30pm. Contact [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
