@@ -44,6 +44,10 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 Join us for the 
 
+## Movie Mayhem a WILD success
+
+What a success Class ACT performance was--thanks to all the parents for getting their kids to/from rehearsal despite the wacky schedules, all the parent volunteers during rehearsals and performances, and ISV staff (Heidi, Cindy, teachers, and Brian) for supporting the process.
+
 ## SAFE ROUTES TO SCHOOLS
 
 Want to make school zones safer for everyone? The more kids who walk, bike and bus to school, the fewer the number of cars on the road. In addition to the health benefits of walking and biking, fewer cars means less pollution. And kids who travel in groups are safer. It's a win-win.
