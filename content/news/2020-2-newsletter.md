@@ -28,9 +28,9 @@ Come [join us](https://www.facebook.com/events/755958311580824/) for a Valentine
 
 Time is running out! Join the Island View PTA by Monday, February 3rd and automatically be entered to win a phenomenal prize package!
 
-One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing LIVE on our FB page. [https://www.facebook.com/IslandViewPTA/](https://www.facebook.com/IslandViewPTA/ "https://www.facebook.com/IslandViewPTA/")
+{{< fig src="time running out.jpg" class="max-w-xs" align="left" >}}
 
-{{< fig src=".jpg" class="max-w-xs" align="left" >}}
+One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing LIVE on our FB page. [https://www.facebook.com/IslandViewPTA/](https://www.facebook.com/IslandViewPTA/ "https://www.facebook.com/IslandViewPTA/")
 
 Prize Package Includes:
 
