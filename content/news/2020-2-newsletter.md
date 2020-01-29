@@ -18,11 +18,37 @@ Invitation to Family Fun Night on February 3rd.
 
 [https://www.facebook.com/events/755958311580824/](https://www.facebook.com/events/755958311580824/ "https://www.facebook.com/events/755958311580824/")
 
+## Don't miss out on a second chance to WIN
+
+**Time is running out! Join the Island View PTA by Monday, February 3rd and automatically be entered to win a phenomenal prize package!**
+
+****
+
+**One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing LIVE on our FB page.** [https://www.facebook.com/IslandViewPTA/](https://www.facebook.com/IslandViewPTA/ "https://www.facebook.com/IslandViewPTA/")
+
+**Prize Package Includes:**
+
+**4 Anacortes Cinemas Movie Tickets**
+
+**2 Anacortes Cinemas Popcorn Passes**
+
+**2 tickets to Escape Anacortes**
+
+**1 $15 Rockfish Grill gift card**
+
+**1 Rockfish Grill growler**
+
+**2 Rockfish Grill pint glasses**
+
+****
+
+**Thank you for supporting the Island View PTA! If you have any questions, please contact Rachel Esposito at** [**membership@islandviewpta.org**](mailto:membership@islandviewpta.org)**.**
+
 ## PTA Meeting and Raffle!
 
-## Sign-up for Teacher Dinner
+## Spreading love, one taco at a time
 
-[https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6 "https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6")
+It's not too late to contribute to the Conference Night Taco Bar for Teachers! Let's make it a night to remember and give our wonderful teachers a delicious meal before evening conferences on Wednesday, 12 February. Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6)!
 
 ## It's time to think...YEARBOOK 
 
