@@ -54,6 +54,10 @@ The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS e
 
 It's not too late to contribute to the Conference Night Taco Bar for Teachers! Let's make it a night to remember and give our wonderful teachers a delicious meal before evening conferences on Wednesday, 12 February. Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6)!
 
+## COLOR RUN meeting on 23 Feb
+
+Everyone is invited to the first planning meeting on 2/20 at 2:30pm. Contact [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
+
 ## It's time to think...YEARBOOK
 
 We Need Photos (or) Calling All Photographers (or some equivalent)
@@ -63,6 +67,10 @@ Our yearbook is in production, and we need your school event photos! Do you have
 Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions. Photos should be hi resolution color JPGs. Please include the teacher and/or classroom for the students in your photos.
 
 We can't wait to see what you've got. Thank you!
+
+## PTA Needs YOU 
+
+Interested in serving as a PTA officer? It is not too early to start exploring this important and enriching role for next school year. Please contact [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org) for more information.
 
 ## SAVE THESE DATES!
 
