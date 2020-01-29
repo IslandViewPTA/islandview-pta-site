@@ -12,7 +12,7 @@ draft: true
 
 Insert Brian's message here!
 
-{{< fig src=".jpg" class="max-w-xs" align="right" >}}
+{{< fig src="bag of cans.jpg" class="max-w-xs" align="right" >}}
 
 ## Food Drive Happening NOW
 
