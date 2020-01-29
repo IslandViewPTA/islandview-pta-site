@@ -12,13 +12,13 @@ draft: true
 
 Insert Brian's message here!
 
-## Family Fun Night: Mon, 3 Feb
+## Family Fun Night! Mon, 3 Feb
 
 Invitation to Family Fun Night on February 3rd.
 
 [https://www.facebook.com/events/755958311580824/](https://www.facebook.com/events/755958311580824/ "https://www.facebook.com/events/755958311580824/")
 
-## Don't miss out...**_second chance_** **_to WIN_**
+## Don't miss out...**_second chance_** **_to WIN BIG!_**
 
 Time is running out! Join the Island View PTA by Monday, February 3rd and automatically be entered to win a phenomenal prize package!
 
@@ -41,6 +41,8 @@ Prize Package Includes:
 Thank you for supporting the Island View PTA! If you have any questions, please contact Rachel Esposito at [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
+
+Join us for the 
 
 ## SAFE ROUTES TO SCHOOLS
 
