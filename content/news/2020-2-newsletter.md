@@ -56,9 +56,9 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 Class ACT performances were a smashing success! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students.
 
-{{< fig src="walk to school.jpg" class="max-w-xs" align="left" >}}
-
 {{< fig src="orange bike.jpg" class="max-w-xs" align="right" >}}
+
+{{< fig src="Walk to School.jpg" class="max-w-xs" align="left" >}}
 
 ## SAFE ROUTES TO SCHOOLS
 
