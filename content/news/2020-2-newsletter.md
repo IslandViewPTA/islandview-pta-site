@@ -54,7 +54,7 @@ It all happens on Wed, 5 Feb at 6 pm in the Island View Library...see you there 
 
 ## Movie Mayhem a WILD success
 
-What a success Class ACT performance was--thanks to all the parents for getting their kids to/from rehearsal despite the wacky schedules, all the parent volunteers during rehearsals and performances, and ISV staff (Heidi, Cindy, teachers, and Brian) for supporting the process.
+What a success Class ACT performance was! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Heidi, Cindy, teachers, and Brian) for supporting the process. 
 
 ## SAFE ROUTES TO SCHOOLS
 
