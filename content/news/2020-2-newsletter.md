@@ -22,7 +22,7 @@ This year's theme is "Take a Bite Out of Hunger". The winning grade level wins c
 
 {{< fig src="scattered hearts.jpg" class="max-w-xs" align="right" >}}
 
-Come [join us](https://www.facebook.com/events/755958311580824/) for a Valentine craft night from 6-7 pm. We'll teach you a new way to heart "attack!"
+Come [join us](https://www.facebook.com/events/755958311580824/) 6-7 pm for a Valentine craft night. We'll teach you a new way to heart "attack!"
 
 ## Don't miss out...**_second chance_** **_to WIN BIG!_**
 
