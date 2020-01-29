@@ -22,9 +22,7 @@ This year's theme is "Take a Bite Out of Hunger". The winning grade level wins c
 
 {{< fig src="scattered hearts.jpg" class="max-w-xs" align="right" >}}
 
-Invitation to Family Fun Night on February 3rd.
-
-[https://www.facebook.com/events/755958311580824/](https://www.facebook.com/events/755958311580824/ "https://www.facebook.com/events/755958311580824/")
+Come [join us](https://www.facebook.com/events/755958311580824/) for a Valentine craft night on Monday, 3 Feb! From 6-7 pm, we'll teach you a new way to heart "attack!"
 
 ## Don't miss out...**_second chance_** **_to WIN BIG!_**
 
