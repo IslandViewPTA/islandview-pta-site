@@ -50,7 +50,7 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
 
-Join us for the
+It all happens on Wed, 5 Feb at 6 pm in the Island View Library...see you there so you'll be in the know!
 
 ## Movie Mayhem a WILD success
 
