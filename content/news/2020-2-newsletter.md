@@ -68,13 +68,13 @@ The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS e
 
 {{< fig src="three tacos.jpg" class="max-w-xs" align="right" >}}
 
-## Let's feed our teachers! 
+## Let's feed our teachers!
 
 It's not too late to contribute to the Conference Night Taco Bar for Teachers! Let's make it a night to remember and give our wonderful teachers a delicious meal before evening conferences on Wednesday, 12 February. Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6)!
 
 ## COLOR RUN meeting on 23 Feb
 
-{{< fig src=".jpg" class="max-w-xs" align="right" >}}
+{{< fig src="color spray.jpg" class="max-w-xs" align="right" >}}
 
 Everyone is invited to the first planning meeting on 2/20 at 2:30pm. Contact [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
