@@ -30,7 +30,7 @@ Come [join us](https://www.facebook.com/events/755958311580824/) for a Valentine
 
 Time is running out! Join the Island View PTA by Monday, February 3rd and automatically be entered to win a phenomenal prize package!
 
-One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing [LIVE on our FB page](https://www.facebook.com/IslandViewPTA/). 
+One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing [LIVE on our FB page](https://www.facebook.com/IslandViewPTA/).
 
 Prize Package Includes:
 
@@ -54,7 +54,11 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 ## Movie Mayhem a WILD success
 
-Class ACT performances were a smashing success! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students. 
+Class ACT performances were a smashing success! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students.
+
+{{< fig src="walk to school.jpg" class="max-w-xs" align="left" >}}
+
+{{< fig src="orange bike.jpg" class="max-w-xs" align="right" >}}
 
 ## SAFE ROUTES TO SCHOOLS
 
