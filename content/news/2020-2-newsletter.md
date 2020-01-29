@@ -68,6 +68,12 @@ Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandvie
 
 We can't wait to see what you've got. Thank you!
 
+## Mark your calendars for RIF!
+
+Please include a SAVE THE DATE notice about RIF on 4/28, and include this SignUpGenius link: [https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4 "https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4")
+
+You can use the verbiage from the link if you wish...
+
 ## PTA Needs YOU 
 
 Interested in serving as a PTA officer? It is not too early to start exploring this important and enriching role for next school year. Please contact [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org) for more information.
