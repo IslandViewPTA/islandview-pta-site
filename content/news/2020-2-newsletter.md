@@ -58,8 +58,6 @@ Class ACT performances were a smashing success! HUGE thanks to all parents for g
 
 {{< fig src="orange bike.jpg" class="max-w-xs" align="right" >}}
 
-{{< fig src="Walk to School.jpg" class="max-w-xs" align="left" >}}
-
 ## SAFE ROUTES TO SCHOOLS
 
 Want to make school zones safer for everyone? The more kids who walk, bike and bus to school, the fewer the number of cars on the road. In addition to the health benefits of walking and biking, fewer cars means less pollution. And kids who travel in groups are safer. It's a win-win.
