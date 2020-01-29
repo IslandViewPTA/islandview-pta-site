@@ -12,11 +12,15 @@ draft: true
 
 Insert Brian's message here!
 
+![](/uploads/scattered hearts.jpg)
+
 ## Family Fun Night: Mon, 3 Feb
 
 Invitation to Family Fun Night on February 3rd.
 
 [https://www.facebook.com/events/755958311580824/](https://www.facebook.com/events/755958311580824/ "https://www.facebook.com/events/755958311580824/")
+
+![](/uploads/time running out.jpg)
 
 ## Don't miss out...**_second chance_** **_to WIN_**
 
@@ -38,20 +42,24 @@ Prize Package Includes:
 
 2 Rockfish Grill pint glasses
 
-  
 Thank you for supporting the Island View PTA! If you have any questions, please contact Rachel Esposito at [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
+
+## SAFE ROUTES TO SCHOOLS
+
+Want to make school zones safer for everyone? The more kids who walk, bike and bus to school, the fewer the number of cars on the road. In addition to the health benefits of walking and biking, fewer cars means less pollution. And kids who travel in groups are safer. It's a win-win.
+
+The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS events. Please contact Treva King for more information. [trevaking@yahoo.com](mailto:trevaking@yahoo.com).
 
 ## Spreading love, one taco at a time
 
 It's not too late to contribute to the Conference Night Taco Bar for Teachers! Let's make it a night to remember and give our wonderful teachers a delicious meal before evening conferences on Wednesday, 12 February. Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-conference6)!
 
-## It's time to think...YEARBOOK 
+## It's time to think...YEARBOOK
 
 We Need Photos (or) Calling All Photographers (or some equivalent)
 
-  
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
 
 Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions. Photos should be hi resolution color JPGs. Please include the teacher and/or classroom for the students in your photos.
@@ -60,7 +68,7 @@ We can't wait to see what you've got. Thank you!
 
 ## SAVE THESE DATES!
 
-### February 
+### February
 
 * **3rd:**  **Deadline to join PTA for Raffle eligibility**
 * **5th:**  PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
@@ -71,4 +79,4 @@ We can't wait to see what you've got. Thank you!
 
 ### March
 
-* **3rd:**  
+* **3rd:**
