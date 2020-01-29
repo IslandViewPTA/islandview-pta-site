@@ -12,6 +12,8 @@ draft: true
 
 Insert Brian's message here!
 
+{{< fig src=".jpg" class="max-w-xs" align="right" >}}
+
 ## Food Drive Happening NOW
 
 This year's theme is "Take a Bite Out of Hunger". The winning grade level wins cookies. :) Also, the change is that Challenge students will donate to their respective grade levels instead of being separated out.
@@ -46,7 +48,7 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
 
-Join us for the 
+Join us for the
 
 ## Movie Mayhem a WILD success
 
@@ -82,7 +84,7 @@ Please include a SAVE THE DATE notice about RIF on 4/28, and include this SignUp
 
 You can use the verbiage from the link if you wish...
 
-## PTA Needs YOU 
+## PTA Needs YOU
 
 Interested in serving as a PTA officer? It is not too early to start exploring this important and enriching role for next school year. Please contact [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org) for more information.
 
