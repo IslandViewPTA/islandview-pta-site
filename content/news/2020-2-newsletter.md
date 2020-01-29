@@ -18,33 +18,30 @@ Invitation to Family Fun Night on February 3rd.
 
 [https://www.facebook.com/events/755958311580824/](https://www.facebook.com/events/755958311580824/ "https://www.facebook.com/events/755958311580824/")
 
-## Don't miss out on a second chance to WIN
+## Don't miss out...**_second chance_** **_to WIN_**
 
-**Time is running out! Join the Island View PTA by Monday, February 3rd and automatically be entered to win a phenomenal prize package!**
+Time is running out! Join the Island View PTA by Monday, February 3rd and automatically be entered to win a phenomenal prize package!
 
-****
+One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing LIVE on our FB page. [https://www.facebook.com/IslandViewPTA/](https://www.facebook.com/IslandViewPTA/ "https://www.facebook.com/IslandViewPTA/")
 
-**One lucky winner will be drawn at the PTA meeting on Wednesday, February 5th. If you can't join us for the meeting, check out the drawing LIVE on our FB page.** [https://www.facebook.com/IslandViewPTA/](https://www.facebook.com/IslandViewPTA/ "https://www.facebook.com/IslandViewPTA/")
+Prize Package Includes:
 
-**Prize Package Includes:**
+4 Anacortes Cinemas Movie Tickets
 
-**4 Anacortes Cinemas Movie Tickets**
+2 Anacortes Cinemas Popcorn Passes
 
-**2 Anacortes Cinemas Popcorn Passes**
+2 tickets to Escape Anacortes
 
-**2 tickets to Escape Anacortes**
+1 $15 Rockfish Grill gift card
 
-**1 $15 Rockfish Grill gift card**
+1 Rockfish Grill growler
 
-**1 Rockfish Grill growler**
+2 Rockfish Grill pint glasses
 
-**2 Rockfish Grill pint glasses**
+  
+Thank you for supporting the Island View PTA! If you have any questions, please contact Rachel Esposito at [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
 
-****
-
-**Thank you for supporting the Island View PTA! If you have any questions, please contact Rachel Esposito at** [**membership@islandviewpta.org**](mailto:membership@islandviewpta.org)**.**
-
-## PTA Meeting and Raffle!
+## PTA Meeting & Raffle: Wed, 5 Feb
 
 ## Spreading love, one taco at a time
 
