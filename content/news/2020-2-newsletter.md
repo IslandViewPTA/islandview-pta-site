@@ -4,7 +4,10 @@ newsletter: true
 title: February 2020 Newsletter
 date: 2020-02-01T00:00:00-08:00
 description: Here's the latest on all the LOVE happening this month at Island View!
-image: "/uploads/heart ornament.jpg"
+image: "/uploads/blurred hearts.jpg"
 draft: true
 
 ---
+## Principal's Message
+
+## PTA Meeting and Raffle!
