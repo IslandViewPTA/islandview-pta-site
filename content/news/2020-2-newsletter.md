@@ -50,11 +50,11 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
 
-It all happens on Wed, 5 Feb at 6 pm in the Island View Library...see you there so you'll be in the know!
+**It all happens on Wed, 5 Feb at 6 pm in the Island View Library**...see you there so you'll be in the know!
 
 ## Movie Mayhem a WILD success
 
-What a success Class ACT performance was! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students. 
+Class ACT performances were a smashing success! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students. 
 
 ## SAFE ROUTES TO SCHOOLS
 
