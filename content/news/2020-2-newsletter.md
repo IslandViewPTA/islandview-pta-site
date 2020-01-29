@@ -42,8 +42,6 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
 
-![](/uploads/Walk to School.png) 
-
 ## SAFE ROUTES TO SCHOOLS
 
 Want to make school zones safer for everyone? The more kids who walk, bike and bus to school, the fewer the number of cars on the road. In addition to the health benefits of walking and biking, fewer cars means less pollution. And kids who travel in groups are safer. It's a win-win.
