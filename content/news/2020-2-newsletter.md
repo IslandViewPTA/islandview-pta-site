@@ -18,13 +18,13 @@ Insert Brian's message here!
 
 Let's honor the 100th day of school and see if each grade can collect a 100 cans of food to help others in need. The non-perishable food items will go directly to food banks in Anacortes through A Simple Gesture. Students may drop donations in the big red bins inside the main entrance between now and 7 February.
 
-This year's theme is "Take a Bite Out of Hunger". The winning grade level wins cookies. :)  Also, note that Challenge students will donate to their respective grade levels instead of being separated out. 
+This year's theme is "Take a Bite Out of Hunger". The winning grade level wins cookies. :)  Also, note that Challenge students will donate to their respective grade levels instead of being separated out.
 
 ## Family Fun Night! 3 Feb, 6-7 pm
 
 {{< fig src="scattered hearts.jpg" class="max-w-xs" align="right" >}}
 
-Come [join us](https://www.facebook.com/events/755958311580824/) for a Valentine craft night. We'll teach you a new way to heart "attack!" 
+Come [join us](https://www.facebook.com/events/755958311580824/) for a Valentine craft night. We'll teach you a new way to heart "attack!"
 
 ## Don't miss out...**_second chance_** **_to WIN BIG!_**
 
@@ -53,6 +53,8 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 ## PTA Meeting & Raffle: Wed, 5 Feb
 
 **It all happens on Wed, 5 Feb at 6 pm in the Island View Library**...see you there so you'll be in the know!
+
+{{< fig src="movie mayhem.jpg" class="max-w-xs" align="left" >}}
 
 ## Movie Mayhem a WILD success
 
