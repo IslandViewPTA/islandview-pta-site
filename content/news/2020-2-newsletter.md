@@ -107,12 +107,14 @@ Interested in serving as a PTA officer? It is not too early to start exploring t
 ### February
 
 * **3rd:**  **Deadline to join PTA for Raffle eligibility**
-* **5th:**  PTA Meeting, 6pm, Island View Library & **LIVE RAFFLE**
+* **5th:**  **PTA Meeting & LIVE RAFFLE**, 6pm, Island View Library
+* **7th:**  Last day to donate non-perishable food items
 * **10th-13th:**  Conference Week, **12:05 Release**
+* **12th:**  PTA-hosted Taco Dinner for Teachers
 * **14th:  No School**
 * **17th:**  President's Day Observed, **No School**
-* **20th:** Planning meeting for spring 2020 Color Run, 2:30pm
+* **20th:** **Planning meeting for 2020 Color Run**, 2:30pm
 
 ### March
 
-* **3rd:**
+* **4th:  PTA Meeting**, 6pm, Island View Library
