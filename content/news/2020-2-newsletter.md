@@ -88,15 +88,15 @@ Calling All Photographers!
 
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
 
-Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions. Photos should be hi resolution color JPGs. Please include the teacher and/or classroom for the students in your photos.
+Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos.. Photos should be hi resolution color JPGs. 
 
 We can't wait to see what you've got. Thank you!
 
 ## Mark your calendars for RIF!
 
-Please include a SAVE THE DATE notice about RIF on April 28, and include this SignUpGenius link: [https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4 "https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4")
+**Reading is Fundamental (RIF)** is a wonderful national program that gives free books to K-3 students twice a year. The students get to pick their very own books, smiles abound, and the love of reading is born!
 
-You can use the verbiage from the link if you wish...
+April 28 is the big day and volunteers are needed to assist with set-up, short shifts during the day, and cleanup. Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4) and support our youngest readers! 
 
 ## PTA Needs YOU
 
