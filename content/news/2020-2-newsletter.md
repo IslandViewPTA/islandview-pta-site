@@ -123,6 +123,6 @@ Interested in serving as a PTA officer? It is not too early to start exploring t
 
 * **1st-31st: I Love To Read Month (ILTRM)**
 * **4th:    PTA Meeting**, 6pm, Island View Library
-* **19th:  Family Fun Night,** Campout in the Theater, 6pm
+* **19th:  Family Fun Night,** Reading Campout, 6pm
 * **24th:**  Young Authors Conf, Skagit Valley College
 * **31st:**   ILTRM Celebratory Assembly & Bike Raffle 
