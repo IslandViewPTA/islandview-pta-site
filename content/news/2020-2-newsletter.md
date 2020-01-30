@@ -84,6 +84,8 @@ Everyone is invited to the first planning meeting on Feb 20 at 2:30pm. Contact [
 
 ## It's time to think...YEARBOOK
 
+{{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
+
 Calling All Photographers!
 
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
