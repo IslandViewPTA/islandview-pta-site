@@ -82,6 +82,10 @@ It's not too late to contribute to the Conference Night Taco Bar for Teachers! L
 
 Everyone is invited to the first planning meeting on Feb 20 at 2:30pm. Contact [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
+## March is I Love To Read Month 
+
+Every March, Island View students and staff celebrate reading all month long! This year we have tons of new and fun ways to dive into a good book and share your experience with others. Look for information going home at the end of February and get ready to celebrate reading like never before!
+
 ## It's time to think...YEARBOOK
 
 Calling All Photographers!
