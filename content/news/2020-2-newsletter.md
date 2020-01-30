@@ -84,8 +84,6 @@ Everyone is invited to the first planning meeting on Feb 20 at 2:30pm. Contact [
 
 ## It's time to think...YEARBOOK
 
-{{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
-
 Calling All Photographers!
 
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
@@ -96,7 +94,7 @@ We can't wait to see what you've got. Thank you!
 
 ## Mark your calendars for RIF!
 
-Please include a SAVE THE DATE notice about RIF on 4/28, and include this SignUpGenius link: [https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4 "https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4")
+Please include a SAVE THE DATE notice about RIF on April 28, and include this SignUpGenius link: [https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4 "https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4")
 
 You can use the verbiage from the link if you wish...
 
