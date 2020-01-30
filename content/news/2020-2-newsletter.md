@@ -106,15 +106,19 @@ Interested in serving as a PTA officer? It is not too early to start exploring t
 
 ### February
 
-* **3rd:**  **Deadline to join PTA for Raffle eligibility**
-* **5th:**  **PTA Meeting & LIVE RAFFLE**, 6pm, Island View Library
-* **7th:**  Last day to donate non-perishable food items
+* **3rd:**    **Deadline to join PTA for Raffle eligibility**
+* **5th:**    **PTA Meeting & LIVE RAFFLE**, 6pm, Island View Library
+* **7th:**    Last day to donate non-perishable food items
 * **10th-13th:**  Conference Week, **12:05 Release**
 * **12th:**  PTA-hosted Taco Dinner for Teachers
 * **14th:  No School**
 * **17th:**  President's Day Observed, **No School**
-* **20th:** **Planning meeting for 2020 Color Run**, 2:30pm
+* **20th:**  **Planning meeting for 2020 Color Run**, 2:30pm
 
 ### March
 
-* **4th:  PTA Meeting**, 6pm, Island View Library
+* **1st-31st: I Love To Read Month (ILTRM)**
+* **4th:    PTA Meeting**, 6pm, Island View Library
+* **19th:  Family Fun Night,** Campout in the Theater, 6pm
+* **24th:**  Young Authors Conf, Skagit Valley College
+* **31st:**   ILTRM Celebratory Assembly & Bike Raffle 
