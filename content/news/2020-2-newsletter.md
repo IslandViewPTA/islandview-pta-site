@@ -104,6 +104,8 @@ Calling All Photographers!
 
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
 
+{{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
+
 Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos.. Photos should be hi resolution color JPGs.
 
 We can't wait to see what you've got. Thank you!
