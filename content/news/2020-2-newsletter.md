@@ -28,7 +28,7 @@ Brian Hanrahan
 
 ## 100th Day Food Drive on NOW
 
-Let's honor the 100th day of school and see if each grade can collect a 100 cans of food to help others in need. The non-perishable food items will go directly to food banks in Anacortes through A Simple Gesture. Students may drop donations in the big red bins inside the main entrance between now and 7 February.
+Let's honor the 100th day of school and see if each grade can collect a 100 cans of food to help others in need. The non-perishable food items will go directly to food banks in Anacortes through A Simple Gesture. Students may drop donations in the big red bins inside the main entrance between now and February 7th.
 
 This year's theme is "Take a Bite Out of Hunger". The winning grade level wins cookies. :)  Also, note that Challenge students will donate to their respective grade levels instead of being separated out.
 
@@ -64,13 +64,13 @@ Thank you for supporting the Island View PTA! If you have any questions, please 
 
 ## PTA Meeting & Raffle: Wed, 5 Feb
 
-**It all happens on Wed, 5 Feb at 6 pm in the Island View Library**...see you there so you'll be in the know!
+**It all happens on Wednesday, February 5th at 6 pm in the Island View Library**...see you there so you'll be in the know!
 
 {{< fig src="movie mayhem.jpg" class="max-w-xs" align="left" >}}
 
 ## Movie Mayhem a WILD success
 
-Class ACT performances were a smashing success! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students.
+Class ACT performances were a smashing success! HUGE thanks to all parents for getting kids to/from rehearsal despite the wacky schedules, and to all the parent volunteers during rehearsals and performances, especially Chair Nicole Mortimer. Special thanks to ISV staff (Mrs. Parker, Mrs. Geibig, teachers, and Mr. H) for supporting the process - it was a memorable experience for our students.
 
 {{< fig src="orange bike.jpg" class="max-w-xs" align="right" >}}
 
@@ -106,7 +106,7 @@ Our yearbook is in production, and we need your school event photos! Do you have
 
 {{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
 
-Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos.. Photos should be hi resolution color JPGs.
+Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos. Photos should be high resolution color JPGs.
 
 We can't wait to see what you've got. Thank you!
 
@@ -125,6 +125,7 @@ Interested in serving as a PTA officer? It is not too early to start exploring t
 ### February
 
 * **3rd:**    **Deadline to join PTA for Raffle eligibility**
+* **3rd:  Family Fun Night, 6-7pm**
 * **5th:**    **PTA Meeting & LIVE RAFFLE**, 6pm, Island View Library
 * **7th:**    Last day to donate non-perishable food items
 * **10th-13th:**  Conference Week, **12:05 Release**
