@@ -10,7 +10,19 @@ draft: true
 ---
 ## Principal's Message
 
-Insert Brian's message here!
+Dear Island View Families:
+
+What a crazy weather month we’ve experienced! During our recent snow closures, I enjoyed walking home in the afternoons and watching young children sledding down the hills behind Island View, their giggly laughter filling the brisk air. I fondly remembered time with my own sons (now both in high school) on those very sledding hills. Savor these experiences with your children. Time moves too quickly.
+
+I love February for at least two reasons. Soon the Island View hallways will be filled with red hearts and artwork that exude warmth and belonging. The decorations are simply another reminder of the school culture we embrace daily.
+
+February is also the month that we once again invite families for conferences. Like last year, we have a limited conference schedule in the winter. While fall conference week allows teachers to meet with every parent, February conference week has only two days allotted for conferences (February 12 and 13). Consequently, teachers will schedule conferences with a limited number of selected families. In these cases, teachers will reach out to individual parents to schedule a conference.
+
+If you are not contacted by your student’s teacher and you have a need to meet, please reach out to your student’s teacher. While conference slots are limited, teachers will do their best to accommodate requests, if possible.
+
+I look forward to seeing our school filled with families in the coming week. As always, if you have questions or concerns, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org).
+
+Brian Hanrahan
 
 {{< fig src="bag of cans.jpg" class="max-w-xs" align="left" >}}
 
@@ -82,7 +94,7 @@ It's not too late to contribute to the Conference Night Taco Bar for Teachers! L
 
 Everyone is invited to the first planning meeting on Feb 20 at 2:30pm. Contact [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
-## March is I Love To Read Month 
+## March is I Love To Read Month
 
 Every March, Island View students and staff celebrate reading all month long! This year we have tons of new and fun ways to dive into a good book and share your experience with others. Look for information going home at the end of February and get ready to celebrate reading like never before!
 
@@ -92,7 +104,7 @@ Calling All Photographers!
 
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
 
-Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos.. Photos should be hi resolution color JPGs. 
+Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos.. Photos should be hi resolution color JPGs.
 
 We can't wait to see what you've got. Thank you!
 
@@ -100,7 +112,7 @@ We can't wait to see what you've got. Thank you!
 
 **Reading is Fundamental (RIF)** is a wonderful national program that gives free books to K-3 students twice a year. The students get to pick their very own books, smiles abound, and the love of reading is born!
 
-April 28 is the big day and volunteers are needed to assist with set-up, short shifts during the day, and cleanup. Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4) and support our youngest readers! 
+April 28 is the big day and volunteers are needed to assist with set-up, short shifts during the day, and cleanup. Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4) and support our youngest readers!
 
 ## PTA Needs YOU
 
@@ -125,4 +137,4 @@ Interested in serving as a PTA officer? It is not too early to start exploring t
 * **4th:    PTA Meeting**, 6pm, Island View Library
 * **19th:  Family Fun Night,** Reading Campout, 6pm
 * **24th:**  Young Authors Conf, Skagit Valley College
-* **31st:**   ILTRM Celebratory Assembly & Bike Raffle 
+* **31st:**   ILTRM Celebratory Assembly & Bike Raffle
