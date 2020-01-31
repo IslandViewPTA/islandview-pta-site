@@ -120,8 +120,6 @@ April 28 is the big day and volunteers are needed to assist with set-up, short s
 
 Interested in serving as a PTA officer? It is not too early to start exploring this important and enriching role for next school year. Please contact [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org) for more information.
 
-{{< fig src="joyful.jpg" class="max-w-xs" align="left" >}}
-
 ## SAVE THESE DATES!
 
 ### February
