@@ -11,5 +11,3 @@ draft: true
 Please note that the November PTA meeting will take place at 6pm on **Wednesday the 15th** instead of on the usual second Wednesday of the month.
 
 Please join us on Wednesday, November 15th at 6pm in the Island View Library!
-
-[See the PTA Meeting Event for more details]({{< relref "pta-meeting.md" >}})
