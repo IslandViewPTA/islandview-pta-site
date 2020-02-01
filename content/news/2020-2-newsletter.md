@@ -125,7 +125,7 @@ Interested in serving as a PTA officer? It is not too early to start exploring t
 ### February
 
 * **3rd:**    **Deadline to join PTA for Raffle eligibility**
-* **3rd:  Family Fun Night, 6-7pm**
+* **3rd:   Family Fun Night, 6-7pm**
 * **5th:**    **PTA Meeting & LIVE RAFFLE**, 6pm, Island View Library
 * **7th:**    Last day to donate non-perishable food items
 * **10th-13th:**  Conference Week, **12:05 Release**
