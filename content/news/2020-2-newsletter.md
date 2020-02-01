@@ -1,11 +1,11 @@
 ---
-newsletter_date: 2020-01-29T09:16:01-08:00
+newsletter_date: 2020-01-29T17:16:01.000+00:00
 newsletter: true
 title: February 2020 Newsletter
-date: 2020-02-01T00:00:00-08:00
+date: 2020-02-01T08:00:00.000+00:00
 description: Here's the latest on all the LOVE happening this month at Island View!
 image: "/uploads/blurred hearts.jpg"
-draft: true
+type: ''
 
 ---
 ## Principal's Message
