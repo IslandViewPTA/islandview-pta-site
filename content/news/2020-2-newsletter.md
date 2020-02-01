@@ -1,5 +1,5 @@
 ---
-newsletter_date: 2020-02-01T09:16:01-08:00
+newsletter_date: 2020-02-01T00:00:00-08:00
 newsletter: true
 title: February 2020 Newsletter
 date: 2020-02-01T08:00:00.000+00:00
