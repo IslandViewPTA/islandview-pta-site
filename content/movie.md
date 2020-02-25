@@ -3,7 +3,7 @@ title: Movie Mornings
 date: 2019-10-28T07:00:00.000+00:00
 subtitle: " with Island View PTA"
 description: Purchase your movie tickets instantly!
-image: "/uploads/onward wide-1.jpg"
+image: "/uploads/onward medium.png"
 imageLink: ''
 imageCredit: ''
 type: movie
