@@ -9,3 +9,24 @@ image: "/uploads/green starters.jpg"
 draft: true
 
 ---
+## Principal's Message
+
+Dear Island View Families:
+
+After a very soggy February, we are seeing early signs of spring. In my morning walks to school, I hear quiet bird chatter, and recently when I cross-walked students at the end of the school day, I saw the first green shoots from the tulip bulbs our students planted two years ago. I have come to realize that March is the month of patience. Yet rest assured, spring always arrives.
+
+As an educator I appreciate the month of March for another reason: it is free from breaks. Staff and students hunker down for full, five-day weeks to learn, grow, and create beauty together. March is also a productive time before spring state and district assessments begin. I will send information and assessment schedules to families once they are finalized in April.
+
+As many of you know, I recently interviewed for the superintendent position here in Anacortes. I was not selected as a finalist.
+
+First, I would like to thank many of you for your kind and positive support. Your notes, emails, and spoken words meant the world to me. As I prepared for my interview, I recognized that I lack experience that would help me assume such an important role in our district. Yet I stayed committed to the road I was traveling, and in the end, I have to say I am proud of myself. I worked hard and felt fully prepared; I did not shy away from an intimidating process; and I presented my authentic and true self, which was my primary goal.
+
+**Isn’t that what we want for our students?** Work hard. Set lofty goals. Stay true to yourself. As the Island View principal, I am happy to model that kind of proud, soarin’ flight.
+
+I trust our school board members. They are upstanding, smart people who are deeply invested in our school community. They will hire a strong superintendent to lead us in our beautiful work. I have every confidence in that reality.
+
+As always, please contact me with any questions, concerns, or suggestions you have at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org).
+
+Happy Spring!
+
+Brian Hanrahan, Principal
