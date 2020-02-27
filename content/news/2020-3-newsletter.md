@@ -5,7 +5,7 @@ title: March 2020 Newsletter
 date: 2020-02-28T00:00:00-08:00
 description: Spring is nearly here, so check out the March PTA Newsletter and get
   a jump on the fun popping up all month!
-image: "/uploads/green starters.jpg"
+image: "/uploads/winter rest.jpg"
 draft: true
 
 ---
@@ -31,11 +31,11 @@ Happy Spring!
 
 Brian Hanrahan, Principal
 
-## Food Drive Appreciation!
+## Food Drive Appreciation
 
 A shout out to all of Island View for generously donating 994 cans/food items in the 3rd annual 100th Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans.
 
-## Taco Bar Dinner for Teachers a Hit
+## Taco Bar Dinner for Teachers a Hit!
 
 {{< fig src="Taco Bar.jpg" class="max-w-xs" align="right"  >}}
 
