@@ -57,7 +57,15 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 ## Color Run
 
-**Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school. 
+**Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school.
+
+## SAFE ROUTES TO SCHOOLS
+
+{{< fig src="orange bike.jpg" class="max-w-xs" align="left" >}}
+
+Want to make school zones safer for everyone? The more kids who walk, bike and bus to school, the fewer the number of cars on the road. In addition to the health benefits of walking and biking, fewer cars means less pollution. And kids who travel in groups are safer. It's a win-win.
+
+The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS events. Please contact Treva King for more information. [trevaking@yahoo.com](mailto:trevaking@yahoo.com).
 
 ## End of Year Help Needed
 
