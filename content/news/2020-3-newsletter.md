@@ -108,10 +108,10 @@ We need your help at the end of the year! Please save these dates and contact me
 * **10:**    Color Run Planning Mtg, 2:30 pm
 * **14:**    ISV Spring Garden Party, 10 am
 
-           **VOLUNTEERS NEEDED**
+           **Volunteers Needed**
 * **19:    Family Fun Night,** Reading Campout, 6:30 pm
 
-           **VOLUNTEERS NEEDED**
+           **Volunteers Needed**
 * **31:**    I LOVE To Read Month Assembly & Bike Raffle
 
 ### April
@@ -121,14 +121,14 @@ We need your help at the end of the year! Please save these dates and contact me
 * **16:    Early Release, 12:05 pm**
 * **17:**     Book Fair Begins & Family Fun Night
 
-            **VOLUNTEERS NEEDED**
+            **Volunteers Needed**
 * **20-24:** Scholastic Book Fair
 
-             VOLUNTEERS NEEDED
+             **Volunteers Needed**
 * **24:**      **Early Release, 12:05 pm**
 * **28:**      Reading is Fundamental (RIF)
 
-             **VOLUNTEERS NEEDED**
+             **Volunteers Needed**
 * **30:**      Spring Concert
 
 **_Mark your calendars:_ COLOR RUN is May 16, 2020!**
