@@ -71,6 +71,12 @@ Want to make school zones safer for everyone? The more kids who walk, bike and b
 
 The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS events. Please contact Treva King for more information. [trevaking@yahoo.com](mailto:trevaking@yahoo.com).
 
+## Mark your calendars for RIF!
+
+**Reading is Fundamental (RIF)** is a wonderful national program that gives free books to K-3 students twice a year. The students get to pick their very own books, smiles abound, and the love of reading is born!
+
+**This is a fun event that can't happen without volunteers!** April 28 is the big day and help is needed to assist with set-up, short shifts during the day, and cleanup. Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-spring4) and support our youngest readers!
+
 ## It's time to think...YEARBOOK
 
 Calling All Photographers!
