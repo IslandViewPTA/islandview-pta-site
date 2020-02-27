@@ -58,3 +58,13 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 ## Color Run
 
 **Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school. 
+
+## End of Year Help Needed
+
+We need your help at the end of the year! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.
+
+06/05 Talent Show
+
+06/15 Field Day
+
+06/19 5th Grade Graduation
