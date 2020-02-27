@@ -55,7 +55,7 @@ Spring Picture Day is March 10! Students will take a picture with their full cla
 
 ## Garden Clean Up Party
 
-{{< fig src="spring_cleanup.jpg"  class="max-w-xs" align="left" >}}
+{{< fig src="spring_cleanup.jpg" class="max-w-xs" align="left"  >}}
 
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
 
