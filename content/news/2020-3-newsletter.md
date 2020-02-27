@@ -45,10 +45,16 @@ A shout out to all of Island View for generously donating 994 cans/food items in
 
 The PTA is so grateful for all those that brought food to feed teachers a delicious taco dinner during conference week. It smelled incredible in the lounge and the teachers said thank you over and over again!
 
+## Picture Day is Two Weeks Away
+
+Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
+
 ## Garden Clean Up Party
 
 {{< fig src=""  class="max-w-xs" align="left" >}}
 
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
 
- 
+## Color Run
+
+**Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school. 
