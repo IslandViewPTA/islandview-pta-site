@@ -33,11 +33,11 @@ Brian Hanrahan, Principal
 
 ## March PTA Meeting
 
-**Wednesday, March 4th at 6 pm in the Island View Library is the place to be**...see you there!
+**Wednesday, March 4 at 6 pm in the Island View Library is the place to be**...see you there!
 
 ## Food Drive Appreciation
 
-A shout out to all of Island View for generously donating 994 cans/food items in the 3rd annual 100th Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans.
+A shout out to all of Island View for generously donating 994 cans/food items in the third annual 100 Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans.
 
 ## Taco Bar Dinner for Teachers a Hit!
 
