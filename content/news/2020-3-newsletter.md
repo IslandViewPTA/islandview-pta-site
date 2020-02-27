@@ -47,6 +47,8 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## Garden Clean Up Party
 
+{{< fig src=""  class="max-w-xs" align="left" >}}
+
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
 
  
