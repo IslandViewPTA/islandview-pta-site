@@ -37,7 +37,7 @@ A shout out to all of Island View for generously donating 994 cans/food items in
 
 ## Taco Bar Dinner for Teachers a Hit
 
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+{{< fig src="Taco Bar.jpg" class="max-w-xs" align="right"  >}}
 
 The PTA is so grateful for all those that brought food to feed teachers a delicious taco dinner during conference week. It smelled incredible in the lounge and the teachers said thank you over and over again!
 
