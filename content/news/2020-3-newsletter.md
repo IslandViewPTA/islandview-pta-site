@@ -61,8 +61,6 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 ## Color Run
 
-{{< fig src="color_march.jpg" class="max-w-xs" align="right" >}}
-
 **Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school.
 
 ## SAFE ROUTES TO SCHOOLS
@@ -100,3 +98,37 @@ We need your help at the end of the year! Please save these dates and contact me
 06/15 Field Day
 
 06/19 5th Grade Graduation
+
+## SAVE THESE DATES!
+
+### March
+
+* **1-31: I LOVE to Read Month!**
+* **4:      PTA Meeting**, 6pm, Island View Library
+* **10:**    Color Run Planning Mtg, 2:30 pm
+* **14:**    ISV Spring Garden Party, 10 am
+
+           **VOLUNTEERS NEEDED**
+* **19:    Family Fun Night,** Reading Campout, 6:30 pm
+
+           **VOLUNTEERS NEEDED**
+* **31:**    I LOVE To Read Month Assembly & Bike Raffle
+
+### April
+
+* **1:      PTA Meeting**, 6 pm, Island View Library
+* **6-10:** Spring Break, **NO SCHOOL**
+* **16:    Early Release, 12:05 pm**
+* **17:**     Book Fair Begins & Family Fun Night
+
+            **VOLUNTEERS NEEDED**
+* **20-24:** Scholastic Book Fair
+
+             VOLUNTEERS NEEDED
+* **24:**      **Early Release, 12:05 pm**
+* **28:**      Reading is Fundamental (RIF)
+
+             **VOLUNTEERS NEEDED**
+* **30:**      Spring Concert
+
+**_Mark your calendars:_ COLOR RUN is May 16, 2020!**
