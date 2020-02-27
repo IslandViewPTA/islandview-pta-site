@@ -61,7 +61,7 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 ## Color Run
 
-{{< fig src="color_marchnews.pdf" class="max-w-xs" align="right"  >}}
+{{< fig src="Color Run Logo.jpg" class="max-w-xs" align="right"  >}}
 
 **Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school.
 
