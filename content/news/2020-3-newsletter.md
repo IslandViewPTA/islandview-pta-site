@@ -5,7 +5,7 @@ title: March 2020 Newsletter
 date: 2020-02-28T00:00:00-08:00
 description: Spring is nearly here, so check out the March PTA Newsletter and get
   a jump on the fun popping up all month!
-image: "/uploads/winter rest.jpg"
+image: "/uploads/purple crocus-1.jpg"
 draft: true
 
 ---
@@ -43,4 +43,4 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## March PTA Meeting
 
-**It all happens on Wednesday, March 4th at 6 pm in the Island View Library**...see you there!
+**Wednesday, March 4th at 6 pm in the Island View Library is the place to be**...see you there!
