@@ -45,6 +45,10 @@ A shout out to all of Island View for generously donating 994 cans/food items in
 
 The PTA is so grateful for all those that brought food to feed teachers a delicious taco dinner during conference week. It smelled incredible in the lounge and the teachers said thank you over and over again!
 
+## March is I Love To Read Month
+
+Every March, Island View students and staff celebrate reading all month long! This year we have tons of new and fun ways to dive into a good book and share your experience with others. Look for information going home at the end of February and get ready to celebrate reading like never before!
+
 ## Picture Day is Two Weeks Away
 
 Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
@@ -66,6 +70,18 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 Want to make school zones safer for everyone? The more kids who walk, bike and bus to school, the fewer the number of cars on the road. In addition to the health benefits of walking and biking, fewer cars means less pollution. And kids who travel in groups are safer. It's a win-win.
 
 The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS events. Please contact Treva King for more information. [trevaking@yahoo.com](mailto:trevaking@yahoo.com).
+
+## It's time to think...YEARBOOK
+
+Calling All Photographers!
+
+Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
+
+{{< fig src="camera.jpg" class="max-w-xs" align="left" >}}
+
+Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos. Photos should be high resolution color JPGs.
+
+We can't wait to see what you've got. Thank you! {{<break>}}
 
 ## End of Year Help Needed
 
