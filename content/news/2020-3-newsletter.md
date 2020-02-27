@@ -33,11 +33,13 @@ Brian Hanrahan, Principal
 
 ## Food Drive Appreciation!
 
-A shout out to all of Island View for generously donating 994 cans/food items in the 3rd annual 100th Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans. 
+A shout out to all of Island View for generously donating 994 cans/food items in the 3rd annual 100th Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans.
 
 ## Taco Bar Dinner for Teachers a Hit
 
-The PTA is so grateful for all those that brought food to feed teachers a delicious taco dinner during conference week. It smelled incredible in the lounge and the teachers said thank you over and over again! 
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
+The PTA is so grateful for all those that brought food to feed teachers a delicious taco dinner during conference week. It smelled incredible in the lounge and the teachers said thank you over and over again!
 
 ## March PTA Meeting
 
