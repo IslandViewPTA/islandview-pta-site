@@ -74,9 +74,9 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## Picture Day is Two Weeks Away
 
-Spring Picture Day is March 10! 
+### _Spring Picture Day is March 10!_ 
 
-Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
+Students will take a picture with their full class and individual pictures will be available for those interested. **Helpers are needed!** Please email membership@IslandViewPTA.org if you have time to help that day.
 
 ## Garden Clean Up Party!
 
