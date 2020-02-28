@@ -146,6 +146,7 @@ We need your help at the end of the year! Please save these dates and contact me
 * **10:**    Color Run Planning Mtg, 2:30 pm
 * **14:**    ISV Spring Garden Party, 10 am
 * **19:    Family Fun Night,** Reading Campout, 6:30 pm
+* **23:**    Staff Appreciation in Foyer, 10:30 to 12:50 pm
 * **31:**    I LOVE To Read Month Assembly & Bike Raffle
 
 ### April
