@@ -68,9 +68,13 @@ Spring Picture Day is March 10! Students will take a picture with their full cla
 
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
 
-## Family Fun Night
+## Family Fun: Camp Out with a Book
 
 {{< fig src="lit_tent.jpg" class="max-w-xs" align="right" >}}
+
+Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event. Bring a book or two, a flashlight or battery lantern, and get cozy in the Island View 'campground' inside the Theater. 
+
+Volunteers are needed for this event, especially those willing to lend easy set-up tents and camp chairs. Sign-up here.
 
 ## Color Run
 
