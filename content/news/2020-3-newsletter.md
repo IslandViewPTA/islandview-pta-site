@@ -68,9 +68,9 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 * Guest Readers in classrooms
 * Weekly Raffle Drawings
 * 'Been Caught Reading' tickets
-* Family Fun Night: 3/19 6:30-8 pm
-* Assembly & Bike Raffle 3/31
-* Other SURPRISES throughout the month
+* Family Fun Night: March 19 6:30-8 pm
+* Assembly & Bike Raffle March 31
+* Other FUN SURPRISES throughout the month
 
 ## Picture Day is Two Weeks Away
 
