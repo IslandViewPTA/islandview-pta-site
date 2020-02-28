@@ -92,8 +92,8 @@ Volunteers are needed for this event, especially those willing to lend/set-up te
 
 ## Staff Appreciation March 23
 
-In order to show our continued appreciation for the amazing staff at Island View Elementary, the hospitality committee will host an event in the school foyer. Mark your calendars for March 23rd (10:45 through lunch), all staff are encouraged to stop by for a serving of treats and drinks while their kids are on the playground.  
-\*Any leftover items will be available in the lounge for those who cannot stop by.
+In order to show our continued appreciation for the amazing staff at Island View, the Hospitality committee will host an event in the school foyer. **Mark your calendars for March 23 (10:45 through lunch)**, all staff are encouraged to stop by for a serving of treats and drinks while their students are on the playground.  
+(Leftover items will be available in the lounge for those who cannot stop by.)
 
 ## Color Run Planning & Fun
 
