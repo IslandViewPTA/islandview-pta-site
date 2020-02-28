@@ -70,7 +70,7 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 ## Family Fun Night
 
-{{< fig src="lit_tent.jpg" class="max-w-xs" align="right"  >}}
+{{< fig src="lit_tent.jpg" class="max-w-xs" align="right" >}}
 
 ## Color Run
 
