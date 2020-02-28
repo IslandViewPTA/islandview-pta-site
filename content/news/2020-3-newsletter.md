@@ -31,7 +31,7 @@ Happy Spring!
 
 Brian Hanrahan, Principal
 
-## Movie Morning 7 March!
+## Movie Morning: 7 March!
 
 Pixar's ONWARD is coming to the big screen in Anacortes. For $10 you get to see the movie, enjoy a small popcorn and drink. These events are open to ALL, so bring your friends!
 
@@ -69,7 +69,7 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 * Weekly Raffle Drawings
 * 'Been Caught Reading' tickets
 * Family Fun Night: March 19 6:30-8 pm
-* Assembly & Bike Raffle March 31
+* School Assembly & Bike Raffle March 31
 * Other FUN SURPRISES throughout the month
 
 ## Picture Day is Two Weeks Away
@@ -92,7 +92,7 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for **Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event**. Bring a book or two, a flashlight or battery-powered lantern, and get cozy in the Island View 'campground' set up in the school theater.
 
-Volunteers are needed for this event, especially those willing to lend/set-up tents and camp chairs. [Sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp).
+Volunteers are needed for this event, [sign-up](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp) to lend/set-up tents and camp chairs. 
 
 ## Staff Appreciation March 23
 
