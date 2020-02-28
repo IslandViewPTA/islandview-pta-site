@@ -154,7 +154,7 @@ We can't wait to see what you've got. Thank you! {{<break>}}
 ### April
 
 * **1:       PTA Meeting**, 6 pm, Island View Library
-* **6-10:**  Spring Break, **NO SCHOOL**
+* **6-10:**  **SPRING BREAK, NO SCHOOL**
 * **16:     Early Release, 12:05 pm**
 * **17:**     Book Fair Begins & Family Fun Night
 * **20-24:** Scholastic Book Fair
