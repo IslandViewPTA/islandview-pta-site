@@ -60,9 +60,13 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## Movie Morning 7 March!
 
-Pixar's ONWARD is hitting the big screen in Anacortes, 10 am on March 7. Don't miss this exciting family movie! Buy tickets online and see you at the movies...
+Pixar's ONWARD is coming to the big screen in Anacortes. For $10 you get to see the movie, enjoy a small popcorn and drink. These events are open to ALL, so bring your friends!
 
 {{< fig src="onward_news.jpg" class="max-w-xs" align="right" >}}
+
+Tickets must be [pre-purchased online](https://www.islandviewpta.org/movie). Only 150 tickets available for the show, so get yours today!
+
+If you have any questions, please do not hesitate to contact: [**President - Meg Mourning**](mailto:president@islandviewpta.org) or [**Vice President - Eric Mithen**](mailto:vicepresident@islandviewpta.org)
 
 ## Picture Day is Two Weeks Away
 
