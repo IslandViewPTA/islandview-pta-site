@@ -131,7 +131,7 @@ We can't wait to see what you've got. Thank you! {{<break>}}
 
 ## End of Year Help Needed
 
-**We need your help at the end of the year! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.**
+**We need your help! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.**
 
 June 5:   Talent Show
 
