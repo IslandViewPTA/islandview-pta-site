@@ -74,6 +74,8 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## Picture Day is Two Weeks Away
 
+{{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
+
 ### _Spring Picture Day is March 10!_ 
 
 Students will take a picture with their full class and individual pictures will be available for those interested. **Helpers are needed!** Please email membership@IslandViewPTA.org if you have time to help that day.
@@ -122,8 +124,6 @@ The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS e
 Calling All Photographers!
 
 Our yearbook is in production, and we need your school event photos! Do you have treasured images from field trips, classrooms, lunches, recess, or pre/after school events? We'd love to publish them.
-
-{{< fig src="camera.jpg" class="max-w-xs" align="left" >}}
 
 Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos. Photos should be high resolution color JPGs.
 
