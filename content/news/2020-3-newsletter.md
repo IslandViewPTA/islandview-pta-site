@@ -68,7 +68,7 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 * Guest Readers in classrooms
 * Weekly Raffle Drawings
 * 'Been Caught Reading' tickets
-* Family Fun Night: March 19 6:30-8 pm
+* **Family Fun Night: March 19 6:30-8 pm**
 * School Assembly & Bike Raffle March 31
 * Other FUN SURPRISES throughout the month
 
@@ -76,7 +76,7 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 {{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
 
-### _Spring Picture Day is March 10!_ 
+### _Spring Picture Day is March 10!_
 
 Students will take a picture with their full class and individual pictures will be available for those interested. **Helpers are needed!** Please email membership@IslandViewPTA.org if you have time to help that day.
 
@@ -90,9 +90,9 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 {{< fig src="lit_tent.jpg" class="max-w-xs" align="right" >}}
 
-Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for **Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event**. Bring a book or two, a flashlight or battery-powered lantern, and get cozy in the Island View 'campground' set up in the school theater.
+Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for **Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event**. Bring a book or two, a flashlight or battery-powered lantern, and a soft pillow or blanket to get cozy in the Island View 'campground' set up in the school theater.
 
-Volunteers are needed for this event, [sign-up](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp) to lend/set-up tents and camp chairs. 
+Volunteers are needed for this event, [sign-up](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp) to lend/set-up tents and camp chairs.
 
 ## Staff Appreciation March 23
 
@@ -103,7 +103,7 @@ In order to show our continued appreciation for the amazing staff at Island View
 
 {{< fig src="color_march.jpg" class="max-w-xs" align="right" >}}
 
-**Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is Tuesday, March 10 at 2:30pm at school.
+**Save the Date for the most anticipated event of the year: The Color Run on May 16!** Fundraising will begin after spring break; in the meantime, please join us in planning for this super fun event. Our next planning meeting is **Tuesday, March 10 at 2:30pm** at school.
 
 ## SAFE ROUTES TO SCHOOLS
 
