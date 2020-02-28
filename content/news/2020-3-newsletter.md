@@ -58,6 +58,12 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 * Assembly & Bike Raffle 3/31
 * Other SURPRISES throughout the month
 
+## Movie Morning 7 March!
+
+Pixar's ONWARD is hitting the big screen in Anacortes, 10 am on March 7. Don't miss this exciting family movie! Buy tickets online and see you at the movies...
+
+{{< fig src="onward_news.jpg" class="max-w-xs" align="right" >}}
+
 ## Picture Day is Two Weeks Away
 
 Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
@@ -72,7 +78,7 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 {{< fig src="lit_tent.jpg" class="max-w-xs" align="right" >}}
 
-Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for **Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event**. Bring a book or two, a flashlight or battery-powered lantern, and get cozy in the Island View 'campground' set up in the school theater. 
+Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for **Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event**. Bring a book or two, a flashlight or battery-powered lantern, and get cozy in the Island View 'campground' set up in the school theater.
 
 Volunteers are needed for this event, especially those willing to lend/set-up tents and camp chairs. [Sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp).
 
