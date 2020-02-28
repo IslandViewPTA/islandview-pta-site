@@ -43,6 +43,8 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 ## March PTA Meeting
 
+{{< fig src="meeting_notes.jpg" class="max-w-xs" align="left" >}}
+
 **Wednesday, March 4 at 6 pm in the Island View Library.** 
 
 **Get the latest info and help make March a memorable month!**
