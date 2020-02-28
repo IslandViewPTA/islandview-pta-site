@@ -133,11 +133,11 @@ We can't wait to see what you've got. Thank you! {{<break>}}
 
 **We need your help at the end of the year! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.**
 
-June 5   Talent Show
+June 5:   Talent Show
 
-June 15  Field Day
+June 15:  Field Day
 
-June 19  5th Grade Graduation
+June 19:  5th Grade Graduation
 
 ## SAVE THESE DATES!
 
