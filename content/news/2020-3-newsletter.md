@@ -131,7 +131,7 @@ We can't wait to see what you've got. Thank you! {{<break>}}
 
 ## End of Year Help Needed
 
-We need your help at the end of the year! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.
+**We need your help at the end of the year! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.**
 
 06/05 Talent Show
 
@@ -143,7 +143,7 @@ We need your help at the end of the year! Please save these dates and contact me
 
 ### March
 
-* **1-31: I LOVE to Read Month!**
+* **1-31: I LOVE to READ Month!**
 * **4:      PTA Meeting**, 6pm, Island View Library
 * **10:**    Color Run Planning Mtg, 2:30 pm
 * **14:**    ISV Spring Garden Party, 10 am
