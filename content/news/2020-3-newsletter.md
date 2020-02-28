@@ -60,13 +60,13 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## Picture Day is Two Weeks Away
 
-Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email [membership@IslandViewPTA.org](membership@islandviewpta.org) if you have time to help that day.
+Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
 
 ## Garden Clean Up Party
 
 {{< fig src="spring_cleanup.pdf" class="max-w-xs" align="left"  >}}
 
-Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email [erinwolfswinkel@gmail.com](erinwolfswinkel@gmail.com).
+Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
 
 ## Family Fun: Camp Out and Read
 
