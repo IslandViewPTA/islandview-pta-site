@@ -72,7 +72,7 @@ Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get
 
 {{< fig src="lit_tent.jpg" class="max-w-xs" align="right" >}}
 
-Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event. Bring a book or two, a flashlight or battery lantern, and get cozy in the Island View 'campground' set up in the school theater. 
+Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for **Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event**. Bring a book or two, a flashlight or battery-powered lantern, and get cozy in the Island View 'campground' set up in the school theater. 
 
 Volunteers are needed for this event, especially those willing to lend/set-up tents and camp chairs. [Sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp).
 
