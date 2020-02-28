@@ -47,6 +47,8 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## March is I Love To Read Month
 
+{{< fig src="DrSeuss_Book.jpg" class="max-w-xs" align="left" >}}
+
 **It's time for Island View students and staff to dive into a good book and celebrate reading like never before!** Activities include:
 
 * Guest Readers in classrooms
