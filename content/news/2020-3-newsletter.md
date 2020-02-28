@@ -60,21 +60,21 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## Picture Day is Two Weeks Away
 
-Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
+Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email [membership@IslandViewPTA.org](membership@islandviewpta.org) if you have time to help that day.
 
 ## Garden Clean Up Party
 
 {{< fig src="spring_cleanup.pdf" class="max-w-xs" align="left"  >}}
 
-Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
+Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email [erinwolfswinkel@gmail.com](erinwolfswinkel@gmail.com).
 
-## Family Fun: Camp Out with a Book
+## Family Fun: Camp Out and Read
 
 {{< fig src="lit_tent.jpg" class="max-w-xs" align="right" >}}
 
-Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event. Bring a book or two, a flashlight or battery lantern, and get cozy in the Island View 'campground' inside the Theater. 
+Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calendars for Thursday, March 19 from 6:30-7:30 pm for our 'Camp Out with a Good Book' event. Bring a book or two, a flashlight or battery lantern, and get cozy in the Island View 'campground' set up in the school theater. 
 
-Volunteers are needed for this event, especially those willing to lend easy set-up tents and camp chairs. Sign-up here.
+Volunteers are needed for this event, especially those willing to lend/set-up tents and camp chairs. [Sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp).
 
 ## Color Run
 
