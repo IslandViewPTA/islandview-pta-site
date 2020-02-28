@@ -43,13 +43,13 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 ## March PTA Meeting
 
-{{< fig src="meeting_notes.jpg" class="max-w-xs" align="left" >}}
-
 **Wednesday, March 4 at 6 pm in the Island View Library.**
 
 **Get the latest info and help make March a memorable month!**
 
 ## Food Drive Appreciation
+
+{{< fig src="IMG_20200122_114610.jpeg" class="max-w-xs" align="left" >}}
 
 A shout out to all of Island View for generously donating 994 cans/food items in the third annual 100 Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans.
 
