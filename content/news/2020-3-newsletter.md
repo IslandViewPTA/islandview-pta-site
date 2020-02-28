@@ -90,7 +90,12 @@ Join us for a magical, memorable hour of reading...CAMP STYLE! Mark your calenda
 
 Volunteers are needed for this event, especially those willing to lend/set-up tents and camp chairs. [Sign-up here](https://www.signupgenius.com/go/10c0d44aead2da3f58-camp).
 
-## Color Run
+## Staff Appreciation March 23
+
+In order to show our continued appreciation for the amazing staff at Island View Elementary, the hospitality committee will host an event in the school foyer. Mark your calendars for March 23rd (10:45 through lunch), all staff are encouraged to stop by for a serving of treats and drinks while their kids are on the playground.  
+\*Any leftover items will be available in the lounge for those who cannot stop by.
+
+## Color Run Planning & Fun
 
 {{< fig src="color_march.jpg" class="max-w-xs" align="right" >}}
 
