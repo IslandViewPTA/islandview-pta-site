@@ -45,7 +45,7 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 {{< fig src="meeting_notes.jpg" class="max-w-xs" align="left" >}}
 
-**Wednesday, March 4 at 6 pm in the Island View Library.** 
+**Wednesday, March 4 at 6 pm in the Island View Library.**
 
 **Get the latest info and help make March a memorable month!**
 
@@ -76,7 +76,7 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 Spring Picture Day is March 10! Students will take a picture with their full class, and individual pictures will be available for those interested. Helpers are needed! Please email membership@IslandViewPTA.org if you have time to help that day.
 
-## Garden Clean Up Party
+## Garden Clean Up Party!
 
 {{< fig src="spring_cleanup.pdf" class="max-w-xs" align="left"  >}}
 
