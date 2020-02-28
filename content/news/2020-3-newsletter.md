@@ -147,7 +147,7 @@ We can't wait to see what you've got. Thank you! {{<break>}}
 * **4:      PTA Meeting**, 6pm, Island View Library
 * **10:**    Color Run Planning Mtg, 2:30 pm
 * **14:**    ISV Spring Garden Party, 10 am
-* **19:    Family Fun Night,** Reading Campout, 6:30 pm
+* **19:    Family Fun Night,** Reading Campout, 6:30-7:30 pm
 * **23:**    Staff Appreciation in Foyer, 10:30 to 12:50 pm
 * **31:**    I LOVE To Read Month Assembly & Bike Raffle
 
