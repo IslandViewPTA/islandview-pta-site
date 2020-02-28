@@ -31,6 +31,16 @@ Happy Spring!
 
 Brian Hanrahan, Principal
 
+## Movie Morning 7 March!
+
+Pixar's ONWARD is coming to the big screen in Anacortes. For $10 you get to see the movie, enjoy a small popcorn and drink. These events are open to ALL, so bring your friends!
+
+{{< fig src="onward_news.jpg" class="max-w-xs" align="right" >}}
+
+Tickets must be [pre-purchased online](https://www.islandviewpta.org/movie). Only 150 tickets available for the show, so get yours today!
+
+If you have any questions, please do not hesitate to contact: [**President - Meg Mourning**](mailto:president@islandviewpta.org) or [**Vice President - Eric Mithen**](mailto:vicepresident@islandviewpta.org)
+
 ## March PTA Meeting
 
 **Wednesday, March 4 at 6 pm in the Island View Library is the place to be**...see you there!
@@ -57,16 +67,6 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 * Family Fun Night: 3/19 6:30-8 pm
 * Assembly & Bike Raffle 3/31
 * Other SURPRISES throughout the month
-
-## Movie Morning 7 March!
-
-Pixar's ONWARD is coming to the big screen in Anacortes. For $10 you get to see the movie, enjoy a small popcorn and drink. These events are open to ALL, so bring your friends!
-
-{{< fig src="onward_news.jpg" class="max-w-xs" align="right" >}}
-
-Tickets must be [pre-purchased online](https://www.islandviewpta.org/movie). Only 150 tickets available for the show, so get yours today!
-
-If you have any questions, please do not hesitate to contact: [**President - Meg Mourning**](mailto:president@islandviewpta.org) or [**Vice President - Eric Mithen**](mailto:vicepresident@islandviewpta.org)
 
 ## Picture Day is Two Weeks Away
 
