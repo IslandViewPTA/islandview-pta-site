@@ -47,7 +47,14 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ## March is I Love To Read Month
 
-Every March, Island View students and staff celebrate reading all month long! This year we have tons of new and fun ways to dive into a good book and share your experience with others. Look for information going home in Thursday Yellow Folders and get ready to celebrate reading like never before!
+**It's time for Island View students and staff to dive into a good book and celebrate reading like never before!** Activities include:
+
+* Guest Readers in classrooms
+* Weekly Raffle Drawings
+* 'Been Caught Reading' tickets
+* Family Fun Night: 3/19 6:30-8 pm
+* Assembly & Bike Raffle 3/31
+* Other SURPRISES throughout the month
 
 ## Picture Day is Two Weeks Away
 
@@ -58,6 +65,8 @@ Spring Picture Day is March 10! Students will take a picture with their full cla
 {{< fig src="spring_cleanup.pdf" class="max-w-xs" align="left"  >}}
 
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
+
+## Family Fun Night
 
 ## Color Run
 
