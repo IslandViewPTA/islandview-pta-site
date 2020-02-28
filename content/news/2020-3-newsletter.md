@@ -43,6 +43,8 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 ## March PTA Meeting
 
+{{< fig src="Screen Shot 2017-10-15 at 10.35.59 AM.png" class="max-w-xs" align="left" >}}
+
 **Wednesday, March 4 at 6 pm in the Island View Library.**
 
 **Get the latest info and help make March a memorable month!**
@@ -114,6 +116,8 @@ Want to make school zones safer for everyone? The more kids who walk, bike and b
 The city is looking for a PTA rep (or two) to help encourage and plan fun SRTS events. Please contact Treva King for more information. [trevaking@yahoo.com](mailto:trevaking@yahoo.com).
 
 ## Mark your calendars for RIF!
+
+{{< fig src="rif.png" class="max-w-xs" align="right"  >}}
 
 **Reading is Fundamental (RIF)** is a wonderful national program that gives free books to K-3 students twice a year. The students get to pick their very own books, smiles abound, and the love of reading is born!
 
