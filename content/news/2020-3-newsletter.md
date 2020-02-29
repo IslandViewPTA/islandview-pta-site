@@ -1,11 +1,12 @@
 ---
-newsletter_date: 2020-03-01T10:26:40-08:00
+newsletter_date: 2020-03-01T18:26:40.000+00:00
 newsletter: true
 title: March 2020 Newsletter
-date: 2020-02-28T00:00:00-08:00
+date: 2020-02-28T08:00:00.000+00:00
 description: Spring is nearly here, so check out the March PTA Newsletter and get
   a jump on the fun popping up all month!
 image: "/uploads/purple crocus-1.jpg"
+type: ''
 draft: true
 
 ---
@@ -40,6 +41,8 @@ Pixar's ONWARD is coming to the big screen in Anacortes. For $10 you get to see 
 Tickets must be [pre-purchased online](https://www.islandviewpta.org/movie). Only 150 tickets available for the show, so get yours today!
 
 If you have any questions, please do not hesitate to contact: [**President - Meg Mourning**](mailto:president@islandviewpta.org) or [**Vice President - Eric Mithen**](mailto:vicepresident@islandviewpta.org)
+
+{{< break >}}
 
 ## March PTA Meeting
 
@@ -84,7 +87,7 @@ Students will take a picture with their full class and individual pictures will 
 
 ## Garden Clean Up Party!
 
-{{< fig src="spring_cleanup.pdf" class="max-w-xs" align="left"  >}}
+Download: [Spring Clean Up Flyer](https://app.forestry.io/sites/gsua1kavu8-now/body-media//uploads/spring_cleanup.pdf)
 
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email [erinwolfswinkel@gmail.com](mailto:erinwolfswinkel@gmail.com).
 
@@ -131,13 +134,13 @@ Our yearbook is in production, and we need your school event photos! Do you have
 
 Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos. Photos should be high resolution color JPGs.
 
-We can't wait to see what you've got. Thank you! 
+We can't wait to see what you've got. Thank you!
 
 {{< break >}}
 
 ## End of Year Help Needed
 
-**We need your help! Please save these dates and contact [membership@IslandViewPTA.org](mailto:membership@islandviewpta.org) to lend a hand.**
+**We need your help! Please save these dates and contact** [**membership@IslandViewPTA.org**](mailto:membership@islandviewpta.org) **to lend a hand.**
 
 June 5:   Talent Show
 
