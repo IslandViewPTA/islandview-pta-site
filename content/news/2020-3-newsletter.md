@@ -80,13 +80,13 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 
 ### _Spring Picture Day is March 10!_
 
-Students will take a picture with their full class and individual pictures will be available for those interested. **Helpers are needed!** Please email membership@IslandViewPTA.org if you have time to help that day.
+Students will take a picture with their full class and individual pictures will be available for those interested. **Helpers are needed!** Please email [membership@IslandViewPTA.org](mailto:membership@islandviewpta.org) if you have time to help that day.
 
 ## Garden Clean Up Party!
 
 {{< fig src="spring_cleanup.pdf" class="max-w-xs" align="left"  >}}
 
-Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email erinwolfswinkel@gmail.com.
+Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email [erinwolfswinkel@gmail.com](mailto:erinwolfswinkel@gmail.com).
 
 ## Family Fun: Camp Out and Read
 
@@ -131,11 +131,13 @@ Our yearbook is in production, and we need your school event photos! Do you have
 
 Just email your images to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org) or drop off a disk or flash drive at the office. Please be sure to include your name and contact information with all submissions, along with the teacher and/or classroom for the students in your photos. Photos should be high resolution color JPGs.
 
-We can't wait to see what you've got. Thank you! {{<break>}}
+We can't wait to see what you've got. Thank you! 
+
+{{< break >}}
 
 ## End of Year Help Needed
 
-**We need your help! Please save these dates and contact membership@IslandViewPTA.org to lend a hand.**
+**We need your help! Please save these dates and contact [membership@IslandViewPTA.org](mailto:membership@islandviewpta.org) to lend a hand.**
 
 June 5:   Talent Show
 
