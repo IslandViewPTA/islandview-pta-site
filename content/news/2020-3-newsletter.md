@@ -45,11 +45,11 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 ## March PTA Meeting
 
-{{< fig src="Screen Shot 2017-10-15 at 10.35.59 AM.png" class="max-w-xs" align="right" >}}
+{{< fig src="irish.jpg" class="max-w-xs" align="right" >}}
 
 **Wednesday, March 4 at 6 pm in the Island View Library.**
 
-**Special Guest:  Incoming Superintendent of Anacortes Public Schools Dr. Justin Irish!**
+**Special Guest:  Incoming Superintendent of Anacortes Public Schools Dr. Justin Irish!**  Please join us as we welcome our new Superintendent and let's show him an awesome PTA in action!  Wear your Island View gear if you can!  
 
 {{< break >}}
 
