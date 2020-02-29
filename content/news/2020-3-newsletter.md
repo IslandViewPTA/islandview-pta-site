@@ -49,7 +49,7 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 **Wednesday, March 4 at 6 pm in the Island View Library.**
 
-**Get the latest info and help make March a memorable month!**
+**Special Guest:  Incoming Superintendent of Anacortes Public Schools Dr. Justin Irish!**
 
 {{< break >}}
 
