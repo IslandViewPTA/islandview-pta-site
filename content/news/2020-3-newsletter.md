@@ -45,7 +45,7 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 ## March PTA Meeting
 
-{{< fig src="irish text3.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="irish pta.jpg" class="max-w-xs" align="right" >}}
 
 **Wednesday, March 4th at 6 pm in the Island View Library.**
 
