@@ -46,11 +46,13 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 ## March PTA Meeting
 
-{{< fig src="Screen Shot 2017-10-15 at 10.35.59 AM.png" class="max-w-xs" align="left" >}}
+{{< fig src="Screen Shot 2017-10-15 at 10.35.59 AM.png" class="max-w-xs" align="right" >}}
 
 **Wednesday, March 4 at 6 pm in the Island View Library.**
 
 **Get the latest info and help make March a memorable month!**
+
+{{< break >}}
 
 ## Food Drive Appreciation
 
@@ -58,15 +60,19 @@ If you have any questions, please do not hesitate to contact: [**President - Meg
 
 A shout out to all of Island View for generously donating 994 cans/food items in the third annual 100 Day Food Drive. We crushed out goal of 700 cans! Second grade won a cookie party for collecting the most cans.
 
+{{< break >}}
+
 ## Taco Bar Dinner for Teachers a Hit!
 
 {{< fig src="Taco Bar.jpg" class="max-w-xs" align="right"  >}}
 
 The PTA is so grateful for all those that brought food to feed teachers a delicious taco dinner during conference week. It smelled incredible in the lounge and the teachers said thank you over and over again!
 
+{{< break >}}
+
 ## March is I Love To Read Month
 
-{{< fig src="DrSuess_Book.jpg" class="max-w-xs" align="left" >}}
+{{< fig src="DrSuess_Book.jpg" class="max-w-xs" align="right" >}}
 
 **It's time for Island View students and staff to dive into a good book and celebrate reading like never before!** Activities include:
 
@@ -77,13 +83,17 @@ The PTA is so grateful for all those that brought food to feed teachers a delici
 * School Assembly & Bike Raffle March 31
 * Other FUN SURPRISES throughout the month
 
+{{< break >}}
+
 ## Picture Day is Two Weeks Away
 
-{{< fig src="camera.jpg" class="max-w-xs" align="right" >}}
+{{< fig src="camera.jpg" class="max-w-xs" align="left" >}}
 
 ### _Spring Picture Day is March 10!_
 
 Students will take a picture with their full class and individual pictures will be available for those interested. **Helpers are needed!** Please email [membership@IslandViewPTA.org](mailto:membership@islandviewpta.org) if you have time to help that day.
+
+{{< break >}}
 
 ## Garden Clean Up Party!
 
