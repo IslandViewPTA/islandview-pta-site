@@ -1,5 +1,5 @@
 ---
-newsletter_date: 2020-03-01T18:26:40.000+00:00
+newsletter_date: 2020-03-01T00:01:40-08:00
 newsletter: true
 title: March 2020 Newsletter
 date: 2020-02-28T08:00:00.000+00:00
@@ -7,7 +7,6 @@ description: Spring is nearly here, so check out the March PTA Newsletter and ge
   a jump on the fun popping up all month!
 image: "/uploads/purple crocus-1.jpg"
 type: ''
-draft: true
 
 ---
 ## Principal's Message
