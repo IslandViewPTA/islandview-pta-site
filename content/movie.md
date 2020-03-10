@@ -1,9 +1,9 @@
 ---
 title: Movie Mornings
-date: 2019-10-28T07:00:00.000+00:00
+date: 2020-03-09T00:00:00-07:00
 subtitle: " with Island View PTA"
 description: Purchase your movie tickets instantly!
-image: "/uploads/mulan horizontal-2.png"
+image: "/uploads/mulan horizontal-1.png"
 imageLink: ''
 imageCredit: ''
 type: movie
