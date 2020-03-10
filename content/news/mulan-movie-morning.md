@@ -10,13 +10,13 @@ draft: true
 ---
 Join us for a special movie morning!
 
-     **Disney's MULAN**
+**Disney's MULAN**
 
-     **Saturday, March 28th**
+**Saturday, March 28th**
 
-     Anacortes Cinemas
+**Anacortes Cinemas**
 
-     10am (doors open at 9:30)
+**10:00 am showing (doors open at 9:30)**
 
 For $10 you'll get to see the movie, and enjoy a small popcorn and soda.  Students must be accompanied by an adult - this is not a drop-off event.
 
@@ -26,4 +26,4 @@ Tickets must be pre-purchased.
 
 Limited availability - get yours today!
 
-Buy online here:  [https://www.islandviewpta.org/movie](https://www.islandviewpta.org/movie "MULAN tickets")
+Buy online here:  [https://www.islandviewpta.org/movie](https://www.islandviewpta.org/movie "MULAN Movie Tickets")
