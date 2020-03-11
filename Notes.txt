@@ -102,3 +102,27 @@ Python Stuff
 * Rename python_requirements.txt > requirements.txt 
 * Change the Netlify build command to "python src/scripts/gspread2md.py && hugo"
 * Make sure the correct sheet is pointed to in the scripts.
+
+- Make a new folder with the school year range.
+- Copy the files from the previous year into the new directory.
+
+- Remove all of the lines of old data from the new files.
+-- Permission Form Responses "responses" sheet.
+--- Column "I1" formula '=lower(CONCATENATE(D2,LEFT(E2,1),G2))'
+--- Update the Web App and version for the scripts in this sheet, get the new web app URL.
+
+- colorrun-donation-approval-form.html
+-- Update the form 'action' url to the new web app URL.
+-- Update dates and times in the form text.
+
+- /layouts/colorrun/list.html
+-- Comment out the 'content-block' partial
+-- Uncomment the 'colorrun-donation-approval-form' partial
+
+- gspread2md.py
+-- Update the "client.open_by_key" hash strings to the new sheet values.
+The value comes from the URL to the sheet:
+Example: "https://docs.google.com/spreadsheets/d/1D8rouW5W96yRCCJmaZyDlUMmRb5j4XfjmpT_1er3XXc/edit#gid=0" 
+Where the hash is "1D8rouW5W96yRCCJmaZyDlUMmRb5j4XfjmpT_1er3XXc"
+--- sheet1 = form responses
+--- sheet2 = donations
