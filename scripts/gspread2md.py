@@ -20,8 +20,8 @@ creds = ServiceAccountCredentials.from_json_keyfile_dict(jsondict, scope)
 client = gspread.authorize(creds)
 
 # Open the Google Sheet by ID.
-sheet1 = client.open_by_key("1KqNkSL6F8AVadHoTSgdyyuLiZ-DQ03XG2L2LRZ2sg2o").sheet1
-sheet2 = client.open_by_key("1XONZtMTfgtj8XsE38Ij7GTllXNXct_rA-6v0z-OfBxk").get_worksheet(1)
+sheet1 = client.open_by_key("1D8rouW5W96yRCCJmaZyDlUMmRb5j4XfjmpT_1er3XXc").sheet1
+sheet2 = client.open_by_key("1OT4LXYzunrP2ubaRk0azq3ntBTfRdItUKGOKUqk2grI").get_worksheet(1)
 
 # Extract all of the records for each row.
 sheetdata1 = sheet1.get_all_records()
