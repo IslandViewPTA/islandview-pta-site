@@ -57,7 +57,9 @@ Our most sincere gratitude to all of the Island View students, families, and sta
 
 **Reading is Fundamental (RIF)**, originally 28 April
 
-**Spring Concert**, TBD, originally 30 April
+### To Be Determined
+
+**Spring Concert**, originally 30 April
 
 ## SAVE THESE DATES!
 
