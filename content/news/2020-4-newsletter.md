@@ -55,6 +55,6 @@ PTA Meeting, originally 1 April
 
 Book Fair, originally 17-24 April 
 
-Reading is Fundamental (RIF), originally 4/28
+Reading is Fundamental (RIF), originally 28 April
 
-Spring Concert, TBD, originally 4/30
+Spring Concert, TBD, originally 30 April
