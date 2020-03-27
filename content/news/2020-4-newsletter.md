@@ -26,3 +26,9 @@ To close, I must simply admit that I miss your kids. I miss their high-fives and
 I hope to see you soon. Take care and stay healthy.
 
 Brian
+
+## Thank You, Dr. Irish...
+
+**Our warmest thanks to Incoming Superintendent of Anacortes Public Schools, Dr. Justin Irish, for speaking at our March 4th PTA meeting!** We are grateful for the gift of his time and look forward to hearing more in the coming months about his transition into the Superintendent role. 
+
+## Bravo, Bravo!
