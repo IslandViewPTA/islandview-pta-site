@@ -37,6 +37,6 @@ Our sincere appreciation for the efforts of many PTA volunteers in March for put
 
 #### I Love to Read Month
 
-While short, the first two weeks of I Love to Read Month were filled with tremendous energy! Students and staff embraced varied ways to celebrate reading, from Book Tickets on the Island View Bookworm to Been Caught Reading Tickets, Guest Readers, and at least two Book Fairy sightings. Thanks to all those that made it possible and memorable! 
+While short, the first two weeks of March's I Love to Read Month were filled with tremendous energy! Students and staff embraced varied ways to celebrate reading, from Book Tickets on the Island View Bookworm to Been Caught Reading Tickets, Guest Readers, and at least two Book Fairy sightings. Thanks to all those that made it possible and memorable! 
 
 #### Island View Garden Prep Party
