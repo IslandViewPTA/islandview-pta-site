@@ -41,7 +41,7 @@ Our sincere appreciation for the efforts of many PTA volunteers in March for put
 
 Thank you to all of the students and staff that embraced the many ways to celebrate reading in March! The PTA is grateful for so much support, including two Guest Readers from our community and at least two Book Fairy sightings that had striking similarities to Mrs. Shainin and Mr. Fountain.  Thanks to all those that made the celebrations possible and memorable!
 
-### Island View Spring Garden Party
+### Spring Garden Party
 
 {{< fig src="gardenparty.jpg" class="max-w-xs" align="right" >}}
 
