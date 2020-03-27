@@ -37,6 +37,10 @@ Our sincere appreciation for the efforts of many PTA volunteers in March for put
 
 #### I Love to Read Month
 
-While short, the first two weeks of March's I Love to Read Month were filled with tremendous energy! Students and staff embraced varied ways to celebrate reading, from Book Tickets on the Island View Bookworm to Been Caught Reading Tickets, Guest Readers, and at least two Book Fairy sightings. Thanks to all those that made it possible and memorable! 
+{{< fig src="" class="max-w-xs" align="left" >}}
 
-#### Island View Garden Prep Party
+Thank you to all of the students and staff that embraced the many ways to celebrate reading in March! The PTA is grateful for so much support, including two Guest Readers from our community and at least two Book Fairy sightings that had striking similarities to Mrs. Shainin and Mr. Fountain.  Thanks to all those that made the celebrations possible and memorable! 
+
+#### Island View Spring Garden Party
+
+Our most sincere gratitude to all of the Island View students, families, and staff for taking time on March 14th to get the school garden ready for this year's  growing season. It was a huge success and we look forward to seeing the garden grow and thrive again this year!   
