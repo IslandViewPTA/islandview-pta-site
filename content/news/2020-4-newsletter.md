@@ -47,4 +47,14 @@ Thank you to all of the students and staff that embraced the many ways to celebr
 
 Our most sincere gratitude to all of the Island View students, families, and staff for taking time on March 14th to get the school garden ready for this year's  growing season. It was a huge success and we look forward to seeing the garden grow and thrive again this year!
 
-### PTA Calendar Update
+### PTA Calendar Updates
+
+**Due to the current CORVID-19 school closure, the following events are CANCELED:**
+
+PTA Meeting, originally 1 April
+
+Book Fair, originally 17-24 April 
+
+Reading is Fundamental (RIF), originally 4/28
+
+Spring Concert, TBD, originally 4/30
