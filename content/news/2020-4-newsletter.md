@@ -45,11 +45,11 @@ Thank you to all of the students and staff that embraced the many ways to celebr
 
 {{< fig src="gardenparty.jpg" class="max-w-xs" align="right" >}}
 
-Our most sincere gratitude to all of the Island View students, families, and staff for taking time on March 14th to get the school garden ready for this year's  growing season. It was a huge success and we look forward to seeing the garden grow and thrive again this year!
+Our most sincere gratitude to all of the Island View students, families, and staff for taking time on March 14th to get the school garden ready for this year's growing season. It was a huge success and we look forward to seeing the garden grow and thrive again this year!
 
 ### PTA Calendar Updates
 
-**Due to school closure, the following events are CANCELED:**
+**Due to school closure, the following are CANCELED:**
 
 **April PTA Meeting**, originally 1 April
 
