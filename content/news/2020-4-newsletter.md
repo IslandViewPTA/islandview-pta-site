@@ -43,4 +43,6 @@ Thank you to all of the students and staff that embraced the many ways to celebr
 
 #### Island View Spring Garden Party
 
+{{< fig src="garden party.jpg" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
 Our most sincere gratitude to all of the Island View students, families, and staff for taking time on March 14th to get the school garden ready for this year's  growing season. It was a huge success and we look forward to seeing the garden grow and thrive again this year!
