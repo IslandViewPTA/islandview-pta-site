@@ -64,4 +64,4 @@ Our most sincere gratitude to all of the Island View students, families, and sta
 ### May
 
 * **6:       PTA Meeting**, 6 pm, Island View Library
-* **16:     COLOR RUN, 10 am Island View Track**
+* **16:     COLOR RUN, Island View Track**
