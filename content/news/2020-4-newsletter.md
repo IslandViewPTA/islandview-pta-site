@@ -51,10 +51,17 @@ Our most sincere gratitude to all of the Island View students, families, and sta
 
 **Due to the current CORVID-19 school closure, the following events are CANCELED:**
 
-PTA Meeting, originally 1 April
+**April PTA Meeting**, originally 1 April
 
-Book Fair, originally 17-24 April 
+**Book Fair,** originally 17-24 April
 
-Reading is Fundamental (RIF), originally 28 April
+**Reading is Fundamental (RIF)**, originally 28 April
 
-Spring Concert, TBD, originally 30 April
+**Spring Concert**, TBD, originally 30 April
+
+## SAVE THESE DATES!
+
+### May
+
+* **6:       PTA Meeting**, 6 pm, Island View Library
+* **16:     COLOR RUN, 10 am Island View Track**
