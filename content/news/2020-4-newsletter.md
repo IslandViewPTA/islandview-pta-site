@@ -35,6 +35,8 @@ Brian
 
 ## Yearbook
 
+{{< fig src="camera.jpg" class="max-w-xs" align="left" >}}
+
 We still plan to publish an Island View YEARBOOK this year - because let's face it, this is likely the year our kids will remember longer/stronger than any other in their childhoods.
 
 **Please send photos** of what you are doing during these weeks away from school: homeschooling, going on walks, reading, playing, etc. We'd love pictures from the teachers and staff, too: What are you up to? Show us how life is different now, or how it is the same.
