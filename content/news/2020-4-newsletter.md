@@ -29,7 +29,17 @@ Brian
 
 ## Thank You, Dr. Irish...
 
-**Our warmest thanks to Incoming Superintendent of Anacortes Public Schools, Dr. Justin Irish, for speaking at our March 4th PTA meeting!** We are grateful for the gift of his time and look forward to hearing more in the coming months about his transition into the Superintendent role.
+**Our warmest thanks to Incoming Superintendent of Anacortes Public Schools, Dr. Justin Irish, for joining us at our March 4th PTA meeting!** We are grateful for the gift of his time and look forward to hearing more in the coming months about his transition into the Superintendent role.
+
+## Yearbook
+
+We still plan to publish an Island View YEARBOOK this year - because let's face it, this is likely the year our kids will remember longer/stronger than any other in their childhoods.
+
+Please send photos of what you are doing during these weeks away from school: homeschooling, going on walks, reading, playing, etc. We'd love pictures from the teachers and staff, too: What are you up to? Show us how life is different now, or how it is the same.
+
+Please send pictures to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org)
+
+Thank you!  
 
 ## Bravo!
 
@@ -66,4 +76,4 @@ Our most sincere gratitude to all of the Island View students, families, and sta
 ### May
 
 * **6:       PTA Meeting**, 6 pm, Island View Library
-* **16:     COLOR RUN, Island View Track**
+* **16:     COLOR RUN**
