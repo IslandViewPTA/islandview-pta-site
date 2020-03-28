@@ -17,7 +17,7 @@ Let me begin with the obvious😊: much has occurred in recent weeks. I hope you
 
 Before the COVID situation took hold of our community, we had some very cool experiences in March. Thanks to the efforts of PTA member Christina Hansen and others, our “I Love to Read” festivities were well under way with mystery book clues, “you’ve been caught reading” drawings, student book announcers, and a student-created “book worm” that is already hundreds of feet long in our north hallway. We also welcomed the new ASD superintendent at the Island View PTA meeting in March. I was not surprised that Dr. Justin Irish was particularly impressed by our school community’s efforts and genuine care for our students. Then, later in the month, we hosted a well-attended garden gathering. As a brisk wind cut through the sun-splashed morning, 40+ parents and students enjoyed hot cider and prepared our garden by pulling weeds, spreading mulch, and planting seeds. It was a positive and future-oriented event: undoubtedly the seeds planted will grow tall and strong. Just like our students.
 
-Currently, we are in a position that requires patience and hopeful thinking. We have many opportunities and events planned for our students and community—a spring concert, a book fair, a color run, and many end-of-year events and field trips. As the situation unfolds, I will update families on our plans.
+Currently, we are in a position that requires patience and hopeful thinking. We have many opportunities and events planned for our students and community—a spring concert, a color run, and many end-of-year events and field trips. As the situation unfolds, I will update families on our plans.
 
 I have to say the last week as your principal has been deeply inspiring to me. I have read staff communications and posts to families, I’ve watched staff videos to students, and I have seen many student responses. All of these “virtual” interactions demonstrate the depth of our school community. We will continue to thrive during this challenging time because we are working together. That is what community is all about—a work in progress. Together.
 
@@ -35,7 +35,7 @@ Brian
 
 We still plan to publish an Island View YEARBOOK this year - because let's face it, this is likely the year our kids will remember longer/stronger than any other in their childhoods.
 
-Please send photos of what you are doing during these weeks away from school: homeschooling, going on walks, reading, playing, etc. We'd love pictures from the teachers and staff, too: What are you up to? Show us how life is different now, or how it is the same.
+**Please send photos** of what you are doing during these weeks away from school: homeschooling, going on walks, reading, playing, etc. We'd love pictures from the teachers and staff, too: What are you up to? Show us how life is different now, or how it is the same.
 
 Please send pictures to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org)
 
