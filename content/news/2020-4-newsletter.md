@@ -41,6 +41,8 @@ We still plan to publish an Island View YEARBOOK this year - because let's face 
 
 **Please send photos** of what you are doing during these weeks away from school: homeschooling, going on walks, reading, playing, etc. We'd love pictures from the teachers and staff, too: What are you up to? Show us how life is different now, or how it is the same.
 
+And we happily welcome your photos from earlier in the school year, too - let's make it a robust and memorable edition!
+
 Please send pictures to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org)
 
 Thank you!
