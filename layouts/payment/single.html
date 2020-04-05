@@ -1,0 +1,15 @@
+{{- define "main" -}}
+
+{{ partial "jumbotron" . }}
+
+<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
+  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    {{ partial "content-block" . }}
+  </section>
+  <section class="cognito max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+    <iframe src="https://services.cognitoforms.com/f/l-I5djcT8kGLQzW1N5ENCw?id=9" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="857" width="100%"></iframe>
+    <script src="https://services.cognitoforms.com/scripts/embed.js"></script>
+  </section>
+</main>
+
+{{- end -}}
