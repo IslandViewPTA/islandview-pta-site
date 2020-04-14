@@ -18,7 +18,7 @@ type: page
 
        ********************************************
 
-#### Please plan to join us via Zoom at 6pm on Wednesday, May 6th, 2020 for our PTA Meeting.  We must have quorum to elect next year's officers and pass next year's budget.  Email president@islandviewpta.org for more info.  Thank you!
+#### _Please plan to join us via Zoom at 6pm on Wednesday, May 6th, 2020 for our PTA Meeting.  We must have quorum to elect next year's officers and pass next year's budget.  Email president@islandviewpta.org for more info.  Thank you!_
 
        ********************************************
 
