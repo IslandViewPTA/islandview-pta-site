@@ -18,6 +18,10 @@ type: page
 
        ********************************************
 
+#### Please plan to join us at 6pm on Wednesday, May 6th, 2020 for our Zoom PTA Meeting.  We must have quorum to elect next year's officers and pass next year's budget.  Email president@islandviewpta.org for more info.  Thank you!
+
+       ********************************************
+
 Our PTA helps make so much possible for the students and staff at Island View Elementary, including classroom enhancements,
 [FIRST LEGO League Jr.](/lego/),
 [Reading is Fundamental’s](http://www.rif.org/) free books,
