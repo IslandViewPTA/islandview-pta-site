@@ -14,7 +14,7 @@ type: page
 
        ********************************************
 
-### __Click here: *__[**Yearbook Page**](/yearbook/)*** to order your 2019-2020 Island View Yearbook.  Purchase by May 8th, 2020 to include a free message to your student!**
+### __Click here: ***__[**Yearbook Page**](/yearbook/)*** to order your 2019-2020 Island View Yearbook.  Purchase by May 8th, 2020 to include a free message to your student!**
 
        ********************************************
 
