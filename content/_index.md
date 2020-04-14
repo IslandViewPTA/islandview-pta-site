@@ -12,6 +12,8 @@ type: page
 ---
 ## Welcome to Island View PTA!
 
+**Please visit the [Yearbook Page](/yearbook/) to make a purchase by May 8th, 2020.**
+
 Our PTA helps make so much possible for the students and staff at Island View Elementary, including classroom enhancements,
 [FIRST LEGO League Jr.](/lego/),
 [Reading is Fundamental’s](http://www.rif.org/) free books,
