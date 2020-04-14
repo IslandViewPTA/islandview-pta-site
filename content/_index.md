@@ -1,6 +1,6 @@
 ---
 title: Island View PTA
-date: 2017-06-28 19:23:42 +0000
+date: 2017-06-28T19:23:42.000+00:00
 subtitle: Supporting the students, staff, and community at Island View Elementary.
 description: Homepage for the Island View Elementary PTA website.
 image: "/uploads/mt-erie.jpg"
@@ -12,7 +12,7 @@ type: page
 ---
 ## Welcome to Island View PTA!
 
-**Please visit the [Yearbook Page](/yearbook/) to make a purchase by May 8th, 2020.**
+### **Please visit the** [**Yearbook Page**](/yearbook/) **to order your 2019-2020 Island View Yearbook.  Purchase by May 8th, 2020 to include a free message to your student!**
 
 Our PTA helps make so much possible for the students and staff at Island View Elementary, including classroom enhancements,
 [FIRST LEGO League Jr.](/lego/),
