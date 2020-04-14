@@ -12,7 +12,11 @@ type: page
 ---
 ## Welcome to Island View PTA!
 
+\*
+
 ### **Please visit the** [**Yearbook Page**](/yearbook/) **to order your 2019-2020 Island View Yearbook.  Purchase by May 8th, 2020 to include a free message to your student!**
+
+\*
 
 Our PTA helps make so much possible for the students and staff at Island View Elementary, including classroom enhancements,
 [FIRST LEGO League Jr.](/lego/),
