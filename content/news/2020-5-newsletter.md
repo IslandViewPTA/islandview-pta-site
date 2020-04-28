@@ -16,4 +16,4 @@ draft: true
 
 ## ASD Essential Learning Plan
 
-With the state-mandated school closure being extended to the end of the school year, Anacortes School District has issued a revised learning plan effective 27 April 2020. Please review the [district's continuous learning program](https://sites.google.com/asd103.org/anacorteslearns/home), and the [district's general response to COVID-19](http://www.asd103.org/covid19response), including available food, learning, child care, mental health and technology services. 
+With the state-mandated school closure being extended to the end of the school year, Anacortes School District has issued a revised learning plan effective 27 April 2020. Please review the [district's continuous learning program](https://sites.google.com/asd103.org/anacorteslearns/home) for details about learning expectations and resources for elementary, middle and high school students, and the [district's general response to COVID-19](http://www.asd103.org/covid19response) that outlines available food, learning, child care, mental health and technology services. 
