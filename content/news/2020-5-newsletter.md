@@ -4,7 +4,7 @@ newsletter: true
 title: May 2020 Newsletter
 date: 2020-05-01T00:00:00-07:00
 description: Island View PTA has a few important news items to share!
-image: "/uploads/Lilac blooms.jpg"
+image: "/uploads/Lilac bloom.jpg"
 draft: true
 
 ---
