@@ -12,7 +12,7 @@ draft: true
 
 ## Last PTA Meeting and Elections!
 
-![](/uploads/zoom.png)
+![](/uploads/zoom-logo.png)
 
 **Live via ZOOM on Wednesday, May 6 at 6 pm, there will be one final PTA meeting** for the 2019-2020 school year. We will elect new board officers and vote on the proposed budget for next school year.
 
@@ -32,4 +32,4 @@ Staff Appreciation Week is **May 4 - 8, 2020**.  Our wonderful staff need to fee
 
 With the state-mandated school closure being extended to the end of the school year, Anacortes School District has issued a revised learning plan effective 27 April 2020. Please review the [district's continuous learning program](https://sites.google.com/asd103.org/anacorteslearns/home) for details about learning expectations and resources for elementary, middle and high school students, and the [district's general response to COVID-19](http://www.asd103.org/covid19response) that outlines available food, learning, child care, mental health and technology services.
 
-## We Miss You!  Stay Safe!  
+## We Miss You!  Stay Safe!
