@@ -28,7 +28,7 @@ Brian Hanrahan, Principal
 
 ## Last PTA Meeting and Elections!
 
-{{< fig src="zoom.png" class="max-w-xs" align="left" >}}
+{{< fig src="zoom.png" class="max-w-xs" align="right" >}}
 
 **Live via ZOOM on Wednesday, May 6 at 6 pm, there will be one final PTA meeting** for the 2019-2020 school year. We will elect new board officers and vote on the proposed budget for next school year.
 
