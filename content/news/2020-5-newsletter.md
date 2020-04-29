@@ -28,6 +28,18 @@ Thanks in advance for joining us - it will be so good to see familiar faces agai
 
 Staff Appreciation Week is **May 4 - 8, 2020**.  Our wonderful staff need to feel the love even more this year, while we are far apart.  Please take a moment to send a note to some of our beloved Island View teachers and staff to show them your gratitude for all they do for us throughout the year.
 
+## Yearbooks On Sale
+
+![](/uploads/yearbook.jpg)
+
+The **Island View** PTA is working hard, despite school being closed, putting together a wonderful yearbook of a VERY memorable year.
+
+Please order your yearbooks online here: [https://www.islandviewpta.org/yearbook](https://www.islandviewpta.org/yearbook "https://www.islandviewpta.org/yearbook")
+
+If you order by **May 8th**, a personal message to your student will be included for free!
+
+And if you have any photos to share from this year, either from school or from "home" school, please send them to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org).
+
 ## ASD Essential Learning Plan
 
 With the state-mandated school closure being extended to the end of the school year, Anacortes School District has issued a revised learning plan effective 27 April 2020. Please review the [district's continuous learning program](https://sites.google.com/asd103.org/anacorteslearns/home) for details about learning expectations and resources for elementary, middle and high school students, and the [district's general response to COVID-19](http://www.asd103.org/covid19response) that outlines available food, learning, child care, mental health and technology services.
