@@ -38,7 +38,7 @@ Thanks in advance for joining us - it will be so good to see familiar faces agai
 
 ## Staff Appreciation!
 
-{{< fig src="teacher-appreciation-week-clipart-19.png" class="max-w-xs" align="right" >}}
+{{< fig src="teacher-appreciation-week-clipart-19.png" class="max-w-xs" align="center" >}}
 
 **THANK YOU ISLAND VIEW STAFF!!**
 
@@ -46,7 +46,7 @@ Staff Appreciation Week is **May 4 - 8, 2020**.  Our wonderful staff need to fee
 
 ## Yearbooks On Sale
 
-![](/uploads/yearbook.jpg)
+{{< fig src="" class="max-w-xs" align="left" >}}
 
 The Island View PTA is working hard, despite school being closed, putting together a wonderful yearbook of a VERY memorable year.
 
@@ -62,4 +62,4 @@ With the state-mandated school closure being extended to the end of the school y
 
 ## We Miss You!  Stay Safe!
 
-![](/uploads/heart.jpg)
+{{< fig src="" class="max-w-xs" align="center" >}}
