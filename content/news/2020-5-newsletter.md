@@ -28,7 +28,7 @@ Brian Hanrahan, Principal
 
 ## Last PTA Meeting and Elections!
 
-{{< fig src="zoom.png" class="max-w-xs" align="right" >}}
+{{< fig src="zoom.png" class="max-w-xs" align="center" >}}
 
 **Live via ZOOM on Wednesday, May 6 at 6 pm, there will be one final PTA meeting** for the 2019-2020 school year. We will elect new board officers and vote on the proposed budget for next school year.
 
@@ -46,7 +46,7 @@ Staff Appreciation Week is **May 4 - 8, 2020**.  Our wonderful staff need to fee
 
 ## Yearbooks On Sale
 
-{{< fig src="yearbook.png" class="max-w-xs" align="left" >}}
+{{< fig src="yearbook.jpg" class="max-w-xs" align="left" >}}
 
 The Island View PTA is working hard, despite school being closed, putting together a wonderful yearbook of a VERY memorable year.
 
