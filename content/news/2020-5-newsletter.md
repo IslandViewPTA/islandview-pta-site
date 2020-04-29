@@ -32,7 +32,7 @@ Staff Appreciation Week is **May 4 - 8, 2020**.  Our wonderful staff need to fee
 
 ![](/uploads/yearbook.jpg)
 
-The **Island View** PTA is working hard, despite school being closed, putting together a wonderful yearbook of a VERY memorable year.
+The Island View PTA is working hard, despite school being closed, putting together a wonderful yearbook of a VERY memorable year.
 
 Please order your yearbooks online here: [https://www.islandviewpta.org/yearbook](https://www.islandviewpta.org/yearbook "https://www.islandviewpta.org/yearbook")
 
