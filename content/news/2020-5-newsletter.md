@@ -38,7 +38,7 @@ Thanks in advance for joining us - it will be so good to see familiar faces agai
 
 ## Staff Appreciation!
 
-![](/uploads/teacher-appreciation-week-clipart-19.png)
+{{< fig src="teacher-appreciation-week-clipart-19.png" class="left" align="left" >}}
 
 **THANK YOU ISLAND VIEW STAFF!!**
 
