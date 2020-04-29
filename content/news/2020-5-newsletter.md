@@ -16,7 +16,7 @@ draft: true
 
 **Live via ZOOM on Wednesday, May 6 at 6 pm, there will be one final PTA meeting** for the 2019-2020 school year. We will elect new board officers and vote on the proposed budget for next school year.
 
-We must have quorum for these important votes, so please plan to Zoom with us.  The Meeting ID is **308 670 879** and we will email out the password just prior to the meeting (to protect against Zoom-Bombers).
+We must have quorum for these important votes, so please plan to Zoom with us.  The Meeting ID is **308 670 879** and we will send out the password just prior to the meeting (to protect against Zoom-Bombers).
 
 Thanks in advance for joining us - it will be so good to see familiar faces again!
 
