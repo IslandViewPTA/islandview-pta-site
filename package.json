@@ -1,6 +1,6 @@
 {
   "name": "ivepta",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Island View PTA Website.",
   "main": "index.js",
   "scripts": {},
@@ -11,13 +11,13 @@
     "url": "https://github.com/IslandViewPTA/islandview-pta-site.git"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "@fullhuman/postcss-purgecss": "^2.1.2",
     "@tailwindcss/custom-forms": "^0.2.1",
-    "autoprefixer": "^9.7.3",
+    "autoprefixer": "^9.7.6",
     "maid": "^0.3.0",
-    "postcss": "^7.0.26",
-    "postcss-cli": "^6.1.3",
-    "tailwindcss": "^1.1.4",
+    "postcss": "^7.0.28",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.4",
     "tailwindcss-multi-column": "^1.0.2"
   },
   "browserslist": [

@@ -24,12 +24,8 @@ module.exports = {
         /xl:col-count-/,
         /pagination/
       ],
-      extractors: [
-        {
-          extractor: TailwindExtractor,
-          extensions: ["html"]
-        }
-      ]
+      defaultExtractor: content =>
+        content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || []
     }),
 
     require("autoprefixer")({
