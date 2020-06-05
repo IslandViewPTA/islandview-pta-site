@@ -14,11 +14,7 @@ type: page
 
        ********************************************
 
-### __Click here: ***__[**Yearbook Page**](/yearbook/)*** to order your 2019-2020 Island View Yearbook.  Purchase by May 8th, 2020 to include a free message to your student!**
-
-       ********************************************
-
-#### _Please plan to join us via Zoom at 6pm on Wednesday, May 6th, 2020 for our PTA Meeting.  We must have quorum to elect next year's officers and pass next year's budget.  Email president@islandviewpta.org for more info.  Thank you!_
+#### Thanks to generous families, all students and staff will receive yearbooks this year!  Please click here to donate to the cause.  __***__[**Yearbook Page**](/yearbook/)*** 
 
        ********************************************
 
