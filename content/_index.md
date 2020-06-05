@@ -14,7 +14,7 @@ type: page
 
        ********************************************
 
-#### Thanks to generous families, all students and staff will receive yearbooks this year!  Please click here to donate to the cause.  __***__[**Yearbook Page**](/yearbook/)*** 
+#### Thanks to generous families, ALL students and staff will receive yearbooks this year!  Please click here to donate to the cause.  __***__[**Yearbook Page**](/yearbook/)*** 
 
        ********************************************
 
