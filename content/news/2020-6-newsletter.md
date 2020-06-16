@@ -4,7 +4,7 @@ newsletter: true
 title: June 2020 Newsletter
 date: 2020-06-16T00:00:00-07:00
 description: Check out important end-of-year news for Island View students & families!
-image: "/uploads/wholestrawberries.jpg"
+image: "/uploads/strawberry-close.jpg"
 draft: true
 
 ---
@@ -42,7 +42,7 @@ We are planning a “drive-thru” drop-off/pick-up experience very similar to t
 
 One last note, if you are unable to pick-up and drop-off materials at your student’s designated time, please do not be concerned. We will provide an opportunity for self-service pick-up/drop-off the week of June 22. Mr. Hanrahan will send details about that process later next week.
 
-#### **Thursday, June 18th Grade-Level Schedule**
+### **Thursday, June 18th Grade-Level Schedule**
 
 · Kindergarten and Life Skills—9:30-10:15
 
@@ -54,17 +54,17 @@ One last note, if you are unable to pick-up and drop-off materials at your stude
 
 · 4th grade and Mr. Lincoln’s class 2:15-3:00 (**Ms. Shainin’s 4th grade students will pick-up on Friday, June 19th**.)
 
-#### **Friday, June 19th**
+### **Friday, June 19th**
 
 · All 5th grade students and Ms. Shainin’s 4th grade students—11:30-12:30.
 
 · At 10:30 that morning, our 5th grade moving-up ceremony will go live on YouTube. A link will be sent to 5th grade families on June 18th. We hope you watch the ceremony with your student and then head to school for congratulations, certificates, goodbyes and belongings!
 
-#### **Stations**
+### **Stations**
 
 · Pick-up/drop-off stations will be in the bus loop and in the main parking lot in front of the school. Please follow the signs posted on J Ave. to your student’s teacher station.
 
-#### **Prep and Flow**
+### **Prep and Flow**
 
 · Please be patient and careful!
 
@@ -78,7 +78,7 @@ One last note, if you are unable to pick-up and drop-off materials at your stude
 
 ![😊](https://mail.google.com/mail/e/1f60a)
 
-#### **Safety Precautions**
+### **Safety Precautions**
 
 · All staff members will wear masks and rubber gloves.
 
