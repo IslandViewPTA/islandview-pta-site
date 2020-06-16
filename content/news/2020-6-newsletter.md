@@ -82,8 +82,6 @@ One last note, if you are unable to pick-up and drop-off materials at your stude
 
 ![😊](https://mail.google.com/mail/e/1f60a)
 
-{{< fig src="Thankyou.jpg" align="center" class="max-w-xs" >}}
-
 ### **Safety Precautions**
 
 · All staff members will wear masks and rubber gloves.
@@ -108,4 +106,6 @@ We are actively brainstorming new fundraising ideas that are safe and practical.
 
 **The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.**
 
-#### Wishing everyone a restful summer...some parting images of our wonderful ISV Family...
+#### Wishing everyone a restful summer...and thanks for all the support to our incredible school and students this year!
+
+{{< fig src="Thankyou.jpg" align="center" class="max-w-xs" >}}
