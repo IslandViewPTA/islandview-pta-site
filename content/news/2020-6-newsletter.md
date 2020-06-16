@@ -28,8 +28,6 @@ With much gratitude,
 
 Brian Hanrahan, Principal
 
-{{< fig src="Chromebooks.png" class="mas-w-xs" align="center" >}}
-
 ## Laptop Computers - Keep 'Em!
 
 Chromebooks/hotspots will remain home with students over the summer. They may be used for online enrichment activities through various websites that do not require a district login. Parents and their students may refer to [Anacortes Learns: Enrichment](https://sites.google.com/asd103.org/asdreads/home), [Anacortes Reads](https://sites.google.com/asd103.org/asdreads/home), or the [Technology Handbook](https://sites.google.com/asd103.org/tech-handbook/home) for ideas. Parents will be responsible for monitoring their students' internet use. If you do not want your child to use their district device, please turn it off and store it in a safe place to begin using it in the fall.
@@ -37,6 +35,8 @@ Chromebooks/hotspots will remain home with students over the summer. They may be
 If you are **NOT** returning to the Anacortes School District in the fall, you can return your child’s Chromebook to the Tech Window (by the District Office -- 2200 M Avenue) at Anacortes Middle School on either June 22 or June 26 between 8 a.m. - 3 p.m.
 
 ## Library Books - Return 'Em!
+
+{{< fig src="librarybooks.jpg" align="center" class="max-w-xs" >}}
 
 Please gather up and return all school library books - and any other school items that should be returned - at the end of this week.
 
