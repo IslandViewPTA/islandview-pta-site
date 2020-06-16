@@ -8,3 +8,4 @@ image: "/uploads/strawberry-close.jpg"
 draft: true
 
 ---
+# Principal's Message
