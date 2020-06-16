@@ -28,6 +28,8 @@ With much gratitude,
 
 Brian Hanrahan, Principal
 
+{{< fig src="Chromebooks.png" align="center" class="max-w-xs" >}}
+
 ## Laptop Computers - Keep 'Em!
 
 Chromebooks/hotspots will remain home with students over the summer. They may be used for online enrichment activities through various websites that do not require a district login. Parents and their students may refer to [Anacortes Learns: Enrichment](https://sites.google.com/asd103.org/asdreads/home), [Anacortes Reads](https://sites.google.com/asd103.org/asdreads/home), or the [Technology Handbook](https://sites.google.com/asd103.org/tech-handbook/home) for ideas. Parents will be responsible for monitoring their students' internet use. If you do not want your child to use their district device, please turn it off and store it in a safe place to begin using it in the fall.
@@ -36,7 +38,7 @@ If you are **NOT** returning to the Anacortes School District in the fall, you c
 
 ## Library Books - Return 'Em!
 
-{{< fig src="librarybooks.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="librarybooks.jpg" align="right" class="max-w-xs" >}}
 
 Please gather up and return all school library books - and any other school items that should be returned - at the end of this week.
 
@@ -91,6 +93,8 @@ One last note, if you are unable to pick-up and drop-off materials at your stude
 If you have any questions or concerns, please contact Mr. Hanrahan at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org).
 
 ### **YEARBOOKS FOR ALL!**
+
+{{< fig src="YearbookISV.png" align="left" class="max-w-xs" >}}
 
 Thanks to the generosity of the Island View community—including the large number of families who pre-purchased yearbooks—every student and staff member will receive a yearbook this year! They will be included in your child’s belongings.
 
