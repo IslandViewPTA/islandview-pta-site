@@ -34,7 +34,7 @@ Brian Hanrahan, Principal
 
 Chromebooks/hotspots will remain home with students over the summer. They may be used for online enrichment activities through various websites that do not require a district login. Parents and their students may refer to [Anacortes Learns: Enrichment](https://sites.google.com/asd103.org/asdreads/home), [Anacortes Reads](https://sites.google.com/asd103.org/asdreads/home), or the [Technology Handbook](https://sites.google.com/asd103.org/tech-handbook/home) for ideas. Parents will be responsible for monitoring their students' internet use. If you do not want your child to use their district device, please turn it off and store it in a safe place to begin using it in the fall.
 
-If you are **NOT** returning to the Anacortes School District in the fall, you can return your child’s Chromebook to the Tech Window (by the District Office -- 2200 M Avenue) at Anacortes Middle School on either June 22 or June 26 between 8 a.m. - 3 p.m.
+If you are **NOT** returning to the Anacortes School District in the fall, you can return your child’s Chromebook to the Tech Window (by the District Office -  2200 M Avenue) at Anacortes Middle School on either June 22 or June 26 between 8 a.m. - 3 p.m.
 
 ## Library Books - Return 'Em!
 
@@ -48,19 +48,19 @@ One last note, if you are unable to pick-up and drop-off materials at your stude
 
 ### **Thursday, June 18th Grade-Level Schedule**
 
-· Kindergarten and Life Skills—9:30-10:15
+· Kindergarten and Life Skills - 9:30-10:15
 
-· 1st grade and Ms. Ross’s class—10:30-11:30
+· 1st grade and Ms. Ross’s class - 10:30-11:30
 
-· 2nd grade—11:45-12:45
+· 2nd grade - 11:45-12:45
 
-· 3rd grade—1:00-2:00
+· 3rd grade - 1:00-2:00
 
-· 4th grade and Mr. Lincoln’s class 2:15-3:00 (**Ms. Shainin’s 4th grade students will pick-up on Friday, June 19th**.)
+· 4th grade and Mr. Lincoln’s class - 2:15-3:00 (**Ms. Shainin’s 4th grade students will pick-up on Friday, June 19th**.)
 
 ### **Friday, June 19th**
 
-· All 5th grade students and Ms. Shainin’s 4th grade students—11:30-12:30.
+· All 5th grade students and Ms. Shainin’s 4th grade students - 11:30-12:30.
 
 · At 10:30 that morning, our 5th grade moving-up ceremony will go live on YouTube. A link will be sent to 5th grade families on June 18th. We hope you watch the ceremony with your student and then head to school for congratulations, certificates, goodbyes and belongings!
 
@@ -96,7 +96,7 @@ If you have any questions or concerns, please contact Mr. Hanrahan at 360-503-14
 
 ### **YEARBOOKS FOR ALL!**
 
-Thanks to the generosity of the Island View community—including the large number of families who pre-purchased yearbooks—every student and staff member will receive a yearbook this year! They will be included in your child’s belongings.
+Thanks to the generosity of the Island View community - including the large number of families who pre-purchased yearbooks - every student and staff member will receive a yearbook this year! They will be included in your child’s belongings.
 
 ### **PTA - Business As _NOT_ Usual**
 
@@ -106,6 +106,6 @@ We are actively brainstorming new fundraising ideas that are safe and practical.
 
 **The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.**
 
-> **_The PTA is so grateful for all the support this year to our incredible school and students!_**
+> **_The PTA is grateful for all the support this year to our incredible school and students!_**
 
 {{< fig src="Thankyou.jpg" align="center" class="max-w-xs" >}}
