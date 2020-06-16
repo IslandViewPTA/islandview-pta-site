@@ -28,7 +28,7 @@ With much gratitude,
 
 Brian Hanrahan, Principal
 
-{{< fig src="chromebooks.png" class="mas-w-xs" align="center" >}}
+{{< fig src="chromebooks.png" class="mas-w-xs" align="left" >}}
 
 ## Laptop Computers - Keep 'Em!
 
