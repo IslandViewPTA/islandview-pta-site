@@ -8,7 +8,7 @@ image: "/uploads/strawberry-close.jpg"
 draft: true
 
 ---
-# Principal's Message
+## Principal's Message
 
 Dear Island View Families:
 
