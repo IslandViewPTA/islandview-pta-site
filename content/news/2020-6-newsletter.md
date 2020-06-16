@@ -94,11 +94,11 @@ If you have any questions or concerns, please contact Mr. Hanrahan at 360-503-14
 
 {{< fig src="YearbookISV.png" align="center" class="max-w-xs" >}}
 
-## **YEARBOOKS FOR ALL!**
+## YEARBOOKS FOR ALL!
 
 Thanks to the generosity of the Island View community - including the large number of families who pre-purchased yearbooks - every student and staff member will receive a yearbook this year! They will be included in your child’s belongings.
 
-## **PTA - Business As _NOT_ Usual**
+## PTA - Business as _NOT_ Usual
 
 The Island View PTA planned to raise over $58,000 to fund the many academic resources, opportunities, and activities we provide for the staff and students at our beloved school. The vast majority of those funds are raised through our two major fundraisers: Chocolate Bar sales in the Fall, and the Color Run in the Spring. The coronavirus forced us to cancel the Color Run, and selling chocolates in the fall while maintaining social distancing will likely prove impossible.
 
