@@ -92,9 +92,9 @@ One last note, if you are unable to pick-up and drop-off materials at your stude
 
 If you have any questions or concerns, please contact Mr. Hanrahan at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org).
 
-### **YEARBOOKS FOR ALL!**
+{{< fig src="YearbookISV.png" align="center" class="max-w-xs" >}}
 
-{{< fig src="YearbookISV.png" align="left" class="max-w-xs" >}}
+### **YEARBOOKS FOR ALL!**
 
 Thanks to the generosity of the Island View community—including the large number of families who pre-purchased yearbooks—every student and staff member will receive a yearbook this year! They will be included in your child’s belongings.
 
