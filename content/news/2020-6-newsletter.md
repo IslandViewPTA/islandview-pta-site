@@ -30,7 +30,7 @@ Brian Hanrahan, Principal
 
 ## Laptop Computers - Keep 'Em!
 
-Chromebooks/hotspots will remain home with students over the summer. They may be used for online enrichment activities through various websites that do not require a district login. Parents and their students may refer to [Anacortes Learns: Enrichment](https://sites.google.com/asd103.org/anacorteslearns/enrichment), [Anacortes Reads](https://sites.google.com/asd103.org/asdreads/home), or the [Technology Handbook](https://sites.google.com/asd103.org/tech-handbook/home) for ideas. Parents will be responsible for monitoring their students' internet use. If you do not want your child to use their district device, please turn it off and store it in a safe place to begin using it in the fall. 
+Chromebooks/hotspots will remain home with students over the summer. They may be used for online enrichment activities through various websites that do not require a district login. Parents and their students may refer to [Anacortes Learns: Enrichment](https://sites.google.com/asd103.org/asdreads/home), [Anacortes Reads](https://sites.google.com/asd103.org/asdreads/home), or the [Technology Handbook](https://sites.google.com/asd103.org/tech-handbook/home) for ideas. Parents will be responsible for monitoring their students' internet use. If you do not want your child to use their district device, please turn it off and store it in a safe place to begin using it in the fall. 
 
 If you are **NOT** returning to the Anacortes School District in the fall, you can return your child’s Chromebook to the Tech Window (by the District Office -- 2200 M Avenue) at Anacortes Middle School on either June 22 or June 26 between 8 a.m. - 3 p.m.
 
@@ -98,4 +98,4 @@ The Island View PTA planned to raise over $50,000 to fund the many academic reso
 
 We are actively brainstorming new fundraising ideas that are safe and practical. We welcome any ideas! Please send them to [president@islandviewpta.org](mailto:president@islandviewpta.org).
 
-**The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your tax-deductible donation of any size.** [**https://www.islandviewpta.org/donate/**](https://www.islandviewpta.org/donate/ "https://www.islandviewpta.org/donate/")
+**The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.** 
