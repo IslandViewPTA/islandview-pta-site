@@ -36,9 +36,9 @@ Chromebooks/hotspots will remain home with students over the summer. They may be
 
 If you are **NOT** returning to the Anacortes School District in the fall, you can return your child’s Chromebook to the Tech Window (by the District Office -  2200 M Avenue) at Anacortes Middle School on either June 22 or June 26 between 8 a.m. - 3 p.m.
 
-## Library Books - Return 'Em!
-
 {{< fig src="librarybooks.jpg" align="right" class="max-w-xs" >}}
+
+## Library Books - Return 'Em!
 
 Please gather up and return all school library books - and any other school items that should be returned - at the end of this week.
 
@@ -104,7 +104,7 @@ The Island View PTA planned to raise over $58,000 to fund the many academic reso
 
 We are actively brainstorming new fundraising ideas that are safe and practical. We welcome any ideas! Please send them to [president@islandviewpta.org](mailto:president@islandviewpta.org).
 
-**The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.**
+### **The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.**
 
 > **_The PTA is grateful for all the support this year to our incredible school and students!_**
 
