@@ -104,7 +104,7 @@ The Island View PTA planned to raise over $58,000 to fund the many academic reso
 
 We are actively brainstorming new fundraising ideas that are safe and practical. We welcome any ideas! Please send them to [president@islandviewpta.org](mailto:president@islandviewpta.org).
 
-### **The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.**
+### **The most practical idea of all is direct donations. If your family is in a position to help, we would be so thankful for your** [**tax-deductible donation**](https://www.islandviewpta.org/donate/) **of any size.**  [https://www.islandviewpta.org/donate/](https://www.islandviewpta.org/donate/ "https://www.islandviewpta.org/donate/")
 
 > **_The PTA is grateful for all the support this year to our incredible school and students!_**
 
