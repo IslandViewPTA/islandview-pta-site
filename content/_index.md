@@ -36,7 +36,7 @@ By law we must have at least 25 members to remain an active PTA. Our meetings wi
 
 #### 
 
-#### If your family is in a position to help, we would be so thankful for your tax-deductible [**DONATION  **](https://www.islandviewpta.org/donate/ "DONATION")of any size. THANK YOU!
+#### If your family is in a position to help, we would be so thankful for your tax-deductible [**DONATION **](https://www.islandviewpta.org/donate/ "DONATION")of any size. THANK YOU!
 
 ####   
   
