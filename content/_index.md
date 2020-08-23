@@ -14,23 +14,31 @@ type: page
 
        ********************************************
 
-#### Thanks to generous families, ALL students and staff will receive yearbooks this year!  Please click here to donate to the cause.  __***__[**Yearbook Page**](/yearbook/)*** 
+#### While we won't be able to be together in the school building for a while, we are still the Proud, Soarin' Island View Eagles, and our community is stronger than ever as we help each other through these strange days.  
+
+#### Here is a link to the latest news from the [Anacortes School District](www.asd103.org "Anacortes School District").  
+
+#### We'd like to THANK all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support! 
+
+####   
+  
+Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still determined to fund the staff needs during online learning and we can't wait to host in-person fun just as soon as it is safe.
+
+####   
+  
+By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary, and will take place online. Won't you please [JOIN](https://www.islandviewpta.org/membership/ "JOIN") our Island View PTA family today?
+
+#### Our major Color Run fundraiser last spring was cancelled due to COVID-19, and we are NOT planning another major fundraiser until we are safely back at school. 
+
+####   
+  
+If your family is in a position to help, we would be so thankful for your tax-deductible [DONATION](https://www.islandviewpta.org/donate/ "DONATION") of any size. THANK YOU!
+
+####   
+  
+THANK YOU for your membership and support of all Island View Elementary staff & students!!
 
        ********************************************
-
-Our PTA helps make so much possible for the students and staff at Island View Elementary, including classroom enhancements,
-[FIRST LEGO League Jr.](/lego/),
-[Reading is Fundamental’s](http://www.rif.org/) free books,
-[ClassACT School Plays](https://www.facebook.com/Class-ACT-Anacortes-Community-Theatres-School-of-Performing-Arts-105835664376/),
-free popcorn every month, Family Fun Nights,
-[Watch DOGS](/watchdogs/),
-Lego Club,
-I Love to Read Month,
-[Scholastic Magazines](http://classroommagazines.scholastic.com/Landing-Pages/subscribers),
-Educational software,
-[Mountain School](https://ncascades.org/signup/youth/mountain-school), and MORE.
-
-The Island View PTA will hold their monthly meetings on the **FIRST Wednesday** of each month.  Please join us at **6pm** in the **Island View Library** and have your voice heard! We’d love for you to [become a member of the PTA](/membership/).
 
 ## Monthly Newsletters
 
