@@ -18,7 +18,7 @@ type: page
 
 #### Here is a link to the latest news from the [**Anacortes School District**](www.asd103.org "Anacortes School District").
 
-\********************************************
+    ********************************************
 
 #### We'd like to THANK all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
@@ -30,7 +30,7 @@ type: page
 
 #### By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary, and will take place online. Won't you please [**JOIN**](https://www.islandviewpta.org/membership/ "JOIN") our Island View PTA family today?
 
-\********************************************
+    ********************************************
 
 #### Our major Color Run fundraiser last spring was cancelled due to COVID-19, and we are NOT planning another major fundraiser until we are safely back at school.
 
