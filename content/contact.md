@@ -13,7 +13,7 @@ callToAction: true
 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA.
 
-Meet the 2019 - 2020 Board:
+Meet the 2020 - 2021 Board:
 
 **President**: Meg Mourning
 
@@ -23,11 +23,11 @@ Meet the 2019 - 2020 Board:
 
 [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-**Treasurer**: Lesa Singleton
+**Treasurer**: Kyle Rash
 
 [treasurer@islandviewpta.org](mailto:treasurer@islandviewpta.org)
 
-**Secretary**: Jackie Bornemann
+**Secretary**: Angela McCormick
 
 [secretary@islandviewpta.org](mailto:secretary@islandviewpta.org)
 
