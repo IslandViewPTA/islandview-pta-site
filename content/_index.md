@@ -14,7 +14,9 @@ type: page
 
 ***
 
-   ****************************************
+***
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 While we won't be able to be all together in the school building for a while, we are still the **Proud, Soarin' Island View Eagles**, and our community is stronger than ever as we help each other through these different days.
 
@@ -22,7 +24,9 @@ Here is a link to the latest news from the [**Anacortes School District**](http:
 
 ***
 
-   ****************************************
+***
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 We'd like to **THANK** all of those who supported the Island View PTA last year.  We are deeply committed to the staff and students at Island View Elementary, and we could not provide the MANY opportunities we offer without your support!
 
@@ -34,7 +38,9 @@ By law we must have at least 25 members to remain an active PTA.  Our meetings w
 
 ***
 
-   ****************************************
+***
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Our major Color Run fundraiser last spring was cancelled due to Covid-19, and we are **NOT** planning another major fundraiser until we are safely back at school.
 
@@ -44,9 +50,11 @@ Our major Color Run fundraiser last spring was cancelled due to Covid-19, and we
 
 **THANK YOU** for your membership and support of all Island View staff and students!!
 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
 ***
 
-   ****************************************
+***
 
 ## Monthly Newsletters
 
