@@ -18,7 +18,7 @@ type: page
 
 While we won't be able to be all together in the school building for a while, we are still the **Proud, Soarin' Island View Eagles**, and our community is stronger than ever as we help each other through these strange days.
 
-Here is a link to the latest news from the [**Anacortes School District**](https://www.asd103.org/ "Anacortes School District").
+Here is a link to the latest news from the [**Anacortes School District**](http://www.asd103.org "Anacortes School District").
 
 ***
 
