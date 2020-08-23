@@ -22,9 +22,9 @@ type: page
 
 #### We'd like to THANK all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support! 
 
-####   
-  
-Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still determined to fund the staff needs during online learning and we can't wait to host in-person fun just as soon as it is safe.
+#### 
+
+#### Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still determined to fund the staff needs during online learning and we can't wait to host in-person fun just as soon as it is safe.
 
 ####   
   
@@ -34,9 +34,9 @@ By law we must have at least 25 members to remain an active PTA. Our meetings wi
 
 #### Our major Color Run fundraiser last spring was cancelled due to COVID-19, and we are NOT planning another major fundraiser until we are safely back at school. 
 
-####   
-  
-If your family is in a position to help, we would be so thankful for your tax-deductible [**DONATION  **](https://www.islandviewpta.org/donate/ "DONATION")of any size. THANK YOU!
+#### 
+
+#### If your family is in a position to help, we would be so thankful for your tax-deductible [**DONATION  **](https://www.islandviewpta.org/donate/ "DONATION")of any size. THANK YOU!
 
 ####   
   
