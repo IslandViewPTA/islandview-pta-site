@@ -72,6 +72,6 @@ The PTA raises funds to provide classroom and school-wide enhancements and to pa
 * Restaurant Take-Overs
 * Spirit Wear
 
-If you have any questions, please do not hesitate to contact any of the board members: [President - Meg Mourning](mailto:president@islandviewpta.org), [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org), [Treasurer - Lesa Singleton](mailto:treasurer@islandviewpta.org), [Secretary - Jackie Bornemann](mailto:secretary@islandviewpta.org)
+If you have any questions, please do not hesitate to contact any of the board members: [President - Meg Mourning](mailto:president@islandviewpta.org), [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org), [Treasurer - Kyle Rash](mailto:treasurer@islandviewpta.org), [Secretary - Angela McCormick](mailto:secretary@islandviewpta.org)
 
 **THANK YOU** for your support of all the students and staff at Island View Elementary!
