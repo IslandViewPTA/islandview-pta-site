@@ -11,7 +11,15 @@ title: Get Involved
 callToAction: true
 
 ---
-## We Need You!
+## Island View Family
+
+Because of the the global pandemic, all in-person events and all fundraisers have been canceled until further notice.
+
+If you have any wonderful **_virtual_** ideas to keep us connected, please [contact us](mailto:president@islandviewpta.org "contact us") and we would love to work with you on possibly making that a reality.
+
+These are some of the amazing things the PTA is usually involved in - please consider volunteering when we open up the school again soon.
+
+## We Need YOU!
 
 Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need – _your new ideas, your energy, your enthusiasm_ – to make our PTA all that it can be!
 
