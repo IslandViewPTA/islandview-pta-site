@@ -30,7 +30,7 @@ Here is a link to the latest news from the [**Anacortes School District**](http:
 
 We'd like to **THANK** all of those who supported the Island View PTA last year.  We are deeply committed to the staff and students at Island View Elementary, and we could not provide the MANY opportunities we offer without your support!
 
-Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still **determined** to fund the staff needs during online learning, and we can't wait to host in-person fun just as soon as it is safe.
+Due to the global pandemic, our reach this year will be limited and we have gutted the budget, but we are still **determined** to fund the staff needs during online learning, and we can't wait to host in-person fun just as soon as it is safe.
 
 By law we must have at least 25 members to remain an active PTA.  Our meetings will only occur when necessary, and will take place online.
 
