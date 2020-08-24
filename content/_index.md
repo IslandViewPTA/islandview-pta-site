@@ -42,7 +42,7 @@ By law we must have at least 25 members to remain an active PTA.  Our meetings w
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Our major Color Run fundraiser last spring was cancelled due to Covid-19.  We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
+Our major Color Run fundraiser last spring was canceled due to the global pandemic.  We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
 
 ### If you are able, please consider [**DONATING**](https://www.islandviewpta.org/donate/ "JOIN") so that we can continue to support the Island View staff and students as much as possible.
 
