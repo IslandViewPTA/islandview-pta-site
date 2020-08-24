@@ -17,4 +17,4 @@ By law we must have at least 25 members to remain an active PTA. Our meetings wi
 
 ## Events
 
-Because of the global pandemic, all in-person events are cancelled until further notice.
+Because of the global pandemic, all in-person events are canceled until further notice.
