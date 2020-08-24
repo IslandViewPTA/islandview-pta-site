@@ -10,6 +10,6 @@ type: donate
 callToAction: true
 
 ---
-**THANK YOU** for your support of all the students and staff at Island View Elementary!
+### **THANK YOU** for your support of all the students and staff at Island View Elementary!
 
 If you have any questions, please do not hesitate to contact: [President - Meg Mourning](mailto:president@islandviewpta.org) or [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org)
