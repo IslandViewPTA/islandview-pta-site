@@ -28,6 +28,14 @@ Fondly,
 
 Brian Hanrahan
 
+## Welcome Back to School!
+
+While we may not be able to be together in person, we are still Proud, Soarin' Island View Eagles, and we can't wait to see your beautiful faces again, even if only through a screen.
+
+**Show your school spirit from home!** Each student will receive a page to color and put up in their window for all to see! Then you can send a picture of your Eagle with their sign, or any signs you spot in town, to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) and we will share them on Facebook.
+
+We miss you and can't wait to "see" you soon!
+
 ## Last Chance for Virtual Book Fair
 
 A friendly reminder that there are **only a few days left** to take advantage of the online Book Fair established to keep students reading and to enjoy a bit of “normal” during this unprecedented time. Please know that we are sensitive to the many hardships experienced by families and that this is a chance to get new books into the hands of kids that may need them. **Your purchases support our school library, NOT the PTA.** 
