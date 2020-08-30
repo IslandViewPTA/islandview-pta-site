@@ -38,6 +38,10 @@ While we may not be able to be together in person, we are still Proud, Soarin' I
 
 We miss you and can't wait to "see" you soon!
 
+## Fall Reopening Updates
+
+Check [here](https://sites.google.com/asd103.org/anacorteslearns/fall-2020) for the latest news from the district regarding plans for the start of school and other reopening-related policies. 
+
 ## Last Chance for Virtual Book Fair
 
 A friendly reminder that there are **only a few days left** to take advantage of the online Book Fair established to keep students reading and to enjoy a bit of “normal” during this unprecedented time. Please know that we are sensitive to the many hardships experienced by families and that this is a chance to get new books into the hands of kids that may need them. **Your purchases support our school library, NOT the PTA.**
