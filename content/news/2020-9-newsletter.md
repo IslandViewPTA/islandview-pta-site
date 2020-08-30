@@ -32,7 +32,7 @@ Brian Hanrahan
 
 While we may not be able to be together in person, we are still Proud, Soarin' Island View Eagles, and we can't wait to see your beautiful faces again, even if only through a screen.
 
-{{< fig src="coloringpage.jpg" class="max-w-xs" align="center" >}}
+{{< fig src="coloring-page.jpeg" class="max-w-xs" align="center" >}}
 
 **Show your school spirit from home!** Each student will receive a page to color and put up in their window for all to see! Then you can send a picture of your Eagle with their sign, or any signs you spot in town, to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) and we will share them on Facebook.
 
