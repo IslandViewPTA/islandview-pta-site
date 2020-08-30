@@ -70,7 +70,7 @@ Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.c
 
 **Don't miss out on this amazing opportunity to help our school win $5,000, raise much needed COVID-19 relief funding for all Anacortes students, get a super cool t-shirt and be entered to win fabulous prizes! For more information about the Shell Fun Run, visit** [**asfkids.org/funrun**](http://asfkids.org/funrun)**.**
 
-## NOW is the time to JOIN PTA!
+## N-O-W is the time to JOIN PTA!
 
 **WE NEED YOU NOW MORE THAN EVER!**
 
