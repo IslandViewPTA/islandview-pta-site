@@ -44,13 +44,13 @@ Check [here](https://sites.google.com/asd103.org/anacorteslearns/fall-2020) for 
 
 ## Last Chance for Virtual Book Fair
 
+{{< fig src="bookfair-1.jpg" class="max-w-xs" align="right" >}}
+
 A friendly reminder that there are **only a few days left** to take advantage of the online Book Fair established to keep students reading and to enjoy a bit of “normal” during this unprecedented time. Please know that we are sensitive to the many hardships experienced by families and that this is a chance to get new books into the hands of kids that may need them. **Your purchases support our school library, NOT the PTA.**
 
 Open now through September 4, 2020.
 
 Free shipping on books, for purchases $25 and over.
-
-{{< fig src="bookfair-1.jpg" class="max-w-xs" align="right" >}}
 
 The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
 
