@@ -113,3 +113,12 @@ PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](
 \*******************************************************************
 
 You can also help by selecting Island View PTA as your charity of choice in Amazon Smile! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
+## SAVE THESE DATES!
+
+### September
+
+* **4:       Last Day to Order via Virtual BOOK FAIR**
+* **7:       Labor Day Holiday** 
+* **14:     FIRST DAY of School!**
+* **16:     Kick-Off PTA Meeting**, 6pm, **Zoom** 
