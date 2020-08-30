@@ -47,13 +47,13 @@ We miss you and can't wait to "see" you soon!
 
 Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
 
-{{< fig src="joinpta.jpg" class="max-w-xs" align="right" >}}
-
 First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still determined to fund staff needs during online learning and we can't wait to host in-person fun just as soon as it is safe.
 
 By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary and will take place online. Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
+
+{{< fig src="ISV Join Banner (resized 6).jpg" class="max-w-xs" align="right" >}}
 
 [**JOIN**](https://www.islandviewpta.org/membership) and be entered to win these AMAZING prizes!
 
@@ -97,7 +97,7 @@ The site for other schools within the Anacortes District is [here](https://sites
 
 ## SHELL Fun Run...VIRTUALLY
 
-{{< fig src="funrun.jpg" class="max-w-xs" align="left" >}}
+{{< fig src="2020 FEFR logo.png" class="max-w-xs" align="left" >}}
 
 Every year the Anacortes Schools Foundation and Shell Puget Sound Refinery partner up and host the [Shell Fueling Education Fun Run](http://asfkids.org/funrun), and though the race is going virtual this year, the Anacortes School District Grant Competition is back! The school with the highest percentage of their staff and student body that participate in this race will receive $5,000 to benefit that school. All ASD students, teachers, and administrative staff are eligible to participate and all you have to do is to select the ASD school where you work or which school your children attend when you register. The winning school will be determined by Anacortes Schools Foundation in consult with the ASD Superintendent and announced via social media in October, so stay tuned!
 
