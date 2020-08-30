@@ -34,20 +34,20 @@ A friendly reminder that there are **only a few days left** to take advantage of
 
 * Open now through September 4, 2020.
 * Free shipping on **_books,_** for purchases $25 and over.
-* The link for the Island View Book Fair is [here](https://sites.google.com/asd103.org/asdreads/home).
+* The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
 * The site for other schools within the Anacortes District is [here](https://sites.google.com/asd103.org/asdreads/home). 
 
 ## NOW is the time to JOIN PTA!
 
 **WE NEED YOU NOW MORE THAN EVER!**
 
-Support Island View students & staff by [joining](islandviewpta.org/membership) the PTA!
+Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
 
 First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still determined to fund staff needs during online learning and we can't wait to host in-person fun just as soon as it is safe.
 
-By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary and will take place online. Won't you please [**JOIN**](islandviewpta.org/membership) our Island View PTA family today?
+By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary and will take place online. Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
 **THANK YOU** for your membership and support of all Island View Elementary staff & students!!
 
@@ -55,7 +55,7 @@ By law we must have at least 25 members to remain an active PTA. Our meetings wi
 
 Our major Color Run fundraiser last spring was cancelled due to Covid-19. We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
 
-If you are able, please consider [donating](https://www.islandviewpta.org/donate/) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
+If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
 \*****************************************************************
 
