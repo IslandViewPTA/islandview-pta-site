@@ -54,16 +54,6 @@ Due to the pandemic, our reach this year will be limited and we have gutted the 
 
 By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary and will take place online. Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
-**THANK YOU** for your membership and support of all Island View Elementary staff & students!!
-
-## We are accepting DONATIONS!
-
-Our major Color Run fundraiser last spring was cancelled due to Covid-19. We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
-
-If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
-
-\*****************************************************************
-
 [**JOIN**](https://www.islandviewpta.org/membership) and be entered to win these AMAZING prizes!
 
 **Anacortes Kayak Tours** has generously donated one FREE 1.5hr Deception Pass Kayak Tour, an AKT pint glass AND an AKT t-shirt!
@@ -71,6 +61,16 @@ If you are able, please consider [donating](https://www.islandviewpta.org/donate
 **5th Street Bistro** supports the Island View PTA and has kindly donated a gift certificate for a complimentary brunch for two!
 
 _The winner will be announced at our October PTA meeting._
+
+**THANK YOU** for your membership and support of all Island View Elementary staff & students!!
+
+\*****************************************************************
+
+## We are accepting DONATIONS!
+
+Our major Color Run fundraiser last spring was cancelled due to Covid-19. We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
+
+If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
 \*******************************************************************
 
