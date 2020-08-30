@@ -1,10 +1,11 @@
 ---
-newsletter_date: 2020-09-01T00:00:00-07:00
+newsletter_date: 2020-09-01T00:00:00.000-07:00
 newsletter: true
 title: September 2020 Newsletter
-date: 2020-09-01T00:00:00-07:00
+date: 2020-09-01T00:00:00.000-07:00
 description: A warm virtual welcome to the 2020-2021 school year!
 image: "/uploads/pencils.jpg"
+type: ''
 draft: true
 
 ---
@@ -36,7 +37,7 @@ While we may not be able to be together in person, we are still Proud, Soarin' I
 
 **Show your school spirit from home!** Each student will receive a page to color and put up in their window for all to see! Then you can send a picture of your Eagle with their sign, or any signs you spot in town, to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) and we will share them on Facebook.
 
-{{< fig src="coloring-page.jpeg" class="max-w-xs" align="center" >}}
+{{< fig src="coloring-page.jpeg" class="max-w-xs" align="left" >}}
 
 We miss you and can't wait to "see" you soon!
 
