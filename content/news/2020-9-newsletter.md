@@ -46,7 +46,7 @@ We miss you and can't wait to "see" you soon!
 
 Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
 
-{{< fig src="joinpta.jpg"class=max-w-xs" align="right" >}}
+{{< fig src="joinpta.jpg" class="max-w-xs" align="right" >}}
 
 First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
