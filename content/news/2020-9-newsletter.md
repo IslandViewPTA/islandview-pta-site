@@ -122,4 +122,4 @@ You can also help by selecting Island View PTA as your charity of choice in Amaz
 * **7:       Labor Day Holiday** 
 * **14:     FIRST DAY of School, 1st thru 12th Grade!**
 * **17:     FIRST Kindergarten Day!**
-* 21:     **Kick-Off PTA Meeting**, 6pm, **Zoom** 
+* **21:**     **Kick-Off PTA Meeting**, **6pm, Zoom** 
