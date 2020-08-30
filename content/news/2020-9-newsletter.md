@@ -40,7 +40,7 @@ We miss you and can't wait to "see" you soon!
 
 ## Fall Reopening Updates
 
-Check [here](https://sites.google.com/asd103.org/anacorteslearns/fall-2020) for the latest news from the district regarding plans for the start of school and other reopening-related policies. 
+Check [here](https://sites.google.com/asd103.org/anacorteslearns/fall-2020) for the latest news from the district regarding plans for the start of school and other reopening-related policies.
 
 ## Last Chance for Virtual Book Fair
 
@@ -49,6 +49,8 @@ A friendly reminder that there are **only a few days left** to take advantage of
 Open now through September 4, 2020.
 
 Free shipping on books, for purchases $25 and over.
+
+{{< fig src="bookfair-1.jpg" class="max-w-xs" align="right" >}}
 
 The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
 
