@@ -59,7 +59,7 @@ If you are able, please consider [donating](https://www.islandviewpta.org/donate
 
 \*****************************************************************
 
-[**JOIN**](islandviewpta.org/membership) and be entered to win these AMAZING prizes!
+[**JOIN**](https://www.islandviewpta.org/membership) and be entered to win these AMAZING prizes!
 
 The winner will be announced at our October PTA meeting.
 
