@@ -62,6 +62,14 @@ The site for other schools within the Anacortes District is [here](https://sites
 
 {{< fig src="shellfunrun.jpg" class="max-w-xs" align="left" >}}
 
+Every year the Anacortes Schools Foundation and Shell Puget Sound Refinery partner up and host the [Shell Fueling Education Fun Run](http://asfkids.org/funrun), and though the race is going virtual this year, the Anacortes School District Grant Competition is back! The school with the highest percentage of their staff and student body that participate in this race will receive $5,000 to benefit that school. All ASD students, teachers, and administrative staff are eligible to participate and all you have to do is to select the ASD school where you work or which school your children attend when you register. The winning school will be determined by Anacortes Schools Foundation in consult with the ASD Superintendent and announced via social media in October, so stay tuned!
+
+In addition to the ASD Grant Competition, all registrants will be entered to win one of three amazing participation prizes and will have the opportunity to enter any of the weekly Photo Challenges! All proceeds from registration, sponsorship, and donations will help support COVID-19 related needs for Anacortes students this school year, so tell your family and friends too! #ShellFunRun2020
+
+Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.com/fuelingeducation)**.** Open Registration will be available August 25-September 30. Register and then run or walk 2+ miles ANYWHERE, ANY TIME during the month of September!
+
+**Don't miss out on this amazing opportunity to help our school win $5,000, raise much needed COVID-19 relief funding for all Anacortes students, get a super cool t-shirt and be entered to win fabulous prizes! For more information about the Shell Fun Run, visit** [**asfkids.org/funrun**](http://asfkids.org/funrun)**.**
+
 ## NOW is the time to JOIN PTA!
 
 **WE NEED YOU NOW MORE THAN EVER!**
