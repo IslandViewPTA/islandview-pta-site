@@ -60,6 +60,8 @@ The site for other schools within the Anacortes District is [here](https://sites
 
 ## SHELL Fun Run...VIRTUALLY
 
+{{< fig src="shellfunrun.jpg" class="max-w-xs" align="left" >}}
+
 ## NOW is the time to JOIN PTA!
 
 **WE NEED YOU NOW MORE THAN EVER!**
