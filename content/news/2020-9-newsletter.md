@@ -11,7 +11,7 @@ draft: true
 ---
 ## OUR MOST SINCERE THANKS!
 
-{{< fig src="confetti.jpg" class="max-w-xs" align="center" >}}
+{{< fig src="missyou.jpeg" class="max-w-xs" align="center" >}}
 
 On behalf of the entire school community, the Island View PTA would like to say a huge **THANK YOU** to the ASD administration, staff, and our beloved teachers! During a global pandemic, you are working so hard to make this year as “normal” and wonderful for your students as you possibly can. You are adapting new curriculum, learning multiple platforms, and revising instruction to work in a virtual world. You are leaning into equity work with open hearts and minds ready to dive deep into long overdue conversations. You are prioritizing social and emotional learning which will help your students, and indeed the world, heal from this global trauma. You are doing everything you can to figure out how to build relationships and love your students the moment they “walk into your room.” Educators are truly Essential Workers and are the key to the entire economy. You are showing the world and your students what **resilience** really is. You are so very very appreciated and we are deeply honored that you do all you do for our children! **THANK YOU!**
 
@@ -53,7 +53,7 @@ Due to the pandemic, our reach this year will be limited and we have gutted the 
 
 By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary and will take place online. Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
-{{< fig src="ISV Join Banner (resized 6).jpg" class="max-w-xs" align="right" >}}
+{{< fig src="join.jpg" class="max-w-xs" align="right" >}}
 
 [**JOIN**](https://www.islandviewpta.org/membership) and be entered to win these AMAZING prizes!
 
@@ -97,7 +97,7 @@ The site for other schools within the Anacortes District is [here](https://sites
 
 ## SHELL Fun Run...VIRTUALLY
 
-{{< fig src="2020 FEFR logo.png" class="max-w-xs" align="left" >}}
+{{< fig src="shell.png" class="max-w-xs" align="left" >}}
 
 Every year the Anacortes Schools Foundation and Shell Puget Sound Refinery partner up and host the [Shell Fueling Education Fun Run](http://asfkids.org/funrun), and though the race is going virtual this year, the Anacortes School District Grant Competition is back! The school with the highest percentage of their staff and student body that participate in this race will receive $5,000 to benefit that school. All ASD students, teachers, and administrative staff are eligible to participate and all you have to do is to select the ASD school where you work or which school your children attend when you register. The winning school will be determined by Anacortes Schools Foundation in consult with the ASD Superintendent and announced via social media in October, so stay tuned!
 
