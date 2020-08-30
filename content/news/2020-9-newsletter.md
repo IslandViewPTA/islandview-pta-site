@@ -34,7 +34,7 @@ A friendly reminder that there are **only a few days left** to take advantage of
 
 * Open now through September 4, 2020.
 * Free shipping on **_books,_** for purchases $25 and over.
-* The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
+* The link for the Island View Book Fair is [here](https://sites.google.com/asd103.org/asdreads/home).
 * The site for other schools within the Anacortes District is [here](https://sites.google.com/asd103.org/asdreads/home). 
 
 ## NOW is the time to JOIN PTA!
