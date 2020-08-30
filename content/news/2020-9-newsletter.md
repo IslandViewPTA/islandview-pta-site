@@ -40,36 +40,6 @@ While we may not be able to be together in person, we are still Proud, Soarin' I
 
 We miss you and can't wait to "see" you soon!
 
-## Fall Reopening Updates
-
-Check [here](https://sites.google.com/asd103.org/anacorteslearns/fall-2020) for the latest news from the district regarding plans for the start of school and other reopening-related policies.
-
-## Last Chance for Virtual Book Fair
-
-{{< fig src="bookfair-1.jpg" class="max-w-xs" align="right" >}}
-
-A friendly reminder that there are **only a few days left** to take advantage of the online Book Fair established to keep students reading and to enjoy a bit of “normal” during this unprecedented time. Please know that we are sensitive to the many hardships experienced by families and that this is a chance to get new books into the hands of kids that may need them. **Your purchases support our school library, NOT the PTA.**
-
-Open now through September 4, 2020.
-
-Free shipping on books, for purchases $25 and over.
-
-The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
-
-The site for other schools within the Anacortes District is [here](https://sites.google.com/asd103.org/asdreads/home).
-
-## SHELL Fun Run...VIRTUALLY
-
-{{< fig src="funrun.jpg" class="max-w-xs" align="left" >}}
-
-Every year the Anacortes Schools Foundation and Shell Puget Sound Refinery partner up and host the [Shell Fueling Education Fun Run](http://asfkids.org/funrun), and though the race is going virtual this year, the Anacortes School District Grant Competition is back! The school with the highest percentage of their staff and student body that participate in this race will receive $5,000 to benefit that school. All ASD students, teachers, and administrative staff are eligible to participate and all you have to do is to select the ASD school where you work or which school your children attend when you register. The winning school will be determined by Anacortes Schools Foundation in consult with the ASD Superintendent and announced via social media in October, so stay tuned!
-
-In addition to the ASD Grant Competition, all registrants will be entered to win one of three amazing participation prizes and will have the opportunity to enter any of the weekly Photo Challenges! All proceeds from registration, sponsorship, and donations will help support COVID-19 related needs for Anacortes students this school year, so tell your family and friends too! #ShellFunRun2020
-
-Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.com/fuelingeducation)**.** Open Registration will be available August 25-September 30. Register and then run or walk 2+ miles ANYWHERE, ANY TIME during the month of September!
-
-**Don't miss out on this amazing opportunity to help our school win $5,000, raise much needed COVID-19 relief funding for all Anacortes students, get a super cool t-shirt and be entered to win fabulous prizes! For more information about the Shell Fun Run, visit** [**asfkids.org/funrun**](http://asfkids.org/funrun)**.**
-
 ## N-O-W is the time to JOIN PTA!
 
 **WE NEED YOU NOW MORE THAN EVER!**
@@ -113,6 +83,36 @@ PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](
 \*******************************************************************
 
 You can also help by selecting Island View PTA as your charity of choice in Amazon Smile! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
+## Fall Reopening Updates
+
+Check [here](https://sites.google.com/asd103.org/anacorteslearns/fall-2020) for the latest news from the district regarding plans for the start of school and other reopening-related policies.
+
+## Last Chance for Virtual Book Fair
+
+{{< fig src="bookfair-1.jpg" class="max-w-xs" align="right" >}}
+
+A friendly reminder that there are **only a few days left** to take advantage of the online Book Fair established to keep students reading and to enjoy a bit of “normal” during this unprecedented time. Please know that we are sensitive to the many hardships experienced by families and that this is a chance to get new books into the hands of kids that may need them. **Your purchases support our school library, NOT the PTA.**
+
+Open now through September 4, 2020.
+
+Free shipping on books, for purchases $25 and over.
+
+The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
+
+The site for other schools within the Anacortes District is [here](https://sites.google.com/asd103.org/asdreads/home).
+
+## SHELL Fun Run...VIRTUALLY
+
+{{< fig src="funrun.jpg" class="max-w-xs" align="left" >}}
+
+Every year the Anacortes Schools Foundation and Shell Puget Sound Refinery partner up and host the [Shell Fueling Education Fun Run](http://asfkids.org/funrun), and though the race is going virtual this year, the Anacortes School District Grant Competition is back! The school with the highest percentage of their staff and student body that participate in this race will receive $5,000 to benefit that school. All ASD students, teachers, and administrative staff are eligible to participate and all you have to do is to select the ASD school where you work or which school your children attend when you register. The winning school will be determined by Anacortes Schools Foundation in consult with the ASD Superintendent and announced via social media in October, so stay tuned!
+
+In addition to the ASD Grant Competition, all registrants will be entered to win one of three amazing participation prizes and will have the opportunity to enter any of the weekly Photo Challenges! All proceeds from registration, sponsorship, and donations will help support COVID-19 related needs for Anacortes students this school year, so tell your family and friends too! #ShellFunRun2020
+
+Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.com/fuelingeducation)**.** Open Registration will be available August 25-September 30. Register and then run or walk 2+ miles ANYWHERE, ANY TIME during the month of September!
+
+**Don't miss out on this amazing opportunity to help our school win $5,000, raise much needed COVID-19 relief funding for all Anacortes students, get a super cool t-shirt and be entered to win fabulous prizes! For more information about the Shell Fun Run, visit** [**asfkids.org/funrun**](http://asfkids.org/funrun)**.**
 
 ## SAVE THESE DATES!
 
