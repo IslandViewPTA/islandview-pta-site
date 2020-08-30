@@ -76,6 +76,8 @@ Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.c
 
 Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
 
+{{< fig src="joinpta.jpg"class=max-w-xs" align="right" >}}
+
 First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 Due to the pandemic, our reach this year will be limited and we have gutted the budget, but we are still determined to fund staff needs during online learning and we can't wait to host in-person fun just as soon as it is safe.
