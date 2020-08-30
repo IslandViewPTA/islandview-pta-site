@@ -58,6 +58,8 @@ The link for the Island View Book Fair is [here](https://bookfairs.scholastic.co
 
 The site for other schools within the Anacortes District is [here](https://sites.google.com/asd103.org/asdreads/home).
 
+## SHELL Fun Run...VIRTUALLY
+
 ## NOW is the time to JOIN PTA!
 
 **WE NEED YOU NOW MORE THAN EVER!**
