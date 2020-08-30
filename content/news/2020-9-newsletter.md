@@ -8,7 +8,7 @@ image: "/uploads/pencils.jpg"
 draft: true
 
 ---
-## THANK YOU!
+## OUR MOST SINCERE THANKS!
 
 {{< fig src="confetti.jpg" class="max-w-xs" align="center" >}}
 
