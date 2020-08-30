@@ -29,3 +29,10 @@ Fondly,
 Brian Hanrahan
 
 ## Last Chance for Virtual Book Fair
+
+A friendly reminder that there are **only a few days left** to take advantage of the online Book Fair established to keep students reading and to enjoy a bit of “normal” during this unprecedented time. Please know that we are sensitive to the many hardships experienced by families and that this is a chance to get new books into the hands of kids that may need them. **Your purchases support our school library, NOT the PTA.** 
+
+* Open now through September 4, 2020.
+* Free shipping on **_books,_** for purchases $25 and over.
+* The link for the Island View Book Fair is [here](https://bookfairs.scholastic.com/bookfairs/cptoolkit/homepage.do?method=homepage&url=islandviewelementaryschool).
+* The site for other schools within the Anacortes District is [here](https://sites.google.com/asd103.org/asdreads/home). 
