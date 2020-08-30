@@ -67,15 +67,11 @@ _The winner will be announced at our October PTA meeting._
 
 **THANK YOU** for your membership and support of all Island View Elementary staff & students!!
 
-\*****************************************************************
-
 ## Are you able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
 Our major Color Run fundraiser last spring was cancelled due to Covid-19. We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
 
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
-
-\*******************************************************************
 
 You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](www.smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
