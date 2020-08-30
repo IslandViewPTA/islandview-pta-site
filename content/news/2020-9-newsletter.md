@@ -61,7 +61,11 @@ If you are able, please consider [donating](https://www.islandviewpta.org/donate
 
 [**JOIN**](https://www.islandviewpta.org/membership) and be entered to win these AMAZING prizes!
 
-The winner will be announced at our October PTA meeting.
+**Anacortes Kayak Tours** has generously donated one FREE 1.5hr Deception Pass Kayak Tour, an AKT pint glass AND an AKT t-shirt!
+
+**5th Street Bistro** supports the Island View PTA and has kindly donated a gift certificate for a complimentary brunch for two!
+
+_The winner will be announced at our October PTA meeting._
 
 **Questions? Please feel free to contact us any time!**
 
