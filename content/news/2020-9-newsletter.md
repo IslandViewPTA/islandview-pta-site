@@ -69,7 +69,7 @@ _The winner will be announced at our October PTA meeting._
 
 \*****************************************************************
 
-## We are accepting [**DONATIONS**](https://www.islandviewpta.org/donate)!
+## Are you able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
 Our major Color Run fundraiser last spring was cancelled due to Covid-19. We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
 
