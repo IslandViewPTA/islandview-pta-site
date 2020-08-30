@@ -12,7 +12,7 @@ draft: true
 
 {{< fig src="confetti.jpg" class="max-w-xs" align="center" >}}
 
-On behalf of the entire school community, the Island View PTA would like to say a huge **THANK YOU** to the ASD administration, staff, and our beloved teachers! During a global pandemic, you are working so hard to make this year as “normal” and wonderful for your students as you possibly can. You are adapting new curriculum, learning multiple platforms, and revising instruction to work in a virtual world. You are leaning into equity work with open hearts and minds ready to dive deep into long overdue conversations. You are prioritizing social and emotional learning which will help your students, and indeed the world, heal from this global trauma. You are doing everything you can to figure out how to build relationships and love your students the moment they “walk into your room.” Educators are truly Essential Workers and are the key to the entire economy. You are showing the world and your students what **resilience** really is. You are so very very appreciated and we are deeply honored that you do all you do for our children! THANK YOU!
+On behalf of the entire school community, the Island View PTA would like to say a huge **THANK YOU** to the ASD administration, staff, and our beloved teachers! During a global pandemic, you are working so hard to make this year as “normal” and wonderful for your students as you possibly can. You are adapting new curriculum, learning multiple platforms, and revising instruction to work in a virtual world. You are leaning into equity work with open hearts and minds ready to dive deep into long overdue conversations. You are prioritizing social and emotional learning which will help your students, and indeed the world, heal from this global trauma. You are doing everything you can to figure out how to build relationships and love your students the moment they “walk into your room.” Educators are truly Essential Workers and are the key to the entire economy. You are showing the world and your students what **resilience** really is. You are so very very appreciated and we are deeply honored that you do all you do for our children! **THANK YOU!**
 
 ## Principal's Message
 
@@ -72,17 +72,9 @@ If you are able, please consider [donating](https://www.islandviewpta.org/donate
 
 _The winner will be announced at our October PTA meeting._
 
-**Questions? Please feel free to contact us any time!**
-
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
-
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
-
-PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
-
 \*******************************************************************
 
-You can also help by selecting Island View PTA as your charity of choice in Amazon Smile! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+You can also help by selecting Island View PTA as your charity of choice in **Amazon Smile**! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
 ## Fall Reopening Updates
 
@@ -122,3 +114,11 @@ Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.c
 * **7:       Labor Day Holiday**
 * **14:     FIRST DAY of School, 1st thru 12th Grade!**
 * **17:     FIRST Kindergarten Day!**
+
+**Questions? Please feel free to contact us any time!**
+
+PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+
+PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+
+PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
