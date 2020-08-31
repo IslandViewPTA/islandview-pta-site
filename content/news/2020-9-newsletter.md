@@ -67,7 +67,7 @@ _The winner will be announced at our October PTA meeting._
 
 **THANK YOU** for your membership and support of all Island View Elementary staff & students!!
 
-{{< fig src="charity.jpg" class="max-w-xs" align="center" >}}
+{{< fig src="charity.jpg" class="max-w-xs" align="left" >}}
 
 ## Are YOU Able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
