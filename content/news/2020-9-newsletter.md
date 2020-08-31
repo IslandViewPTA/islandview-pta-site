@@ -33,7 +33,7 @@ Fondly,
 
 Brian Hanrahan
 
-{{< fig src="coloring-page.jpeg" class="max-w-xs" align="left" >}}
+{{< fig src="windowpicture.jpeg" class="max-w-xs" align="left" >}}
 
 ## Welcome Back to School!
 
