@@ -6,7 +6,6 @@ date: 2020-09-01T00:00:00.000-07:00
 description: A warm virtual welcome to the 2020-2021 school year!
 image: "/uploads/pencils.jpg"
 type: ''
-draft: true
 
 ---
 ## 
