@@ -115,6 +115,10 @@ Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.c
 * **14:     FIRST DAY of School, 1st thru 12th Grade!**
 * **17:     FIRST Kindergarten Day!**
 
+### October
+
+* **15:       PTA Meeting online**
+
 **Questions? Please feel free to contact us any time!**
 
 PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
