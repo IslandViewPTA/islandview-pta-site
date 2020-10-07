@@ -96,7 +96,7 @@ We'll do our best to make sure everyone is included. Thank you!
 
 Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
 
-First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+**THANK** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
