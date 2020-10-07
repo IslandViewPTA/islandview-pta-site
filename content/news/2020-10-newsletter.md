@@ -4,7 +4,7 @@ newsletter: true
 title: October 2020 Newsletter
 date: 2020-10-08T00:00:00-07:00
 description: ''
-image: "/uploads/maple-leaf.jpg"
+image: "/uploads/fall-leaves.jpg"
 draft: true
 
 ---
@@ -55,11 +55,11 @@ Prize Packages:
 * Anacortes Kayak Tours Package
 * 5th Street Bistro Brunch for 2
 
-{{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
-
 ## THE GREAT PUMPKIN GIVEAWAY
 
 ### Monday, October 26 from 3 to 4 pm
+
+{{< fig src="pumpkins.jpg" align="right" class="max-w-xs" >}}
 
 Island View PTA and WatchDogs are hosting a drive through event to continue the fall tradition of pumpkin fun. **First come, first serve to receive a free pumpkin - only one per Island View family.**
 
@@ -69,7 +69,9 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 ## YOU are the photographer...
 
-{{< fig src="camera-1.jpg" align="right" class="max-w-xs" >}}
+***
+
+{{< fig src="camera.jpg" align="left" class="max-w-xs" >}}
 
 It's never too early to start working on the yearbook!
 
