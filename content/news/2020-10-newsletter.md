@@ -42,15 +42,15 @@ Stay well-
 
 Brian Hanrahan
 
-## PTA Meeting Oct 15 @ 6 PM!
+## PTA Meeting Oct 15 at 6 PM!
 
 ***
 
 ***
 
-{{< fig src="oct15.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="oct15.jpg" align="left" class="max-w-xs" >}}
 
-**Don't miss the FIRST PTA Meeting of the school year!** Get all the latest info and hear about some (safe) fall fun for everyone.
+**Don't miss the FIRST PTA Meeting of the school year!** Get all the latest info and hear about some (safe) fall fun for everyone.  Watch your email for the zoom link.
 
 [**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win AWESOME raffle prizes**. One winner will be randomly selected at the October meeting.
 
