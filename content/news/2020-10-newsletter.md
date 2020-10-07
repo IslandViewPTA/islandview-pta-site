@@ -10,6 +10,8 @@ draft: true
 ---
 ## Principal's Message
 
+***
+
 Island View Families:
 
 First, I want to thank you for the many words of gratitude you have shared with me about the Island View staff. I have been inspired by the effort, openness, and creativity of your teachers and support staff. They have worked very hard to make the fall reopening engaging and meaningful for students. Thank you for noticing.
@@ -65,6 +67,22 @@ Island View PTA and WatchDogs are hosting a drive through event to continue the 
 
 Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at [membership@islandviewpta.org](membership@islandviewpta.org).
 
+## N-O-W is the time to JOIN PTA!
+
+**_WE NEED YOU NOW MORE THAN EVER!_**
+
+Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
+
+First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+
+Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
+
+## Are YOU Able to [**DONATE**](https://www.islandviewpta.org/donate)?
+
+If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
+
+You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
 ## SAVE THESE DATES!
 
 ### October
@@ -91,21 +109,7 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 * **4:** Students back to school
 
-## N-O-W is the time to JOIN PTA!
-
-**_WE NEED YOU NOW MORE THAN EVER!_**
-
-Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
-
-First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
-
-Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
-
-## Are YOU Able to [**DONATE**](https://www.islandviewpta.org/donate)?
-
-If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
-
-You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+***
 
 **Questions? Please feel free to contact us any time!**
 
