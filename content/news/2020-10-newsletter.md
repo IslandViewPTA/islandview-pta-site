@@ -80,7 +80,7 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 It's never too early to start working on the yearbook!
 
-Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest playground - anything is great.
+Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest park - anything is great.
 
 With the upcoming return to school any bus stop photos are also a plus.
 
@@ -116,8 +116,8 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### October
 
-* **15:** PTA Meeting 6 PM via ZOOM
-* **26:** Great Pumpkin Pickup
+* **15:** PTA Meeting 6 PM via zoom
+* **26:** Great Pumpkin Pickup, 3 to 4 pm
 * **26-30:** Early Release for **Conferences**
 
 ### November
@@ -131,7 +131,7 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### December
 
-* **3:** PTA Meeting 6 PM via ZOOM
+* **3:** PTA Meeting 6 PM via zoom
 * **18:** Early Release for **Winter Break**
 
 ### January
