@@ -50,14 +50,15 @@ Brian Hanrahan
 
 {{< fig src="calendar.jpg" align="left" class="max-w-xs" >}}
 
-**Don't miss the first PTA Meeting of the school year!** Get all the latest info and hear how Island View PTA is cooking up some fall fun for everyone.
+**Don't miss the FIRST PTA Meeting of the school year!** Get all the latest info and hear about some (safe) fall fun for everyone.
 
-[**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win the raffle prize package**. One winner will be randomly selected at the October PTA meeting.
+[**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win one of two AWESOME raffle prizes**. One winner will be randomly selected at the October meeting.
 
-Prize Packages:
+**Prize Packages:** Anacortes Kayak Tours Package // 5th Street Bistro Brunch for 2
 
-* Anacortes Kayak Tours Package
-* 5th Street Bistro Brunch for 2
+***
+
+***
 
 ## THE GREAT PUMPKIN GIVEAWAY
 
@@ -88,6 +89,8 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 We'll do our best to make sure everyone is included. Thank you!
 
 ## N-O-W is the time to JOIN PTA!
+
+***
 
 **_WE NEED YOU NOW MORE THAN EVER!_**
 
