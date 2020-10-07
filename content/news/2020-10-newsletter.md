@@ -96,7 +96,7 @@ We'll do our best to make sure everyone is included. Thank you!
 
 Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
 
-**THANK** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+**THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
@@ -104,11 +104,7 @@ Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island
 
 ***
 
-{{< fig src="hands.jpg" align="right" class="max-w-xs" >}}
-
-{{< fig src="donation.jpg" align="right" class="max-w-xs" >}}
-
-{{< fig src="hands.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="oct15.jpg" align="left" class="max-w-xs" >}}
 
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
