@@ -116,7 +116,7 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### October
 
-* **15:** PTA Meeting 6 PM via zoom
+* **15:** PTA Meeting 6 pm via zoom
 * **26:** Great Pumpkin Pickup, 3 to 4 pm
 * **26-30:** Early Release for **Conferences**
 
@@ -131,7 +131,7 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### December
 
-* **3:** PTA Meeting 6 PM via zoom
+* **3:** PTA Meeting 6 pm via zoom
 * **18:** Early Release for **Winter Break**
 
 ### January
