@@ -55,7 +55,7 @@ Prize Packages:
 
 ## THE GREAT PUMPKIN GIVEAWAY
 
-#### **Monday, October 26 from 3 to 4 pm** 
+### **Monday, October 26 from 3 to 4 pm**
 
 Island View PTA and WatchDogs are hosting a drive through event to continue the fall tradition of pumpkin fun. **First come, first serve to receive a free pumpkin - only one per Island View family.** 
 
