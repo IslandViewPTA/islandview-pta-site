@@ -69,28 +69,27 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 ### October
 
-* **15: PTA Meeting 6 PM via ZOOM**
-* **26: Great Pumpkin Pickup**
-* **26-30: Early Release for Conferences**
+* **15:** PTA Meeting 6 PM via ZOOM
+* **26:** Great Pumpkin Pickup
+* **26-30:** Early Release for **Conferences**
 
 ### November
 
-* **2: K-3 Return to School**
-* **3: ELECTION DAY**
-* **9: 4-5 Return to School**
-* **11: Veterans Day - No School**
-* **25: Early Release**
-* **26-27: Thanksgiving - No School**
+* **2:** _K-3 Return to School_
+* **3:** ELECTION DAY
+* **9:** _4-5 Return to School_
+* **11:** Veterans Day - **No School**
+* **25:** Early Release
+* **26-27:** Thanksgiving **- No School**
 
 ### December
 
-* **3: PTA Meeting 6 PM via ZOOM**
-* **18: Early Release for Winter Break**
+* **3:** PTA Meeting 6 PM via ZOOM
+* **18:** Early Release for **Winter Break**
 
 ### January
 
-* **4: Students back to school**
-* ![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
+* **4:** Students back to school
 
 **Questions? Please feel free to contact us any time!**
 
