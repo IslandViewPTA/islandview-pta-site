@@ -42,6 +42,8 @@ Brian Hanrahan
 
 ## PTA Meeting Oct 15 @ 6 PM!
 
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
 **Don't miss the first PTA Meeting of the school year!** Get all the latest info and hear how Island View PTA is cooking up some fall fun for everyone.
 
 [**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win the raffle prize package**. One winner will be randomly selected at the October PTA meeting.
@@ -51,11 +53,15 @@ Prize Packages:
 * Anacortes Kayak Tours Package
 * 5th Street Bistro Brunch for 2
 
-Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at [membership@islandviewpta.org](membership@islandviewpta.org).
-
 {{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
 
 ## THE GREAT PUMPKIN GIVEAWAY
+
+Island View PTA and WatchDogs is hosting a 
+
+**THANK YOU to Schuh Farms** for generously donating the pumpkins for this festive event!
+
+Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at [membership@islandviewpta.org](membership@islandviewpta.org).
 
 ## SAVE THESE DATES!
 
