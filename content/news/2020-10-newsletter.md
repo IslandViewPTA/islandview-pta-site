@@ -122,9 +122,9 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### November
 
-* **2:** _K-3 Return to School_
+* **2:** _K-3 Return to School!!_
 * **3:** ELECTION DAY
-* **9:** _4-5 Return to School_
+* **9:** _4-5 Return to School!!_
 * **11:** Veterans Day - **No School**
 * **25:** Early Release
 * **26-27:** Thanksgiving **- No School**
