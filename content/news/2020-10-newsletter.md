@@ -52,6 +52,8 @@ Brian Hanrahan
 
 {{< fig src="oct 15.png" align="left" class="max-w-xs" >}}
 
+![](/uploads/oct-15.png)
+
 **Don't miss the FIRST PTA Meeting of the school year!** Get all the latest info and hear about some (safe) fall fun for everyone.
 
 [**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win one of two AWESOME raffle prizes**. One winner will be randomly selected at the October meeting.
