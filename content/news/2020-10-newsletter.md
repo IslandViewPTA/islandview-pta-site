@@ -40,6 +40,8 @@ Stay well-
 
 Brian Hanrahan
 
+{{< fig src="calendar.jpg" align="center" class="max-w-xs" >}}
+
 ## PTA Meeting Oct 15 @ 6 PM!
 
 **Don't miss the first PTA Meeting of the school year!** Get all the latest info and hear how Island View PTA is cooking up some fall fun for everyone.
@@ -51,7 +53,7 @@ Prize Packages:
 * Anacortes Kayak Tours Package
 * 5th Street Bistro Brunch for 2
 
-{{< fig src="pumpkins.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
 
 ## THE GREAT PUMPKIN GIVEAWAY
 
