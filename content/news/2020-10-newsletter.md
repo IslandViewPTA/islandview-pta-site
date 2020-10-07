@@ -57,9 +57,9 @@ Prize Packages:
 
 ## THE GREAT PUMPKIN GIVEAWAY
 
-### **Monday, October 26 from 3 to 4 pm**
+### Monday, October 26 from 3 to 4 pm
 
-Island View PTA and WatchDogs are hosting a drive through event to continue the fall tradition of pumpkin fun. **First come, first serve to receive a free pumpkin - only one per Island View family.** 
+Island View PTA and WatchDogs are hosting a drive through event to continue the fall tradition of pumpkin fun. **First come, first serve to receive a free pumpkin - only one per Island View family.**
 
 **THANK YOU to Schuh Farms** for generously donating the pumpkins for this festive event!
 
@@ -69,34 +69,28 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 ### October
 
-* **15th: PTA Meeting 6PM via ZOOM**
-* **26th: Great Pumpkin Pickup**
+* **15: PTA Meeting 6 PM via ZOOM**
+* **26: Great Pumpkin Pickup**
+* **26-30: Early Release for Conferences**
 
-10/15 6pm PTA meeting via zoom
+### November
 
-10/26 Great Pumpkin Pickup
+* **2: K-3 Return to School**
+* **3: ELECTION DAY**
+* **9: 4-5 Return to School**
+* **11: Veterans Day - No School**
+* **25: Early Release**
+* **26-27: Thanksgiving - No School**
 
-10/26 - 10/30 early release for conferences
+### December
 
-11/2 K-3 return to school
+* **3: PTA Meeting 6 PM via ZOOM**
+* **18: Early Release for Winter Break**
 
-11/3 ELECTION DAY
+### January
 
-11/9 4-5 return to school
-
-11/11 Veterans Day - no school
-
-11/25 early release
-
-11/26 - 11/27 no school for Thanksgiving
-
-12/3 6pm PTA meeting via zoom
-
-12/18 early release for winter break
-
-12/21 - 1/1 winter break - no school
-
-![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
+* **4: Students back to school**
+* ![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
 
 **Questions? Please feel free to contact us any time!**
 
