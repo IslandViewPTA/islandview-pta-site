@@ -67,6 +67,20 @@ Island View PTA and WatchDogs are hosting a drive through event to continue the 
 
 Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at [membership@islandviewpta.org](membership@islandviewpta.org).
 
+## YOU are the photographer...
+
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
+It's never too early to start working on the yearbook!
+
+Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest playground - anything is great. 
+
+With the upcoming return to school any bus stop photos are also a plus.
+
+Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org). In the email please include your students' names, grades, and teachers.
+
+We'll do our best to make sure everyone is included. Thank you!
+
 ## N-O-W is the time to JOIN PTA!
 
 **_WE NEED YOU NOW MORE THAN EVER!_**
