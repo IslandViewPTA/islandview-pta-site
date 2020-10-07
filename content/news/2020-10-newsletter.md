@@ -51,3 +51,17 @@ Stay well-
 Brian Hanrahan
 
 ## PTA Meeting 10/15 @ 6 PM!
+
+## SAVE THESE DATES!
+
+### October
+
+* **15:       PTA Meeting online**
+
+**Questions? Please feel free to contact us any time!**
+
+PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+
+PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+
+PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
