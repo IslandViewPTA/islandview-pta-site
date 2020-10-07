@@ -104,9 +104,11 @@ Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island
 
 ***
 
-{{< fig src="donation.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="hands.jpg" align="right" class="max-w-xs" >}}
 
 {{< fig src="donation.jpg" align="right" class="max-w-xs" >}}
+
+{{< fig src="hands.jpg" align="right" class="max-w-xs" >}}
 
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
