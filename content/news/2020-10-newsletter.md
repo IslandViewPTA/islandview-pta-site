@@ -92,6 +92,8 @@ We'll do our best to make sure everyone is included. Thank you!
 
 ***
 
+{{< fig src="joinpta.jpg" align="right" class="max-w-xs" >}}
+
 **_WE NEED YOU NOW MORE THAN EVER!_**
 
 Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
