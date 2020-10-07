@@ -69,11 +69,11 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 ## YOU are the photographer...
 
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+{{< fig src="camera-1.jpg" align="right" class="max-w-xs" >}}
 
 It's never too early to start working on the yearbook!
 
-Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest playground - anything is great. 
+Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest playground - anything is great.
 
 With the upcoming return to school any bus stop photos are also a plus.
 
