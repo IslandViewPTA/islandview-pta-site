@@ -91,7 +91,15 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 
 * **4:** Students back to school
 
-## JOIN Today!
+## N-O-W is the time to JOIN PTA!
+
+**_WE NEED YOU NOW MORE THAN EVER!_**
+
+Support Island View students & staff by [joining](https://www.islandviewpta.org/membership) the PTA!
+
+First, we'd like to **THANK** all those who supported the Island View PTA last year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+
+Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
 ## Are YOU Able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
