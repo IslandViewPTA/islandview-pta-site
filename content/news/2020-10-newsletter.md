@@ -48,7 +48,7 @@ Brian Hanrahan
 
 ***
 
-{{< fig src="calendar.jpg" align="left" class="max-w-xs" >}}
+{{< fig src="oct 15.png" align="left" class="max-w-xs" >}}
 
 **Don't miss the FIRST PTA Meeting of the school year!** Get all the latest info and hear about some (safe) fall fun for everyone.
 
