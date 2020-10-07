@@ -88,7 +88,7 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 
 We'll do our best to make sure everyone is included. Thank you!
 
-## N-O-W is the time to JOIN PTA!
+## JOIN YOUR PTA!
 
 ***
 
@@ -103,6 +103,8 @@ Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island
 ## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
 ***
+
+{{< fig src="donation.jpg" align="right" class="max-w-xs" >}}
 
 {{< fig src="donation.jpg" align="right" class="max-w-xs" >}}
 
