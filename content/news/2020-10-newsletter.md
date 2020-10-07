@@ -42,7 +42,7 @@ Brian Hanrahan
 
 ## PTA Meeting Oct 15 @ 6 PM!
 
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+{{< fig src="calendar.jpg" align="right" class="max-w-xs" >}}
 
 **Don't miss the first PTA Meeting of the school year!** Get all the latest info and hear how Island View PTA is cooking up some fall fun for everyone.
 
@@ -57,7 +57,7 @@ Prize Packages:
 
 ## THE GREAT PUMPKIN GIVEAWAY
 
-Island View PTA and WatchDogs is hosting a 
+Island View PTA and WatchDogs is hosting a
 
 **THANK YOU to Schuh Farms** for generously donating the pumpkins for this festive event!
 
