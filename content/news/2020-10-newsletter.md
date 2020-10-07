@@ -51,9 +51,9 @@ Prize Packages:
 * Anacortes Kayak Tours Package
 * 5th Street Bistro Brunch for 2
 
-Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at membership@islandviewpta.org. 
+Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at membership@islandviewpta.org.
 
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+{{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
 
 ## THE GREAT PUMPKIN GIVEAWAY
 
@@ -62,7 +62,7 @@ Don't forget to send pictures of completed fall coloring sheets, carved pumpkins
 ### October
 
 * **15th: PTA Meeting 6PM via ZOOM**
-* **26th: Great Pumpkin Pickup** 
+* **26th: Great Pumpkin Pickup**
 
 10/15 6pm PTA meeting via zoom
 
