@@ -76,12 +76,6 @@ Island View PTA and WatchDogs are hosting a drive-thru event at the Island View 
 
 Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at [membership@islandviewpta.org](membership@islandviewpta.org).
 
-***
-
-***
-
-{{< fig src="camera.jpg" align="left" class="max-w-xs" >}}
-
 ## Ready to Learn Fair Resource Card Update
 
 Every August the [Anacortes Schools Foundation](https://asfkids.org/) partners with the Anacortes School District to host the [Ready to Learn Fair](https://asfkids.org/events/ready-to-learn-fair.html). This event is meant to provide FREE backpacks, school supplies, books, clothing and community partner information to Anacortes families. Due to COVID-19, this year's event was transitioned to a drive-through event for the backpacks and supplies only and served over 300 students!
@@ -89,6 +83,12 @@ Every August the [Anacortes Schools Foundation](https://asfkids.org/) partners w
 In addition to the backpacks and supplies, each family was given a [Resource Card](https://www.facebook.com/asfkids/photos/pcb.963986520694576/963981304028431/) that ASF has put together. It includes information about community partners that typically attend the RTLF in person each year, local community resources AND information about many of the FREE opportunities available in Anacortes.
 
 \**As noted on this card, some of these resources are not currently open/available due to COVID-19, but will be open again when restrictions are lifted.
+
+***
+
+***
+
+{{< fig src="camera.jpg" align="left" class="max-w-xs" >}}
 
 ## YOU are the photographer...
 
