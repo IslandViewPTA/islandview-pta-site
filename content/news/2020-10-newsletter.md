@@ -135,27 +135,27 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### October
 
-* **15:** PTA Meeting 6 pm via zoom
-* **26:** Great Pumpkin Pickup, 3 to 4 pm
-* **26-30:** Early Release for **Conferences**
+* **15:**  PTA Meeting 6 pm via zoom
+* **26:**  Great Pumpkin Pickup, 3 to 4 pm
+* **26-30:**  Early Release for **Conferences**
 
 ### November
 
-* **2:** _K-3 Return to School!!_
-* **3:** ELECTION DAY
-* **9:** _4-5 Return to School!!_
-* **11:** Veterans Day - **No School**
-* **25:** Early Release
-* **26-27:** Thanksgiving **- No School**
+* **2:**  _Grades K-3 Return to School!!_
+* **3:**  ELECTION DAY
+* **9:**  _Grades 4-5 Return to School!!_
+* **11:**  Veterans Day - **No School**
+* **25:**  Early Release
+* **26-27:**  Thanksgiving **- No School**
 
 ### December
 
-* **3:** PTA Meeting 6 pm via zoom
-* **18:** Early Release for **Winter Break**
+* **3:**  PTA Meeting 6 pm via zoom
+* **18:**  Early Release for **Winter Break**
 
 ### January
 
-* **4:** Students back to school
+* **4:**  Students back to school
 
 ***
 
