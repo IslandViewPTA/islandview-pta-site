@@ -42,13 +42,13 @@ Stay well-
 
 Brian Hanrahan
 
+{{< fig src="oct15.jpg" align="left" class="max-w-xs" >}}
+
 ## PTA Meeting: Thursday, October 15 at 6 PM!
 
 ***
 
 ***
-
-{{< fig src="oct15.jpg" align="left" class="max-w-xs" >}}
 
 **Don't miss the FIRST PTA Meeting of the school year!** Get all the latest info and hear about some (safe) fall fun for everyone.  Watch your email for the zoom link.
 
@@ -60,11 +60,11 @@ Brian Hanrahan
 
 ***
 
+{{< fig src="pumpkins.jpg" align="right" class="max-w-xs" >}}
+
 ## THE GREAT PUMPKIN GIVEAWAY
 
 ### Monday, October 26 from 3 to 4 pm
-
-{{< fig src="pumpkins.jpg" align="right" class="max-w-xs" >}}
 
 Island View PTA and WatchDogs are hosting a drive through event at the Island View bus loop to continue the fall tradition of pumpkin fun. **First come, first serve to receive a free pumpkin - one per Island View family.**
 
@@ -72,11 +72,11 @@ Island View PTA and WatchDogs are hosting a drive through event at the Island Vi
 
 Don't forget to send pictures of completed fall coloring sheets, carved pumpkins, and roasted seeds! Email them to us at [membership@islandviewpta.org](membership@islandviewpta.org).
 
+{{< fig src="camera.jpg" align="left" class="max-w-xs" >}}
+
 ## YOU are the photographer...
 
 ***
-
-{{< fig src="camera.jpg" align="left" class="max-w-xs" >}}
 
 It's never too early to start working on the yearbook!
 
@@ -88,11 +88,11 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 
 We'll do our best to make sure everyone is included. Thank you!
 
+{{< fig src="joinorange.jpg" align="right" class="max-w-xs" >}}
+
 ## JOIN YOUR PTA!
 
 ***
-
-{{< fig src="joinorange.jpg" align="right" class="max-w-xs" >}}
 
 **_WE NEED YOU NOW MORE THAN EVER!_**
 
@@ -100,11 +100,11 @@ We'll do our best to make sure everyone is included. Thank you!
 
 Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
+{{< fig src="donation.jpg" align="left" class="max-w-xs" >}}
+
 ## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
 ***
-
-{{< fig src="donation.jpg" align="left" class="max-w-xs" >}}
 
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
