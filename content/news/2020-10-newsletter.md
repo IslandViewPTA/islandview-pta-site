@@ -4,7 +4,7 @@ newsletter: true
 title: October 2020 Newsletter
 date: 2020-10-08T00:00:00-07:00
 description: ''
-image: "/uploads/fall-leaves.jpg"
+image: "/uploads/fallleaves.jpg"
 draft: true
 
 ---
