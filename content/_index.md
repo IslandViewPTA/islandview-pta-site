@@ -24,7 +24,7 @@ Check your email Thursday morning for the zoom link.
 
 [**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win AWESOME raffle prizes**. One winner will be randomly selected at the October meeting.
 
-**Prize Packages:** Anacortes Kayak Tours Package // 5th Street Bistro Brunch for Two
+**Prize Packages:** Anacortes Kayak Tours Package and 5th Street Bistro Brunch for Two
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
