@@ -116,11 +116,11 @@ We'll do our best to make sure everyone is included. Thank you!
 
 Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
-{{< fig src="donation.jpg" align="left" class="max-w-xs" >}}
-
 ## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
 ***
+
+{{< fig src="donation.jpg" align="center" class="max-w-xs" >}}
 
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
