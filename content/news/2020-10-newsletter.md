@@ -82,7 +82,7 @@ It's never too early to start working on the yearbook!
 
 Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest park - anything is great.
 
-With the upcoming return to school any bus stop photos are also a plus.
+With the upcoming return to school, any bus stop photos are also a plus.
 
 Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org). In the email please include your students' names, grades, and teachers.
 
