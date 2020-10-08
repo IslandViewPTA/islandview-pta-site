@@ -44,7 +44,7 @@ Brian Hanrahan
 
 {{< fig src="oct15.jpg" align="left" class="max-w-xs" >}}
 
-## PTA Meeting: Thursday, October 15 at 6 PM!
+## PTA Meeting: Thursday, October 15 at 6 pm!
 
 ***
 
@@ -54,7 +54,7 @@ Brian Hanrahan
 
 [**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win AWESOME raffle prizes**. One winner will be randomly selected at the October meeting.
 
-**Prize Packages:** Anacortes Kayak Tours Package // 5th Street Bistro Brunch for 2
+**Prize Packages:** Anacortes Kayak Tours Package // 5th Street Bistro Brunch for Two
 
 ***
 
@@ -62,7 +62,7 @@ Brian Hanrahan
 
 {{< fig src="pumpkins.jpg" align="right" class="max-w-xs" >}}
 
-## THE GREAT PUMPKIN GIVEAWAY
+## THE GREAT PUMPKIN PICKUP
 
 ### Monday, October 26 from 3 to 4 pm
 
