@@ -45,7 +45,7 @@ Brian Hanrahan
 
 ***
 
-{{< fig src="oct15.jpg" align="left" class="max-w-xs" >}}
+{{< fig src="oct15.jpg" align="center" class="max-w-xs" >}}
 
 ## PTA Meeting: Thursday, October 15 at 6 pm!
 
