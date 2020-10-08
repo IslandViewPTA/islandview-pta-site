@@ -63,7 +63,7 @@ Brian Hanrahan
 
 ***
 
-{{< fig src="pumpkins.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
 
 ## THE GREAT PUMPKIN PICKUP
 
@@ -87,7 +87,7 @@ In addition to the backpacks and supplies, each family was given a [Resource Car
 
 ***
 
-{{< fig src="camera.jpg" align="left" class="max-w-xs" >}}
+{{< fig src="camera.jpg" align="center" class="max-w-xs" >}}
 
 ## YOU are the photographer...
 
@@ -103,7 +103,7 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 
 We'll do our best to make sure everyone is included. Thank you!
 
-{{< fig src="joinorange.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="joinorange.jpg" align="center" class="max-w-xs" >}}
 
 ## JOIN YOUR PTA!
 
@@ -115,7 +115,7 @@ We'll do our best to make sure everyone is included. Thank you!
 
 Won't you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
-{{< fig src="donation.jpg" align="left" class="max-w-xs" >}}
+{{< fig src="donation.jpg" align="center" class="max-w-xs" >}}
 
 ***
 
