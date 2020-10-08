@@ -66,7 +66,7 @@ Brian Hanrahan
 
 ### Monday, October 26 from 3 to 4 pm
 
-Island View PTA and WatchDogs are hosting a drive through event at the Island View bus loop to continue the fall tradition of pumpkin fun. **First come, first serve to receive a free pumpkin - one per Island View family.**
+Island View PTA and WatchDogs are hosting a drive-thru event at the Island View bus loop to continue the fall tradition of pumpkin fun. **First come, first served to receive a free pumpkin - one per Island View family.**
 
 **THANK YOU to Schuh Farms** for generously donating the pumpkins for this festive event!
 
