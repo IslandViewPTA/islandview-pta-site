@@ -18,13 +18,11 @@ type: page
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Please join us at 6pm on Thursday, October 15th for the first PTA meeting of the year!
+### SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, December 1st via zoom.   
 
-Check your email Thursday morning for the zoom link.
+We hope you will [**Join the PTA**](https://www.islandviewpta.org/membership) 
 
-[**Join the PTA**](https://www.islandviewpta.org/membership) **to be eligible to win AWESOME raffle prizes**. One winner will be randomly selected at the October meeting.
-
-**Prize Packages:** Anacortes Kayak Tours Package and 5th Street Bistro Brunch for Two
+**And**  [https://www.islandviewpta.org/donate/](https://www.islandviewpta.org/donate/ "DONATE")
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
