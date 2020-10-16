@@ -20,7 +20,7 @@ type: page
 
 ### SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, December 1st via zoom.
 
-We hope you will [**Join the PTA **](https://www.islandviewpta.org/membership)and please consider [donating](https://www.islandviewpta.org/donate) if you can!
+We hope you will [**JOIN THE PTA **](https://www.islandviewpta.org/membership)and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
