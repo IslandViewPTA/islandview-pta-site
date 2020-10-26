@@ -150,7 +150,7 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 ### December
 
-* **3:**  PTA Meeting 6 pm via zoom
+* **1:**  PTA Meeting 6 pm via zoom
 * **18:**  Early Release for **Winter Break**
 
 ### January
