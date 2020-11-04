@@ -42,12 +42,26 @@ Brian Hanrahan
 
 ## WELCOME BACK!
 
-Monday, November 2 was filled with many memorable moments as the first Island View students returned to in-person learning. HUGE thanks go out to Rachel Esposito, Stacey Mahoney, and Jenessa Eelkema for showing up at the crack of dawn Monday to decorate before staff and students arrived at school. Also, deepest thanks to all those that 'chalked the walk' around Island View on Sunday, November 1 - your creations kept spirits high and spread love to all.
+Monday, November 2 was filled with many memorable moments as K-3 Island View students returned to in-person learning. **HUGE thanks go out to Rachel Esposito, Stacey Mahoney, and Jenessa Eelkema** for showing up early Monday to decorate before staff and students arrived at school. Also, deepest thanks to all those that 'chalked the walk' around Island View on Sunday, November 1 to share love with students and staff.
 
-The photos say it all:
+**We will be decorating again on Monday, November 9th for our 4th and 5th graders' return to in-person learning. If you'd like to help out, please email** [**membership@islandviewpta.org**](mailto:membership@islandviewpta.org)**.**
 
 ## PTA Meeting TUESDAY Dec 1
 
 {{< fig src="December-PTA-meeting.png" align="center" class="max-w-xs" >}}
 
-Join us via Zoom for our second PTA meeting of the year
+***
+
+Join us via Zoom for our second PTA meeting of the year! Get all the latest news and help make amazing things happen for our school.
+
+## CELEBRATE the Season 
+
+## Share Art with Senior Center
+
+## Box Tops help Island View!
+
+## MEMBERSHIP 
+
+## Amazon Smile
+
+## YEARBOOK
