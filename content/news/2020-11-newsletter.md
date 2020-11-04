@@ -60,7 +60,7 @@ Join us via Zoom for our second PTA meeting of the year! Get all the latest news
 
 Every year, the Anacortes Schools Foundation throws their "Celebrate the Season" event to raise money in support of ASD students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships and more!
 
-**Your help is needed!** Island View PTA will be contributing a fun 'Some Like it Hot' ensemble of firepit-themed accessories. See this sign-up to be a part of the hottest auction item this year.
+**Your help is needed!** Island View PTA will be contributing a fun 'Some Like it Hot' ensemble of firepit-themed accessories. [See this sign-up](https://www.signupgenius.com/go/10c0d44aead2da3f58-some) to be a part of the hottest auction item this year.
 
 Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction: congratulations to Olive B., Sophia N., and Maya H!**
 
