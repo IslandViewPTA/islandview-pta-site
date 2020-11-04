@@ -48,6 +48,6 @@ The photos say it all:
 
 ## PTA Meeting TUESDAY Dec 1
 
-{{< fig src="December PTA meeting.png" align="center" class="max-w-xs" >}}
+{{< fig src="December-PTA-meeting.png" align="center" class="max-w-xs" >}}
 
 Join us via Zoom for our second PTA meeting of the year
