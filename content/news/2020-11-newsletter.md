@@ -58,9 +58,9 @@ Join us via Zoom for our second PTA meeting of the year! Get all the latest news
 
 {{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-xs" >}}
 
-Thank you to all the students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, three Island View students will have work included in this year's auction: congratulations to Olive B., Sophia N., and Maya H!
+Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, three Island View students will have work included in this year's auction: congratulations to Olive B., Sophia N., and Maya H!
 
- 
+Island View will be assembling an incredible assortment of 
 
 ## Share Art with Senior Center
 
