@@ -3,7 +3,7 @@ newsletter_date: 2020-11-01T00:00:00-07:00
 newsletter: true
 title: November 2020 Newsletter
 date: 2020-11-01T00:00:00-07:00
-description: So much to be thankful for as part of the Island View family!
+description: The Island View family has so much to be thankful for!
 image: "/uploads/turkey.jpg"
 draft: true
 
@@ -39,3 +39,5 @@ We believe if adults in the building nurture these feelings, our students will t
 I wish you a Happy Thanksgiving. Enjoy your family. Make memories. And stay well-
 
 Brian Hanrahan
+
+## WELCOME BACK!
