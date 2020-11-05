@@ -35,13 +35,7 @@ I wish you a Happy Thanksgiving. Enjoy your family. Make memories. And stay well
 
 Brian Hanrahan
 
-{{< fig src="welcomeback.jpg" align="left" class="max-w-xs" >}}
-
-{{< fig src="heart-smile.jpg" align="left" class="max-w-xs" >}}
-
-{{< fig src="isv-dropoff.jpg" align="left" class="max-w-xs" >}}
-
-{{< fig src="eagle-chalk.jpg" align="left" class="max-w-xs" >}}
+{{< gallery images="welcomeback.jpg,heart-smile.jpg,isv-dropoff.jpg,eagle-chalk.jpg" >}}
 
 ## WELCOME BACK!
 
@@ -98,13 +92,7 @@ Box Tops is still an easy way to support Island View. Remember to redeem these v
 
 **THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
-If you are not a member yet, would you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today? **(or JOIN button)**
-
-## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
-
-**(or DONATE button)**
-
-If you are able, please consider [**donating**](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
+{{< cta >}}
 
 You can also help by selecting Island View PTA as your charity of choice in [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 

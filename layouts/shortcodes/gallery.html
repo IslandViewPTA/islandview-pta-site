@@ -1,0 +1,66 @@
+{{- $images :=  .Get "images" -}}
+
+{{ $imagesList := split $images "," }}
+
+{{ $imagesLength := (len $imagesList) }}
+
+{{ .Scratch.Set "styleCount" 0 }}
+{{ .Scratch.Set "cardCount" 0 }}
+{{ .Scratch.Set "thumbCount" 0 }}
+
+<style>
+/*each image is referenced twice in the HTML, but each image only needs to be updated in the CSS*/
+{{ range $imagesList }}
+.image{{ $.Scratch.Get "styleCount" }} {
+  content: url("//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ . }}&w=600")
+}
+{{ $.Scratch.Add "styleCount" 1 }}
+{{ end }}
+</style>
+
+<section class="mx-auto max-w-2xl py-4">
+  <div class="shadow-2xl relative rounded-lg">
+    <div class="flex justify-around bg-black rounded-t-lg">
+      {{ range $imagesList }}
+        <div>
+          <img class='image{{ $.Scratch.Get "thumbCount" }} description h-16 md:h-24 cursor-pointer' src="#" onclick='currentSlide({{- $.Scratch.Get "thumbCount" -}})'>
+        </div>
+        {{ $.Scratch.Add "thumbCount" 1 }}
+      {{ end }}
+    </div>
+    <!-- large image on slides -->
+    {{ range $imagesList }}
+      <div class="mySlides hidden rounded-b-lg">
+        <div class='image{{ $.Scratch.Get "cardCount" }} w-full object-cover rounded-b-lg'></div>
+      </div>
+      {{ $.Scratch.Add "cardCount" 1 }}
+    {{ end }}
+  </div>
+</section>
+
+
+<script>
+  //JS to switch slides and replace text in bar//
+  var slideIndex = 0;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    if (n > slides.length) {
+      slideIndex = 0
+    }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slides[slideIndex].style.display = "block";
+  }
+</script>
