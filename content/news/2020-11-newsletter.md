@@ -52,6 +52,10 @@ Monday, November 2 was filled with many memorable moments as K-3 Island View stu
 
 Join us via Zoom for our second PTA meeting of the year! Get all the latest news and help make amazing things happen for our school.
 
+## You are the change needed!
+
+Calling all current and 
+
 ## CELEBRATE the Season
 
 {{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-xs" >}}
