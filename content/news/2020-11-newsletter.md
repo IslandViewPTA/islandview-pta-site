@@ -35,7 +35,11 @@ I wish you a Happy Thanksgiving. Enjoy your family. Make memories. And stay well
 
 Brian Hanrahan
 
-**...Insert photos from Nov 2 here...**
+{{< fig src="welcomeback.jpg" align="left" class="max-w-xs" >}}
+
+{{< fig src="heart-smile.jpg" align="right" class="max-w-xs" >}}
+
+{{< fig src="isv-dropoff.jpg" align="left" class="max-w-xs" >}}
 
 ## WELCOME BACK!
 
@@ -94,7 +98,7 @@ Box Tops is still an easy way to support Island View. Remember to redeem these v
 
 If you are not a member yet, would you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today? **(or JOIN button)**
 
-## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)? 
+## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
 **(or DONATE button)**
 
