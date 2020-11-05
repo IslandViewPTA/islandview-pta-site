@@ -41,6 +41,8 @@ Brian Hanrahan
 
 {{< fig src="isv-dropoff.jpg" align="left" class="max-w-xs" >}}
 
+{{< fig src="eagle-chalk.jpg" align="right" class="max-w-xs" >}}
+
 ## WELCOME BACK!
 
 Monday, November 2 was filled with many memorable moments as K-3 Island View students returned to in-person learning. **HUGE thanks go out to Rachel Esposito, Stacey Mahoney, and Jenessa Eelkema** for showing up early Monday to decorate before staff and students arrived at school. Also, deepest thanks to all those that 'chalked the walk' around Island View on Sunday, November 1 to share love with students and staff.
