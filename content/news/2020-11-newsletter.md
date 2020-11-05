@@ -92,7 +92,7 @@ Box Tops is still an easy way to support Island View. Remember to redeem these v
 
 **THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
-Won’t you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today? **(or JOIN button)**
+If you are not a member yet, would you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today? **(or JOIN button)**
 
 ## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)? 
 
