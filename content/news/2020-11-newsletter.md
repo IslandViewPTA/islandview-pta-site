@@ -50,8 +50,6 @@ Monday, November 2 was filled with many memorable moments as K-3 Island View stu
 
 {{< fig src="December-PTA-meeting.png" align="center" class="max-w-xs" >}}
 
-***
-
 Join us via Zoom for our second PTA meeting of the year! Get all the latest news and help make amazing things happen for our school.
 
 ## CELEBRATE the Season
@@ -76,9 +74,17 @@ Box Tops is still an easy way to support Island View. Remember to redeem these v
 
 {{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
-## MEMBERSHIP
+## JOIN YOUR PTA!
+
+**_WE NEED YOU NOW MORE THAN EVER!_**
+
+**THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+
+Won’t you please [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today?
 
 ## Amazon Smile
+
+{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
 ## YEARBOOK
 
