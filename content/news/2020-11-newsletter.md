@@ -64,9 +64,15 @@ Every year, the Anacortes Schools Foundation throws their "Celebrate the Season"
 
 Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction: congratulations to Olive B., Sophia N., and Maya H!**
 
-## Share Art with Senior Center
+## Share Art with Seniors in town
+
+Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off to the Senior Center on xx.
 
 ## Box Tops help Island View!
+
+{{< fig src="BoxTopics_NovDec.jpg" align="center" class="max-w-xs" >}}
+
+Box Tops is still an easy way to support Island View.
 
 ## MEMBERSHIP
 
