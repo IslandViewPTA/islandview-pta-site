@@ -70,7 +70,7 @@ Meals on Wheels is collecting artwork for the seniors they assist and this month
 
 ## Box Tops help Island View!
 
-{{< fig src="BoxTopics_NovDec.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="boxtopics_novdec.jpg" align="center" class="max-x-xs" >}}
 
 Box Tops is still an easy way to support Island View.
 
