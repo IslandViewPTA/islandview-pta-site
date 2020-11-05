@@ -59,7 +59,7 @@ Join us via Zoom for our second PTA meeting of the year! Get all the latest news
 
 There are several AMAZING opportunities available RIGHT NOW to make fun events a reality for our students and their families. The PTA welcomes volunteer Chairpersons for the following positions:
 
-* Family Fun Night
+* Family Fun 
 * Hospitality
 * Graduation
 * I Love to Read Month
