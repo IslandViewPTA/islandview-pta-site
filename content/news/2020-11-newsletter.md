@@ -37,11 +37,11 @@ Brian Hanrahan
 
 {{< fig src="welcomeback.jpg" align="left" class="max-w-xs" >}}
 
-{{< fig src="heart-smile.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="heart-smile.jpg" align="left" class="max-w-xs" >}}
 
 {{< fig src="isv-dropoff.jpg" align="left" class="max-w-xs" >}}
 
-{{< fig src="eagle-chalk.jpg" align="right" class="max-w-xs" >}}
+{{< fig src="eagle-chalk.jpg" align="left" class="max-w-xs" >}}
 
 ## WELCOME BACK!
 
