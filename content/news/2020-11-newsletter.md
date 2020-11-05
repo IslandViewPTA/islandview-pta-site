@@ -22,17 +22,12 @@ Because we realize the importance of relationships, the Island View staff has cr
 
 **As staff at Island View Elementary School, we want to create a work environment that helps us feel:**
 
-· **VALUED**
-
-· **SAFE**
-
-· **SUPPORTED**
-
-· **INSPIRED**
-
-· **CONTENT**
-
-· **COLLABORATIVE**
+* **VALUED**
+* **SAFE**
+* **SUPPORTED**
+* **INSPIRED**
+* **CONTENT**
+* **COLLABORATIVE**
 
 We believe if adults in the building nurture these feelings, our students will thrive. Ultimately, that is our primary hope. If there is anything we can do to help your student thrive at this time, please reach out to me at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) or at 360-503-1490.
 
@@ -54,7 +49,12 @@ Join us via Zoom for our second PTA meeting of the year! Get all the latest news
 
 ## You are the change needed!
 
-Calling all current and 
+There are several AMAZING opportunities available RIGHT NOW to make fun events a reality for our students and their families. The PTA welcomes volunteers Chairpersons for the following positions:
+
+* Family Fun Night
+* Hospitality
+* Graduation
+* I Love to Read Month
 
 ## CELEBRATE the Season
 
