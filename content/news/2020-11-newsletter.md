@@ -72,7 +72,9 @@ Meals on Wheels is collecting artwork for the seniors they assist and this month
 
 {{< fig src="boxtopics_novdec.jpg" align="center" class="max-x-xs" >}}
 
-Box Tops is still an easy way to support Island View.
+Box Tops is still an easy way to support Island View. Remember to redeem the valuable coupons with photos of your shopping receipts. 
+
+{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
 ## MEMBERSHIP
 
