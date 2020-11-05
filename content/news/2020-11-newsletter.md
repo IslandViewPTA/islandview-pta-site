@@ -80,11 +80,11 @@ We’ll do our best to make sure everyone is included. Thank you!
 
 ## Box Tops help Island View!
 
-Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of purchase.
+Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
 
 {{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
-## JOIN YOUR PTA! 
+## JOIN YOUR PTA!
 
 ## (or JOIN button)
 
@@ -102,4 +102,30 @@ If you are able, please consider [**donating**](https://www.islandviewpta.org/do
 
 You can also help by selecting Island View PTA as your charity of choice in [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
-## 
+## SAVE THESE DATES!
+
+### November
+
+* **9:**  _Grades 4-5 Return to School!!_
+* **11:**  Veterans Day - **No School**
+* **25:**  Early Release
+* **26-27:**  Thanksgiving **- No School**
+
+### December
+
+* **1:**  PTA Meeting 6 pm via zoom
+* **18:**  Early Release for **Winter Break**
+
+### January
+
+* **4:**  Students back to school
+
+***
+
+**Questions? Please feel free to contact us any time!**
+
+PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+
+PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+
+PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
