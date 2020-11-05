@@ -80,8 +80,6 @@ We’ll do our best to make sure everyone is included. Thank you!
 
 ## Box Tops help Island View!
 
-{{< fig src="boxtopics1_novdec.jpg" align="center" class="max-w-xs" >}}
-
 Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of purchase.
 
 {{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
