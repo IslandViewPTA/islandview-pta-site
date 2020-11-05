@@ -66,6 +66,16 @@ Thank you to all those students that submitted artwork for the ASF Celebrate the
 
 Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off to the Senior Center on xx.
 
+{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
+
+## YEARBOOK
+
+This is another year our kids won't forget! **Calling all photos of Island View students returning to in-person learning, remote learning, bus stop, etc. Share those snapshots from Nov 2 and Nov 9!**
+
+Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
+
+We’ll do our best to make sure everyone is included. Thank you!
+
 ## Box Tops help Island View!
 
 {{< fig src="boxtopics1_novdec.jpg" align="center" class="max-w-xs" >}}
@@ -74,7 +84,9 @@ Box Tops is still an easy way to support Island View. Remember to redeem these v
 
 {{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
-## JOIN YOUR PTA!
+## JOIN YOUR PTA! 
+
+## (or JOIN button)
 
 **_WE NEED YOU NOW MORE THAN EVER!_**
 
@@ -84,24 +96,10 @@ Won’t you please [**JOIN**](https://www.islandviewpta.org/membership) our Isla
 
 ## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
+## (or DONATE button)
+
 If you are able, please consider [**donating**](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
 You can also help by selecting Island View PTA as your charity of choice in [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
-{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
-
-## YEARBOOK
-
-It’s never too early to start working on the yearbook!
-
-Please send us photos of your Island View students hard at work or play. First day of school, singing along with music class, jumping for gym, or just playing at the closest park - anything is great.
-
-With the upcoming return to school, any bus stop photos are also a plus.
-
-Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
-
-We’ll do our best to make sure everyone is included. Thank you!
-
-## JOIN Button
-
-## DONATE Button
+## 
