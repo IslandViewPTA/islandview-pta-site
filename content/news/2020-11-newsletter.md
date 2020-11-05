@@ -43,13 +43,13 @@ Monday, November 2 was filled with many memorable moments as K-3 Island View stu
 
 ## PTA Meeting TUESDAY Dec 1
 
-{{< fig src="December-PTA-meeting.png" align="center" class="max-w-xs" >}}
+{{< fig src="December-PTA-meeting.png" align="right" class="max-w-xs" >}}
 
 Join us via Zoom for our second PTA meeting of the year! Get all the latest news and help make amazing things happen for our school.
 
 ## You are the change needed!
 
-There are several AMAZING opportunities available RIGHT NOW to make fun events a reality for our students and their families. The PTA welcomes volunteers Chairpersons for the following positions:
+There are several AMAZING opportunities available RIGHT NOW to make fun events a reality for our students and their families. The PTA welcomes volunteer Chairpersons for the following positions:
 
 * Family Fun Night
 * Hospitality
@@ -69,8 +69,6 @@ Thank you to all those students that submitted artwork for the ASF Celebrate the
 ## Share Art with Seniors in town
 
 Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off to the Senior Center on xx.
-
-{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
 ## YEARBOOK
 
