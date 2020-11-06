@@ -38,7 +38,7 @@ Brian Hanrahan
 
 {{< gallery images="welcomeback.jpg,heart-smile.jpg,isv-dropoff.jpg,eagle-chalk.jpg" >}}
 
-## WELCOME BACK!
+## WELCOME BACK K-3!
 
 Monday, November 2 was filled with many memorable moments as K-3 Island View students returned to in-person learning. **HUGE thanks go out to Rachel Esposito, Stacey Mahoney, and Jenessa Eelkema** for showing up early Monday to decorate before staff and students arrived at school. Also, deepest thanks to all those that 'chalked the walk' around Island View on Sunday, November 1 to share love with students and staff.
 
@@ -73,7 +73,7 @@ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats
 
 ### READY - SET - SMILE!
 
-**ALL students will have their picture taken for their student ID card and records on Friday November 13. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are NOT being used.**
+**ALL K-3 grade students will have their picture taken for their student ID card and records on Friday November 13. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are NOT being used.**
 
 If you would like to order pictures, use the link emailed to you or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/), click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
 
