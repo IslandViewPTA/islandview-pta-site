@@ -63,7 +63,9 @@ Please email [**membership@islandviewpta.org **](mailto:membership@islandviewpta
 
 {{< fig src="staff-food-drop.jpg" align="center" class="max-w-xs" >}}
 
-_PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.
+## _PTA loves our Island View students **AND** staff!_ 
+
+Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.
 
 {{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
 
