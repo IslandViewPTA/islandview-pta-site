@@ -13,7 +13,9 @@ type: event
 ---
 ## PTA Meetings
 
-By law we must have at least 25 members to remain an active PTA. Our meetings will only occur when necessary, and will take place online. We’d love for you to [become a member of the PTA](/membership/).
+{{< fig src="December-PTA-meeting.png" align="center" class="max-w-s" >}}
+
+We’d love for you to [become a member of the PTA](/membership/).
 
 ## Events
 
