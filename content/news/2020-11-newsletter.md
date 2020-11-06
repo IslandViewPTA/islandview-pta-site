@@ -79,9 +79,9 @@ If you would like to order pictures, use the link emailed to you or go to their 
 
 Picture retakes will be the second week of December.
 
-## CELEBRATE the Season
-
 {{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-xs" >}}
+
+## CELEBRATE the Season
 
 Every year, the Anacortes Schools Foundation throws their "Celebrate the Season" event to raise money in support of ASD students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships and more!
 
