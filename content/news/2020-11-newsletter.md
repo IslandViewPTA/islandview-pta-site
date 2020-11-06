@@ -79,7 +79,7 @@ If you would like to order pictures, use the link emailed to you or go to their 
 
 Picture retakes will be the second week of December.
 
-{{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-s" >}}
+{{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-xs" >}}
 
 ## CELEBRATE the Season
 
@@ -103,7 +103,7 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included. Thank you!
 
-{{< fig src="box-tops-explain.jpg" align="center" class="max-w-s" >}}
+{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
 ## Box Tops help Island View!
 
