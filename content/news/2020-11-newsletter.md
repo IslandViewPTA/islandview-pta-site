@@ -67,7 +67,7 @@ _PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov
 
 {{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
 
-{{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="/uploads/pictureday.jpg" align="center" class="max-w-xs" >}}
 
 ## Picture Day Friday Nov. 13
 
