@@ -52,7 +52,7 @@ Join us via Zoom for our second PTA meeting of the year! Get all the latest news
 
 ## You are the change needed!
 
-There are several AMAZING opportunities available RIGHT NOW to make fun events a reality for our students and their families. The PTA welcomes volunteer Chairpersons for the following positions:
+There are **several AMAZING opportunities available RIGHT NOW** to make fun events a reality for our students and their families. The PTA welcomes volunteer Chairpersons for the following positions:
 
 * Family Fun
 * Hospitality
@@ -62,6 +62,14 @@ There are several AMAZING opportunities available RIGHT NOW to make fun events a
 ## Picture Day Friday Nov. 13
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
+
+READY - SET - SMILE!
+
+**ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is online ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.** 
+
+If you would like to order pictures, use this link or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/) , click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
+
+Picture retakes will be the second week of December.
 
 ## CELEBRATE the Season
 
