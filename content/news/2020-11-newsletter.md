@@ -85,7 +85,7 @@ Thank you to all those students that submitted artwork for the ASF Celebrate the
 
 {{< fig src="mealsonwheels.png" align="center" class="max-w-xs" >}}
 
-Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off to the Senior Center on xx.
+Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off in the outdoor basket at the Senior Center before November 20. 
 
 ## YEARBOOK
 
