@@ -67,7 +67,7 @@ READY - SET - SMILE!
 
 **ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is online ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.** 
 
-If you would like to order pictures, use this link or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/) , click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
+If you would like to order pictures, use the link emailed to you or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/) , click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
 
 Picture retakes will be the second week of December.
 
