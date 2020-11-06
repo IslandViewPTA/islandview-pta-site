@@ -1,10 +1,11 @@
 ---
-newsletter_date: 2020-11-01T00:00:00-07:00
+newsletter_date: 2020-11-01T00:00:00.000-07:00
 newsletter: true
 title: November 2020 Newsletter
-date: 2020-11-01T00:00:00-07:00
+date: 2020-11-01T00:00:00.000-07:00
 description: The Island View family has so much to be thankful for!
 image: "/uploads/turkey.jpg"
+type: ''
 draft: true
 
 ---
@@ -53,10 +54,14 @@ Join us via Zoom for our second PTA meeting of the year! Get all the latest news
 
 There are several AMAZING opportunities available RIGHT NOW to make fun events a reality for our students and their families. The PTA welcomes volunteer Chairpersons for the following positions:
 
-* Family Fun 
+* Family Fun
 * Hospitality
 * Graduation
 * I Love to Read Month
+
+## Picture Day Friday Nov. 13
+
+{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
 ## CELEBRATE the Season
 
