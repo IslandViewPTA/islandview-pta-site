@@ -6,7 +6,6 @@ date: 2020-11-01T00:00:00.000-07:00
 description: The Island View family has so much to be thankful for!
 image: "/uploads/turkey.jpg"
 type: ''
-draft: true
 
 ---
 ## Principal's Message
