@@ -59,6 +59,10 @@ There are **several AMAZING opportunities available RIGHT NOW** to make fun even
 * Graduation
 * I Love to Read Month
 
+_PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to school courtesy of the PTA. 
+
+{{< fig src="staff-food-drop.jpg" align="center" class="max-w-xs" >}}
+
 ## Picture Day Friday Nov. 13
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
