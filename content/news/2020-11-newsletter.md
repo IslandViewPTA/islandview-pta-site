@@ -44,7 +44,7 @@ Monday, November 2 was filled with many memorable moments as K-3 Island View stu
 
 We will decorate again when our 4th and 5th graders return to in-person learning, whenever that will be. If you'd like to help out, please email [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
 
-{{< fig src="December-PTA-meeting.png" align="center" class="max-w-xs" >}}
+{{< fig src="December-PTA-meeting.png" align="center" class="max-w-s" >}}
 
 ## PTA Meeting TUESDAY Dec 1
 
@@ -71,8 +71,6 @@ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats
 
 ## Picture Day Friday Nov. 13
 
-{{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
-
 ### READY - SET - SMILE!
 
 **ALL students will have their picture taken for their student ID card and records on Friday November 13. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are NOT being used.**
@@ -81,7 +79,7 @@ If you would like to order pictures, use the link emailed to you or go to their 
 
 Picture retakes will be the second week of December.
 
-{{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-xs" >}}
+{{< fig src="Celebrate-Digital-Ad.png" align="center" class="max-w-s" >}}
 
 ## CELEBRATE the Season
 
@@ -91,7 +89,7 @@ Every year, the Anacortes Schools Foundation throws their "Celebrate the Season"
 
 Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction. Congratulations to Olive B., Sophia N., and Maya H, and** [**check out this video about all the district winners!**](https://www.youtube.com/watch?v=OkP2X0WcnBg&feature=youtu.be)
 
-{{< fig src="mealsonwheels.png" align="center" class="max-w-xs" >}}
+{{< fig src="mealsonwheels.png" align="center" class="max-w-s" >}}
 
 ## Share Art with Seniors in town
 
@@ -105,13 +103,13 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included. Thank you!
 
-{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="box-tops-explain.jpg" align="center" class="max-w-s" >}}
 
 ## Box Tops help Island View!
 
 Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
 
-{{< fig src="100-percent-staff.png" align="center" class="max-w-xs" >}}
+{{< fig src="100-percent-staff.png" align="center" class="max-w-s" >}}
 
 ## You're INCREDIBLE!
 
