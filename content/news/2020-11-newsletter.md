@@ -15,7 +15,7 @@ Island View Families:
 
 As we welcomed students back into the building this month, I stand in awe of our school community. Staff are working together to ensure students are safe and nurtured, and families are showing patience and grace by following our guidelines and protocols. Thank you for your positive partnership.
 
-Yet, I must admit I am not surprised. Afterall, we are the proud, soarin’ Island View eagles.  😊 
+Yet, I must admit I am not surprised. Afterall, we are the proud, soarin’ Island View eagles.  😊
 
 I have spent every free moment I can muster in classrooms, and **your children are inspiring**. They wear masks when they would rather not wear them. They keep calm bodies and socially distance from their peers. They joyfully engage in learning. Every time I walk into a classroom and watch our talented staff work with your gifted students, I am reminded that loving relationships form the heart of education. We understand that heart at Island View.
 
@@ -61,9 +61,11 @@ There are **several AMAZING opportunities available RIGHT NOW** to make fun even
 
 Please email [**membership@islandviewpta.org **](mailto:membership@islandviewpta.org)to get involved!!
 
+{{< fig src="staff-food-drop.jpg" align="center" class="max-w-xs" >}}
+
 _PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.
 
-{{< fig src="staff-food-drop.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
 
 ## Picture Day Friday Nov. 13
 
