@@ -99,7 +99,7 @@ Meals on Wheels is collecting artwork for the seniors they assist and this month
 
 ## YEARBOOK
 
-This is another year our kids won't forget! **Calling all photos of Island View students returning to in-person learning, engaged in remote learning, at the bus stop, etc. Share those precious snapshots taken on Nov 2 and/or Nov 9!**
+This is another year our kids won't forget! **Calling for all photos of Island View students returning to in-person learning, engaged in remote learning, at the bus stop, etc. Share those precious snapshots taken on Nov 2 and/or Nov 9!**
 
 Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
 
