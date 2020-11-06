@@ -63,9 +63,9 @@ There are **several AMAZING opportunities available RIGHT NOW** to make fun even
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
-READY - SET - SMILE!
+### READY - SET - SMILE!
 
-**ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is online ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.** 
+**ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.** 
 
 If you would like to order pictures, use the link emailed to you or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/) , click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
 
