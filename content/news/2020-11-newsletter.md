@@ -15,7 +15,7 @@ Island View Families:
 
 As we welcomed students back into the building this month, I stand in awe of our school community. Staff are working together to ensure students are safe and nurtured, and families are showing patience and grace by following our guidelines and protocols. Thank you for your positive partnership.
 
-Yet, I must admit I am not surprised. Afterall, we are the proud, soarin’ Island View eagles 😊 .
+Yet, I must admit I am not surprised. Afterall, we are the proud, soarin’ Island View eagles.  😊 
 
 I have spent every free moment I can muster in classrooms, and **your children are inspiring**. They wear masks when they would rather not wear them. They keep calm bodies and socially distance from their peers. They joyfully engage in learning. Every time I walk into a classroom and watch our talented staff work with your gifted students, I am reminded that loving relationships form the heart of education. We understand that heart at Island View.
 
@@ -44,9 +44,9 @@ Monday, November 2 was filled with many memorable moments as K-3 Island View stu
 
 **We will be decorating again on Monday, November 9th for our 4th and 5th graders' return to in-person learning. If you'd like to help out, please email** [**membership@islandviewpta.org**](mailto:membership@islandviewpta.org)**.**
 
-## PTA Meeting TUESDAY Dec 1
-
 {{< fig src="December-PTA-meeting.png" align="center" class="max-w-xs" >}}
+
+## PTA Meeting TUESDAY Dec 1
 
 Join us via Zoom for our second PTA meeting of the year! Get all the latest news and help make amazing things happen for our school.
 
@@ -59,7 +59,9 @@ There are **several AMAZING opportunities available RIGHT NOW** to make fun even
 * Graduation
 * I Love to Read Month
 
-_PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA. 
+Please email [**membership@islandviewpta.org **](mailto:membership@islandviewpta.org)to get involved!!
+
+_PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.
 
 {{< fig src="staff-food-drop.jpg" align="center" class="max-w-xs" >}}
 
@@ -89,7 +91,7 @@ Thank you to all those students that submitted artwork for the ASF Celebrate the
 
 {{< fig src="mealsonwheels.png" align="center" class="max-w-xs" >}}
 
-Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off in the outdoor basket at the Senior Center before November 20. 
+Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off in the outdoor basket at the Senior Center before November 20.
 
 ## YEARBOOK
 
