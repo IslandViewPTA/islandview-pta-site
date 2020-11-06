@@ -65,7 +65,7 @@ Please email [**membership@islandviewpta.org **](mailto:membership@islandviewpta
 
 ## _PTA loves our Island View students **AND** staff!_ 
 
-Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.
+Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.  Thanks to Stacey Mahoney for coordinating, Rachel Esposito for collecting, and to all of you for donating!  We hope to do this several times this year, so keep your eyes out for the next opportunity to give back to the staff that does so much for our children!
 
 {{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
 
@@ -111,9 +111,9 @@ We’ll do our best to make sure everyone is included. Thank you!
 
 Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
 
-## You're INCREDIBLE!
-
 {{< fig src="100-percent-staff.png" align="center" class="max-w-xs" >}}
+
+## You're INCREDIBLE!
 
 **THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
@@ -132,7 +132,7 @@ You can also help by selecting Island View PTA as your charity of choice in [**A
 
 ### December
 
-* **1:**  PTA Meeting 6 pm via zoom
+* **1:**  **PTA Meeting 6 pm via zoom**
 * **18:**  Early Release for **Winter Break**
 
 ### January
