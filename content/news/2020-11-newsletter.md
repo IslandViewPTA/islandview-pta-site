@@ -109,6 +109,8 @@ We’ll do our best to make sure everyone is included. Thank you!
 
 Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
 
+{{< fig src="membership100.png" align="center" class="max-w-xs" >}}
+
 {{< fig src="membership100.png" align="center" class="max-w-s" >}}
 
 ## You're INCREDIBLE!
