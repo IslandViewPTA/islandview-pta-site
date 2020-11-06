@@ -89,7 +89,7 @@ Every year, the Anacortes Schools Foundation throws their "Celebrate the Season"
 
 Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction. Congratulations to Olive B., Sophia N., and Maya H, and** [**check out this video about all the district winners!**](https://www.youtube.com/watch?v=OkP2X0WcnBg&feature=youtu.be)
 
-{{< fig src="mealsonwheels.png" align="center" class="max-w-s" >}}
+{{< fig src="mealsonwheels.png" align="center" class="max-w-xs" >}}
 
 ## Share Art with Seniors in town
 
