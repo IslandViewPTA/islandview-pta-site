@@ -67,8 +67,6 @@ _PTA loves our Island View students **and** staff!_ Early morning on Friday, Nov
 
 {{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
 
-{{< fig src="/uploads/pictureday.jpg" align="center" class="max-w-xs" >}}
-
 ## Picture Day Friday Nov. 13
 
 {{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
@@ -91,9 +89,9 @@ Every year, the Anacortes Schools Foundation throws their "Celebrate the Season"
 
 Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction. Congratulations to Olive B., Sophia N., and Maya H, and** [**check out this video about all the district winners!**](https://www.youtube.com/watch?v=OkP2X0WcnBg&feature=youtu.be)
 
-## Share Art with Seniors in town
-
 {{< fig src="mealsonwheels.png" align="center" class="max-w-xs" >}}
+
+## Share Art with Seniors in town
 
 Meals on Wheels is collecting artwork for the seniors they assist and this month they're looking for Thanksgiving-themed artwork. If you or your student are able to share some original, seasonal artwork, please drop it off in the outdoor basket at the Senior Center before November 20.
 
@@ -105,11 +103,11 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included. Thank you!
 
+{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
+
 ## Box Tops help Island View!
 
 Box Tops is still an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
-
-{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
 ## You're INCREDIBLE!
 
