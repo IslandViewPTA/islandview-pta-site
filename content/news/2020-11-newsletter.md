@@ -50,7 +50,7 @@ Monday, November 2 was filled with many memorable moments as K-3 Island View stu
 
 Join us via Zoom for our second PTA meeting of the year! Get all the latest news and help make amazing things happen for our school.
 
-## You are the change needed!
+## YOU are the change needed!
 
 There are **several AMAZING opportunities available RIGHT NOW** to make fun events a reality for our students and their families. The PTA welcomes volunteer Chairpersons for the following positions:
 
@@ -65,7 +65,7 @@ There are **several AMAZING opportunities available RIGHT NOW** to make fun even
 
 ### READY - SET - SMILE!
 
-**ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.** 
+**ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.**
 
 If you would like to order pictures, use the link emailed to you or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/) , click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
 
