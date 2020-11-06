@@ -79,7 +79,7 @@ Every year, the Anacortes Schools Foundation throws their "Celebrate the Season"
 
 **Your help is needed!** Island View PTA will be contributing a fun 'Some Like it Hot' ensemble of firepit-themed accessories. [See this sign-up](https://www.signupgenius.com/go/10c0d44aead2da3f58-some) to be a part of the hottest auction item this year.
 
-Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction: congratulations to Olive B., Sophia N., and Maya H!**
+Thank you to all those students that submitted artwork for the ASF Celebrate the Season Student Art Contest. Among so many wonderful submissions, **three Island View students will have work included in this year's auction. Congratulations to Olive B., Sophia N., and Maya H and** [**check out this video about the winners**](https://www.youtube.com/watch?v=OkP2X0WcnBg&feature=youtu.be)**!**
 
 ## Share Art with Seniors in town
 
