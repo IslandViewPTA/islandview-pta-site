@@ -20,10 +20,10 @@
 
 <section class="mx-auto max-w-2xl py-4">
   <div class="shadow-2xl relative rounded-lg">
-    <div class="flex justify-around bg-black rounded-t-lg">
+    <div class="flex justify-center bg-gold space-x-2 rounded-t-lg py-2">
       {{ range $imagesList }}
         <div>
-          <img class='image{{ $.Scratch.Get "thumbCount" }} description h-16 md:h-24 cursor-pointer' src="#" onclick='currentSlide({{- $.Scratch.Get "thumbCount" -}})'>
+          <img class='border border-gray-900 rounded shadow image{{ $.Scratch.Get "thumbCount" }} description h-16 md:h-24 cursor-pointer' src="#" onclick='currentSlide({{- $.Scratch.Get "thumbCount" -}})'>
         </div>
         {{ $.Scratch.Add "thumbCount" 1 }}
       {{ end }}
@@ -31,7 +31,9 @@
     <!-- large image on slides -->
     {{ range $imagesList }}
       <div class="mySlides hidden rounded-b-lg">
-        <div class='image{{ $.Scratch.Get "cardCount" }} w-full object-cover rounded-b-lg'></div>
+        <a href="//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ . }}" target="_blank">
+          <div class='image{{ $.Scratch.Get "cardCount" }} w-full object-cover rounded-b-lg'></div>
+        </a>
       </div>
       {{ $.Scratch.Add "cardCount" 1 }}
     {{ end }}
