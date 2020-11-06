@@ -59,7 +59,7 @@ There are **several AMAZING opportunities available RIGHT NOW** to make fun even
 * Graduation
 * I Love to Read Month
 
-Please email [**membership@islandviewpta.org **](mailto:membership@islandviewpta.org)to get involved!!
+Please email [membership@islandviewpta.org](mailto:membership@islandviewpta.org) to get involved!!
 
 {{< fig src="staff-food-drop.jpg" align="center" class="max-w-xs" >}}
 
@@ -75,9 +75,9 @@ Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats
 
 ### READY - SET - SMILE!
 
-**ALL students will have their picture taken for their student ID card and records. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are not being used.**
+**ALL students will have their picture taken for their student ID card and records on Friday November 13. Please note that this year, purchasing of student portraits is ONLINE ONLY. As part of the O’Connor Photography Studio COVID-19 Safety procedures, paper order forms are NOT being used.**
 
-If you would like to order pictures, use the link emailed to you or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/) , click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
+If you would like to order pictures, use the link emailed to you or go to their website at [oconnorphotography](http://www.oconnorphotography/)[studio.com](http://www.oconnorphotographystudio.com/), click on Fall Portraits, scroll down to Elementary Schools, and then select the Island View Logo.
 
 Picture retakes will be the second week of December.
 
