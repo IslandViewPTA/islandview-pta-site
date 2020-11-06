@@ -65,7 +65,7 @@ Please email [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
 
 ## PTA loves our Island View students **AND** staff!
 
-Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.  Thanks to Stacey Mahoney for coordinating, Rachel Esposito for collecting, and to all of you for donating!  We hope to do this several times this year, so keep your eyes out for the next opportunity to give back to the staff that does so much for our children!
+Early morning on Friday, Nov 6, a wide range of non-perishable snacks and treats were delivered to our incredible Island View staff courtesy of the PTA.  Thanks to Stacey Mahoney for coordinating, Rachel Esposito for collecting, and to ALL of you for donating!  We hope to do this several times this year, so keep your eyes out for the next opportunity to give back to the staff that does so much for our children!
 
 {{< fig src="pictureday.jpg" align="center" class="max-w-xs" >}}
 
