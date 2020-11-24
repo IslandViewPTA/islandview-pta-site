@@ -38,21 +38,21 @@ Brian Hanrahan
 
 {{< fig src="holidaygiftbags.jpg" align="center" class="max-w-xs" >}}
 
-## Help create 'TREATS' for Staff
+## Help Create 'TREATS' for Staff
 
 Are you creative or like crafting and want to help make some holiday 'treats' for our Island View Staff? The Hospitality Committee is looking for some helpers to provide ideas and assistance with assembling some fun items for the staff in December.
 
-Contact the new Hospitality Chair Stacey Mahoney via [email](hospitality@islandviewpta.org) for more information!
+**Contact the new Hospitality Chair Stacey Mahoney at** [**hospitality@islandviewpta.org**](hospitality@islandviewpta.org) **for more information!** 
 
 {{< fig src="asfdecflyer.png" align="center" class="max-w-xs" >}}
 
 ## CELEBRATE the Season!
 
-A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12.Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only.
+A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12 (see photo below). **Get your tickets and attend the event for your chance to bid and possibly win our PTA's AMAZING contribution**, along with all the other wonderful items available that night only.
 
 {{< fig src="iv-firpit.jpg" align="center" class="max-w-xs" >}}
 
-All proceeds benefit Anacortes Schools Foundation and the incredible work they do for all district students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships and more!
+All proceeds benefit Anacortes Schools Foundation and the incredible work they do for all district students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships, and more!
 
 ## Spiritwear Store OPEN
 
@@ -60,7 +60,7 @@ Spiritwear Store (Eric and Bryan are working on getting this open on the website
 
 ## YEARBOOK Photos Needed
 
-**Calling for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
+**Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
 Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
 
@@ -76,11 +76,13 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## Give the Gift of Membership
 
-I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
+The holidays are the season of giving and what better gift than a membership to Island View PTA! 
+
+Membership entitles you or someone dear to you to join the ranks of the most caring and dedicated PTA on Fidalgo Island. Don't forget to sponsor a staff membership, as we are currently only 4 staff members away from 100% staff membership!
 
 {{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
 
-## Gift Shopping benefits Island View
+## Gift Shopping Benefits Island View
 
 **Your holiday shopping can share joy with those you love AND Island View simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
