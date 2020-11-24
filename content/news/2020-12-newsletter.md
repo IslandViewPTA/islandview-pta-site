@@ -4,7 +4,7 @@ newsletter: true
 title: December 2020 Newsletter
 date: 2020-11-30T00:00:00-08:00
 description: ''
-image: "/uploads/cardinal-in-snow.jpg"
+image: "/uploads/hot-cocoa.jpg"
 draft: true
 
 ---
@@ -74,7 +74,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="dec-membership.png" align="center" class="max-w-xs" >}}
 
-## Give the Gift of Membership 
+## Give the Gift of Membership
 
 I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
 
@@ -82,7 +82,7 @@ I will put together a graphic for this but you can add a little blurb if you wan
 
 ## Gift Shopping benefits Island View
 
-**Your holiday shopping can give gifts to those you love AND TO ISLAND VIEW simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+**Your holiday shopping can share joy with those you love AND Island View simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
 {{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
 
