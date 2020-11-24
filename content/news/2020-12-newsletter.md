@@ -101,13 +101,13 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 ### December
 
 * **1:**  **PTA Meeting 6 pm via zoom**
-* **18:**  Early Release for **Winter Break**
+* **18:**  **Early Release** for Winter Break
 * **21-31:  Winter Break**
 
 ### January
 
 * **1-3:  Winter Break**
-* **4:**  Students back to school
+* **4:**  **Classes resume**
 
 {{< fig src="winter-break.png" align="center" class="max-w-xs" >}}
 
