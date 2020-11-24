@@ -64,7 +64,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
 
-## Box Tops STILL Accepting Paper! 
+## Box Tops STILL Accepting Paper!
 
 **KEEP COLLECTING!** Box Tops is accepting physical Box Tops, so cut, cut, cut, and we will provide more details on how to submit those in the new year.
 
@@ -77,3 +77,30 @@ Amazon Smile - shop for Christmas and donate to the PTA at the same time!
 Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - no January meeting!
 
 Important dates: Half Day 12/18, No School - Winter Break 12/21 - 1/3
+
+{{< fig src="membership100.png" align="center" class="max-w-s" >}}
+
+## You're INCREDIBLE!
+
+**THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+
+{{< cta >}}
+
+You can also help by selecting Island View PTA as your charity of choice in [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
+## SAVE THESE DATES!
+
+### December
+
+* **1:**  **PTA Meeting 6 pm via zoom**
+* **18:**  Early Release for **Winter Break**
+
+### January
+
+* **4:**  Students back to school
+
+***
+
+**Questions? Please feel free to contact us any time!**
+
+PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
