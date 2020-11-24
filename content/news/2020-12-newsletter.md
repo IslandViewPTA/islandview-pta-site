@@ -62,6 +62,8 @@ Box Tops - keep collecting! Box Tops is accepting physical Box Tops, so cut, cut
 
 Amazon Smile - shop for Christmas and donate to the PTA at the same time!
 
-Next Meeting: February 2 (no January meeting)
+## Next PTA Meeting: Feb 2 
+
+Mark your calendars - the next PTA meeting is on 
 
 Important dates: Half Day 12/18, No School - Winter Break 12/21 - 1/3
