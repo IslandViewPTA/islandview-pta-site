@@ -26,7 +26,7 @@ Do not hesitate to reach out to me at [bhanrahan@asd103.org](mailto:bhanrahan@as
 
 Please try hard to stay focused on the positives this holiday season. Smile and laugh a lot. Hug your students. And stay well.
 
-See you in a healthful and prosperous 2021😊.
+See you in a healthful and prosperous 2021😊 .
 
 Brian Hanrahan
 
@@ -102,7 +102,7 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 
 ### December
 
-* **1:**  **PTA Meeting 6 pm via zoom**
+* **1:**  **PTA Meeting 6 pm via Zoom**
 * **18:**  **Early Release** for Winter Break
 * **21-31:  Winter Break**
 
