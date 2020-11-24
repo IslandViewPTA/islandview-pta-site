@@ -38,7 +38,7 @@ Brian Hanrahan
 
 {{< fig src="holidaygiftbags.jpg" align="center" class="max-w-xs" >}}
 
-## Help create 'TREATS' FOR STAFF
+## Help create 'TREATS' for Staff
 
 Are you creative or like crafting and want to help make some holiday 'treats' for our Island View Staff? The Hospitality Committee is looking for some helpers to provide ideas and assistance with assembling some fun items for the staff in December.
 
