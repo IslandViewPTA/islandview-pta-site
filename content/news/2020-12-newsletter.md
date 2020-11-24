@@ -54,6 +54,8 @@ A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" 
 
 All proceeds benefit Anacortes Schools Foundation and the incredible work they do for all district students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships and more!
 
+## Spiritwear Store OPEN
+
 Spiritwear Store (Eric and Bryan are working on getting this open on the website)
 
 ## YEARBOOK Photos Needed
