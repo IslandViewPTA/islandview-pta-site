@@ -103,6 +103,8 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 * **1-3:  Winter Break**
 * **4:**  Students back to school
 
+{{< fig src="winter-break.png" align="center" class="max-w-xs" >}}
+
 ***
 
 **Questions? Please feel free to contact us any time!**
