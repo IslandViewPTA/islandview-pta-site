@@ -30,7 +30,7 @@ See you in a healthful and prosperous 2021😊.
 
 Brian Hanrahan
 
-{{< fig src="December-PTA-meeting" align="center" class="max-w-xs" >}}
+{{< fig src="december-pta-meeting.png" align="center" class="max-w-xs" >}}
 
 ## PTA Meeting Tuesday Dec. 1
 
@@ -62,8 +62,8 @@ Box Tops - keep collecting! Box Tops is accepting physical Box Tops, so cut, cut
 
 Amazon Smile - shop for Christmas and donate to the PTA at the same time!
 
-## Next PTA Meeting: Feb 2 
+## Next PTA Meeting: Feb 2
 
-Mark your calendars - the next PTA meeting is on 
+Mark your calendars - the next PTA meeting is on
 
 Important dates: Half Day 12/18, No School - Winter Break 12/21 - 1/3
