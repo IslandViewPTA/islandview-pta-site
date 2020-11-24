@@ -34,6 +34,8 @@ Brian Hanrahan
 
 ## PTA Meeting Tuesday Dec. 1
 
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
 **Join us at 6 PM on Dec 1 for the final PTA meeting of 2020!** Get all the latest news and updates, and help make amazing things happen in 2021.
 
 ## CELEBRATE the Season!
