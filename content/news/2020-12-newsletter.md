@@ -44,7 +44,7 @@ Are you creative or like crafting and want to help make some holiday 'treats' fo
 
 Contact the new Hospitality Chair Stacey Mahoney via [email](membership@islandviewpta.org) for more information!
 
-{{< fig src="celebrate-digital-ad.png" align="center" class="max-w-xs" >}}
+{{< fig src="asfdecflyer.png" align="center" class="max-w-xs" >}}
 
 ## CELEBRATE the Season!
 
