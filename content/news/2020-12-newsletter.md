@@ -86,7 +86,7 @@ Important dates: Half Day 12/18, No School - Winter Break 12/21 - 1/3
 
 {{< cta >}}
 
-You can also help by selecting Island View PTA as your charity of choice in [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+**Your holiday shopping can give gifts to those you love AND TO ISLAND VIEW simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
 ## SAVE THESE DATES!
 
