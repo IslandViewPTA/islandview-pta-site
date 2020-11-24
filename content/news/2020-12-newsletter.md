@@ -34,7 +34,7 @@ Brian Hanrahan
 
 ## PTA Meeting Tuesday Dec. 1
 
-**Join us at 6 PM on Dec 1 for the final PTA meeting of 2020!** Get all the latest news and updates, and help make amazing things happen in 2021.
+**Join us Dec. 1 at 6 PM via Zoom for the final PTA meeting of 2020!** Get all the latest news and updates, and help make amazing things happen in 2021.
 
 {{< fig src="holidaygiftbags.jpg" align="center" class="max-w-xs" >}}
 
@@ -42,7 +42,7 @@ Brian Hanrahan
 
 Are you creative or like crafting and want to help make some holiday 'treats' for our Island View Staff? The Hospitality Committee is looking for some helpers to provide ideas and assistance with assembling some fun items for the staff in December.
 
-Contact the new Hospitality Chair Stacey Mahoney via [email](membership@islandviewpta.org) for more information!
+Contact the new Hospitality Chair Stacey Mahoney via [email](hospitality@islandviewpta.org) for more information!
 
 {{< fig src="asfdecflyer.png" align="center" class="max-w-xs" >}}
 
