@@ -4,7 +4,7 @@ newsletter: true
 title: December 2020 Newsletter
 date: 2020-11-30T00:00:00-08:00
 description: ''
-image: "/uploads/hot-cocoa.jpg"
+image: "/uploads/cardinal-in-snow.jpg"
 draft: true
 
 ---
