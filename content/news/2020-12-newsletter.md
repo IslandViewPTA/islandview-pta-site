@@ -30,9 +30,13 @@ See you in a healthful and prosperous 2021😊.
 
 Brian Hanrahan
 
+{{< fig src="December-PTA-meeting" align="center" class="max-w-xs" >}}
+
 ## PTA Meeting Tuesday Dec. 1
 
 **Join us at 6 PM on Dec 1 for the final PTA meeting of 2020!** Get all the latest news and updates, and help make amazing things happen in 2021.
+
+## CELEBRATE the Season!
 
 Spiritwear Store (Eric and Bryan are working on getting this open on the website)
 
