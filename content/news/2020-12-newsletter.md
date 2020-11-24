@@ -46,13 +46,15 @@ Contact the new Hospitality Chair Stacey Mahoney via [email](membership@islandvi
 
 ## CELEBRATE the Season!
 
+A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12. 
+
+Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only. All proceeds benefit Anacortes Schools Foundation and the incredible work they do for district students throughout the year!
+
 Spiritwear Store (Eric and Bryan are working on getting this open on the website)
 
 Yearbook - send pictures to us at [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org)
 
 Give the Gift of Membership - I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
-
-Celebrate the Season & "Some Like It Hot" basket thank you and promotion
 
 Box Tops - keep collecting! Box Tops is accepting physical Box Tops, so cut, cut, cut and we will provide more details on how to submit those in the new year.
 
