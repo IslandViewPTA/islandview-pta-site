@@ -102,3 +102,7 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 **Questions? Please feel free to contact us any time!**
 
 PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+
+PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+
+PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
