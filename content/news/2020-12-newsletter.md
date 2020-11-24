@@ -72,7 +72,9 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 Give the Gift of Membership - I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
 
-Amazon Smile - shop for Christmas and donate to the PTA at the same time!
+{{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
+
+**Your holiday shopping can give gifts to those you love AND TO ISLAND VIEW simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
 ## Next PTA Meeting: Feb 2
 
@@ -83,8 +85,6 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 **THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 {{< cta >}}
-
-**Your holiday shopping can give gifts to those you love AND TO ISLAND VIEW simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
 
 ## SAVE THESE DATES!
 
