@@ -33,3 +33,21 @@ Brian Hanrahan
 ## PTA Meeting Tuesday Dec. 1
 
 **Join us at 6 PM on Dec 1 for the final PTA meeting of 2020!** Get all the latest news and updates, and help make amazing things happen in 2021.
+
+Spiritwear Store (Eric and Bryan are working on getting this open on the website)
+
+Yearbook - send pictures to us at [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org)
+
+Give the Gift of Membership - I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
+
+Celebrate the Season & "Some Like It Hot" basket thank you and promotion
+
+Box Tops - keep collecting! Box Tops is accepting physical Box Tops, so cut, cut, cut and we will provide more details on how to submit those in the new year.
+
+Amazon Smile - shop for Christmas and donate to the PTA at the same time!
+
+Next Meeting: February 2 (no January meeting)
+
+Important dates: Half Day 12/18, No School - Winter Break 12/21 - 1/3
+
+Are you creative or like crafting and want to help with the Island View Staff holiday items? The Hospitality Committee is looking for some helpers to provide ideas and assistance with assembling some fun items for the staff in December.
