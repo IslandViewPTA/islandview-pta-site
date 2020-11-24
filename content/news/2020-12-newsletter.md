@@ -74,7 +74,11 @@ Give the Gift of Membership - I will put together a graphic for this but you can
 
 {{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
 
+## Gift Shopping benefits Island View
+
 **Your holiday shopping can give gifts to those you love AND TO ISLAND VIEW simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
+{{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
 
 ## Next PTA Meeting: Feb 2
 
