@@ -44,9 +44,11 @@ Are you creative or like crafting and want to help make some holiday 'treats' fo
 
 Contact the new Hospitality Chair Stacey Mahoney via [email](membership@islandviewpta.org) for more information!
 
+{{< fig src="celebrate-digital-ad.png" align="center" class="max-w-xs" >}}
+
 ## CELEBRATE the Season!
 
-A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12. 
+A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12.
 
 Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only. All proceeds benefit Anacortes Schools Foundation and the incredible work they do for district students throughout the year!
 
