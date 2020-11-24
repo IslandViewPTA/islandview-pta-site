@@ -50,7 +50,7 @@ Contact the new Hospitality Chair Stacey Mahoney via [email](membership@islandvi
 
 A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12.
 
-Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only. All proceeds benefit Anacortes Schools Foundation and the incredible work they do for district students throughout the year!
+Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only. All proceeds benefit Anacortes Schools Foundation and the incredible work they do for all district students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships and more!
 
 Spiritwear Store (Eric and Bryan are working on getting this open on the website)
 
