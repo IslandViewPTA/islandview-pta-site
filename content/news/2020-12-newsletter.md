@@ -54,11 +54,21 @@ Attend the event for your chance to bid and possibly win our PTA's  AMAZING cont
 
 Spiritwear Store (Eric and Bryan are working on getting this open on the website)
 
-Yearbook - send pictures to us at [yearbook@islandviewpta.org](mailto:yearbook@islandviewpta.org)
+## YEARBOOK Photos Needed
+
+**Calling for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
+
+Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
+
+We’ll do our best to make sure everyone is included, so snap away! Thank you!
+
+{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
+
+## Box Tops STILL Accepting Paper! 
+
+**KEEP COLLECTING!** Box Tops is accepting physical Box Tops, so cut, cut, cut, and we will provide more details on how to submit those in the new year.
 
 Give the Gift of Membership - I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
-
-Box Tops - keep collecting! Box Tops is accepting physical Box Tops, so cut, cut, cut and we will provide more details on how to submit those in the new year.
 
 Amazon Smile - shop for Christmas and donate to the PTA at the same time!
 
