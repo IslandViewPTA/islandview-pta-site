@@ -48,7 +48,7 @@ Contact the new Hospitality Chair Stacey Mahoney via [email](membership@islandvi
 
 ## CELEBRATE the Season!
 
-A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12.Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only. 
+A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12.Attend the event for your chance to bid and possibly win our PTA's  AMAZING contribution, along with all the other wonderful items available that night only.
 
 {{< fig src="iv-firpit.jpg" align="center" class="max-w-xs" >}}
 
@@ -64,7 +64,7 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
-{{< fig src="box-tops-explain.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="boxtop-share.jpg" align="center" class="max-w-xs" >}}
 
 ## Box Tops STILL Accepting Paper!
 
