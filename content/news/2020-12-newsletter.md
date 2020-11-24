@@ -70,7 +70,11 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 **KEEP COLLECTING!** Box Tops is accepting physical Box Tops, so cut, cut, cut, and we will provide more details on how to submit those in the new year.
 
-Give the Gift of Membership - I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
+{{< fig src="dec-membership.png" align="center" class="max-w-xs" >}}
+
+## Give the Gift of Membership 
+
+I will put together a graphic for this but you can add a little blurb if you want. We are currently 4 staff members away from 100% staff membership.
 
 {{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
 
