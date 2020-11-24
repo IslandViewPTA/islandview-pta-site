@@ -64,6 +64,6 @@ Amazon Smile - shop for Christmas and donate to the PTA at the same time!
 
 ## Next PTA Meeting: Feb 2
 
-Mark your calendars - the next PTA meeting is on
+Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - no January meeting!
 
 Important dates: Half Day 12/18, No School - Winter Break 12/21 - 1/3
