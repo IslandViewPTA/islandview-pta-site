@@ -56,7 +56,7 @@ All proceeds benefit Anacortes Schools Foundation and the incredible work they d
 
 ## Spiritwear Store OPEN
 
-Spiritwear Store (Eric and Bryan are working on getting this open on the website)
+The Island View Spiritwear Store is OPEN and ready to take your order just in time for the holidays! Treat your student to some cool new Eagle apparel. [Visit the Island View PTA Store](https://www.islandviewpta.org/shop/) for all your Spiritwear needs!
 
 ## YEARBOOK Photos Needed
 
