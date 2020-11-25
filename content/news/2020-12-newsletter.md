@@ -76,9 +76,9 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## Give the Gift of Membership
 
-The holidays are the season of giving and what better gift than a membership to Island View PTA! 
+The holidays are the season of giving and what better gift than a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
 
-Membership entitles you or someone dear to you to join the ranks of the most caring and dedicated PTA on Fidalgo Island. Don't forget to sponsor a staff membership, as we are currently only 4 staff members away from 100% staff membership!
+Membership entitles you or someone dear to you to join the ranks of the most caring and dedicated PTA on Fidalgo Island. Don't forget to sponsor a staff membership, as we are currently **only 4 staff members away from 100% staff membership!**
 
 {{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
 
