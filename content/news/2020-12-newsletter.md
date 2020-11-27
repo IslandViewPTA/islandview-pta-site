@@ -41,7 +41,7 @@ Brian Hanrahan
 
 Are you creative or like crafting and want to help make some holiday 'treats' for our Island View Staff? The Hospitality Committee is looking for some helpers to provide ideas and assistance with assembling some fun items for the staff in December.
 
-**Contact the new Hospitality Chair Stacey Mahoney at** [hospitality@islandviewpta.org](mailto:president@islandviewpta.org) **for more information!**
+**Contact the new Hospitality Chair Stacey Mahoney at** [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org) **for more information!**
 
 {{< fig src="asfdecflyer.png" align="center" class="max-w-xs" >}}
 
