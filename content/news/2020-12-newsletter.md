@@ -54,10 +54,6 @@ A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" 
 
 All proceeds benefit Anacortes Schools Foundation and the incredible work they do for all district students. This year, funds are being raised to support COVID-19 Relief, Mental Health supports, STEM Programs, Visual and Performing Arts Programs, Impact Summer School, Preschool Scholarships, and more!
 
-## Spiritwear Store OPEN
-
-The Island View Spiritwear Store is OPEN and ready to take your order just in time for the holidays! Treat your student to some cool new Eagle apparel. [Visit the Island View PTA Store](https://www.islandviewpta.org/shop/) for all your Spiritwear needs!
-
 ## YEARBOOK Photos Needed
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
