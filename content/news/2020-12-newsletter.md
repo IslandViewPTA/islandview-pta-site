@@ -3,7 +3,7 @@ newsletter_date: 2020-11-30T00:00:00-08:00
 newsletter: true
 title: December 2020 Newsletter
 date: 2020-11-30T00:00:00-08:00
-description: ''
+description: Happy Holidays, Island View Eagles!
 image: "/uploads/hot-cocoa.jpg"
 draft: true
 
@@ -14,9 +14,9 @@ Dear Island View Families:
 
 As I considered this final newsletter message of 2020, I thought sadly, “it will be as unusual as the year itself.” There will be no reminders of holiday concerts or tree-lighting ceremonies, no mention of our sing-along or plump Santas adorning our hallways. Moreover, the recent need to suspend in-person learning felt like one final trick of the year. Students and teachers were thriving in classrooms, and our arrival/dismissal processes and safety measures were running smoothly. The closure felt like unfair punishment.
 
-But then I remembered something important—**my focus creates my feelings**. In other words, when I focus on what I am missing, I feel downright despondent; conversely, when I focus on what I am lucky to have, I feel hopeful and inspired.
+But then I remembered something important — **my focus creates my feelings**. In other words, when I focus on what I am missing, I feel downright despondent; conversely, when I focus on what I am lucky to have, I feel hopeful and inspired.
 
-As a school community we should feel and share much hope. Our students and staff are healthy and resilient. They successfully navigated remote learning for the first two months of the school year and are fully prepared to pivot back to that model. Before we began in-person learning on November 2nd, many parents told me the remote model was working so well they questioned the move back to in-person learning. Then after November 2nd, parents told me their students were happy and engaged—even being at school for half days.
+As a school community we should feel and share much hope. Our students and staff are healthy and resilient. They successfully navigated remote learning for the first two months of the school year and are fully prepared to pivot back to that model. Before we began in-person learning on November 2nd, many parents told me the remote model was working so well they questioned the move back to in-person learning. Then after November 2nd, parents told me their students were happy and engaged — even being at school for half days.
 
 These successes clearly show the strength of our school community. They show that whatever situation arises, we tenaciously find a way to continue our proud, soarin’ Island View eagle flight.
 
@@ -42,13 +42,13 @@ Brian Hanrahan
 
 Are you creative or like crafting and want to help make some holiday 'treats' for our Island View Staff? The Hospitality Committee is looking for some helpers to provide ideas and assistance with assembling some fun items for the staff in December.
 
-**Contact the new Hospitality Chair Stacey Mahoney at** [**hospitality@islandviewpta.org**](hospitality@islandviewpta.org) **for more information!** 
+**Contact the new Hospitality Chair Stacey Mahoney at** [**hospitality@islandviewpta.org**](hospitality@islandviewpta.org) **for more information!**
 
 {{< fig src="asfdecflyer.png" align="center" class="max-w-xs" >}}
 
 ## CELEBRATE the Season!
 
-A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12 (see photo below). **Get your tickets and attend the event for your chance to bid and possibly win our PTA's AMAZING contribution**, along with all the other wonderful items available that night only.
+A festive and warm THANK YOU to everyone that donated to the "Some Like It Hot" auction item for ASF's Celebrate the Season event on Dec. 12. **Get your tickets and attend the event for your chance to bid and possibly win our PTA's AMAZING contribution**, along with all the other wonderful items available that night only.
 
 {{< fig src="iv-firpit.jpg" align="center" class="max-w-xs" >}}
 
@@ -110,6 +110,10 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 
 * **1-3:  Winter Break**
 * **4:**  **Classes resume**
+
+### February
+
+* **2:**  **PTA Meeting 6 pm via Zoom**
 
 {{< fig src="winter-break.png" align="center" class="max-w-xs" >}}
 
