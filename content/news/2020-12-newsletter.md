@@ -5,7 +5,6 @@ title: December 2020 Newsletter
 date: 2020-11-27T01:00:00-08:00
 description: Happy Holidays, Island View Eagles!
 image: "/uploads/hot-cocoa.jpg"
-draft: true
 
 ---
 ## Principal's Message
