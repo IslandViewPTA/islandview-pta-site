@@ -2,7 +2,7 @@
 newsletter_date: 2020-11-30T00:00:00-08:00
 newsletter: true
 title: December 2020 Newsletter
-date: 2020-11-30T00:00:00-08:00
+date: 2020-11-27T01:00:00-08:00
 description: Happy Holidays, Island View Eagles!
 image: "/uploads/hot-cocoa.jpg"
 draft: true
