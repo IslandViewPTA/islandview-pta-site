@@ -9,3 +9,10 @@ image: "/uploads/newyear.jpg"
 draft: true
 
 ---
+## Principal's Message
+
+## Hospitality Thank You!
+
+## Yearbook Photos
+
+## 
