@@ -37,6 +37,10 @@ We hope you had an absolutely magical December! Thank you to all the Eagles that
 
 Box Tops is a super easy way to help earn money for our school! If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipt, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year, so thank you for your help!
 
+## ASF Says THANK YOU!
+
+Thank you again to everyone that donated to the Island View "Some Like It Hot" Fire Pit for the Anacortes Schools Foundation's annual "Celebrate the Season" fundraiser! Thanks to all the supporters, donors, sponsors and attendees, ASF was able to raise a whopping $185,839 for Anacortes students this year! If you'd be interested in volunteering with ASF any time throughout the year, please email ASF Executive Director, Marta McClintock at [marta@asfkids.org](mailto:marta@asfkids.org).
+
 ## YEARBOOK Photos Needed
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
@@ -45,19 +49,17 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
-## Give the Gift of Membership
-
-The new year is an ideal time to give something meaningful to others by gifting a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
-
-Membership entitles you or someone dear to you to join the ranks of the most caring and dedicated PTA on Fidalgo Island. Don't forget to sponsor a staff membership, as we are currently **only 4 staff members away from 100% staff membership!**
-
-{{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
-
 ## Amazon Smile Helps Island View
 
 Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated! 
 
 If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
+
+## Give the Gift of Membership
+
+The new year is an ideal time to give something meaningful to others by gifting a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
+
+Membership entitles you or someone dear to you to join the ranks of the most caring and dedicated PTA on Fidalgo Island. Don't forget to sponsor a staff membership, as we are currently **only 4 staff members away from 100% staff membership!**
 
 ## You're INCREDIBLE!
 
