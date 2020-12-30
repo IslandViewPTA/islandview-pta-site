@@ -13,6 +13,12 @@ draft: true
 
 ## Hospitality Thank You!
 
+December was a busy month for Hospitality and we are so grateful to all of the help from PTA members and supporters! 
+
+The PTA treated Island View staff to a Thank You Car Parade, provided holiday decorations to decorate the staff lounge, and packaged 45 staff treat bags of donated goodies. They have been so caring with our kids, and the PTA happily showered them with thanks and holiday cheer! The Island View staff has been so appreciative of all of your thoughtfulness and uplifting support as we team with them to make the best of this tough situation. 
+
+On the calendar are parent teacher conferences in March. We typically provide a dinner for staff but with COVID and a reduced budget (due to the absence of fundraisers) we will get creative again! More information coming soon! Contact Stacey Mahoney (hospitality@isvpta.org) with your hospitality ideas and to volunteer for upcoming events.
+
 ## YEARBOOK Photos Needed
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
