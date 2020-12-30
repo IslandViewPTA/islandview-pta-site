@@ -23,6 +23,8 @@ The PTA treated Island View staff to a Thank You Car Parade, provided holiday de
 
 [Check out this video of the Island View staff sharing their gratitude](https://www.youtube.com/watch?v=lm_xSKLe4-o) for all of your thoughtfulness and uplifting support as we team with them to make the best of this tough situation.
 
+{{< youtube "lm_xSKLe4-o" >}}
+
 On the calendar are parent teacher conferences in March. We typically provide a dinner for staff but with COVID and a reduced budget (due to the absence of fundraisers), we will get creative again! More information coming soon! Contact Stacey Mahoney at [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org) with your hospitality ideas and to volunteer for upcoming events.
 
 {{< fig src="dec-coloring.jpg" align="center" class="max-w-xs" >}}
