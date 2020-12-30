@@ -47,6 +47,8 @@ We hope you had an absolutely magical December! Thank you to all the Eagles that
 
 Box Tops is a super easy way to help earn money for our school! If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipt, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year, so thank you for your help!
 
+{{< fig src="confetti.jpg" align="center" class="max-w-xs" >}}
+
 ## ASF Says THANK YOU!
 
 Thank you again to everyone that donated to the Island View "Some Like It Hot" Fire Pit for the Anacortes Schools Foundation's annual "Celebrate the Season" fundraiser! Thanks to all the supporters, donors, sponsors and attendees, ASF was able to raise a whopping $185,839 for Anacortes students this year! If you'd be interested in volunteering with ASF any time throughout the year, please email ASF Executive Director, Marta McClintock at [marta@asfkids.org](marta@asfkids.org).
