@@ -19,6 +19,8 @@ December was a busy month for Hospitality and we are so grateful to all of the h
 
 The PTA treated Island View staff to a Thank You Car Parade, provided holiday decorations to decorate the staff lounge, and packaged 45 staff treat bags of donated goodies. Special thanks to the Hospitality Elves that assembled the treats bags! Our school staff have been so caring with our kids, and the PTA happily showered them with thanks and holiday cheer!
 
+{{< fig src="treat-bags.jpg" align="center" class="max-w-xs" >}}
+
 Check out this video of the Island View staff sharing their gratitude for all of your thoughtfulness and uplifting support as we team with them to make the best of this tough situation.
 
 On the calendar are parent teacher conferences in March. We typically provide a dinner for staff but with COVID and a reduced budget (due to the absence of fundraisers), we will get creative again! More information coming soon! Contact Stacey Mahoney at [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org) with your hospitality ideas and to volunteer for upcoming events.
