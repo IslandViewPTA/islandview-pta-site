@@ -21,7 +21,7 @@ Check out this video of the Island View staff sharing their gratitude for all of
 
 On the calendar are parent teacher conferences in March. We typically provide a dinner for staff but with COVID and a reduced budget (due to the absence of fundraisers), we will get creative again! More information coming soon! Contact Stacey Mahoney at [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org) with your hospitality ideas and to volunteer for upcoming events.
 
-{{< fig src="eagle-art.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="dec-coloring.jpg" align="center" class="max-w-xs" >}}
 
 ## EAGLE Artwork SOARS
 
