@@ -59,6 +59,8 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
+{{< fig src="amazon-s-mobile.jpg" align="center" class="max-w-xs" >}}
+
 ## Amazon Smile Helps Island View
 
 Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated!
