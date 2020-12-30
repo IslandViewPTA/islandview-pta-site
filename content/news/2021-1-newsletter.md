@@ -59,6 +59,8 @@ Thank you again to everyone that donated to the Island View "Some Like It Hot" F
 
 The Island View PTA always needs more volunteers! If you're interested in helping with or leading any of our committees, please feel free to sign up [HERE](https://docs.google.com/spreadsheets/d/1NMMDXuNmEnEvHsQffaEX1p0NksLOK7FnSQnHFbRLLXI/edit?usp=sharing) or send us a message at [membership@islandviewpta.org](mailto:membership@islandviewpta.org). We would also welcome any ideas you have about how we can better support our ISV staff and students this year! THANK YOU!
 
+{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
+
 ## YEARBOOK Photos Needed
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
