@@ -15,7 +15,7 @@ draft: true
 
 ## Hospitality Thank You!
 
-December was a busy month for Hospitality and we are so grateful to all of the help from PTA members and supporters!
+December was a busy month for Hospitality and we are so grateful to PTA members and supporters for all of their help!
 
 The PTA treated Island View staff to a Thank You Car Parade, provided holiday decorations to decorate the staff lounge, and packaged 45 staff treat bags of donated goodies. Special thanks to the Hospitality Elves that assembled the treats bags! Our school staff have been so caring with our kids, and the PTA happily showered them with thanks and holiday cheer!
 
