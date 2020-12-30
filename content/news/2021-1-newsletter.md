@@ -21,6 +21,14 @@ Check out this video of the Island View staff sharing their gratitude for all of
 
 On the calendar are parent teacher conferences in March. We typically provide a dinner for staff but with COVID and a reduced budget (due to the absence of fundraisers), we will get creative again! More information coming soon! Contact Stacey Mahoney at [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org) with your hospitality ideas and to volunteer for upcoming events.
 
+## EAGLE Artwork SOARS
+
+We hope you had an absolutely magical December! Thank you to all the Eagles that have been sending in pictures of their completed monthly artwork! You all are doing a fabulous job and we LOVE seeing them. :D If you haven't already sent in pictures, but would like to share, feel free to email them to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) or send it to us via Facebook messenger.
+
+## Next PTA Meeting: Feb 2
+
+**MARK YOUR CALENDARS! There will be no January PTA meeting**, but please plan to **join us on February 2nd at 6PM** to hear about all the fun plans we have for the rest of the school year! Zoom link forthcoming via email. 
+
 ## YEARBOOK Photos Needed
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
@@ -52,8 +60,6 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 {{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
 
 ## Next PTA Meeting: Feb 2
-
-Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no January meeting!**
 
 ## You're INCREDIBLE!
 
