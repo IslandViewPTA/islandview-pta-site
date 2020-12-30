@@ -11,6 +11,8 @@ draft: true
 ---
 ## Principal's Message
 
+{{< fig src="car-parade-window.jpg" align="center" class="max-w-xs" >}}
+
 ## Hospitality Thank You!
 
 December was a busy month for Hospitality and we are so grateful to all of the help from PTA members and supporters!
