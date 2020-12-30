@@ -29,9 +29,9 @@ We hope you had an absolutely magical December! Thank you to all the Eagles that
 
 ## Next PTA Meeting: Feb 2
 
-**MARK YOUR CALENDARS! There will be no January PTA meeting**, but please plan to **join us on February 2nd at 6PM** to hear about all the fun plans we have for the rest of the school year! Zoom link forthcoming via email. 
+**MARK YOUR CALENDARS! There will be no January PTA meeting**, but please plan to **join us on February 2nd at 6PM** to hear about all the fun plans we have for the rest of the school year! Zoom link forthcoming via email.
 
-{{< fig src="boxtop-share.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="box-tops.jpg" align="center" class="max-w-xs" >}}
 
 ## Support ISV with Box Tops!
 
@@ -55,7 +55,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## Amazon Smile Helps Island View
 
-Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated! 
+Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated!
 
 If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
 
