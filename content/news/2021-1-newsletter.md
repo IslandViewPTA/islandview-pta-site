@@ -33,7 +33,7 @@ On the calendar are parent teacher conferences in March. We typically provide a 
 
 ## EAGLE Artwork SOARS
 
-We hope you had an absolutely magical December! Thank you to all the Eagles that have been sending in pictures of their completed monthly artwork! You all are doing a fabulous job and we LOVE seeing them. :D If you haven't already sent in pictures, but would like to share, feel free to email them to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) or send it to us via Facebook messenger.
+We hope you had an absolutely magical December! Thank you to all the Eagles that have been sending in pictures of their completed monthly artwork! You all are doing a fabulous job and we LOVE seeing them. If you haven't already sent in pictures, but would like to share, feel free to email them to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) or send it to us via Facebook messenger.
 
 {{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
 
