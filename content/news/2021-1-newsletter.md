@@ -25,9 +25,17 @@ On the calendar are parent teacher conferences in March. We typically provide a 
 
 We hope you had an absolutely magical December! Thank you to all the Eagles that have been sending in pictures of their completed monthly artwork! You all are doing a fabulous job and we LOVE seeing them. :D If you haven't already sent in pictures, but would like to share, feel free to email them to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) or send it to us via Facebook messenger.
 
+{{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
+
 ## Next PTA Meeting: Feb 2
 
 **MARK YOUR CALENDARS! There will be no January PTA meeting**, but please plan to **join us on February 2nd at 6PM** to hear about all the fun plans we have for the rest of the school year! Zoom link forthcoming via email. 
+
+{{< fig src="boxtop-share.jpg" align="center" class="max-w-xs" >}}
+
+## Support ISV with Box Tops!
+
+Box Tops is a super easy way to help earn money for our school! If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipt, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year, so thank you for your help!
 
 ## YEARBOOK Photos Needed
 
@@ -37,14 +45,6 @@ Please email your photos to [yearbook@islandviewpta.org](mailto:yearbook@islandv
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
-{{< fig src="boxtop-share.jpg" align="center" class="max-w-xs" >}}
-
-## Box Tops STILL Accepting Paper!
-
-**KEEP COLLECTING!** Box Tops is accepting physical Box Tops, so cut, cut, cut, and we will provide more details on how to submit those in the new year.
-
-{{< fig src="dec-membership.png" align="center" class="max-w-xs" >}}
-
 ## Give the Gift of Membership
 
 The new year is an ideal time to give something meaningful to others by gifting a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
@@ -53,13 +53,11 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 
 {{< fig src="dec-smile-flyer.png" align="center" class="max-w-xs" >}}
 
-## Shopping Benefits Island View
+## Amazon Smile Helps Island View
 
-**Your online shopping can benefit Island View simply by selecting** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated! 
 
-{{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
-
-## Next PTA Meeting: Feb 2
+If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
 
 ## You're INCREDIBLE!
 
