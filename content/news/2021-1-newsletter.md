@@ -53,11 +53,9 @@ Box Tops is a super easy way to help earn money for our school! If you have any 
 
 Thank you again to everyone that donated to the Island View "Some Like It Hot" Fire Pit for the Anacortes Schools Foundation's annual "Celebrate the Season" fundraiser! Thanks to all the supporters, donors, sponsors and attendees, ASF was able to raise a whopping $185,839 for Anacortes students this year! If you'd be interested in volunteering with ASF any time throughout the year, please email ASF Executive Director Marta McClintock at [**marta@asfkids.org**](mailto:marta@asfkids.org)**.**
 
-{{< fig src="word-art-pta.png" align="center" class="max-w-xs" >}}
+{{< fig src="committee-vol-needed.png" align="center" class="max-w-xs\]" >}}
 
 ## Volunteer with the BEST PTA
-
-{{< fig src="committee-vol-needed.png" align="center" class="max-w-xs\]" >}}
 
 The Island View PTA always needs more volunteers! If you're interested in helping with or leading any of our committees, please email  [membership@islandviewpta.org](mailto:membership@islandviewpta.org). We would also welcome any ideas you have about how we can better support our ISV staff and students this year! THANK YOU!
 
