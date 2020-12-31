@@ -45,7 +45,7 @@ We hope you had an absolutely magical December! Thank you to all the Eagles that
 
 ## Support ISV with Box Tops!
 
-Box Tops is a super easy way to help earn money for our school! If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipt, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year, so thank you for your help!
+Box Tops is a super easy way to help earn money for our school! If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipts, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year, so thank you for your help!
 
 {{< fig src="confetti.jpg" align="center" class="max-w-xs" >}}
 
@@ -95,10 +95,13 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 
 * **1-3:  Winter Break**
 * **4:**  **Classes resume**
+* **18:  Martin Luther King Day - no school**
 
 ### February
 
-* **2:**  **PTA Meeting 6 pm via Zoom**
+* **2:**  **PTA MEETING AT 6PM VIA ZOOM**
+* **5:  Half Day**
+* **15:  Presidents Day - no school**
 
 ***
 
