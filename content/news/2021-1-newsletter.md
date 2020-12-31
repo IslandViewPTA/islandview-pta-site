@@ -97,13 +97,13 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 
 * **1-3:  Winter Break**
 * **4:**  **Classes resume**
-* **18:  Martin Luther King Day - no school**
+* **18:  Martin Luther King Day - NO SCHOOL**
 
 ### February
 
 * **2:**  **PTA MEETING AT 6PM VIA ZOOM**
 * **5:  Half Day**
-* **15:  Presidents Day - no school**
+* **15:  Presidents Day - NO SCHOOL**
 
 ***
 
