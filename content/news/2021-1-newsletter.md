@@ -94,7 +94,8 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 ### January
 
 * **1-3:  Winter Break**
-* **4:**  **Classes resume**
+* **4:**  **Classes resume online**
+* **11:  Classes resume IN PERSON!**
 * **18:  Martin Luther King Day - NO SCHOOL**
 
 ### February
