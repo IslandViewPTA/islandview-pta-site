@@ -11,6 +11,20 @@ draft: true
 ---
 ## Principal's Message
 
+Dear Island View Families:
+
+Welcome to 2021! I wish you a year of health and happiness.
+
+I hope you enjoyed a festive holiday season and made magical memories. Still, as wonderful as this time of year can be for families, it also can be a time of pressure-filled obligations and sorrowful memories, especially during our present health crisis. Despite the hectic nature of the season, I hope you found at least brief moments of joy and peace.
+
+As you know, the district plans to reopen schools for K-5 students on January 11. I understand this is good news for many families and concerning news for others. While I share these mixed feelings, I am reminded of what your children taught me in November. They were truly remarkable. At all times, all students wore masks. All students remained in their seats and respected the social distance of their peers. All students remained intently focused on learning. In fact, I can honestly say I have never seen more engaged or well-behaved students in my 30 years in education. And—a lot can be learned in two-plus hours when there are no distractions or transitions during the day. 😊
+
+However you feel about in-person learning, please know your Island View staff remains committed to ensuring a safe and meaningful school experience for our students. I will email detailed information regarding our reopening plans, including important arrival and departure information, no later than Thursday, January 7th. In the meantime, please feel free to contact me at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) or at 360-503-1490 with any of your questions, suggestions, or concerns.
+
+Again, here’s to a healthy and happy New Year. See you soon-
+
+Brian
+
 {{< fig src="car-parade-window.jpg" align="center" class="max-w-xs" >}}
 
 ## Hospitality Thank You!
