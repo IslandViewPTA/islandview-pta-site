@@ -30,7 +30,11 @@ We are actively recruiting people interested in taking a **leadership role** in 
 
 [https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
 
+***
+
 These are some of the amazing things the PTA is usually involved in - please consider volunteering to help us reimagine them in this virtual world.
+
+\-
 
 [**5th Grade Graduation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%205th%20Grade%20Graduation): Prepare for our 5th Graders to leave the Eagles Nest and fly off to Middle School.
 
