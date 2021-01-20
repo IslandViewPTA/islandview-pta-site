@@ -25,7 +25,7 @@ Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of
 
 **We are actively recruiting people interested in taking a leadership role in the Island View PTA for next school year.**  Please check that box in the survey to let us know!
 
-## Please complete this [Volunteer Interest Survey](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey").
+## Please complete this [_Volunteer Interest Survey_](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey").
 
 ***
 
