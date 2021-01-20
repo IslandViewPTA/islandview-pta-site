@@ -13,7 +13,7 @@ type: event
 ---
 ## PTA Meetings
 
-{{< fig src="December-PTA-meeting.png" align="center" class="max-w-s" >}}
+{{< fig src="february-pta-meeting.png" align="center" class="max-w-s" >}}
 
 We’d love for you to [become a member of the PTA](/membership/).
 
