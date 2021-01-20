@@ -24,7 +24,11 @@ Due to the pandemic, our reach this year has been limited and without our usual 
   
 Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need YOU – your new ideas, your energy, your enthusiasm – to make our PTA all that it can be!
 
-Please complete this survey: [https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
+We are actively recruiting people interested in taking a **leadership role** in Island View PTA for next school year.  Please check that box in the survey to let us know!
+
+## Please complete this survey:
+
+[https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
 
 These are some of the amazing things the PTA is usually involved in - please consider volunteering to help us reimagine them in this virtual world.
 
