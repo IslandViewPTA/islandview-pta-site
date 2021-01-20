@@ -39,7 +39,7 @@ These are some of the amazing things the PTA is usually involved in - please con
 
 [**Display / Bulletin Board**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Display-Reader%20Board): Helping set with the visual presence of the PTA, by creating appealing bulletin boards and display cases.
 
-[**Family Fun**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun): Hosting several just-for-fun events for Island View students and their families, including movie parties, family fun nights, etc.
+[**Family Fun**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Family%20Fun): Hosting several just-for-fun events for Island View students and their families, including movie parties, family fun activities, bingo nights, etc.
 
 [**Field Day**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Field%20Day): Planning and coordinating much of the activities and fun on Field Day.
 
