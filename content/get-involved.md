@@ -27,7 +27,7 @@ We are actively recruiting people interested in taking a **leadership role** in 
 
 ## Please complete this survey:
 
-[https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
+[Volunteer Interest Survey](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
 
 ***
 
