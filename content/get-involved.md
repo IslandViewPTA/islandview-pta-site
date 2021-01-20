@@ -33,7 +33,7 @@ These are some of the amazing things the PTA is usually involved in - please con
 
 [**5th Grade Graduation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%205th%20Grade%20Graduation): Preparing for our 5th Graders to leave the Eagles Nest and fly off to Middle School.
 
-[**100th Day Food Drive**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Food%20Drive): Helping support our local food banks and celebrate the 100th day of school with the 100th Day Food Drive!
+[**100th Day Food Drive**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Food%20Drive): Helping support our local food banks and celebrating the 100th day of school with the 100th Day Food Drive!
 
 [**Class ACT School Play**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20ACT%20School%20Play): Working with the Anacortes Community Theatre’s School for the Performing Arts to create an annual school play starring up to 80 Island View students.
 
