@@ -13,11 +13,18 @@ callToAction: true
 ---
 ## Island View Family
 
-Because of the the global pandemic, all in-person events and all fundraisers have been canceled until further notice.
+This school year is unlike any other and that is why we need your help more than ever!
 
-If you have any wonderful **_virtual_** ideas to keep us connected, please [contact us](mailto:president@islandviewpta.org "contact us") and we would love to work with you on possibly making that a reality.
+The Island View PTA is deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!   
+  
+Due to the pandemic, our reach this year has been limited and without our usual fundraisers (Color Run and Chocolate Sales) we had to drastically minimize this year's budget. Even with all of the challenges this year has presented, we still want to engage our Eagles as much as possible and support our Island View families and staff to the best of our ability.
 
-These are some of the amazing things the PTA is usually involved in - please consider volunteering when we open up the school again soon.
+**We Need YOU!**  
+Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need YOU – your new ideas, your energy, your enthusiasm – to make our PTA all that it can be!
+
+Please complete this survey: [https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
+
+These are some of the amazing things the PTA is usually involved in - please consider volunteering to help us reimagine them in this virtual world.
 
 ## We Need YOU!
 
