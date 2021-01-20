@@ -34,8 +34,6 @@ We are actively recruiting people interested in taking a **leadership role** in 
 
 These are some of the amazing things the PTA is usually involved in - please consider volunteering to help us reimagine them in this virtual world.
 
-\-
-
 [**5th Grade Graduation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%205th%20Grade%20Graduation): Prepare for our 5th Graders to leave the Eagles Nest and fly off to Middle School.
 
 [**100th Day Food Drive**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Food%20Drive): Help support our local food banks and celebrate the 100th day of school with the 100th Day Food Drive!
