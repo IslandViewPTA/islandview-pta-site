@@ -19,18 +19,14 @@ The Island View PTA is deeply committed to the staff and students at Island View
   
 Due to the pandemic, our reach this year has been limited and without our usual fundraisers (Color Run and Chocolate Sales) we had to drastically minimize this year's budget. Even with all of the challenges this year has presented, we still want to engage our Eagles as much as possible and support our Island View families and staff to the best of our ability.
 
-**We Need YOU!**  
+## We Need YOU!
+
+  
 Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need YOU – your new ideas, your energy, your enthusiasm – to make our PTA all that it can be!
 
 Please complete this survey: [https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest "Interest Survey")
 
 These are some of the amazing things the PTA is usually involved in - please consider volunteering to help us reimagine them in this virtual world.
-
-## We Need YOU!
-
-Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need – _your new ideas, your energy, your enthusiasm_ – to make our PTA all that it can be!
-
-Check out all the different ways you can get involved.  Just click any that interest you and your email will be forwarded to the correct person.
 
 [**5th Grade Graduation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%205th%20Grade%20Graduation): Prepare for our 5th Graders to leave the Eagles Nest and fly off to Middle School.
 
