@@ -16,7 +16,8 @@ callToAction: true
 
 The Island View PTA uses funds raised to provide resources and activities for the Students and Staff of Island View Elementary.
 
-Please click the button below to enter the Island View PTA storefront.  
+Please click the button below to enter the Island View PTA storefront.
+
 <a class="text-sm border-0 rounded px-3 py-2 inline-block text-gold bg-primary no-underline" target="_blank" href="https://stores.tshirtsbydesign.ink/islandview/shop/home">Shop Online</a>
 
 If you have any questions, please do not hesitate to contact: [President - Meg Mourning](mailto:president@islandviewpta.org) or [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org)
