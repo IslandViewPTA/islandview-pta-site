@@ -5,8 +5,23 @@ navigateToChanged = true
 metaDataFormat = "yaml"
 enableEmoji = true
 
-[blackfriday]
-  hrefTargetBlank = false
+[markup.goldmark]
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = false
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = false
+  [markup.goldmark.parser]
+    attribute = true
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+  [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = true
+    xhtml = false
 
 [params.cloudinary]
   cloud_name = "ivepta"
