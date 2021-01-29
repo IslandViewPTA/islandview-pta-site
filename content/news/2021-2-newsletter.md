@@ -148,7 +148,7 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 
 ### March
 
-* **1-5: Conference Week - remote learning 9am to Noon**
+* **1-5: HALF DAYS for Conference Week - remote learning 9am to Noon**
 * **8: PTA MEETING AT 6PM VIA ZOOM**
 * **25: Picture Retakes Grades 4 & 5**
 
