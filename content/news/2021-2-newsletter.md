@@ -99,7 +99,9 @@ Thank you to everyone who has Island View PTA selected as their designated non-p
 
 If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
 
-## MARCH PTA Meeting is March 
+{{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
+
+## MARCH PTA Meeting is March 8
 
 ## Give the Gift of Membership
 
