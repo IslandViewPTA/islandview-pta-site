@@ -50,7 +50,7 @@ Brian Hanrahan
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
 
-{{< fig src="hearts-cutouts.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="volunteer-feb.png" align="center" class="max-w-xs" >}}
 
 ## Share Time and Talent with PTA
 
@@ -61,6 +61,6 @@ Please take a moment to check out our [Volunteer Interest Form](https://www.cogn
 
 We are actively recruiting people interested in taking a leadership role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
 
-## Share LOVE and ART on Feb 12
+## SpiritWear Store is OPEN!
 
 ## 
