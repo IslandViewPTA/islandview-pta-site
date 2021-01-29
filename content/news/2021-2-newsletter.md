@@ -71,6 +71,8 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 **Please place your orders by noon on February 8.**
 
+## School Photos Feb 18!
+
 ## Hospitality News & Events
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
@@ -101,7 +103,7 @@ If you haven't already, it's SUPER EASY! Just designate Island View PTA as the n
 
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
-## MARCH PTA Meeting is March 8
+## Next PTA Meeting is March 8
 
 ## Give the Gift of Membership
 
