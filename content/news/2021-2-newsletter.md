@@ -107,6 +107,8 @@ If you haven't already, it's SUPER EASY! Just designate Island View PTA as the n
 
 **Reserve time in your calendar now to attend the March PTA meeting.**
 
+Join us on Monday, March 8 at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA! 
+
 ## Give the Gift of Membership
 
 The new year is an ideal time to give something meaningful to others by gifting a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
