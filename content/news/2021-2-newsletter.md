@@ -65,10 +65,12 @@ We are actively recruiting people interested in taking a leadership role in the 
 
 ## SpiritWear Store CLOSES SOON!
 
-**Time is running out to order your Island View spiritwear!** 
+**Time is running out to order your Island View spiritwear!**
 
-There's something for everyone including t-shirts, hoodies, hats, scarves and masks. And you can personalize your gear with a custom printed name. 
+There's something for everyone including t-shirts, hoodies, hats, scarves and masks. And you can personalize your gear with a custom printed name.
 
 **Please place your orders by noon on February 8.**
 
-## 
+## Hospitality News & Events
+
+## Box Tops Benefit Island View!
