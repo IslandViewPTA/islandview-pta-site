@@ -41,3 +41,9 @@ As always, please reach out to me at 360-503-1490 or at [bhanrahan@asd103.org](m
 Stay well-
 
 Brian Hanrahan
+
+{{< fig src="feb-pta-meeting.png" align="center" class="max-w-xs" >}}
+
+## PTA Meeting Feb 2 @ 6 pm
+
+MARK YOUR CALENDARS! 
