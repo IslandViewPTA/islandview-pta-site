@@ -50,4 +50,17 @@ Brian Hanrahan
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
 
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+{{< fig src="hearts-cutouts.jpg" align="center" class="max-w-xs" >}}
+
+## Share Time and Talent with PTA
+
+**We Need YOU!**  
+Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need YOU – your new ideas, your energy, your enthusiasm – to make our PTA all that it can be!
+
+Please take a moment to check out our [Volunteer Interest Form](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest) to see what volunteer opportunities are available. Please note: this will NOT commit you to volunteering for anything with the PTA; it is simply an indication of interest in a specific PTA project.
+
+We are actively recruiting people interested in taking a leadership role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
+
+## Share LOVE and ART on Feb 12
+
+## 
