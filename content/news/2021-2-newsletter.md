@@ -91,6 +91,8 @@ Box Tops is an EASY way to earn money for our school!
 
 If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipts, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year!
 
+{{< fig src="amazon-s-mobile.jpg" align="center" class="max-w-xs" >}}
+
 ## Amazon Smile Helps Island View
 
 Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated!
