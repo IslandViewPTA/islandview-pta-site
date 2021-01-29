@@ -46,7 +46,7 @@ Brian Hanrahan
 
 ## PTA Meeting Feb 2 @ 6 pm
 
-**Please join us on Tuesday night for the February PTA meeting at 6 PM via Zoom (meeting link will be emailed).**
+**MARK YOUR CALENDARS!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link will be emailed).**
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
 
@@ -59,7 +59,7 @@ Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of
 
 Please take a moment to check out our [Volunteer Interest Form](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest) to see what volunteer opportunities are available. Please note: this will NOT commit you to volunteering for anything with the PTA; it is simply an indication of interest in a specific PTA project.
 
-We are actively recruiting people interested in taking a **leadership** role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
+We are actively recruiting people interested in taking a leadership role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
 
 {{< fig src="spiritwear-feb.png" align="center" class="max-w-xs" >}}
 
@@ -69,11 +69,15 @@ We are actively recruiting people interested in taking a **leadership** role in 
 
 There's something for everyone including t-shirts, hoodies, hats, scarves and masks. And you can personalize your gear with a custom printed name.
 
-**Please place your orders by _Noon on February 8_ for delivery by early March.**
+**Please place your orders by noon on February 8.**
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
 ## School Photos Feb 18!
+
+**Get your smiles ready!** O'Connor Photography Studio will take photos on Thursday, Feb 18 for grades 4 & 5 and do make-up photos for grades K-3.
+
+[Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login) 
 
 {{< fig src="heart_strings.jpg" align="center" class="max-w-xs" >}}
 
@@ -130,14 +134,14 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 ### February
 
 * **2:**  **PTA MEETING AT 6PM VIA ZOOM**
-* **5:  HALF DAY All Anacortes Schools - online classes only**
+* **5:  HALF DAY All Anacortes Schools**
 * **8:  SpiritWear Orders DUE**
 * **15:  Presidents Day - NO SCHOOL**
 * **18:  Picture Day Grades 4 & 5, Retakes K-3**
 
 ### March
 
-* **1-5: Conference Week - half day online classes only** 
+* **1-5: Conference Week**
 * **8: PTA MEETING AT 6PM VIA ZOOM**
 * **25: Picture Retakes Grades 4 & 5**
 
