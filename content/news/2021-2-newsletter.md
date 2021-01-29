@@ -61,6 +61,8 @@ Please take a moment to check out our [Volunteer Interest Form](https://www.cogn
 
 We are actively recruiting people interested in taking a leadership role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
 
+{{< fig src="spiritwear-feb.png" align="center" class="max-w-xs" >}}
+
 ## SpiritWear Store is OPEN!
 
 ## 
