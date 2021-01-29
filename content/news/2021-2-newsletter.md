@@ -80,3 +80,11 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 Box Tops is an EASY way to earn money for our school! 
 
 If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipts, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year!
+
+## YEARBOOK Photos Needed
+
+**Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
+
+Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
+
+We’ll do our best to make sure everyone is included, so snap away! Thank you!
