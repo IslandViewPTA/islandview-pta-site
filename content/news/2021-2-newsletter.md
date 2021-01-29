@@ -73,4 +73,10 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 ## Hospitality News & Events
 
+{{< fig src="boxtops_feb.jpg" align="center" class="max-w-xs" >}}
+
 ## Box Tops Benefit Island View!
+
+Box Tops is an EASY way to earn money for our school! 
+
+If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipts, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year!
