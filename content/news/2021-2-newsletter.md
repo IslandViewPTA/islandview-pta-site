@@ -46,7 +46,7 @@ Brian Hanrahan
 
 ## PTA Meeting Feb 2 @ 6 pm
 
-**Don't Miss It!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link emailed).**
+**Don't Miss It!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link will be emailed).**
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
 
@@ -59,7 +59,7 @@ Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of
 
 Please take a moment to check out our [Volunteer Interest Form](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest) to see what volunteer opportunities are available. Please note: this will NOT commit you to volunteering for anything with the PTA; it is simply an indication of interest in a specific PTA project.
 
-We are actively recruiting people interested in taking a leadership role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
+We are actively recruiting people interested in taking a **leadership** role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
 
 {{< fig src="spiritwear-feb.png" align="center" class="max-w-xs" >}}
 
