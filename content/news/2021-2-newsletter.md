@@ -73,9 +73,9 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
-## School Photos Feb 18!
+## School Photos Feb 18
 
-**Get your smiles ready!** O'Connor Photography Studio will take photos on Thursday, Feb 18 for grades 4 & 5 and do make-up photos for grades K-3.
+**Get your smiles ready!** O'Connor Photography Studio will take photos on Thursday, Feb 18 for grades 4 & 5 and do retakes for grades K-3.
 
 [Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login) 
 
@@ -85,7 +85,7 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
-## YEARBOOK Photos Needed
+## YEARBOOK Photos Needed!
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
@@ -95,7 +95,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="boxtops_feb.jpg" align="center" class="max-w-xs" >}}
 
-## Box Tops Benefit Island View!
+## Box Tops Benefit Island View
 
 **Box Tops is an EASY way to earn money for our school!**
 
