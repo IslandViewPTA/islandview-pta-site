@@ -129,6 +129,7 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 * **5:  HALF DAY All Anacortes Schools**
 * **8:  SpiritWear Orders DUE**
 * **15:  Presidents Day - NO SCHOOL**
+* 
 * **18:  Picture Day Grades 4 & 5, Retakes K-3**
 
 ### March
