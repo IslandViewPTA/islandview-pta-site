@@ -46,7 +46,7 @@ Brian Hanrahan
 
 ## PTA Meeting Feb 2 @ 6 pm
 
-**MARK YOUR CALENDARS!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link will be emailed).**
+**Don't Miss It!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link emailed).**
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
 
@@ -65,7 +65,7 @@ We are actively recruiting people interested in taking a leadership role in the 
 
 ## SpiritWear Store CLOSES SOON!
 
-**Time is running out to order your Island View spiritwear!**
+**Time is running out to** [**order your Island View spiritwear**](https://www.islandviewpta.org/shop/)**!**
 
 There's something for everyone including t-shirts, hoodies, hats, scarves and masks. And you can personalize your gear with a custom printed name.
 
@@ -77,7 +77,7 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 **Get your smiles ready!** O'Connor Photography Studio will take photos on Thursday, Feb 18 for grades 4 & 5 and do retakes for grades K-3.
 
-[Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login) 
+[Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login)
 
 {{< fig src="heart_strings.jpg" align="center" class="max-w-xs" >}}
 
