@@ -99,6 +99,8 @@ Thank you to everyone who has Island View PTA selected as their designated non-p
 
 If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
 
+## MARCH PTA Meeting is March 
+
 ## Give the Gift of Membership
 
 The new year is an ideal time to give something meaningful to others by gifting a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
@@ -113,18 +115,13 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 
 ## SAVE THESE DATES!
 
-### January
-
-* **1-3:  Winter Break**
-* **4:**  **Classes resume online**
-* **11:  Classes resume IN PERSON!**
-* **18:  Martin Luther King Day - NO SCHOOL**
-
 ### February
 
 * **2:**  **PTA MEETING AT 6PM VIA ZOOM**
-* **5:  Half Day**
+* **5:  HALF DAY All Anacortes Schools**
+* **8:  SpiritWear Orders DUE**
 * **15:  Presidents Day - NO SCHOOL**
+* 
 
 ***
 
