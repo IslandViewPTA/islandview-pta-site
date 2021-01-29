@@ -75,6 +75,8 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 ## School Photos Feb 18!
 
+{{< fig src="heart_strings.jpg" align="center" class="max-w-xs" >}}
+
 ## Hospitality News & Events
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
