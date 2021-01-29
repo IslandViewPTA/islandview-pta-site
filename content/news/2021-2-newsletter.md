@@ -42,10 +42,12 @@ Stay well-
 
 Brian Hanrahan
 
-{{< fig src="feb-pta-meeting.png" align="center" class="max-w-xs" >}}
+{{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
 
 ## PTA Meeting Feb 2 @ 6 pm
 
 **MARK YOUR CALENDARS!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link will be emailed).**
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
+
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
