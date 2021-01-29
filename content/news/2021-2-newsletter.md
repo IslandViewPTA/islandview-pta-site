@@ -46,7 +46,7 @@ Brian Hanrahan
 
 ## PTA Meeting Feb 2 @ 6 pm
 
-**Please join us on Tuesday for the February PTA meeting at 6 PM via Zoom (meeting link will be emailed).**
+**Please join us on Tuesday night for the February PTA meeting at 6 PM via Zoom (meeting link will be emailed).**
 
 So much to discuss and so many ways to get involved and share some LOVE for Island View!
 
@@ -69,7 +69,7 @@ We are actively recruiting people interested in taking a **leadership** role in 
 
 There's something for everyone including t-shirts, hoodies, hats, scarves and masks. And you can personalize your gear with a custom printed name.
 
-**Please place your orders by Noon on February 8 for delivery by early March.**
+**Please place your orders by _Noon on February 8_ for delivery by early March.**
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
