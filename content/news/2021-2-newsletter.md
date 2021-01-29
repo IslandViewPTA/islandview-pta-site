@@ -71,6 +71,8 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 **Please place your orders by noon on February 8.**
 
+{{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
+
 ## School Photos Feb 18!
 
 ## Hospitality News & Events
@@ -107,7 +109,7 @@ If you haven't already, it's SUPER EASY! Just designate Island View PTA as the n
 
 **Reserve time in your calendar now to attend the March PTA meeting.**
 
-Join us on Monday, March 8 at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA! 
+Join us on Monday, March 8 at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA!
 
 ## Give the Gift of Membership
 
@@ -135,7 +137,7 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 ### March
 
 * **8: PTA MEETING AT 6PM VIA ZOOM**
-* **25: Picture Retakes Grades 4 & 5** 
+* **25: Picture Retakes Grades 4 & 5**
 
 ***
 
