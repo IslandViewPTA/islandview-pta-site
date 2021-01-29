@@ -89,7 +89,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## Box Tops Benefit Island View!
 
-Box Tops is an EASY way to earn money for our school!
+**Box Tops is an EASY way to earn money for our school!**
 
 If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipts, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year!
 
@@ -97,13 +97,15 @@ If you have any physical Box Tops, they're still collecting them. If you are wil
 
 ## Amazon Smile Helps Island View
 
-Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile! With so many purchases made online this holiday season, the .5% of your purchase price that was automatically donated by Amazon was greatly appreciated!
+**Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile!**
 
 If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
 
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
 ## Next PTA Meeting is March 8
+
+**Reserve time in your calendar now to attend the March PTA meeting.**
 
 ## Give the Gift of Membership
 
@@ -125,7 +127,12 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 * **5:  HALF DAY All Anacortes Schools**
 * **8:  SpiritWear Orders DUE**
 * **15:  Presidents Day - NO SCHOOL**
-* 
+* **18:  Picture Day Grades 4 & 5, Retakes K-3**
+
+### March
+
+* **8: PTA MEETING AT 6PM VIA ZOOM**
+* **25: Picture Retakes Grades 4 & 5** 
 
 ***
 
