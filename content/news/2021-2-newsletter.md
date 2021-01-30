@@ -84,7 +84,7 @@ There's something for everyone including t-shirts, hoodies, hats, scarves and ma
 
 **The Hospitality Committee is excitedly looking forward to Valentine's Day!** We will be spreading the love by decorating the school's exterior doors on Friday, Feb. 12. Students will be bringing home a red or pink piece of construction paper if they would like to contribute to the school decorations. Bins will be placed outside the student/bus drop off areas for students to bring their decorations on Feb. 4 and 8.
 
-**Donut Delivery!** The Island View PTA sweetened the first day back for bus drivers with the delivery of two dozen Donut House donuts. Hospitality volunteer Jenessa Eelkema dropped off the donuts in the predawn hours of Jan 11 and we received this sweet note in return, "With much gratitude...Thank you for the donuts on Monday at the bus garage, we did not leave any crumbs!"
+**Donut Delivery!** The Island View PTA sweetened the first day back for bus drivers with the delivery of two dozen Donut House donuts. Hospitality volunteer Jenessa Eelkema dropped off the donuts in the predawn hours of Jan 11 and we received this kind note in return, "With much gratitude...Thank you for the donuts on Monday at the bus garage, we did not leave any crumbs!"
 
 **Let us know if you would like to be part of the magic of the Hospitality Committee, showing our love by sharing edible joy!** [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
 
