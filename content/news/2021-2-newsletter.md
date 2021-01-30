@@ -141,14 +141,14 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 ### February
 
 * **2:**  **PTA MEETING AT 6PM VIA ZOOM**
-* **5:  HALF DAY All Anacortes Schools - remote learning 9am to Noon**
+* **5:  HALF DAY All Anacortes Schools - remote learning 9 to Noon**
 * **8:  SpiritWear Orders DUE**
 * **15:  Presidents Day - NO SCHOOL**
 * **18:  Picture Day Grades 4 & 5, Retakes K-3**
 
 ### March
 
-* **1-5: HALF DAYS for Conference Week - remote learning 9am to Noon**
+* **1-5: HALF DAYS for Conference Week - remote learning 9 to Noon**
 * **8: PTA MEETING AT 6PM VIA ZOOM**
 * **25: Picture Retakes Grades 4 & 5**
 
