@@ -16,9 +16,9 @@ type: page
 
 ***
 
-{{< fig src="february-pta-meeting.png" align="center" class="max-w-s" >}}
+{{< fig src="march-pta-mtg.png" align="center" class="max-w-s" >}}
 
-### SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, February 2nd via zoom.
+### SAVE THE DATE:  The next PTA meeting will be at 6pm on Monday, March 8th via zoom.
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
