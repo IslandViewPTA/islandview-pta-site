@@ -22,9 +22,9 @@ So much to discuss and so many ways to **make Island View AMAZING!**
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
-## School Photos Feb 18
+## Grades 4 & 5 Retakes March 25
 
-**Get your smiles ready!** O'Connor Photography Studio will take photos on Thursday, Feb 18 for grades 4 & 5 and do retakes for grades K-3.
+**Get your smiles ready!** O'Connor Photography Studio will be back on Thursday, March 25 to do retakes for grades 4 & 5.
 
 [Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login)
 
@@ -32,11 +32,7 @@ So much to discuss and so many ways to **make Island View AMAZING!**
 
 ## Hospitality News & Events
 
-**The Hospitality Committee is excitedly looking forward to Valentine's Day!** We will be spreading the love by decorating the school's exterior doors on Friday, Feb. 12. Students will be bringing home a red or pink piece of construction paper if they would like to contribute to the school decorations. Bins will be placed outside the student/bus drop off areas for students to bring their decorations on Feb. 4 and 8.
-
-**Donut Delivery!** The Island View PTA sweetened the first day back for bus drivers with the delivery of two dozen Donut House donuts. Hospitality volunteer Jenessa Eelkema dropped off the donuts in the predawn hours of Jan 11 and we received this kind note in return, "With much gratitude...Thank you for the donuts on Monday at the bus garage, we did not leave any crumbs!"
-
-**Let us know if you would like to be part of the magic of the Hospitality Committee, showing our love by sharing edible joy!** [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
+[hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
@@ -50,11 +46,11 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
-## Next PTA Meeting is March 8
+## Next PTA Meeting is April
 
-**Reserve time in your calendar now to attend the March PTA meeting.**
+**Reserve time in your calendar now to attend the April PTA meeting.**
 
-Join us on Monday, March 8 at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA!
+Join us  at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA!
 
 ## 
 
