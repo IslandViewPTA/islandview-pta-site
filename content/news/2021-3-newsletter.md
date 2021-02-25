@@ -58,7 +58,7 @@ Join us  at 6 PM via Zoom for another opportunity to connect and contribute to t
 
 ### March
 
-* **1-5: Remote Learning, 9AM to Noon**
+* **1-5: Remote Learning Only 9AM to Noon**
 * **2-5: Conferences -** 
 * **8: PTA MEETING AT 6PM via ZOOM**
 * **25: Picture Retakes Grades 4 & 5**
