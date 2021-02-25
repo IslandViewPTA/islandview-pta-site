@@ -42,11 +42,11 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
-## Next PTA Meeting is April
+## Next PTA Meeting is April 19
 
 **Reserve time in your calendar now to attend the April PTA meeting.**
 
-Join us  at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA!
+Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA!
 
 ## You're INCREDIBLE!
 
