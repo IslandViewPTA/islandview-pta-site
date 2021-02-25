@@ -28,8 +28,6 @@ So much to discuss and so many ways to **make Island View AMAZING!**
 
 [Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login)
 
-{{< fig src="heart_strings.jpg" align="center" class="max-w-xs" >}}
-
 ## Hospitality News & Events
 
 [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
