@@ -14,32 +14,11 @@ Dear Island View Families:
 
 {{< fig src="february-pta-meeting.png" align="center" class="max-w-xs" >}}
 
-## PTA Meeting Feb 2 @ 6 pm
+## PTA Meeting March 8 @ 6 pm
 
-**Don't Miss It!  The February PTA meeting is Tuesday, Feb 2 at 6 PM via Zoom (meeting link will be emailed).**
+**Don't Miss It!  The March PTA meeting is Monday, March 8 at 6 PM via Zoom (meeting link will be emailed).**
 
-So much to discuss and so many ways to get involved and share some LOVE for Island View!
-
-{{< fig src="volunteer-feb.png" align="center" class="max-w-xs" >}}
-
-## Share Time and Talent with PTA
-
-**We Need YOU!**  
-Our PTA thrives because LOTS of fabulous individuals give a little (or a lot) of their time and talents, working together to serve the students and staff of Island View Elementary. We need YOU – your new ideas, your energy, your enthusiasm – to make our PTA all that it can be!
-
-Please take a moment to check out our [Volunteer Interest Form](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest) to see what volunteer opportunities are available. Please note: this will NOT commit you to volunteering for anything with the PTA; it is simply an indication of interest in a specific PTA project.
-
-We are actively recruiting people interested in taking a **leadership** role in the Island View PTA for next school year. If you are interested, please check that box in the survey to let us know!
-
-{{< fig src="spiritwear-feb.png" align="center" class="max-w-xs" >}}
-
-## SpiritWear Store CLOSES SOON!
-
-**Time is running out to** [**order your Island View spiritwear**](https://www.islandviewpta.org/shop/)**!**
-
-There's something for everyone including t-shirts, hoodies, hats, scarves and masks. And you can personalize your gear with a custom printed name.
-
-**Please place your orders by NOON on February 8 for early March delivery.**
+So much to discuss and so many ways to **make Island View AMAZING!**
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
