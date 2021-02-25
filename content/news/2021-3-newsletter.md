@@ -50,28 +50,6 @@ Join us  at 6 PM via Zoom for another opportunity to connect and contribute to t
 
 ## 
 
-{{< fig src="boxtops_feb.jpg" align="center" class="max-w-xs" >}}
-
-## Box Tops Benefit Island View
-
-**Box Tops is an EASY way to earn money for our school!**
-
-If you have any physical Box Tops, they're still collecting them. If you are willing and able to download the Box Tops app and scan your receipts, any Box Tops eligible items are automatically calculated. Every little bit counts, especially this year!
-
-{{< fig src="amazon-s-mobile.jpg" align="center" class="max-w-xs" >}}
-
-## Amazon Smile Helps Island View
-
-**Thank you to everyone who has Island View PTA selected as their designated non-profit through Amazon Smile!**
-
-If you haven't already, it's SUPER EASY! Just designate Island View PTA as the non-profit you'd like the donation made to, shop as usual, and Amazon does the rest!
-
-## Give the Gift of Membership
-
-The new year is an ideal time to give something meaningful to others by gifting a [membership to Island View PTA! ](https://www.islandviewpta.org/membership)
-
-Membership entitles you or someone dear to you to join the ranks of the most caring and dedicated PTA on Fidalgo Island. Don't forget to sponsor a staff membership, as we are currently **only 4 staff members away from 100% staff membership!**
-
 ## You're INCREDIBLE!
 
 **THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
@@ -85,6 +63,10 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 * **1-5: HALF DAYS for Conference Week - remote learning 9 to Noon**
 * **8: PTA MEETING AT 6PM VIA ZOOM**
 * **25: Picture Retakes Grades 4 & 5**
+
+### April
+
+* 
 
 ***
 
