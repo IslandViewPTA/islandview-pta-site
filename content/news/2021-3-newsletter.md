@@ -48,8 +48,6 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 Join us  at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island VIew PTA!
 
-## 
-
 ## You're INCREDIBLE!
 
 **THANKS** all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
@@ -60,13 +58,15 @@ Join us  at 6 PM via Zoom for another opportunity to connect and contribute to t
 
 ### March
 
-* **1-5: HALF DAYS for Conference Week - remote learning 9 to Noon**
-* **8: PTA MEETING AT 6PM VIA ZOOM**
+* **1-5: Remote Learning, 9AM to Noon**
+* **2-5: Conferences -** 
+* **8: PTA MEETING AT 6PM via ZOOM**
 * **25: Picture Retakes Grades 4 & 5**
 
 ### April
 
-* 
+* **5-9: Spring Break, NO SCHOOL**
+* **19: PTA MEETING AT 6PM via ZOOM** 
 
 ***
 
