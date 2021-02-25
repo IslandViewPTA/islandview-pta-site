@@ -12,7 +12,7 @@ draft: true
 
 Dear Island View Families:
 
-{{< fig src="march-pta-meeting.png" align="center" class="max-w-xs" >}}
+{{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
 ## PTA Meeting March 8 @ 6 pm
 
