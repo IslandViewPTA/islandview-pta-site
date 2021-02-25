@@ -42,8 +42,6 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
-{{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
-
 ## Next PTA Meeting is April
 
 **Reserve time in your calendar now to attend the April PTA meeting.**
