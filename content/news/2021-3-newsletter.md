@@ -10,7 +10,19 @@ draft: true
 ---
 ## Principal's Message
 
-Dear Island View Families:
+Island View Families:
+
+February proved to be an eventful month. Our students celebrated Valentine’s Day in a wonderfully “normal” way—they crafted red and pink hearts, traded cards and store-bought treats, and spread much love throughout our school community. The very next day, we all awoke to a blanket of snow that turned Anacortes into a veritable winter wonderland. I was so pleased to hear stories of sledding, snow angels, and snowball fights. Our students, who have been through so much this year, deserved all the fun and excitement!
+
+Now we turn our attention to March and spring conferences. While I will miss the opportunity to welcome family members into our building, I am thankful for the opportunity to pause and connect with our parents. I am sure you will enjoy your time with teachers.
+
+March is also the time we celebrate I Love to Read. The month and event are particularly poignant to me because when school closed on March 16 last school year, our students were creating a celebratory “book worm” that filled our hallways. After we closed, I remember feeling heavy emotion as I walked the halls and saw our incomplete bookworm. Now a year later, we have new challenges—and new opportunities. The Island View PTA has created an I Love to Read Month that will hopefully capture our students’ imaginations and creativity. Please look in this newsletter and on the PTA Facebook page for all the ways your students can engage in fun reading adventures.
+
+Soon the daffodils will appear, and the tulips will follow close behind. But let’s not forget the winter magic we experienced this past month. It’s a good reminder to us all: each season brings joy and beauty. Especially when you’re surrounded by inspiring little Island View Eagles. 😊
+
+As always, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) if you have questions, concerns, or suggestions.
+
+Brian Hanrahan
 
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
@@ -68,7 +80,7 @@ Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect a
 ### April
 
 * **5-9: Spring Break, NO SCHOOL**
-* **19: PTA MEETING AT 6PM via ZOOM** 
+* **19: PTA MEETING AT 6PM via ZOOM**
 
 ***
 
