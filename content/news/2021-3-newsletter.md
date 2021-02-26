@@ -25,11 +25,13 @@ As always, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto
 
 Brian Hanrahan
 
+{{< fig src="weneedyou.jpg" align="center" class="max-w-xs" >}}
+
 ## 2021-2022 PTA Officers Needed
 
 Several PTA officers are at the end of their term limits and we need leaders to help guide the way. Both the current president and vice-president will still have children at Island View next year, and will happily help you throughout the year.
 
-Leading our PTA as president or vice president has little to do with spreadsheets, event planning, or writing checks. It has everything to do with your compassion. You can make the time commitment as little/much as you wish. Many hands make light work! A presidency can be filled by multiple people. You and a co-president can determine and divide jobs any way you like. 
+Leading our PTA as president or vice president has little to do with spreadsheets, event planning, or writing checks. It has everything to do with your compassion. You can make the time commitment as little/much as you wish. Many hands make light work! A presidency can be filled by multiple people. You and a co-president can determine and divide jobs any way you like.
 
 Next year’s board is helmed by a committed treasurer, a veteran secretary, and a membership chair who also maintains our amazing social media presence. They won’t let you fail.
 
@@ -86,6 +88,8 @@ Go for a hike in our forest lands and see if you can find all 15 Books. Answer t
 {{< fig src="heart-doors.jpg" align="center" class="max-w-xs" >}}
 
 **Our deepest thanks to the wonderful volunteers for making decorations and putting them up**: Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. **Thank you to the students who made beautiful decorations for their school:** Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
+
+{{< fig src="dockside.jpg" align="center" class="max-w-xs" >}}
 
 The first week of March is Parent/Teacher Conference Week. We are excited to provide meals from [Dockside Dogs](https://www.facebook.com/docksidedogsanacortes/) to the staff as they prepare for their evening conferences on March 4th! [Dockside Dogs](https://www.facebook.com/docksidedogsanacortes/) has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are pleased to support this community-minded business!
 
