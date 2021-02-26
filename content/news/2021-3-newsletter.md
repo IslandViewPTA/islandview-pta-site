@@ -33,6 +33,8 @@ Brian Hanrahan
 
 So much to discuss and so many ways to **make Island View AMAZING!**
 
+{{< fig src="read.jpg" align="center" class="max-w-xs" >}}
+
 ## March is I LOVE TO READ MONTH
 
 There are so many ways this month to jump into books and reading AND share it with your friends and family. Check out the activities below!
