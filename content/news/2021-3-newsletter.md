@@ -25,6 +25,20 @@ As always, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto
 
 Brian Hanrahan
 
+## 2021-2022 PTA Officers Needed
+
+Several PTA officers are at the end of their term limits and we need leaders to help guide the way. Both the current president and vice-president will still have children at Island View next year, and will happily help you throughout the year.
+
+Leading our PTA as president or vice president has little to do with spreadsheets, event planning, or writing checks. It has everything to do with your compassion.
+
+You can make the time commitment as little/much as you wish. Many hands make light work! A presidency can be filled by multiple people. You and a co-president can determine and divide jobs any way you like. 
+
+Next year’s board is helmed by a committed treasurer, a veteran secretary, and a membership chair who also maintains our amazing social media presence. They won’t let you fail.
+
+The unknown can be scary, so reach out and let us dispel any concerns you might have. If you’ve ever been remotely interested in diversifying your contribution to our PTA, let us know.
+
+THANK YOU for considering stepping up to serve as a PTA officer. We hope to hear from you soon.
+
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
 ## PTA Meeting March 8 @ 6 pm
