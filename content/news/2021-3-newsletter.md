@@ -37,6 +37,10 @@ The unknown can be scary, so reach out and let us dispel any concerns you might 
 
 THANK YOU for considering stepping up to serve as a PTA officer. We hope to hear from you soon.
 
+PTA President - Meg Mourning – [**president@islandviewpta.org**](mailto:president@islandviewpta.org)
+
+PTA Vice President - Eric Mithen – [**vicepresident@islandviewpta.org**](mailto:vicepresident@islandviewpta.org)
+
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
 ## PTA Meeting March 8 @ 6 pm
