@@ -35,15 +35,17 @@ So much to discuss and so many ways to **make Island View AMAZING!**
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
+## March is I LOVE TO READ MONTH
+
+## Hospitality News & Events
+
+[hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
+
 ## Grades 4 & 5 Retakes March 25
 
 **Get your smiles ready!** O'Connor Photography Studio will be back on Thursday, March 25 to do retakes for grades 4 & 5.
 
 [Check out specific packages available for our school and pre-order online.](https://vando.imagequix.com/g1000828643#login)
-
-## Hospitality News & Events
-
-[hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
 
 {{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
 
