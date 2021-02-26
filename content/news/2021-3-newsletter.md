@@ -33,13 +33,39 @@ Brian Hanrahan
 
 So much to discuss and so many ways to **make Island View AMAZING!**
 
-{{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
-
 ## March is I LOVE TO READ MONTH
+
+There are so many ways this month to jump into books and reading AND share it with your friends and family. Check out the activities below!
+
+#### BE A BOOKWORM
+
+Build a [bookworm ](https://docs.google.com/document/d/10zADLrw5vdYyhpjNyu6aSX_-uwsd_LrjbMaq7aTqAt4/edit?usp=sharing)and enter the weekly raffle! Information will come home from your teacher the first week in March.
+
+#### ISV DIGITAL READ ALOUD LIBRARY
+
+Go to the [ISV PTA](https://www.islandviewpta.org/) website and look for our digital read aloud library. You can create one too! Just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link).
+
+#### MYSTERY BOOK CLUES
+
+Listen during morning announcements each week for the mystery book clues. Write down and give your clue to the staff member leading your daily break.
+
+#### WEEKLY GUEST READER
+
+Listen to the weekly Guest Reader on Mr. Hanrahan’s morning announcements.
+
+#### FOREST BOOK HUNT
+
+Go for a hike in our forest lands and see if you can find all 15 Books. Answer the questions if you can!
 
 ## Hospitality News & Events
 
-[hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)
+We had a wonderful time decorating Island View Elementary School for Valentine's Day. One teacher told us she was getting teary looking at the joyful decorations and we heard another story of a young student who had trouble crossing the crosswalk because he was so wowed by seeing his sweet school decorated. Thank you so much to the wonderful volunteers who made and put up decorations - Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. Thank you to the students who made beautiful decorations for their school - Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
+
+The first week of March is elemetary parent/teacher conferences. We are excited to bring meals from Dockside Dogs to the staff working the evening conference on March 4th! Dockside Dogs has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns and delicious toppings! We are so happy to support this community-minded business!
+
+We have recently surveyed the school staff for ideas about treat members to something special. We now have feedback about favorite coffee orders, cold beverages, local restaurants, office supplies, snacks, etc. If you would like any ideas on ways to treat individual ISV staff to something fun, email [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org).
+
+{{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
 ## Grades 4 & 5 Retakes March 25
 
