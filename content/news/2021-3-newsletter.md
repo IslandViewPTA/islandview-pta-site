@@ -43,6 +43,8 @@ There are so many ways this month to jump into books and reading AND share it wi
 
 #### BE A BOOKWORM
 
+{{< fig src="bookworm-pdf.png" align="center" class="max-w-xs" >}}
+
 Build a [bookworm ](https://docs.google.com/document/d/10zADLrw5vdYyhpjNyu6aSX_-uwsd_LrjbMaq7aTqAt4/edit?usp=sharing)and enter the weekly raffle! Information will come home from your teacher the first week in March.
 
 #### ISV DIGITAL READ ALOUD LIBRARY
