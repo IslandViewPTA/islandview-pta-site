@@ -33,17 +33,15 @@ Brian Hanrahan
 
 So much to discuss and so many ways to **make Island View AMAZING!**
 
-{{< fig src="read.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="2021-iltrm.png" align="center" class="max-w-xs" >}}
 
 ## March is I LOVE TO READ MONTH
 
 There are so many ways this month to jump into books and reading AND share it with your friends and family. Check out the activities below!
 
-{{< fig src="2021-iltrm.png" align="center" class="max-w-xs" >}}
+{{< fig src="bookworm-pdf.png" align="center" class="max-w-xs" >}}
 
 #### BE A BOOKWORM
-
-{{< fig src="bookworm-pdf.png" align="center" class="max-w-xs" >}}
 
 Build a [bookworm ](https://docs.google.com/document/d/10zADLrw5vdYyhpjNyu6aSX_-uwsd_LrjbMaq7aTqAt4/edit?usp=sharing)and enter the weekly raffle! Information will come home from your teacher the first week in March.
 
