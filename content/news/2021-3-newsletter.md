@@ -47,7 +47,7 @@ Build a [bookworm ](https://docs.google.com/document/d/10zADLrw5vdYyhpjNyu6aSX_-
 
 #### ISV DIGITAL READ ALOUD LIBRARY
 
-Go to the [ISV PTA](https://www.islandviewpta.org/) website and look for our digital read aloud library. You can create one too! Just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link).
+**Check out the** [ISV PTA](https://www.islandviewpta.org/) **website beginning next week** and look for our digital read aloud library. You can create one too! Just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link).
 
 #### MYSTERY BOOK CLUES
 
