@@ -51,11 +51,11 @@ Build a [bookworm ](https://docs.google.com/document/d/10zADLrw5vdYyhpjNyu6aSX_-
 
 #### MYSTERY BOOK CLUES
 
-Listen during Mr. Hanrahan's announcements each week for the mystery book clues. Write down and give your clue to the staff member leading your daily break.
+Listen during morning announcements each week for the mystery book clues. Write down and give your clue to the staff member leading your daily break.
 
 #### WEEKLY GUEST READER
 
-Listen to the weekly Guest Reader on Mr. Hanrahan’s daily announcements.
+Listen to the weekly Guest Reader on Mr. Hanrahan’s morning announcements.
 
 #### FOREST BOOK HUNT
 
@@ -73,9 +73,9 @@ Go for a hike in our forest lands and see if you can find all 15 Books. Answer t
 
 **Thank you so much to the wonderful volunteers for making decorations and putting them up**: Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. **Thank you to the students who made beautiful decorations for their school:** Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
 
-{{< fig src="dockside.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="hotdogs.jpg" align="center" class="max-w-xs" >}}
 
-The first week of March is Parent/Teacher Conference Week. We are excited to bring meals from [https://www.facebook.com/docksidedogsanacortes/](https://www.facebook.com/docksidedogsanacortes/ "Dockside Dogs") to the staff as they prepare for their evening conferences on March 4th! Dockside Dogs has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are so happy to support this community-minded business!
+The first week of March is Parent/Teacher Conference Week. We are excited to bring meals from Dockside Dogs to the staff as they prepare for their evening conferences on March 4th! Dockside Dogs has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are so happy to support this community-minded business!
 
 We have recently surveyed the school staff for ideas about treating members to something special. We now have a listing of favorite coffee orders, cold beverages, local restaurants, office supplies, snacks, etc. If you would like any ideas on ways to treat individual ISV staff to something fun, email [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org).
 
@@ -96,8 +96,6 @@ We have recently surveyed the school staff for ideas about treating members to s
 Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
-
-{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
 
 ## Next PTA Meeting is April 19
 
