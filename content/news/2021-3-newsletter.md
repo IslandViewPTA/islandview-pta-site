@@ -65,17 +65,17 @@ Go for a hike in our forest lands and see if you can find all 15 Books. Answer t
 
 ## Hospitality News & Events
 
-**So much love and thanks to all those who helped shower hearts all over Island View last month!** We had a wonderful time decorating our school and one teacher said she was getting teary looking at the joyful decorations.  We heard another story of a young student who had trouble crossing the crosswalk because he was so wowed by seeing his school so sweetly decorated.
+**So much love and thanks to all those who helped shower hearts all over Island View last month!** One teacher said she was getting teary looking at the joyful decorations.  We heard about a young student who had trouble crossing the crosswalk because he was so wowed by seeing his school so sweetly decorated.
 
 {{< fig src="vday-artwork.jpeg" align="center" class="max-w-xs" >}}
 
 {{< fig src="heart-doors.jpg" align="center" class="max-w-xs" >}}
 
-**Thank you so much to the wonderful volunteers for making decorations and putting them up**: Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. **Thank you to the students who made beautiful decorations for their school:** Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
+**Our deepest thanks to the wonderful volunteers for making decorations and putting them up**: Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. **Thank you to the students who made beautiful decorations for their school:** Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
 
-The first week of March is Parent/Teacher Conference Week. We are excited to bring meals from [Dockside Dogs](https://www.facebook.com/docksidedogsanacortes/) to the staff as they prepare for their evening conferences on March 4th! [Dockside Dogs](https://www.facebook.com/docksidedogsanacortes/) has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are so happy to support this community-minded business!
+The first week of March is Parent/Teacher Conference Week. We are excited to bring meals from [Dockside Dogs](https://www.facebook.com/docksidedogsanacortes/) to the staff as they prepare for their evening conferences on March 4th! [Dockside Dogs](https://www.facebook.com/docksidedogsanacortes/) has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are pleased to support this community-minded business!
 
-We have recently surveyed the school staff for ideas about treating members to something special. We now have a listing of favorite coffee orders, cold beverages, local restaurants, office supplies, snacks, etc. If you would like any ideas on ways to treat individual ISV staff to something fun, email [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org).
+We recently surveyed the school staff for ideas about treating them to something special. We now have a listing of favorite coffee orders, cold beverages, local restaurants, office supplies, snacks, etc. If you would like any ideas on ways to treat individual ISV staff to something fun, email [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org).
 
 {{< fig src="photo-studio.jpg" align="center" class="max-w-xs" >}}
 
