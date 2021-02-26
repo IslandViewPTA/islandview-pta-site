@@ -65,7 +65,11 @@ Go for a hike in our forest lands and see if you can find all 15 Books. Answer t
 
 ## Hospitality News & Events
 
-We had a wonderful time decorating Island View Elementary School for Valentine's Day. One teacher told us she was getting teary looking at the joyful decorations and we heard another story of a young student who had trouble crossing the crosswalk because he was so wowed by seeing his sweet school decorated. Thank you so much to the wonderful volunteers who made and put up decorations - Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. Thank you to the students who made beautiful decorations for their school - Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
+We had a wonderful time decorating Island View Elementary School for Valentine's Day. One teacher told us she was getting teary looking at the joyful decorations and we heard another story of a young student who had trouble crossing the crosswalk because he was so wowed by seeing his sweet school decorated.
+
+{{< fig src="vday-artwork.jpeg" align="center" class="max-w-xs" >}}
+
+Thank you so much to the wonderful volunteers who made and put up decorations - Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. Thank you to the students who made beautiful decorations for their school - Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
 
 {{< fig src="hotdogs.jpg" align="center" class="max-w-xs" >}}
 
