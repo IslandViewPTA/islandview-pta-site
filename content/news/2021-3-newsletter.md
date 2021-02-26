@@ -75,7 +75,7 @@ Go for a hike in our forest lands and see if you can find all 15 Books. Answer t
 
 {{< fig src="dockside.jpg" align="center" class="max-w-xs" >}}
 
-The first week of March is Parent/Teacher Conference Week. We are excited to bring meals from Dockside Dogs to the staff as they prepare for their evening conferences on March 4th! Dockside Dogs has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are so happy to support this community-minded business!
+The first week of March is Parent/Teacher Conference Week. We are excited to bring meals from [https://www.facebook.com/docksidedogsanacortes/](https://www.facebook.com/docksidedogsanacortes/ "Dockside Dogs") to the staff as they prepare for their evening conferences on March 4th! Dockside Dogs has a wonderful selection of gourmet hog dogs, veggie dogs, gluten-free buns, and delicious toppings! We are so happy to support this community-minded business!
 
 We have recently surveyed the school staff for ideas about treating members to something special. We now have a listing of favorite coffee orders, cold beverages, local restaurants, office supplies, snacks, etc. If you would like any ideas on ways to treat individual ISV staff to something fun, email [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org).
 
