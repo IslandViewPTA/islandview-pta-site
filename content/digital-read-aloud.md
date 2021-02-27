@@ -12,7 +12,7 @@ callToAction: true
 ---
 Welcome to the Island View Digital Read Aloud Library! We want our Island View Eagles to have another place to listen to some wonderful stories read aloud to them. 
 
-You can help add videos to the library too! If you are interested in recording a book submit a response to our [2021 ILTR Digital Read Aloud Form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link)
+You can help add videos to the library too! If you are interested in recording a book, please submit a response to our [2021 ILTR Digital Read Aloud Form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link)
 
 ## Video Playlist
 
