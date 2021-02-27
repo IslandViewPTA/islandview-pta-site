@@ -1,11 +1,12 @@
 ---
-newsletter_date: 2021-03-01T20:34:31-08:00
+newsletter_date: 2021-03-01T20:34:31.000-08:00
 newsletter: true
 title: March 2021 Newsletter
-date: 2021-02-28T00:00:00-08:00
+date: 2021-02-28T00:00:00.000-08:00
 description: March is the month to celebrate reading and enjoy the first hints of
   spring!
 image: "/uploads/daffodils.jpg"
+type: ''
 draft: true
 
 ---
@@ -63,7 +64,7 @@ Build a [bookworm ](https://drive.google.com/file/d/13V_DDmWDZfxO9p93IoTOOeojLL5
 
 #### ISV DIGITAL READ ALOUD LIBRARY
 
-**Check out the** [ISV PTA](https://www.islandviewpta.org/) **website beginning next week** and look for our Digital Read Aloud Library. You can create one too! Just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link).
+Check out the ISV PTA website for the all-new [Digital Read Aloud Library](https://www.islandviewpta.org/digital-read-aloud). You can create one too! Just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link).
 
 #### MYSTERY BOOK CLUES
 
