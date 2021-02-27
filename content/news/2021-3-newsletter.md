@@ -7,7 +7,6 @@ description: March is the month to celebrate reading and enjoy the first hints o
   spring!
 image: "/uploads/daffodils.jpg"
 type: ''
-draft: true
 
 ---
 ## Principal's Message
@@ -88,7 +87,7 @@ Go for a hike in our forest lands and see if you can find all 15 Books. Answer t
 
 {{< fig src="heart-doors.jpg" align="center" class="max-w-xs" >}}
 
-**Our deepest thanks to the wonderful volunteers for making decorations and putting them up**: Jenessa Eelkema, Jessie Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. **Thank you to the students who made beautiful decorations for their school:** Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Arlen M. and many other anonymous ones!
+**Our deepest thanks to the wonderful volunteers for making decorations and putting them up**: Jenessa Eelkema, Jessica Guzik, Ali Mackey, Heidi Williamson, Molly Johnson, Teresa Syms, Meg Mourning, Tammy Guffey, and Kristen Lamb. **Thank you to the students who made beautiful decorations for their school:** Piper M., Maya H., Avery H., Alexander, Penny, Sloane W., Etienne, Taxson, Liberty G., Isabell G., Kate M., Bell M., Liberty G., Isabel G., Arlen M. and many other anonymous ones!
 
 {{< fig src="dockside.jpg" align="center" class="max-w-xs" >}}
 
