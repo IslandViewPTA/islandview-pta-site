@@ -57,23 +57,23 @@ So much to discuss and so many ways to **make Island View AMAZING!**
 
 There are so many ways this month to jump into books and reading AND share it with your friends and family. Check out the activities below!
 
-#### BE A BOOKWORM
+#### * BE A BOOKWORM *
 
 Build a [bookworm ](https://drive.google.com/file/d/13V_DDmWDZfxO9p93IoTOOeojLL5jm5Yg/view?usp=sharing)and enter the weekly raffle! Information will come home from your teacher the first week in March.
 
-#### ISV DIGITAL READ ALOUD LIBRARY
+#### * ISV DIGITAL READ ALOUD LIBRARY *
 
 Check out the ISV PTA website for the all-new [Digital Read Aloud Library](https://www.islandviewpta.org/digital-read-aloud). You can create one too! Just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link).
 
-#### MYSTERY BOOK CLUES
+#### * MYSTERY BOOK CLUES *
 
 Listen during morning announcements each week for the mystery book clues. Write down and give your clue to the staff member leading your daily break.
 
-#### WEEKLY GUEST READER
+#### * WEEKLY GUEST READER *
 
 Listen to the weekly Guest Reader on Mr. Hanrahan’s morning announcements.
 
-#### FOREST BOOK HUNT
+#### * FOREST BOOK HUNT *
 
 Go for a hike in our forest lands and see if you can find all 15 Books. Answer the questions if you can!
 
