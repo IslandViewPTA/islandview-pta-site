@@ -10,21 +10,15 @@ callToAction: true
 type: page
 
 ---
-## Welcome to Island View PTA!
+# Welcome to Island View PTA!
 
-***
+Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud)! Where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
 
-***
-
-{{< fig src="march-pta-mtg.png" align="center" class="max-w-s" >}}
-
-### SAVE THE DATE:  The next PTA meeting will be at 6pm on Monday, March 8th via zoom.
+## SAVE THE DATE:  The next PTA meeting will be at 6pm on Monday, March 8th via zoom.
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
-***
-
-***
+{{< fig src="march-pta-mtg.png" align="center" class="max-w-s" >}}
 
 ## Monthly Newsletters
 

@@ -33,6 +33,7 @@ h2,
 h3 {
   color: #000c4e;
   font-weight: bold;
+  padding-bottom: 0.75em;
 }
 
 h1 {
@@ -40,10 +41,12 @@ h1 {
 }
 
 h2 {
+  padding-top: 0.5em;
   font-size: 1.5em;
 }
 
 h3 {
+  padding-top: 0.5em;
   font-size: 1.2em;
 }
 

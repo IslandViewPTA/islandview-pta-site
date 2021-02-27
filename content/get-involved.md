@@ -50,6 +50,7 @@ These are some of the amazing things the PTA is usually involved in - please con
 [**Hospitality / Staff Appreciation**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Hospitality-Staff%20Appreciation): Providing dinner for the teachers during evening conferences, and planning other staff appreciation events throughout the year.
 
 [**I Love to Read Month**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20I%20Love%20to%20Read%20Month): Organizing a month full of fun activities to encourage each student’s love of reading.
+Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud)! Where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
 
 [**Lego Club**](mailto:membership@islandviewpta.org?subject=IVEPTA%20-%20Lego%20Club): Overseeing students creating with Legos every other Wednesday morning.
 
