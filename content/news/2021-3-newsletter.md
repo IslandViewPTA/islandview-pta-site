@@ -2,7 +2,7 @@
 newsletter_date: 2021-03-01T20:34:31.000-08:00
 newsletter: true
 title: March 2021 Newsletter
-date: 2021-02-28T00:00:00.000-08:00
+date: 2021-02-26T00:00:00-08:00
 description: March is the month to celebrate reading and enjoy the first hints of
   spring!
 image: "/uploads/daffodils.jpg"
