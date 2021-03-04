@@ -15,9 +15,11 @@ enableEmoji = true
     taskList = true
     typographer = false
   [markup.goldmark.parser]
-    attribute = true
     autoHeadingID = true
     autoHeadingIDType = "github"
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
   [markup.goldmark.renderer]
     hardWraps = false
     unsafe = true
