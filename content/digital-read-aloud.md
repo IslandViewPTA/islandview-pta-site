@@ -16,11 +16,14 @@ You can help add videos to the library too! If you are interested in recording a
 
 ## Video Playlist
 
+This video will let you play through all the videos listed below in the order shown.
+If you want to jump to a specific book or chapter, click the link in the list below.
+
 {{< ytplaylist PLsI0uFO6EFU00TppNk8FGPnuf3YEvs4lB >}}
 
 ## Video Links
 
-The list below provides links directly to each video in the series, or you can play through the entire series in the playlist above.
+The list below provides direct links to each video in the series.
 
 |                                                                 |
 | --------------------------------------------------------------- |
