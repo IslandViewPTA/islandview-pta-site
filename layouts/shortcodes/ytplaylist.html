@@ -1,10 +1,11 @@
 {{- $plid :=  .Get 0 -}}
-
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/videoseries?list={{ $plid }}" 
-  frameborder="0" 
-  allow="autoplay; encrypted-media" 
-  allowfullscreen>
-</iframe>
+<div class="pt-4">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/videoseries?list={{ $plid }}" 
+    frameborder="0" 
+    allow="autoplay; encrypted-media" 
+    allowfullscreen>
+  </iframe>
+</div>
