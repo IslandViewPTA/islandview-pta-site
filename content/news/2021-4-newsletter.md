@@ -32,13 +32,11 @@ Brian
 
 **ELECTIONS!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom.**
 
-**Don't miss this one! Be part of the election process for 2021-2022 Board Officers!**
+**Don't miss this one!**  **We must have quorum at this meeting to elect the new 2021-2022 Officers!**
 
-Also, important plans for final few months of the school year, including Color Run discussion,
+## The Color Run is Back!
 
-The Color Run is Back!
-
-We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on (I'll get the date) via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
+We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on  via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
 I Love to Read Month - get a summary from Kim Munoz?
 
@@ -64,9 +62,9 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## May PTA Meeting: May 27 @ 6 pm
 
-**Reserve time in your calendar now to attend the May PTA meeting.**
+**Reserve the date now to attend the May PTA meeting!**
 
-Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect and contribute to the meaningful efforts of the Island View PTA!  We must have quorum at this meeting to elect the new officers!
+Join us Thursday, May 27 at 6 PM via Zoom for the final PTA meeting of the school year! 
 
 ## You're INCREDIBLE!
 
