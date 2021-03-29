@@ -30,9 +30,25 @@ Brian
 
 ## PTA Meeting April 19 @ 6 pm
 
-**Don't Miss It!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom (meeting link will be emailed).**
+**ELECTIONS!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom.** 
 
-So much to discuss and so many ways to **make Island View AMAZING!**
+**Don't miss this one! Be part of the election process for 2021-2022 Board Officers!**
+
+Also, important plans for final few months of the school year, including Color Run discussion, 
+
+The Color Run is Back!
+
+We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on (I'll get the date) via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
+
+I Love to Read Month - get a summary from Kim Munoz?
+
+Hospitality - plans for Staff Appreciation Week from Stacey Mahoney?
+
+Staff Membership Award
+
+![✨](https://ci4.googleusercontent.com/proxy/48yWzXg_wfNENRYepVei-no3s2l4AY78O4zswK-pqWdxb6K2gbT_z5wCx6BEvSjBF_9q66pjqClw-RWhGM5C3b-MJOr0WNOVyY8zS0gmNzRcgd06=s0-d-e1-ft#https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png =16x16) 𝗜𝘀𝗹𝗮𝗻𝗱 𝗩𝗶𝗲𝘄 𝗣𝗧𝗔 𝗶𝘀 𝗻𝗼𝘄 𝗮 𝐩𝐫𝐨𝐮𝐝 𝗿𝗲𝗰𝗶𝗽𝗶𝗲𝗻𝘁 𝗼𝗳 𝘁𝗵𝗲 𝟮𝟬𝟮𝟬-𝟮𝟬𝟮𝟭 𝟭𝟬𝟬% 𝗦𝘁𝗮𝗳𝗳 𝗠𝗲𝗺𝗯𝗲𝗿𝘀𝗵𝗶𝗽 𝗔𝘄𝗮𝗿𝗱! ![✨](https://ci4.googleusercontent.com/proxy/48yWzXg_wfNENRYepVei-no3s2l4AY78O4zswK-pqWdxb6K2gbT_z5wCx6BEvSjBF_9q66pjqClw-RWhGM5C3b-MJOr0WNOVyY8zS0gmNzRcgd06=s0-d-e1-ft#https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png =16x16)
+
+Thank you to all of the ISV staff members who have joined the PTA this year! We'd also like to give a huge THANK YOU to the amazing community members who sponsored a staff member's membership. We love all of our staff members and appreciate the many amazing ways they stimulate and nurture our Eagles. Congratulations!!
 
 ## Hospitality Update
 
@@ -46,7 +62,7 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
-## PTA Meeting on May
+## May PTA Meeting: May 27 @ 6 pm
 
 **Reserve time in your calendar now to attend the May PTA meeting.**
 
@@ -60,17 +76,15 @@ Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect a
 
 ## SAVE THESE DATES!
 
-### March
-
-* **1-5: Remote Learning Only 9AM to Noon**
-* **2-5: Conferences - Sign-up** [**HERE**](https://www.signupgenius.com/go/30E054BA5AA29A7F85-october)
-* **8: PTA MEETING AT 6PM via ZOOM**
-* **25: Picture Retakes Grades 4 & 5**
-
 ### April
 
 * **5-9: Spring Break, NO SCHOOL**
-* **19: PTA MEETING AT 6PM via ZOOM**
+* **19: PTA MEETING @ 6 PM via ZOOM**
+
+### May
+
+* 
+* **27: PTA MEETING AT 6PM via ZOOM**
 
 ***
 
