@@ -8,3 +8,4 @@ image: "/uploads/tulips.jpeg"
 draft: true
 
 ---
+## Principal's Message
