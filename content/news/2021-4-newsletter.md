@@ -36,9 +36,9 @@ Brian
 
 ## The Color Run is Back!
 
-We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on  via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
+We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
-I Love to Read Month - get a summary from Kim Munoz?
+## I Love to Read Month Summary
 
 Hospitality - plans for Staff Appreciation Week from Stacey Mahoney?
 
