@@ -40,6 +40,8 @@ We are brainstorming ways to bring the Color Run back this year, in a safe and f
 
 ## I Love to Read Month Summary
 
+{{< fig src="membership.png" align="center" class="max-w-xs" >}}
+
 ## Staff Membership Award
 
 **Island View PTA is now a proud recipient of the 2020-2021 "100 percent Staff Membership Award!"**
