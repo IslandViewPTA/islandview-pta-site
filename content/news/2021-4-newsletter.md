@@ -26,6 +26,8 @@ In gratitude-
 
 Brian
 
+{{< fig src="april-pta.jpg" align="center" class="max-w-xs" >}}
+
 ## YEARBOOK Photos Needed!
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
