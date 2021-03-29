@@ -84,8 +84,8 @@ Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect a
 
 ### May
 
-* 
 * **27: PTA MEETING AT 6PM via ZOOM**
+* **31: Memorial Day Holiday, NO SCHOOL**
 
 ***
 
