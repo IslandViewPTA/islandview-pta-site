@@ -80,6 +80,7 @@ Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect a
 
 * **5-9: Spring Break, NO SCHOOL**
 * **19: PTA MEETING @ 6 PM via ZOOM**
+* **29: Early Release, Remote learning 9 am - Noon**
 
 ### May
 
