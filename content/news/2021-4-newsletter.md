@@ -42,11 +42,11 @@ We are brainstorming ways to bring the Color Run back this year, in a safe and f
 
 ## Staff Membership Award
 
-𝗜𝘀𝗹𝗮𝗻𝗱 𝗩𝗶𝗲𝘄 𝗣𝗧𝗔 𝗶𝘀 𝗻𝗼𝘄 𝗮 𝐩𝐫𝐨𝐮𝐝 𝗿𝗲𝗰𝗶𝗽𝗶𝗲𝗻𝘁 𝗼𝗳 𝘁𝗵𝗲 𝟮𝟬𝟮𝟬-𝟮𝟬𝟮𝟭 𝟭𝟬𝟬% 𝗦𝘁𝗮𝗳𝗳 𝗠𝗲𝗺𝗯𝗲𝗿𝘀𝗵𝗶𝗽 𝗔𝘄𝗮𝗿𝗱!
+**Island View PTA is now a proud recipient of the 2020-2021 "100 percent Staff Membership Award!"**
 
 Thank you to all of the ISV staff members who have joined the PTA this year! We'd also like to give a huge THANK YOU to the amazing community members who sponsored a staff member's membership. We love all of our staff members and appreciate the many amazing ways they stimulate and nurture our Eagles. Congratulations!!
 
-## Hospitality Update
+## Hospitality Thanks ASD Food Svcs
 
 Island view PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes middle school PTA, and Anacortes high school PTA to treat the hard-working kitchen staff to some treats last month. The lovely ladies were taken by surprise as Island View PTA hospitality committee member Molly Johnson dropped off a card, donuts and flowers for each. We appreciate the long hours, continued ingenuity and flexibility these ladies have shown. Thank you so much for all that contributed!
 
