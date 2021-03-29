@@ -40,11 +40,9 @@ We are brainstorming ways to bring the Color Run back this year, in a safe and f
 
 ## I Love to Read Month Summary
 
-Hospitality - plans for Staff Appreciation Week from Stacey Mahoney?
+## Staff Membership Award
 
-Staff Membership Award
-
-!\[✨\](https://ci4.googleusercontent.com/proxy/48yWzXg_wfNENRYepVei-no3s2l4AY78O4zswK-pqWdxb6K2gbT_z5wCx6BEvSjBF_9q66pjqClw-RWhGM5C3b-MJOr0WNOVyY8zS0gmNzRcgd06=s0-d-e1-ft#https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png =16x16) 𝗜𝘀𝗹𝗮𝗻𝗱 𝗩𝗶𝗲𝘄 𝗣𝗧𝗔 𝗶𝘀 𝗻𝗼𝘄 𝗮 𝐩𝐫𝐨𝐮𝐝 𝗿𝗲𝗰𝗶𝗽𝗶𝗲𝗻𝘁 𝗼𝗳 𝘁𝗵𝗲 𝟮𝟬𝟮𝟬-𝟮𝟬𝟮𝟭 𝟭𝟬𝟬% 𝗦𝘁𝗮𝗳𝗳 𝗠𝗲𝗺𝗯𝗲𝗿𝘀𝗵𝗶𝗽 𝗔𝘄𝗮𝗿𝗱! !\[✨\](https://ci4.googleusercontent.com/proxy/48yWzXg_wfNENRYepVei-no3s2l4AY78O4zswK-pqWdxb6K2gbT_z5wCx6BEvSjBF_9q66pjqClw-RWhGM5C3b-MJOr0WNOVyY8zS0gmNzRcgd06=s0-d-e1-ft#https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png =16x16)
+𝗜𝘀𝗹𝗮𝗻𝗱 𝗩𝗶𝗲𝘄 𝗣𝗧𝗔 𝗶𝘀 𝗻𝗼𝘄 𝗮 𝐩𝐫𝐨𝐮𝐝 𝗿𝗲𝗰𝗶𝗽𝗶𝗲𝗻𝘁 𝗼𝗳 𝘁𝗵𝗲 𝟮𝟬𝟮𝟬-𝟮𝟬𝟮𝟭 𝟭𝟬𝟬% 𝗦𝘁𝗮𝗳𝗳 𝗠𝗲𝗺𝗯𝗲𝗿𝘀𝗵𝗶𝗽 𝗔𝘄𝗮𝗿𝗱!
 
 Thank you to all of the ISV staff members who have joined the PTA this year! We'd also like to give a huge THANK YOU to the amazing community members who sponsored a staff member's membership. We love all of our staff members and appreciate the many amazing ways they stimulate and nurture our Eagles. Congratulations!!
 
@@ -80,6 +78,7 @@ Join us Thursday, May 27 at 6 PM via Zoom for the final PTA meeting of the schoo
 
 * **5-9: Spring Break, NO SCHOOL**
 * **19: PTA MEETING @ 6 PM via ZOOM**
+* 23: Color Run Meeting, 9:30 AM via ZOOM
 * **29: Early Release, Remote learning 9 AM - Noon**
 
 ### May
