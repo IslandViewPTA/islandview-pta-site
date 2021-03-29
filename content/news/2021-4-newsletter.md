@@ -28,6 +28,16 @@ Brian
 
 {{< fig src="april-pta.jpg" align="center" class="max-w-xs" >}}
 
+## PTA Meeting April 19 @ 6 pm
+
+**Don't Miss It!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom (meeting link will be emailed).**
+
+So much to discuss and so many ways to **make Island View AMAZING!**
+
+## Hospitality Update
+
+Island view PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes middle school PTA, and Anacortes high school PTA to treat the hard-working kitchen staff to some treats last month. The lovely ladies were taken by surprise as Island View PTA hospitality committee member Molly Johnson dropped off a card, donuts and flowers for each. We appreciate the long hours, continued ingenuity and flexibility these ladies have shown. Thank you so much for all that contributed!
+
 ## YEARBOOK Photos Needed!
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
