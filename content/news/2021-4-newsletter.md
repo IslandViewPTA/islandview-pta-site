@@ -60,11 +60,13 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
+{{< fig src="may-pta.png" align="center" class="max-w-xs" >}}
+
 ## May PTA Meeting: May 27 @ 6 pm
 
 **Reserve the date now to attend the May PTA meeting!**
 
-Join us Thursday, May 27 at 6 PM via Zoom for the final PTA meeting of the school year! 
+Join us Thursday, May 27 at 6 PM via Zoom for the final PTA meeting of the school year!
 
 ## You're INCREDIBLE!
 
