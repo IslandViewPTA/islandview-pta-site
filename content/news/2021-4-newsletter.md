@@ -2,8 +2,8 @@
 newsletter_date: 2021-04-01T00:00:00-07:00
 newsletter: true
 title: April 2021 Newsletter
-date: 2021-03-31T00:00:00-07:00
-description: Check out the April PTA newsletter for exciting updates and opportunities!
+date: 2021-03-30T00:00:00-07:00
+description: Don't miss the April PTA newsletter for exciting updates and opportunities!
 image: "/uploads/tulip bunch.jpg"
 draft: true
 
