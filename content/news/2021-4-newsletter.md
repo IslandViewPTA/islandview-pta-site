@@ -68,6 +68,12 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## I Love to Read Month Summary
 
+**Island View Eagles had a wonderful month celebrating reading during March’s I Love to Read Month!** 
+
+Students built their own bookworms at home to showcase the books they read and entered the weekly raffle for a gift card to one of our fabulous local businesses. District staff members introduced themselves and read a book to our students each week throughout the month. Thank you to Dr. Irish, Dr. Clifford, Mr. Pohl, and Ms. Gilbert for enriching our students’ days. Heidi Williamson and Hannah Davis, our school Librarian, developed mystery books clues that students could try to solve each week. 
+
+And finally, ISV families could try to hunt down all 15 “books” posted in our amazing forest lands. Were you able to find all of them? We want to give a huge shout out to the teachers for encouraging our students’ participation and a big thank you to Mr. Hanrahan for his support at every step of the process. Keep reading Eagles!
+
 {{< fig src="membership.png" align="center" class="max-w-xs" >}}
 
 ## Staff Membership Award
