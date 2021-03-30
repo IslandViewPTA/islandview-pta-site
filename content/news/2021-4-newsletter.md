@@ -72,13 +72,13 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 Students built their own bookworms at home to showcase the books they read and entered the weekly raffle for a gift card to one of our fabulous local businesses. District staff members introduced themselves and read a book to our students each week throughout the month. Thank you to Dr. Irish, Dr. Clifford, Mr. Pohl, and Ms. Gilbert for enriching our students’ days. Heidi Williamson and Hannah Davis, our school Librarian, developed mystery books clues that students could try to solve each week.
 
-And finally, ISV families could try to hunt down all 15 “books” posted in our amazing forest lands. Were you able to find all of them? We want to give a huge shout out to the teachers for encouraging our students’ participation and a big thank you to Mr. Hanrahan for his support at every step of the process. Keep reading Eagles!
+And finally, ISV families could try to hunt down all 15 “books” posted in our amazing forest lands. Were you able to find all of them? We want to give a huge shout out to the teachers for encouraging our students’ participation and a big thank you to Mr. Hanrahan for his support at every step of the process. And a special THANK YOU to Kimberly Munoz for organizing such a wonderful month-long celebration of literacy!  Keep reading Eagles!  
 
 {{< fig src="membership.png" align="center" class="max-w-xs" >}}
 
 ## Staff Membership Award
 
-**Island View PTA awarded the "100 percent Staff Membership Award!"**
+**Island View PTA awarded the "100 Percent Staff Membership Award!"**
 
 Thank you to all of the ISV staff members who have joined the PTA this year! We'd also like to give a huge THANK YOU to the amazing community members who sponsored a staff member's membership. We love all of our staff members and appreciate the many amazing ways they encourage and nurture our Eagles. Congratulations!!
 
