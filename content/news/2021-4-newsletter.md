@@ -32,7 +32,7 @@ Brian
 
 **ELECTIONS!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom.**
 
-**Don't miss this one!**  **We must have quorum at this meeting to elect the new 2021-2022 Officers!**
+**Don't miss this one!**  **We must have quorum at this meeting to elect the new 2021-2022 Officers and plan for the rest of the year!**
 
 ## The Color Run is Back!
 
