@@ -84,9 +84,9 @@ Thank you to all of the ISV staff members who have joined the PTA this year! We'
 
 {{< fig src="confetti.jpg" align="center" class="max-w-xs" >}}
 
-## Hospitality Thanks ASD Food Svcs
+## Hospitality Thanks ASD Food Services
 
-Island view PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes Middle School PTA, and Anacortes High School PTA to treat the hard-working kitchen staff to some treats last month. The lovely ladies were taken by surprise as Island View PTA hospitality committee member Molly Johnson dropped off a card, donuts, and flowers for each. We appreciate the long hours, continued ingenuity and flexibility these ladies have shown. Thank you so much for all that contributed!
+Island View PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes Middle School PTA, and Anacortes High School PTA to treat the hard-working kitchen staff to some treats last month. The lovely ladies were taken by surprise as Island View PTA hospitality committee member Molly Johnson dropped off a card, donuts, and flowers for each. We appreciate the long hours, continued ingenuity and flexibility these ladies have shown. Thank you so much for all that contributed!
 
 **Stay tuned for details about celebratory plans for Staff Appreciation Week May 3-7, and how YOU can get involved!**
 
