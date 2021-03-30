@@ -42,9 +42,23 @@ We are brainstorming ways to bring the Color Run back this year, in a safe and f
 
 {{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
 
-## Let's walk & bike to school!
+## Let's Walk & Bike to School!
 
 **SAFE ROUTES TO SCHOOL** is looking for an Island View PTA rep to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long long list of amazing ISV volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva king at [tking@asd103.org](tking@asd103.org).
+
+## Yearbook Cover Contest Winners!
+
+The winner of the 2020 - 2021 yearbook cover contest is Mia Rogers! Her original artwork will serve as the cover of the yearbook. Second place winner is Paige Burfield - whose work will be featured on the back cover!
+
+Our fourth graders voted to select the top two art pieces. Then the entire student body voted for which piece would appear on the cover.
+
+We received so many wonderful pieces of art this year, and we're very impressed and humbled to see the hard work and talent of our fifth graders. All art submitted to the contest will be featured throughout the yearbook.
+
+**It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
+
+Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
+
+We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="read.jpg" align="center" class="max-w-xs" >}}
 
@@ -65,16 +79,6 @@ Thank you to all of the ISV staff members who have joined the PTA this year! We'
 Island view PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes middle school PTA, and Anacortes high school PTA to treat the hard-working kitchen staff to some treats last month. The lovely ladies were taken by surprise as Island View PTA hospitality committee member Molly Johnson dropped off a card, donuts and flowers for each. We appreciate the long hours, continued ingenuity and flexibility these ladies have shown. Thank you so much for all that contributed!
 
 **Stay tuned for details about celebratory plans for Staff Appreciation Week May 3-7, and how YOU can get involved!**
-
-{{< fig src="isv-dropoff.jpg" align="center" class="max-w-xs" >}}
-
-## YEARBOOK Photos Needed!
-
-**Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
-
-Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
-
-We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="may-pta.png" align="center" class="max-w-xs" >}}
 
