@@ -56,6 +56,8 @@ Our fourth graders voted to select the top two art pieces. Then the entire stude
 
 We received so many wonderful pieces of art this year, and we're very impressed and humbled to see the hard work and talent of our fifth graders. All art submitted to the contest will be featured throughout the yearbook.
 
+{{< fig src="back_yb.jpeg" align="center" class="max-w-xs" >}}
+
 **It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
 Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
