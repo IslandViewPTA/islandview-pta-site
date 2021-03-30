@@ -18,7 +18,7 @@ As Superintendent Justin Irish recently communicated to ASD families, district s
 
 Also, I would like to thank parents once again. Our success these past months could not have occurred without your patience, cooperation, and partnership. Students, staff, and families have inspired me beyond words. Thank you.
 
-But let’s get back to our tulips. 😊 While we have lost a good number of bulbs to pesky squirrels and other critters, each morning and afternoon I am outside greeting your beautiful students, I check on the resilient few. They are growing healthy and strong. I cannot wait to see their graceful heads fill with color before long. They remind me that normalcy and beauty return—always. It’s the same lesson your students teach me every day.
+But let’s get back to our tulips. 😊  While we have lost a good number of bulbs to pesky squirrels and other critters, each morning and afternoon I am outside greeting your beautiful students, I check on the resilient few. They are growing healthy and strong. I cannot wait to see their graceful heads fill with color before long. They remind me that normalcy and beauty return—always. It’s the same lesson your students teach me every day.
 
 Please reach out to me at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) or at 360.503.1490 if you have questions, concerns, or suggestions. I wish families a restful spring break full of memory-making moments.
 
