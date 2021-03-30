@@ -38,7 +38,7 @@ Brian
 
 ## The Color Run is Back!
 
-We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
+We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on Friday, April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
 {{< fig src="front_yb.jpeg" align="center" class="max-w-xs" >}}
 
@@ -68,9 +68,9 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 ## I Love to Read Month Summary
 
-**Island View Eagles had a wonderful month celebrating reading during March!** 
+**Island View Eagles had a wonderful month celebrating reading during March!**
 
-Students built their own bookworms at home to showcase the books they read and entered the weekly raffle for a gift card to one of our fabulous local businesses. District staff members introduced themselves and read a book to our students each week throughout the month. Thank you to Dr. Irish, Dr. Clifford, Mr. Pohl, and Ms. Gilbert for enriching our students’ days. Heidi Williamson and Hannah Davis, our school Librarian, developed mystery books clues that students could try to solve each week. 
+Students built their own bookworms at home to showcase the books they read and entered the weekly raffle for a gift card to one of our fabulous local businesses. District staff members introduced themselves and read a book to our students each week throughout the month. Thank you to Dr. Irish, Dr. Clifford, Mr. Pohl, and Ms. Gilbert for enriching our students’ days. Heidi Williamson and Hannah Davis, our school Librarian, developed mystery books clues that students could try to solve each week.
 
 And finally, ISV families could try to hunt down all 15 “books” posted in our amazing forest lands. Were you able to find all of them? We want to give a huge shout out to the teachers for encouraging our students’ participation and a big thank you to Mr. Hanrahan for his support at every step of the process. Keep reading Eagles!
 
