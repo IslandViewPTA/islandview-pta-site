@@ -58,6 +58,8 @@ Thank you to all of the ISV staff members who have joined the PTA this year! We'
 
 Island view PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes middle school PTA, and Anacortes high school PTA to treat the hard-working kitchen staff to some treats last month. The lovely ladies were taken by surprise as Island View PTA hospitality committee member Molly Johnson dropped off a card, donuts and flowers for each. We appreciate the long hours, continued ingenuity and flexibility these ladies have shown. Thank you so much for all that contributed!
 
+{{< fig src="camera-1.jpg" align="center" class="max-w-xs" >}}
+
 ## YEARBOOK Photos Needed!
 
 **Call for photos of Island View students doing the school thing! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
