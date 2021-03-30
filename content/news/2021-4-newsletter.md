@@ -34,6 +34,8 @@ Brian
 
 **Don't miss this one!**  **We must have quorum at this meeting to elect the new 2021-2022 Officers and plan for the rest of the year!**
 
+{{< fig src="color_march.jpg" align="center" class="max-w-xs" >}}
+
 ## The Color Run is Back!
 
 We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
