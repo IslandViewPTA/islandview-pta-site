@@ -40,12 +40,6 @@ Brian
 
 We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
-{{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
-
-## Let's Walk & Bike to School!
-
-**SAFE ROUTES TO SCHOOL** is looking for an Island View PTA rep to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long long list of amazing ISV volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva king at [tking@asd103.org](tking@asd103.org).
-
 {{< fig src="front_yb.jpeg" align="center" class="max-w-xs" >}}
 
 ## Yearbook Cover Contest Winners!
@@ -64,11 +58,17 @@ Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@isl
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
+{{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
+
+## Let's Walk & Bike to School!
+
+**SAFE ROUTES TO SCHOOL** is looking for an Island View PTA rep to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long long list of amazing ISV volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva king at [tking@asd103.org](tking@asd103.org).
+
 {{< fig src="read.jpg" align="center" class="max-w-xs" >}}
 
 ## I Love to Read Month Summary
 
-**Island View Eagles had a wonderful month celebrating reading during March’s I Love to Read Month!** 
+**Island View Eagles had a wonderful month celebrating reading during March!** 
 
 Students built their own bookworms at home to showcase the books they read and entered the weekly raffle for a gift card to one of our fabulous local businesses. District staff members introduced themselves and read a book to our students each week throughout the month. Thank you to Dr. Irish, Dr. Clifford, Mr. Pohl, and Ms. Gilbert for enriching our students’ days. Heidi Williamson and Hannah Davis, our school Librarian, developed mystery books clues that students could try to solve each week. 
 
