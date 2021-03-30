@@ -44,9 +44,9 @@ We are brainstorming ways to bring the Color Run back this year, in a safe and f
 
 ## Staff Membership Award
 
-**Island View PTA is now a proud recipient of the 2020-2021 "100 percent Staff Membership Award!"**
+**Island View PTA awarded the "100 percent Staff Membership Award!"**
 
-Thank you to all of the ISV staff members who have joined the PTA this year! We'd also like to give a huge THANK YOU to the amazing community members who sponsored a staff member's membership. We love all of our staff members and appreciate the many amazing ways they stimulate and nurture our Eagles. Congratulations!!
+Thank you to all of the ISV staff members who have joined the PTA this year! We'd also like to give a huge THANK YOU to the amazing community members who sponsored a staff member's membership. We love all of our staff members and appreciate the many amazing ways they encourage and nurture our Eagles. Congratulations!!
 
 {{< fig src="confetti.jpg" align="center" class="max-w-xs" >}}
 
