@@ -40,7 +40,7 @@ Brian
 
 We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
-{{< fig src="" align="center" class="max-w-xs" >}}
+{{< fig src="read.jpg" align="center" class="max-w-xs" >}}
 
 ## I Love to Read Month Summary
 
