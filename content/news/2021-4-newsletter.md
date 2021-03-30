@@ -42,7 +42,9 @@ We are brainstorming ways to bring the Color Run back this year, in a safe and f
 
 {{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
 
-SAFE ROUTES TO SCHOOL is looking for an Island View PTA rep to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long long list of amazing ISV volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](mailto:joanp@cityofanacortes.org) or Treva king at [tking@asd103.org](mailto:tking@asd103.org).
+## Let's walk & bike to school!
+
+**SAFE ROUTES TO SCHOOL** is looking for an Island View PTA rep to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long long list of amazing ISV volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva king at [tking@asd103.org](tking@asd103.org).
 
 {{< fig src="read.jpg" align="center" class="max-w-xs" >}}
 
