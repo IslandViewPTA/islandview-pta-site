@@ -4,7 +4,7 @@ newsletter: true
 title: April 2021 Newsletter
 date: 2021-03-31T00:00:00-07:00
 description: ''
-image: "/uploads/tulips.jpeg"
+image: "/uploads/tulip bunch.jpg"
 draft: true
 
 ---
