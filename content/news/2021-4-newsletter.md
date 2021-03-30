@@ -40,7 +40,7 @@ Brian
 
 We are brainstorming ways to bring the Color Run back this year, in a safe and fun way. Join us if you can at the next Color Run meeting on April 23 @ 9:30 AM via Zoom. Email [president@islandviewpta.org](mailto:president@islandviewpta.org) for more information.
 
-{{< fig src="2021-iltrm.png" align="center" class="max-w-xs" >}}
+{{< fig src="" align="center" class="max-w-xs" >}}
 
 ## I Love to Read Month Summary
 
@@ -86,7 +86,7 @@ Join us Thursday, May 27 at 6 PM via Zoom for the final PTA meeting of the schoo
 
 * **5-9: Spring Break, NO SCHOOL**
 * **19: PTA MEETING @ 6 PM via ZOOM**
-* 23: Color Run Meeting, 9:30 AM via ZOOM
+* **23: Color Run Meeting, 9:30 AM via ZOOM**
 * **29: Early Release, Remote learning 9 AM - Noon**
 
 ### May
