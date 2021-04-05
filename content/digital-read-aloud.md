@@ -14,20 +14,19 @@ We want our Island View Eagles to have another place to listen to some wonderful
 
 You can help add videos to the library too! If you are interested in recording a book, please submit a response to our [2021 ILTR Digital Read Aloud Form](https://docs.google.com/forms/d/e/1FAIpQLSeHURa8sWjUWhPXzvo6QFAZD1VF2XPF2rQRtU87bVGUukQmuQ/viewform?usp=sf_link)
 
-## Video Playlist
+## The End of the Beginning
 
 This video will let you play through all the videos listed below in the order shown.
-If you want to jump to a specific book or chapter, click the link in the list below.
+If you want to jump to a specific chapter, click the link in the list below.
 
 {{< ytplaylist PLsI0uFO6EFU00TppNk8FGPnuf3YEvs4lB >}}
 
-## Video Links
+### Chapter Links
 
 The list below provides direct links to each video in the series.
 
 |                                                                 |
 | --------------------------------------------------------------- |
-| **_The End of the Beginning_**                                  |                              
 | [The End of the Beginning - Ch1](https://youtu.be/6y5anCBezL0)  |
 | [The End of the Beginning - Ch2](https://youtu.be/Bf390Hciis8)  |
 | [The End of the Beginning - Ch3](https://youtu.be/0a05nRKkmvA)  |
@@ -46,3 +45,9 @@ The list below provides direct links to each video in the series.
 | [The End of the Beginning - Ch16](https://youtu.be/F6wYIrMTIr4) |
 | [The End of the Beginning - Ch17](https://youtu.be/GzsxtDIcDeA) |
 {class="border border-grey-200 p-4"}
+
+## Ruby Finds a Worry
+{{< youtube 4hjAe-CDtBk >}}
+
+## The Very Impatient Caterpillar
+{{< youtube qjISaEddFuk >}}
