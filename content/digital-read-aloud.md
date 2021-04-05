@@ -47,7 +47,10 @@ The list below provides direct links to each video in the series.
 {class="border border-grey-200 p-4"}
 
 ## Ruby Finds a Worry
-{{< youtube 4hjAe-CDtBk >}}
+{{< youtube id="4hjAe-CDtBk" title="Ruby Finds a Worry" >}}
 
 ## The Very Impatient Caterpillar
-{{< youtube qjISaEddFuk >}}
+{{< youtube id="qjISaEddFuk" title="The Very Impatient Caterpillar" >}}
+
+## Llama Destroys the World
+{{< youtube id="uRIHeeL7q18" title="Llama Destroys the World" >}}
