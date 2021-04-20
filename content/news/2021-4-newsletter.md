@@ -1,10 +1,11 @@
 ---
-newsletter_date: 2021-04-01T00:00:00-07:00
+newsletter_date: 2021-04-01T00:00:00.000-07:00
 newsletter: true
 title: April 2021 Newsletter
-date: 2021-03-30T16:00:00-07:00
+date: 2021-03-30T16:00:00.000-07:00
 description: Don't miss the April PTA newsletter for exciting updates and opportunities!
 image: "/uploads/tulip bunch.jpg"
+type: ''
 
 ---
 ## Principal's Message
@@ -71,7 +72,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 Students built their own bookworms at home to showcase the books they read and entered the weekly raffle for a gift card to one of our fabulous local businesses. District staff members introduced themselves and read a book to our students each week throughout the month. Thank you to Dr. Irish, Dr. Clifford, Mr. Pohl, and Ms. Gilbert for enriching our students’ days. Heidi Williamson and Hannah Davis, our school Librarian, developed mystery books clues that students could try to solve each week.
 
-And finally, ISV families could try to hunt down all 15 “books” posted in our amazing forest lands. Were you able to find all of them? We want to give a huge shout out to the teachers for encouraging our students’ participation and a big thank you to Mr. Hanrahan for his support at every step of the process. And a special THANK YOU to Kimberly Munoz for organizing such a wonderful month-long celebration of literacy!  Keep reading Eagles!  
+And finally, ISV families could try to hunt down all 15 “books” posted in our amazing forest lands. Were you able to find all of them? We want to give a huge shout out to the teachers for encouraging our students’ participation and a big thank you to Mr. Hanrahan for his support at every step of the process. And a special THANK YOU to Kimberly Munoz for organizing such a wonderful month-long celebration of literacy!  Keep reading Eagles!
 
 {{< fig src="membership.png" align="center" class="max-w-xs" >}}
 
@@ -91,11 +92,11 @@ Island View PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes Middle Sch
 
 {{< fig src="may-pta.png" align="center" class="max-w-xs" >}}
 
-## May PTA Meeting: May 27 @ 6 pm
+## May PTA Meeting: May 25 @ 6 pm
 
 **Reserve the date now to attend the May PTA meeting!**
 
-Join us Thursday, May 27 at 6 PM via Zoom for the final PTA meeting of the school year!
+Join us Tuesday, May 25 at 6 PM via Zoom for the final PTA meeting of the school year!
 
 ## You're INCREDIBLE!
 
