@@ -28,5 +28,4 @@ We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) an
 
 ## Monthly Newsletters
 
-Please click the blue buttons below to read our most recent newsletters.
-For past issues, please see the yellow highlighted blocks on the [News](/news) page.
+Please click the links below to read our most recent newsletters. For past issues, please see the yellow highlighted blocks on the [News](/news) page.
