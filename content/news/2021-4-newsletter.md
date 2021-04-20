@@ -90,7 +90,7 @@ Island View PTA teamed up with Mount Erie PTA, Fidalgo PTA, Anacortes Middle Sch
 
 **Stay tuned for details about celebratory plans for Staff Appreciation Week May 3-7, and how YOU can get involved!**
 
-{{< fig src="may-pta.png" align="center" class="max-w-xs" >}}
+{{< fig src="may25.png" align="center" class="max-w-xs" >}}
 
 ## May PTA Meeting: May 25 @ 6 pm
 
@@ -115,7 +115,7 @@ Join us Tuesday, May 25 at 6 PM via Zoom for the final PTA meeting of the school
 
 ### May
 
-* **27: PTA MEETING AT 6PM via ZOOM**
+* **25: PTA MEETING AT 6PM via ZOOM**
 * **28: Early Release, Remote learning 9 AM - Noon**
 * **31: Memorial Day Holiday, NO SCHOOL**
 
