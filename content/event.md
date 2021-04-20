@@ -18,5 +18,3 @@ type: event
 We’d love for you to [become a member of the PTA](/membership/).
 
 ## Events
-
-Because of the global pandemic, all in-person events are canceled until further notice.
