@@ -24,7 +24,7 @@ Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud), whe
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
-{{< fig src="april-pta.jpg" align="center" class="max-w-s" >}}
+{{< fig src="may25.png" align="center" class="max-w-s" >}}
 
 ## Monthly Newsletters
 
