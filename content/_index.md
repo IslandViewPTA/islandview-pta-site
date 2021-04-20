@@ -14,7 +14,7 @@ type: page
 
 ### YEARBOOKS ON SALE!
 
-Order 2020-2021 Yearbooks for your students here    [**YEARBOOK**](https://www.islandviewpta.org/donate) [https://www.islandviewpta.org/yearbook/](https://www.islandviewpta.org/yearbook/ "YEARBOOK") and for a limited time your personal message will be printed for free!
+Order 2020-2021 Yearbooks for your students here [**YEARBOOK**](https://www.islandviewpta.org/yearbook) and for a limited time your personal message will be printed in the yearbook for free!
 
 ### Digital Read Aloud Library
 
