@@ -14,7 +14,7 @@ type: page
 
 Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud)! Where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
 
-## SAVE THE DATE:  The next PTA meeting will be at 6pm on Monday, April 19th via zoom.
+## SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, May 25th via zoom.
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
