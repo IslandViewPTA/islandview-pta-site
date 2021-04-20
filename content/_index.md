@@ -12,6 +12,12 @@ type: page
 ---
 # Welcome to Island View PTA!
 
+### YEARBOOKS ON SALE!
+
+Order 2020-2021 Yearbooks for your students here [https://www.islandviewpta.org/yearbook/](https://www.islandviewpta.org/yearbook/ "YEARBOOK") and for a limited time your personal message will be printed for free!
+
+### Digital Read Aloud Library
+
 Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud)! Where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
 
 ## SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, May 25th via zoom.
