@@ -18,7 +18,7 @@ Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandvi
 
 ### Digital Read Aloud Library
 
-Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud)! Where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
+Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud), where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
 
 ## SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, May 25th via zoom.
 
