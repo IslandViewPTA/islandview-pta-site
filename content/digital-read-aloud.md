@@ -54,3 +54,6 @@ The list below provides direct links to each video in the series.
 
 ## Llama Destroys the World
 {{< youtube id="uRIHeeL7q18" title="Llama Destroys the World" >}}
+
+## A Royal Ride
+{{< youtube id="DbrAmSOFVcA" title="Llama Destroys the World" >}}
