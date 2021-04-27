@@ -44,9 +44,9 @@ Staff are tirelessly preparing for their 5th(!!!) start to the school year. They
 
 **We have two sign-ups in progress to support our staff:**
 
-**Island View Staff Appreciation Week Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff1 ) **before May 1** to show our school staff the depth of our gratitude for everything they do!
+**Island View Staff Appreciation Week Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff1 ) **before May 1** if you are able to purchase treats to show our school staff the depth of our gratitude for everything they do!
 
-**June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11** to purchase fun and useful gifts for our staff  from local businesses!
+**June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11** if you are able to purchase fun and useful gifts for our staff from local businesses!
 
 In addition to providing staff goodies, we will also be sending home cards for the students to share their appreciation through words or drawings. If you would like a specific idea for a staff member, we know their favorite coffee orders, office supplies, restaurants, treats, and snack ideas! Just email [Hospitality@islandviewpta.org](mailto:Hospitality@islandviewpta.org) for customized information!
 
