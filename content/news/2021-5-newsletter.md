@@ -40,7 +40,7 @@ We will have elections, vote on next year's budget, and discuss a few final fun 
 
 **We are excitedly preparing for the upcoming ISLAND VIEW STAFF APPRECIATION WEEK!!!**
 
-Staff are tirelessly preparing for their 5th(!!!) start to the school year. They are completely rebuilding the master schedule (yet again) - revamping student breaks, lunches, transportation, etc. We want to show them how much we appreciate their efforts and  spirits up!
+Staff are tirelessly preparing for their 5th(!!!) start to the school year. They are completely rebuilding the master schedule (yet again) - revamping student breaks, lunches, transportation, etc. We want to show them how much we appreciate their efforts!
 
 **We have two sign-ups in progress to support our staff:**
 
