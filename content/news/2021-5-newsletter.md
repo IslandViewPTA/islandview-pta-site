@@ -10,6 +10,47 @@ draft: true
 ---
 ## Principal's Message
 
+FINAL PTA MEETING
+
+Tuesday, May 25th is the next PTA meeting at 6pm via zoom. (changed from the 27th) We will have elections and vote on next year's budget, so a good turn out is important. (Rachel is making a new graphic)
+
+STAFF APPRECIATION WEEK
+
+(Ask Stacey Mahoney ([hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)) for a blurb and image about Staff Appreciation week)
+
+YEARBOOKS ON SALE
+
+(Get a blurb and image from Eric, but basically explain how folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.)
+
+COLOR RUN  
+  
+Save the Date for the Color Run on June 5th! We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! (use image from last month)  
+CLASS ACT SCHOOL PLAY  
+(Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
+
+  
+5TH GRADE GRADUATION  
+The 5th graders are about to head off to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! We need YOU to step up to lead the 5th grade graduation celebration committee! We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.  
+  
+BUDGET TIME  
+At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)  
+SAFE ROUTES (run again? if so, at the very end)  
+JOIN/DONATE buttons at the bottom just before calendar  
+  
+MAY
+
+* 3-7: Staff Appreciation Week!
+* 4: Budget meeting at 1pm via Zoom
+* **25: PTA MEETING AT 6PM via ZOOM**
+* 28: Early Release
+* 31: Memorial Day Holiday, NO SCHOOL
+
+JUNE
+
+* 5: COLOR RUN!!!!
+* 22: 5th Grade Moving Up Ceremony
+* 22: Early Release - last day of school!
+
 ## PTA Meeting May  @ 6 pm
 
 **ELECTIONS!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom.**
