@@ -26,6 +26,8 @@ Stay well—
 
 Brian Hanrahan
 
+{{< fig src="may25.png" align="center" class="max-w-xs" >}}
+
 ## Final PTA Meeting on May 25!
 
 **Tuesday, May 25th at 6pm is the final PTA meeting of the year** (changed from the 27th).
@@ -40,16 +42,15 @@ YEARBOOKS ON SALE
 
 (Get a blurb and image from Eric, but basically explain how folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.)
 
-COLOR RUN  
-  
+COLOR RUN
+
 Save the Date for the Color Run on June 5th! We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! (use image from last month)  
 CLASS ACT SCHOOL PLAY  
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
 
-  
 5TH GRADE GRADUATION  
-The 5th graders are about to head off to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! We need YOU to step up to lead the 5th grade graduation celebration committee! We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.  
-  
+The 5th graders are about to head off to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! We need YOU to step up to lead the 5th grade graduation celebration committee! We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.
+
 BUDGET TIME  
 At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)  
 SAFE ROUTES (run again? if so, at the very end)  
