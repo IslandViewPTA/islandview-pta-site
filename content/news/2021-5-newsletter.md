@@ -56,9 +56,9 @@ In addition to providing staff goodies, we will also be sending home cards for t
 
 ## Yearbooks On Sale NOW!
 
-**Attention parents: 2020-2021 Island View Yearbook Sales are now OPEN!** 
+**Attention parents: 2020-2021 Island View Yearbook Sales are now OPEN!**
 
-Go to [this link on the PTA website ](https://www.islandviewpta.org/yearbook)to order, and **receive a free dedication to your student printed in the yearbook if you order by May 21.** 
+Go to [this link on the PTA website ](https://www.islandviewpta.org/yearbook)to order, and **receive a free dedication to your student printed in the yearbook if you order by May 21.**
 
 **It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
@@ -91,6 +91,8 @@ If you would be interested in leading the 5th Grade Graduation Committee and/or 
 ## Budget Time
 
 Tuesday, May 4th at 1 PM (via Zoom) we will work on the PTA budget. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link.
+
+{{< fig src="gardenbed.jpeg" align="center" class="max-w-xs" >}}
 
 ## Help the Garden Grow!
 
