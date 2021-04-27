@@ -70,7 +70,8 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon!
 
-CLASS ACT SCHOOL PLAY  
+## Class Act School Play a Total Hit!
+
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
 
 {{< fig src="balloons.jpeg" align="center" class="max-w-xs" >}}
