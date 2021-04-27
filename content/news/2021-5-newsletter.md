@@ -42,15 +42,11 @@ YEARBOOKS ON SALE
 
 (Get a blurb and image from Eric, but basically explain how folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.)
 
-COLOR RUN
+## Color Run is June 5
 
-Save the Date for the Color Run on June 5th! We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! (use image from last month)
+**Save the Date for the Color Run on June 5th!** 
 
-{{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
-
-## Let's Walk & Bike to School!
-
-**SAFE ROUTES TO SCHOOL** is looking for an Island View representative to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long list of amazing Island View volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva King at [tking@asd103.org](tking@asd103.org).
+We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! 
 
 CLASS ACT SCHOOL PLAY  
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
@@ -59,17 +55,21 @@ CLASS ACT SCHOOL PLAY
 The 5th graders are about to head off to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! We need YOU to step up to lead the 5th grade graduation celebration committee! We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.
 
 BUDGET TIME  
-At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)  
-SAFE ROUTES (run again? if so, at the very end)  
-JOIN/DONATE buttons at the bottom just before calendar
+At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)
 
 ## Read-Aloud Video Library Open
 
 Don’t forget to [visit the PTA website's digital read aloud library](https://www.islandviewpta.org/digital-read-aloud) to view the different read alouds from our school community. The videos will be available until the end of the school year.
 
+{{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
+
+## Let's Walk & Bike to School!
+
+**SAFE ROUTES TO SCHOOL** is looking for an Island View representative to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long list of amazing Island View volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva King at [tking@asd103.org](tking@asd103.org).
+
 ## You're INCREDIBLE
 
-**THANKS** to all those who have supported the Island View PTA throughout the year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. Please mark your calendars for a few final events, including the Color Run on May 5th. 
 
 {{< cta >}}
 
