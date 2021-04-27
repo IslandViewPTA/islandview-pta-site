@@ -74,7 +74,7 @@ We will need all hands on deck to pull off this super FUN event, so watch for a 
 
 ## Class Act School Play a Total Hit!
 
-(Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
+The district-wide virtual school play "Adventures in Neverland" was a smashing success! Thank you to all who participated. Everyone involved loved the final performances!
 
 {{< fig src="graduation.png" align="center" class="max-w-xs" >}}
 
