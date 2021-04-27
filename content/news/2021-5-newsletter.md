@@ -36,11 +36,11 @@ We will have elections, vote on next year's budget, and discuss a few final fun 
 
 ## Staff Appreciation Week
 
-(Ask Stacey Mahoney ([hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)) for a blurb and image about Staff Appreciation week)
+Ask Stacey Mahoney ([hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)) for a blurb and image about Staff Appreciation week.
 
-YEARBOOKS ON SALE
+## Yearbooks On Sale NOW!
 
-(Get a blurb and image from Eric, but basically explain how folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.)
+Folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.
 
 **It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
