@@ -28,7 +28,7 @@ Brian Hanrahan
 
 {{< fig src="may25.png" align="center" class="max-w-xs" >}}
 
-## Final PTA Meeting on May 25!
+## Final PTA Meeting on May 25th!
 
 **Tuesday, May 25th at 6pm is the final PTA meeting of the year** (changed from the 27th).
 
@@ -44,9 +44,9 @@ Staff are tirelessly preparing for their 5th(!!!) start to the school year. They
 
 **We have two sign-ups in progress to support our staff:**
 
-**Island View Staff Appreciation Week Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff1 ) **before May 1** if you are able to purchase treats to show our school staff the depth of our gratitude for everything they do!
+**Island View Staff Appreciation Week Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff1 ) **before May 1st** if you are able to purchase treats to show our school staff the depth of our gratitude for everything they do!
 
-**June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11** if you are able to purchase fun and useful gifts for our staff from local businesses!
+**June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11th** if you are able to purchase fun and useful gifts for our staff from local businesses!
 
 In addition to providing staff goodies, we will also be sending home cards for the students to share their appreciation through words or drawings. If you would like a specific idea for a staff member, we know their favorite coffee orders, office supplies, restaurants, treats, and snack ideas! Just email [Hospitality@islandviewpta.org](mailto:Hospitality@islandviewpta.org) for customized information!
 
@@ -58,7 +58,7 @@ In addition to providing staff goodies, we will also be sending home cards for t
 
 **Attention parents: 2020-2021 Island View Yearbook Sales are now OPEN!**
 
-Go to [this link on the PTA website ](https://www.islandviewpta.org/yearbook)to order, and **receive a free dedication to your student printed in the yearbook if you order by May 21.**
+Go to [this link on the PTA website ](https://www.islandviewpta.org/yearbook)to order, and **receive a free dedication to your student printed in the yearbook if you order by May 21st.**
 
 **It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
@@ -68,7 +68,7 @@ We’ll do our best to make sure everyone is included, so snap away! Thank you!
 
 {{< fig src="color_march.jpg" align="center" class="max-w-xs" >}}
 
-## Color Run is June 5
+## Color Run is June 5th
 
 **Save the Date for the Color Run on June 5th!**
 
@@ -84,7 +84,7 @@ The district-wide virtual school play "Adventures in Neverland" was a smashing s
 
 **We want to continue the tradition of making our graduating 5th grade eaglets feel celebrated before they head off to become AMS hawks, but we need help!**
 
-If you would be interested in leading the 5th Grade Graduation Committee and/or volunteering to help with the planning, please email [president@islandviewpta.org](mailto:president@islandviewpta.org) ASAP! We've got a budget and some ideas, but need YOU to make it all come together. Thank you!
+If you would be interested in leading the 5th Grade Graduation Committee and/or volunteering to help with the planning, please email [president@islandviewpta.org](mailto:president@islandviewpta.org) ASAP! **We've got a budget and some ideas, but need YOU to make it all come together.** Thank you!
 
 {{< fig src="budget.jpeg" align="center" class="max-w-xs" >}}
 
