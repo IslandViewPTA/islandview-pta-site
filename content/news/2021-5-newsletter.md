@@ -77,7 +77,7 @@ Don’t forget to [visit the PTA website's digital read aloud library](https://w
 
 ## You're INCREDIBLE
 
-**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. Please mark your calendars for a few final events, including the Color Run on May 5th.
+**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on May 5th.**
 
 {{< cta >}}
 
