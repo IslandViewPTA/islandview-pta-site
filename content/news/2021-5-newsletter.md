@@ -114,6 +114,8 @@ Don’t forget to [visit the PTA website's digital read aloud library](https://w
 
 **SAFE ROUTES TO SCHOOL** is looking for an Island View representative to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long list of amazing Island View volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva King at [tking@asd103.org](tking@asd103.org).
 
+## Box Tops are Still Valuable
+
 {{< fig src="confetti.jpg" align="center" class="max-w-xs" >}}
 
 ## You're INCREDIBLE
