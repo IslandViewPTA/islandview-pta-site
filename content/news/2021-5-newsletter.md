@@ -118,7 +118,11 @@ Don’t forget to [visit the PTA website's digital read aloud library](https://w
 
 ## Scan Receipts for Box Top $$
 
-Box Tops are conveniently collected and credited to Island View by scanning your receipt.
+Box Tops are conveniently collected and credited to Island View by scanning your receipt. 
+
+{{< fig src="\[imagePathOrURL\]" title="\[imageCaption\]" align="\[left or right\]" class="\[max-w-XX\]" >}}
+
+An app on your smartphone makes it quick and easy, you can even set weekly reminders to scan receipts. 
 
 {{< fig src="confetti.jpg" align="center" class="max-w-xs" >}}
 
