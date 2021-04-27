@@ -53,9 +53,13 @@ The 5th graders are about to head off to middle school, but before the eaglets s
 BUDGET TIME  
 At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)  
 SAFE ROUTES (run again? if so, at the very end)  
-JOIN/DONATE buttons at the bottom just before calendar  
-  
-MAY
+JOIN/DONATE buttons at the bottom just before calendar
+
+## I Love to Read Video Library Open
+
+Don’t forget to [visit the PTA website's digital read aloud library](https://www.islandviewpta.org/digital-read-aloud) to view the different read alouds from our school community. The videos will be available until the end of the school year.
+
+## 
 
 * 3-7: Staff Appreciation Week!
 * 4: Budget meeting at 1pm via Zoom
@@ -68,12 +72,6 @@ JUNE
 * 5: COLOR RUN!!!!
 * 22: 5th Grade Moving Up Ceremony
 * 22: Early Release - last day of school!
-
-## PTA Meeting May  @ 6 pm
-
-**ELECTIONS!  The April PTA meeting is Monday, April 19 at 6 PM via Zoom.**
-
-**Don't miss this one!**  **We must have quorum at this meeting to elect the new 2021-2022 Officers and plan for the rest of the year!**
 
 {{< fig src="color_march.jpg" align="center" class="max-w-xs" >}}
 
