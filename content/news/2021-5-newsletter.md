@@ -4,7 +4,7 @@ newsletter: true
 title: May 2021 Newsletter
 date: 2021-04-27T00:00:00-07:00
 description: ''
-image: "/uploads/ladybug.jpeg"
+image: "/uploads/peony.jpeg"
 draft: true
 
 ---
@@ -44,7 +44,8 @@ YEARBOOKS ON SALE
 
 COLOR RUN
 
-Save the Date for the Color Run on June 5th! We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! (use image from last month)  
+Save the Date for the Color Run on June 5th! We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! (use image from last month)
+
 CLASS ACT SCHOOL PLAY  
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
 
@@ -56,13 +57,13 @@ At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free
 SAFE ROUTES (run again? if so, at the very end)  
 JOIN/DONATE buttons at the bottom just before calendar
 
-## I Love to Read Video Library Open
+## Read-Aloud Video Library Open
 
 Don’t forget to [visit the PTA website's digital read aloud library](https://www.islandviewpta.org/digital-read-aloud) to view the different read alouds from our school community. The videos will be available until the end of the school year.
 
-## You're INCREDIBLE!
+## You're INCREDIBLE
 
-**THANKS** to all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+**THANKS** to all those who have supported the Island View PTA throughout the year. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
 
 {{< cta >}}
 
