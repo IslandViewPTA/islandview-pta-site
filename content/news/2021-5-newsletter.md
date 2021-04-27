@@ -18,7 +18,7 @@ As Superintendent Irish has communicated to families, we are currently planning 
 
 In the meantime, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) if you have questions, concerns, or suggestions.
 
-Let’s get back to our sunshine. One of our kinders got in the habit of picking flowers (adults mistakenly call them dandelions😉) for her teacher when she arrived on campus. On the morning of our first cool day, she stood in the front lawn and exclaimed despondently, “they’re all gone!” A staff member explained to her that the flowers would return with the sunshine; I’m not sure our little kinder was convinced.
+Let’s get back to our sunshine. One of our kinders got in the habit of picking flowers (adults mistakenly call them dandelions 😉 ) for her teacher when she arrived on campus. On the morning of our first cool day, she stood in the front lawn and exclaimed despondently, “they’re all gone!” A staff member explained to her that the flowers would return with the sunshine; I’m not sure our little kinder was convinced.
 
 But our sunshine is returning—one baby step at a time.
 
