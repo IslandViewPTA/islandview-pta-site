@@ -94,6 +94,12 @@ Tuesday, May 4th at 1 PM (via Zoom) we will work on the PTA budget. Please feel 
 
 ## Help the Garden Grow!
 
+Island View students have been out planting seeds, weeding and watering during the school week. Already radishes and peas are sprouting! Classes are also using the garden as an outdoor learning space to take a break from sitting at their desks.
+
+**Please help us make it a safe and enjoyable space for students by donating an hour of your time one weekend -** [**sign up here**](https://www.signupgenius.com/go/10c084eada722a4fc1-island)**.** Up to three families can work in the garden together, following CDC-recommended guidelines, so bring your friends!
+
+The Island View Garden Committee thanks you for your help and support!
+
 {{< fig src="readaloudbanner.jpg" align="center" class="max-w-xs" >}}
 
 ## Read-Aloud Video Library Open
