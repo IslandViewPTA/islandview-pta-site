@@ -42,6 +42,8 @@ YEARBOOKS ON SALE
 
 (Get a blurb and image from Eric, but basically explain how folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.)
 
+{{< fig src="color_march.jpg" align="center" class="max-w-xs" >}}
+
 ## Color Run is June 5
 
 **Save the Date for the Color Run on June 5th!**
