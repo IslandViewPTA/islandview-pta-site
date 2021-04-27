@@ -82,7 +82,7 @@ The district-wide virtual school play "Adventures in Neverland" was a smashing s
 
 ## 5th Grade Graduation
 
-**We want to continue the tradition of making our graduating 5th graders feel celebrated before they head off to AMS, but we need help!**
+**We want to continue the tradition of making our graduating 5th grade eaglets feel celebrated before they head off to become AMS hawks, but we need help!**
 
 If you would be interested in leading the 5th Grade Graduation Committee and/or volunteering to help with the planning, please email [president@islandviewpta.org](mailto:president@islandviewpta.org) ASAP! We've got a budget and some ideas, but need YOU to make it all come together. Thank you!
 
