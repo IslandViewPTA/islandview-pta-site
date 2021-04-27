@@ -76,7 +76,7 @@ We will need all hands on deck to pull off this super FUN event, so watch for a 
 
 ## Class Act School Play a Total Hit!
 
-The district-wide virtual school play "Adventures in Neverland" was a smashing success! Thank you to all who participated. Everyone involved loved the final performances!
+The district-wide virtual school play "Adventures in Neverland" was a smashing success! Thank you to all who participated. Everyone involved loved performing in and viewing the final performances!
 
 {{< fig src="graduation.png" align="center" class="max-w-xs" >}}
 
