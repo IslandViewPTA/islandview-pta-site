@@ -74,7 +74,7 @@ We will need all hands on deck to pull off this super FUN event, so watch for a 
 
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
 
-{{< fig src="balloons.jpeg" align="center" class="max-w-xs" >}}
+{{< fig src="weneedyou.jpg" align="center" class="max-w-xs" >}}
 
 ## 5th Grade Graduation
 
