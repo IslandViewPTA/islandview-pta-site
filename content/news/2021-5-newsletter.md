@@ -59,19 +59,37 @@ JOIN/DONATE buttons at the bottom just before calendar
 
 Don’t forget to [visit the PTA website's digital read aloud library](https://www.islandviewpta.org/digital-read-aloud) to view the different read alouds from our school community. The videos will be available until the end of the school year.
 
-## 
+## You're INCREDIBLE!
+
+**THANKS** to all those who have supported the Island View PTA already. We are deeply committed to the staff and students at Island View Elementary and we could not provide the MANY opportunities we offer without your support!
+
+{{< cta >}}
+
+## SAVE THESE DATES!
+
+### May
 
 * 3-7: Staff Appreciation Week!
-* 4: Budget meeting at 1pm via Zoom
-* **25: PTA MEETING AT 6PM via ZOOM**
-* 28: Early Release
-* 31: Memorial Day Holiday, NO SCHOOL
+* 4:    Budget Meeting at 1 PM via Zoom
+* **25:  PTA MEETING AT 6 PM via ZOOM**
+* 28:  Early Release, Remote learning 9 AM - Noon
+* 31:  Memorial Day Holiday, NO SCHOOL
 
-JUNE
+### June
 
-* 5: COLOR RUN!!!!
-* 22: 5th Grade Moving Up Ceremony
-* 22: Early Release - last day of school!
+* **5:    COLOR RUN!!**
+* 22:  5th Grade Moving Up Ceremony
+* 22:  Early Release - Last Day of School!
+
+***
+
+**Questions? Please feel free to contact us any time!**
+
+PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+
+PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+
+PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
 
 {{< fig src="color_march.jpg" align="center" class="max-w-xs" >}}
 
