@@ -51,8 +51,9 @@ We will need all hands on deck to pull off this super FUN event, so watch for a 
 CLASS ACT SCHOOL PLAY  
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
 
-5TH GRADE GRADUATION  
-The 5th graders are about to head off to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! We need YOU to step up to lead the 5th grade graduation celebration committee! We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.
+## 5th Grade Graduation
+
+The 5th graders are about to move up to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! **We need YOU to step up to lead the 5th grade graduation celebration committee!** We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.
 
 {{< fig src="budget.jpeg" align="center" class="max-w-xs" >}}
 
