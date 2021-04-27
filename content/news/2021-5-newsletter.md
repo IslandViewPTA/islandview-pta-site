@@ -34,7 +34,7 @@ Brian Hanrahan
 
 We will have elections, vote on next year's budget, and discuss a few final fun events before summer...**so please plan to attend! Zoom link will be emailed.**
 
-{{< fig src="gift.jpeg" align="center" class="max-w-xs" >}}
+{{< fig src="staff-appreciation.png" align="center" class="max-w-xs" >}}
 
 ## Staff Appreciation Week, May 3-7
 
@@ -96,7 +96,7 @@ Tuesday, May 4th at 1 PM (via Zoom) we will work on the PTA budget. Please feel 
 
 Don’t forget to [visit the PTA website's digital read aloud library](https://www.islandviewpta.org/digital-read-aloud) to view the different read alouds from our school community. The videos will be available until the end of the school year.
 
-{{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="saferoutes.png" align="center" class="max-w-xs" >}}
 
 ## Let's Walk & Bike to School!
 
