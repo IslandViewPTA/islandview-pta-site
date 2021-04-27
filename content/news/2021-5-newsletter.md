@@ -52,7 +52,7 @@ In addition to providing staff goodies, we will also be sending home cards for t
 
 **Thank you for your AMAZING support for our WONDERFUL school and staff!**
 
-{{< fig src="2021-yearbook-v2" align="center" class="max-w-xs" >}}
+{{< fig src="nwsltryearbook.png" align="center" class="max-w-xs" >}}
 
 ## Yearbooks On Sale NOW!
 
