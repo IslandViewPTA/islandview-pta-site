@@ -63,7 +63,7 @@ The 5th graders are about to move up to middle school, but before the eaglets so
 
 ## Budget Time
 
-Tuesday, May 4th at 1 PM we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link.
+Tuesday, May 4th at 1 PM (via Zoom) we will work on the PTA budget. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link.
 
 ## Help the Garden Grow!
 
@@ -116,11 +116,3 @@ PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](
 Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
 
 We’ll do our best to make sure everyone is included, so snap away! Thank you!
-
-{{< fig src="orange bike.jpg" align="center" class="max-w-xs" >}}
-
-## Let's Walk & Bike to School!
-
-**SAFE ROUTES TO SCHOOL** is looking for an Island View representative to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long list of amazing Island View volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva King at [tking@asd103.org](tking@asd103.org).
-
-{{< fig src="read.jpg" align="center" class="max-w-xs" >}}
