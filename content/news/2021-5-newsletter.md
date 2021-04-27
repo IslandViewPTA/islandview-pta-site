@@ -56,7 +56,9 @@ In addition to providing staff goodies, we will also be sending home cards for t
 
 ## Yearbooks On Sale NOW!
 
-Folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.
+**Attention parents: 2020-2021 Island View Yearbook Sales are now OPEN!** 
+
+Go to [this link on the PTA website ](https://www.islandviewpta.org/yearbook)to order, and **receive a free dedication to your student printed in the yearbook if you order by May 21.** 
 
 **It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
 
