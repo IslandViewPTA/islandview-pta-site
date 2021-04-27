@@ -42,6 +42,12 @@ YEARBOOKS ON SALE
 
 (Get a blurb and image from Eric, but basically explain how folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.)
 
+**It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
+
+Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
+
+We’ll do our best to make sure everyone is included, so snap away! Thank you!
+
 {{< fig src="color_march.jpg" align="center" class="max-w-xs" >}}
 
 ## Color Run is June 5
@@ -110,9 +116,3 @@ PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@
 PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
-
-**It isn't too late to send in photos! Make the 2020-2021 yearbook the best ever by submitting photos of your student(s).**
-
-Please email your photos to [**yearbook@islandviewpta.org**](mailto:yearbook@islandviewpta.org). In the email please include your students’ names, grades, and teachers.
-
-We’ll do our best to make sure everyone is included, so snap away! Thank you!
