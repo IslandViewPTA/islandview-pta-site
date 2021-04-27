@@ -10,11 +10,29 @@ draft: true
 ---
 ## Principal's Message
 
-FINAL PTA MEETING
+Island View Families:
 
-Tuesday, May 25th is the next PTA meeting at 6pm via zoom. (changed from the 27th) We will have elections and vote on next year's budget, so a good turn out is important. (Rachel is making a new graphic)
+Having lived in the area for nearly thirty years, I cannot recall a longer string of sunny April days than we experienced this past month. It is indeed tulip time in the Skagit Valley. I hope you enjoyed memorable moments outside with your beautiful children.
 
-STAFF APPRECIATION WEEK
+As Superintendent Irish has communicated to families, we are currently planning to return all students back to full days. Island View staff members are busy developing new safety protocols, modifying arrival and dismissal procedures, planning lunch routines and recess schedules, and preparing changes in the instructional program. Our custodians are busy moving furniture back into classrooms and developing cleaning protocols, and kitchen staff are developing processes for serving lunches in new ways. I have been inspired by the team efforts that are creating a safe and meaningful school environment for your deserving students. I will send detailed information to families explaining our new protocols and schedules by Monday, May 3rd.
+
+In the meantime, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) if you have questions, concerns, or suggestions.
+
+Let’s get back to our sunshine. One of our kinders got in the habit of picking flowers (adults mistakenly call them dandelions😉) for her teacher when she arrived on campus. On the morning of our first cool day, she stood in the front lawn and exclaimed despondently, “they’re all gone!” A staff member explained to her that the flowers would return with the sunshine; I’m not sure our little kinder was convinced.
+
+But our sunshine is returning—one baby step at a time.
+
+Stay well—
+
+Brian Hanrahan
+
+## Final PTA Meeting on May 25!
+
+**Tuesday, May 25th at 6pm is the final PTA meeting of the year** (changed from the 27th).
+
+We will have elections, vote on next year's budget, and discuss a few final fun events before summer...**so please plan to attend! Zoom link will be emailed.**
+
+## Staff Appreciation Week
 
 (Ask Stacey Mahoney ([hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)) for a blurb and image about Staff Appreciation week)
 
