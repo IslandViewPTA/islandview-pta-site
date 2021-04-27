@@ -67,7 +67,7 @@ Tuesday, May 4th at 1 PM (via Zoom) we will work on the PTA budget. Please feel 
 
 ## Help the Garden Grow!
 
-{{< fig src="readaloudbanner.jpeg" align="center" class="max-w-xs" >}}
+{{< fig src="readaloudbanner.jpg" align="center" class="max-w-xs" >}}
 
 ## Read-Aloud Video Library Open
 
