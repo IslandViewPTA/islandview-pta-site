@@ -50,9 +50,9 @@ Staff are tirelessly preparing for their 5th(!!!) start to the school year. They
 
 In addition to providing staff goodies, we will also be sending home cards for the students to share their appreciation through words or drawings. If you would like a specific idea for a staff member, we know their favorite coffee orders, office supplies, restaurants, treats, and snack ideas! Just email [Hospitality@islandviewpta.org](mailto:Hospitality@islandviewpta.org) for customized information!
 
-**Thank you for all of your AMAZING support of our WONDERFUL school!**
+**Thank you for your AMAZING support for our WONDERFUL school and staff!**
 
-{{< fig src="2021-yearbook-V2" align="center" class="max-w-xs" >}}
+{{< fig src="2021-yearbook-v2" align="center" class="max-w-xs" >}}
 
 ## Yearbooks On Sale NOW!
 
