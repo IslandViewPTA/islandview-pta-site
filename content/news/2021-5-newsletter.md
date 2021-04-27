@@ -74,11 +74,13 @@ We will need all hands on deck to pull off this super FUN event, so watch for a 
 
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
 
-{{< fig src="weneedyou.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="graduation.png" align="center" class="max-w-xs" >}}
 
 ## 5th Grade Graduation
 
-The 5th graders are about to move up to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! **We need YOU to step up to lead the 5th grade graduation celebration committee!** We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.
+**We want to continue the tradition of making our graduating 5th graders feel celebrated before they head off to AMS, but we need help!**
+
+If you would be interested in leading the 5th Grade Graduation Committee and/or volunteering to help with the planning, please email [president@islandviewpta.org](mailto:president@islandviewpta.org) ASAP! We've got a budget and some ideas, but need YOU to make it all come together. Thank you!
 
 {{< fig src="budget.jpeg" align="center" class="max-w-xs" >}}
 
