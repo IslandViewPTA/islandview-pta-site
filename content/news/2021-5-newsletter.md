@@ -54,6 +54,8 @@ CLASS ACT SCHOOL PLAY
 5TH GRADE GRADUATION  
 The 5th graders are about to head off to middle school, but before the eaglets soar off to become hawks, we want to celebrate them! We need YOU to step up to lead the 5th grade graduation celebration committee! We've got a budget and some ideas, but need YOU to make it all come together. Please email [president@islandviewpta.org](mailto:president@islandviewpta.org) to volunteer.
 
+{{< fig src="budget.jpeg" align="center" class="max-w-xs" >}}
+
 BUDGET TIME  
 At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)
 
