@@ -14,7 +14,7 @@ Island View Families:
 
 Having lived in the area for nearly thirty years, I cannot recall a longer string of sunny April days than we experienced this past month. It is indeed tulip time in the Skagit Valley. I hope you enjoyed memorable moments outside with your beautiful children.
 
-As Superintendent Irish has communicated to families, we are currently planning to return all students back to full days. Island View staff members are busy developing new safety protocols, modifying arrival and dismissal procedures, planning lunch routines and recess schedules, and preparing changes in the instructional program. Our custodians are busy moving furniture back into classrooms and developing cleaning protocols, and kitchen staff are developing processes for serving lunches in new ways. I have been inspired by the team efforts that are creating a safe and meaningful school environment for your deserving students. I will send detailed information to families explaining our new protocols and schedules by Monday, May 3rd.
+As Superintendent Irish has communicated to families, we are currently planning to return all students back to full days. Island View staff members are busy developing new safety protocols, modifying arrival and dismissal procedures, planning lunch routines and recess schedules, and preparing changes in the instructional program. Our custodians are busy moving furniture back into classrooms and developing cleaning new protocols, and kitchen staff are developing processes for serving lunches in new ways. I have been inspired by the team efforts that are creating a safe and meaningful school environment for your deserving students. I will send detailed information to families explaining our new protocols and schedules by Monday, May 3rd.
 
 In the meantime, please contact me at 360-503-1490 or at [bhanrahan@asd103.org](mailto:bhanrahan@asd103.org) if you have questions, concerns, or suggestions.
 
@@ -40,7 +40,7 @@ We will have elections, vote on next year's budget, and discuss a few final fun 
 
 **We are excitedly preparing for the upcoming ISLAND VIEW STAFF APPRECIATION WEEK!!!**
 
-Staff are tirelessly preparing for their 5th(!!!) start to the school year. They are completely rebuilding the master schedule (yet again) - revamping student breaks, lunches, transportation, etc. We want to show them how much we appreciate their efforts!
+Staff are tirelessly preparing for their 5th(!!!) start to the school year. They are completely rebuilding the master schedule (yet again) - revamping student breaks, lunches, transportation, etc.  We want to show them how much we appreciate their efforts!
 
 **We have two sign-ups in progress to support our staff:**
 
@@ -48,7 +48,7 @@ Staff are tirelessly preparing for their 5th(!!!) start to the school year. They
 
 **June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11th** if you are able to purchase fun and useful gifts for our staff from local businesses!
 
-In addition to providing staff goodies, we will also be sending home cards for the students to share their appreciation through words or drawings. If you would like a specific idea for a staff member, we know their favorite coffee orders, office supplies, restaurants, treats, and snack ideas! Just email [Hospitality@islandviewpta.org](mailto:Hospitality@islandviewpta.org) for customized information!
+In addition to providing staff goodies, we will also be sending home cards for the students to share their appreciation through words or drawings. If you would like a specific gift idea for a staff member, we know their favorite coffee orders, office supplies, restaurants, treats, and snack ideas! Just email [Hospitality@islandviewpta.org](mailto:Hospitality@islandviewpta.org) for customized information!
 
 **Thank you for your AMAZING support for our WONDERFUL school and staff!**
 
@@ -112,7 +112,7 @@ Don’t forget to [visit the PTA website's digital read aloud library](https://w
 
 ## Let's Walk & Bike to School!
 
-**SAFE ROUTES TO SCHOOL** is looking for an Island View representative to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long list of amazing Island View volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva King at [tking@asd103.org](tking@asd103.org).
+**SAFE ROUTES TO SCHOOL** is looking for an Island View representative to attend monthly meetings and help promote safe walking and biking to school. Walking and biking are not only healthy ways to energize the brain before a day of class, but more kids walking and biking means fewer cars, cleaner air, and less traffic around the school. Other easy fun duties of this position could include decorating display cases to promote planned events and recruiting help from the long list of amazing Island View volunteers. If you are interested, please contact Joan Pringle at [joanp@cityofanacortes.org](joanp@cityofanacortes.org) or Treva King at [tking@asd103.org](tking@asd103.org).
 
 {{< fig src="boxtopics_may.jpeg" align="center" class="max-w-xs" >}}
 
@@ -128,7 +128,7 @@ An app on your smartphone makes it quick and easy, you can even set weekly remin
 
 ## You're INCREDIBLE
 
-**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on May 5th.**
+**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on June 5th.**
 
 {{< cta >}}
 
@@ -139,7 +139,7 @@ An app on your smartphone makes it quick and easy, you can even set weekly remin
 * 3-7: Staff Appreciation Week!
 * 4:    Budget Meeting at 1 PM via Zoom
 * **25:  PTA MEETING AT 6 PM via ZOOM**
-* 28:  Early Release, Remote learning 9 AM - Noon
+* 28:  Early Release
 * 31:  Memorial Day Holiday, NO SCHOOL
 
 ### June
