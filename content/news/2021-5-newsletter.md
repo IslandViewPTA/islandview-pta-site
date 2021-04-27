@@ -52,6 +52,8 @@ In addition to providing staff goodies, we will also be sending home cards for t
 
 **Thank you for all of your AMAZING support of our WONDERFUL school!**
 
+{{< fig src="2021-yearbook-V2" align="center" class="max-w-xs" >}}
+
 ## Yearbooks On Sale NOW!
 
 Folks can order yearbooks online, and if they order by ___ date, they get a dedication to their student included for free.
