@@ -34,17 +34,19 @@ Brian Hanrahan
 
 We will have elections, vote on next year's budget, and discuss a few final fun events before summer...**so please plan to attend! Zoom link will be emailed.**
 
+{{< fig src="gift.jpeg" align="center" class="max-w-xs" >}}
+
 ## Staff Appreciation Week, May 3-7
 
-**We are excitedly preparing for the upcoming ISLAND VIEW STAFF APPRECIATION WEEK!!!** 
+**We are excitedly preparing for the upcoming ISLAND VIEW STAFF APPRECIATION WEEK!!!**
 
 Staff are tirelessly preparing for their 5th(!!!) start to the school year. They are completely rebuilding the master schedule (yet again) - revamping student breaks, lunches, transportation, etc. We want to show them how much we appreciate their efforts and  spirits up!
 
 **We have two sign-ups in progress to support our staff:**
 
-**Island View Staff Appreciation Week Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff1 ) **before May 1** to show our school staff the depth of our gratitude for everything they do! 
+**Island View Staff Appreciation Week Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff1 ) **before May 1** to show our school staff the depth of our gratitude for everything they do!
 
-**June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11** to purchase fun and useful gifts for our staff  from local businesses! 
+**June End-of-the-Year Celebration Sign-Up**: click the [sign-up link](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-staff2 ) **before June 11** to purchase fun and useful gifts for our staff  from local businesses!
 
 In addition to providing staff goodies, we will also be sending home cards for the students to share their appreciation through words or drawings. If you would like a specific idea for a staff member, we know their favorite coffee orders, office supplies, restaurants, treats, and snack ideas! Just email [Hospitality@islandviewpta.org](mailto:Hospitality@islandviewpta.org) for customized information!
 
