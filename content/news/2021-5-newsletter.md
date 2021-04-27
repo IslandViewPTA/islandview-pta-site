@@ -44,9 +44,9 @@ YEARBOOKS ON SALE
 
 ## Color Run is June 5
 
-**Save the Date for the Color Run on June 5th!** 
+**Save the Date for the Color Run on June 5th!**
 
-We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon! 
+We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon!
 
 CLASS ACT SCHOOL PLAY  
 (Ask Jessica Guzik ([jessica.swapp@gmail.com](mailto:jessica.swapp@gmail.com)) for a short blurb and hopefully an image from the wildly successful virtual school play that included all the elementary schools in the district. We may NOT share the link to the actual play, however.)
@@ -56,6 +56,8 @@ The 5th graders are about to head off to middle school, but before the eaglets s
 
 BUDGET TIME  
 At 1pm on Tuesday, May 4th we will work on our budget via zoom. Please feel free to join us in planning what the PTA will do next school year! Email [president@islandviewpta.org](mailto:president@islandviewpta.org) if you would like the zoom link. (use budget image attached (unless you find a better one)
+
+{{< fig src="readaloudbanner.jpeg" align="center" class="max-w-xs" >}}
 
 ## Read-Aloud Video Library Open
 
@@ -69,7 +71,7 @@ Don’t forget to [visit the PTA website's digital read aloud library](https://w
 
 ## You're INCREDIBLE
 
-**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. Please mark your calendars for a few final events, including the Color Run on May 5th. 
+**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. Please mark your calendars for a few final events, including the Color Run on May 5th.
 
 {{< cta >}}
 
