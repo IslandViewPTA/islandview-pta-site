@@ -12,9 +12,7 @@ callToAction: true
 ---
 ### 
 
-Our major Color Run fundraiser last spring was canceled due to the global pandemic. We know that times are tough for many, so we are **NOT** planning another major fundraiser until we are safely back at school.
-
-If you are able, please consider donating to the Island View PTA so that we can continue to support the Island View staff and students as much as possible.
+THANK YOU for donating to the Island View PTA so that we can continue to support the Island View staff and students.
 
 The Island View PTA is a 501(c)(3), Section 509(a)(2) Tax-Exempt Public Charity (EIN 91-1325723) and our official name with the IRS is Fidalgo-Island View PTA Skagit County. Your gift is tax deductible to the extent allowed by law.
 
