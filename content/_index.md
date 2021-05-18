@@ -23,7 +23,7 @@ The COLOR RUN is back! Join us on Saturday, June 19th at Island View Elementary 
 
 Pre-registration for this FREE event is required. Please sign up to **participate** here:
 
-We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [here](https://forms.gle/KLuzByabFTgcaVb66 "here").
+We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [HERE](https://forms.gle/KLuzByabFTgcaVb66 "here").
 
 Questions? Email president@islandviewpta.org
 
