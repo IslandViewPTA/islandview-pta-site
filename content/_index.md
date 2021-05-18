@@ -16,11 +16,18 @@ type: page
 
 Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandviewpta.org/yearbook) and for a limited time your personal message will be printed in the yearbook for free!
 
-### Digital Read Aloud Library
+### The COLOR RUN returns!
 
-Join the fun with the new [Digital Read Aloud Library](/digital-read-aloud), where Island View Elementary students and adults can contribute read aloud videos to a playlist that others can enjoy.
+  
+The COLOR RUN is back! Join us on Saturday, June 19th at Island View Elementary for some seriously MESSY FUN!
 
-## SAVE THE DATE:  The next PTA meeting will be at 6pm on Tuesday, May 25th via zoom.
+Pre-registration for this FREE event is required. Please sign up to **participate** here:
+
+We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [here](https://forms.gle/KLuzByabFTgcaVb66 "here").
+
+Questions? Email president@islandviewpta.org
+
+## The final PTA meeting of the year will be at 6pm on Tuesday, May 25th via zoom.
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
