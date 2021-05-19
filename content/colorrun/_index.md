@@ -12,4 +12,6 @@ callToAction: true
 ---
 ## More Information Coming Soon!
 
-We are looking forward to the next Color Run on **May 16, 2020**!  Check back here for updates and registration forms closer to the event.  And please contact **colorrun@islandviewpta.org** if you want to get involved!
+We are looking forward to the next Color Run on **June 19, 2021**!
+Please contact **colorrun@islandviewpta.org** if you want to get involved!
+
