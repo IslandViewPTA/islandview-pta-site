@@ -12,7 +12,7 @@ type: page
 ---
 # Welcome to Island View PTA!
 
-{{< fig src="nwsltryearbook.png" align="right" class="max-w-xs" >}}
+{{< fig src="nwsltryearbook.png" align="right" class="max-w-xxs" >}}
 
 ### YEARBOOKS ON SALE!
 
