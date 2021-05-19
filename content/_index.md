@@ -18,9 +18,7 @@ type: page
 
 Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandviewpta.org/yearbook) and for a limited time your personal message will be printed in the yearbook for free!  DEADLINE EXTENDED TO MAY 24TH!
 
-{{< fig src="color-run-eagle.jpg" align="left" class="max-w-sm" >}}
-
-{{< fig src="chalk-shoes.jpeg" align="right" class="max-w-sm" >}}
+{{< fig src="color-run-eagle.jpg" align="center" class="max-w-sm" >}}
 
 ### The COLOR RUN returns!
 
