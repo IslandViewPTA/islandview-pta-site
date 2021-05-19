@@ -12,11 +12,13 @@ type: page
 ---
 # Welcome to Island View PTA!
 
-{{< fig src="nwsltryearbook.png" align="right" class="max-w-xxs" >}}
+{{< fig src="nwsltryearbook.png" align="center" class="max-w-xs" >}}
 
 ### YEARBOOKS ON SALE!
 
 Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandviewpta.org/yearbook) and for a limited time your personal message will be printed in the yearbook for free!
+
+{{< fig src="color-run-eagle.jpg" align="center" class="max-w-xs" >}}
 
 ### The COLOR RUN returns!
 
@@ -34,7 +36,7 @@ Questions? Email president@islandviewpta.org
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
-{{< fig src="may25.png" align="center" class="max-w-s" >}}
+{{< fig src="may25.png" align="center" class="max-w-xs" >}}
 
 ## Monthly Newsletters
 
