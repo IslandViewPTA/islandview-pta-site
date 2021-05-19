@@ -12,16 +12,19 @@ type: page
 ---
 # Welcome to Island View PTA!
 
+{{< fig src="nwsltryearbook.png" align="right" class="max-w-xs" >}}
+
 ### YEARBOOKS ON SALE!
 
 Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandviewpta.org/yearbook) and for a limited time your personal message will be printed in the yearbook for free!
 
 ### The COLOR RUN returns!
 
-  
 The COLOR RUN is back! Join us on Saturday, June 19th at Island View Elementary for some seriously MESSY FUN!
 
-Pre-registration for this FREE event is required. Watch this space for registration link coming soon.
+Pre-registration for this FREE event is required. Please sign up to **participate** [HERE](https://www.islandviewpta.org/colorrun "here").
+
+Watch this space for registration link coming soon.
 
 We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [HERE](https://forms.gle/KLuzByabFTgcaVb66 "here").
 
