@@ -26,17 +26,15 @@ The COLOR RUN is back! Join us on Saturday, June 19th at Island View Elementary 
 
 Pre-registration for this FREE event is required. Please sign up to **participate** [HERE](https://www.islandviewpta.org/colorrun "here").
 
-Watch this space for registration link coming soon.
-
 We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [HERE](https://forms.gle/KLuzByabFTgcaVb66 "here").
 
 Questions? Email president@islandviewpta.org
 
+{{< fig src="may25.png" align="center" class="max-w-xs" >}}
+
 ## The final PTA meeting of the year will be at 6pm on Tuesday, May 25th via zoom.
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
-
-{{< fig src="may25.png" align="center" class="max-w-xs" >}}
 
 ## Monthly Newsletters
 
