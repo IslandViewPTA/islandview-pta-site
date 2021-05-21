@@ -24,9 +24,13 @@ We will need all hands on deck to pull off this super FUN event, so watch for a 
 
 If you would be interested in leading the 5th Grade Graduation Committee and/or volunteering to help with the planning, please email [**president@islandviewpta.org**](mailto:president@islandviewpta.org) ASAP! **We've got a budget and some ideas, but need YOU to make it all come together.** Thank you!
 
+{{< fig src="graduation caps.jpg" align="center" class="max-w-xs" >}}
+
 ## Help the Garden Grow!
 
 Add info here if Ms. Shainin would like volunteers during the summer
+
+{{< fig src="gardening.jpg" align="center" class="max-w-xs" >}}
 
 ## You're INCREDIBLE
 
