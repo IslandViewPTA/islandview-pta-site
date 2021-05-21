@@ -32,11 +32,13 @@ Add info here if Ms. Shainin would like volunteers during the summer
 
 **THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on June 19th.**
 
+{{< cta >}}
+
 ## SAVE THESE DATES!
 
 ### June
 
-* **19:    COLOR RUN!!**
+* **19:  COLOR RUN!!**
 * 22:  5th Grade Moving Up Ceremony
 * 22:  Early Release - Last Day of School!
 
