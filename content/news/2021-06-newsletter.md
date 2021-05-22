@@ -24,13 +24,13 @@ We can't pull off this super event without LOTS of help. Please sign up to **vol
 
 Questions? Email president@islandviewpta.org
 
-{{< fig src="color-run-eagle.jpg" align="center" class="max-w-sm" >}}
+{{< fig src="2020-2021_cover-art.jpg" align="center" class="max-w-sm" >}}
 
 ## **Yearbooks**
 
 Yearbooks still available to buy without dedications until when????
 
-## **Hospitality** 
+## **Hospitality**
 
 Blurb and pictures from Stacey Mahoney about May successes and plans for June
 
