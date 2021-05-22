@@ -43,7 +43,7 @@ Three cheers for these amazing volunteers who have stepped up to lead the Island
 * **Amy McClain** - [Treasurer](mailto:treasurer@islandviewpta.org)
 * **Angela McCormick** - [Secretary](mailto:secretary@islandviewpta.org)
 * **Rachel Esposito** - [Membership/Social Media](mailto:membership@islandviewpta.org)
-* **Stacey Mahoney** - [Hospitality]()
+* **Stacey Mahoney** - [Hospitality](mailto:hospitality@islandviewpta.org)
 * **Josette Curtis** - [Newsletter](mailto:newsletter@islandviewpta.org)
 
 Feel free to email them (just click their title above) with any questions or to offer your help.  Together we are looking forward to a much more involved and "normal" year next year!
