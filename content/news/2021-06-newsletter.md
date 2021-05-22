@@ -12,11 +12,17 @@ draft: true
 
 ## Principal's Message
 
-## Color Run is June 19th
+{{< fig src="color-run-eagle.jpg" align="center" class="max-w-sm" >}}
 
-**Save the Date for the Color Run on June 19th!**
+## The COLOR RUN returns!
 
-We will need all hands on deck to pull off this super FUN event, so watch for a Sign Up Genius coming soon!
+The COLOR RUN is back! Join us on Saturday, June 19th at Island View Elementary for some seriously MESSY FUN!
+
+Pre-registration for this FREE event is required. Please sign up to **participate** [HERE](https://www.islandviewpta.org/colorrun "here").
+
+We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [HERE](https://forms.gle/KLuzByabFTgcaVb66 "here").
+
+Questions? Email president@islandviewpta.org
 
 ## 5th Grade Graduation
 
