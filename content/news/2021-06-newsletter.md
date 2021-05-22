@@ -3,7 +3,7 @@ newsletter_date: 2021-06-01T00:00:22-07:00
 newsletter: true
 title: June 2021 Newsletter
 date: 2021-06-01T00:00:00-07:00
-description: Island View PTA news for Summer 2021
+description: Wrapping up the school year!
 image: "/uploads/tulips.jpeg"
 draft: true
 
@@ -32,7 +32,7 @@ Yearbooks still available to buy without dedications until when????
 
 ## Hospitality
 
-Blurb and pictures from Stacey Mahoney about May successes and plans for June
+Blurb and pictures from Stacey Mahoney about May successes and plans for June: hospitality@islandviewpta.org
 
 ## Meet the new PTA Officers!
 
@@ -59,7 +59,7 @@ Share details IF Brian Hanrahan is ready to share.  Please email him directly fo
 
 ## Help the Garden Grow!
 
-Add info here if Ms. Shainin would like volunteers during the summer
+Add info here if Ms. Shainin would like volunteers during the summer: hshainin@asd103.org
 
 ## You're INCREDIBLE
 
