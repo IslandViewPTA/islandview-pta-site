@@ -24,6 +24,8 @@ We can't pull off this super event without LOTS of help. Please sign up to **vol
 
 Questions? Email president@islandviewpta.org
 
+{{< fig src="color-run-eagle.jpg" align="center" class="max-w-sm" >}}
+
 ## **Yearbooks**
 
 Yearbooks still available to buy without dedications until when????
