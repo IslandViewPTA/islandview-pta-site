@@ -30,7 +30,8 @@ Questions? Email president@islandviewpta.org
 
 Yearbooks still available to buy without dedications until when????
 
-## **  
+## **
+
 Hospitality update**
 
 Blurb and pictures from Stacey Mahoney about May successes and plans for June
@@ -50,8 +51,7 @@ Three cheers for these amazing volunteers who have stepped up to lead the Island
 
 Feel free to email them (just click their title above) with any questions or to offer your help.  Together we are looking forward to a much more involved and "normal" year next year!
 
-  
-{{< fig src="graduation caps.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="graduation-caps.jpg" align="center" class="max-w-xs" >}}
 
 ## **5th Grade Graduation**
 
