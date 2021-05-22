@@ -24,23 +24,46 @@ We can't pull off this super event without LOTS of help. Please sign up to **vol
 
 Questions? Email president@islandviewpta.org
 
-## 5th Grade Graduation
+## **Yearbooks**
 
-**We want to continue the tradition of making our graduating 5th grade Eaglets feel celebrated before they head off to become AMS Hawks, but we need help!**
+Yearbooks still available to buy without dedications until when????
 
-If you would be interested in leading the 5th Grade Graduation Committee and/or volunteering to help with the planning, please email [**president@islandviewpta.org**](mailto:president@islandviewpta.org) ASAP! **We've got a budget and some ideas, but need YOU to make it all come together.** Thank you!
+## **  
+Hospitality update**
 
+Blurb and pictures from Stacey Mahoney about May successes and plans for June
+
+## **Meet the new PTA Officers!**
+
+Three cheers for these amazing volunteers who have stepped up to lead the Island View PTA for the 2021-2022 school year!!!
+
+* **Eric Mithen** - [President](mailto:president@islandviewpta.org)
+* **Kimberly Munoz** - [Co-Vice-President](mailto:vicepresident@islandviewpta.org)
+* **Jack Curtis** - [Co-Vice-President](mailto:vicepresident@islandviewpta.org)
+* **Amy McClain** - [Treasurer](mailto:treasurer@islandviewpta.org)
+* **Angela McCormick** - [Secretary](mailto:secretary@islandviewpta.org)
+* **Rachel Esposito** - [Membership/Social Media](mailto:membership@islandviewpta.org)
+* **Stacey Mahoney** - [Hospitality]()
+* **Josette Curtis** - [Newsletter](mailto:newsletter@islandviewpta.org)
+
+Feel free to email them (just click their title above) with any questions or to offer your help.  Together we are looking forward to a much more involved and "normal" year next year!
+
+  
 {{< fig src="graduation caps.jpg" align="center" class="max-w-xs" >}}
+
+## **5th Grade Graduation**
+
+Share details IF Brian Hanrahan is ready to share.  Please email him directly for his response:  bhanrahan@asd103.org
+
+{{< fig src="gardening.jpg" align="center" class="max-w-xs" >}}
 
 ## Help the Garden Grow!
 
 Add info here if Ms. Shainin would like volunteers during the summer
 
-{{< fig src="gardening.jpg" align="center" class="max-w-xs" >}}
-
 ## You're INCREDIBLE
 
-**THANK YOU** t**o all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on June 19th.**
+**THANK YOU** **to all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on June 19th.**
 
 {{< cta >}}
 
@@ -49,8 +72,10 @@ Add info here if Ms. Shainin would like volunteers during the summer
 ### June
 
 * **19:  COLOR RUN!!**
+* 21:  Half Day - in person
+* 22:  Half Day - in person
 * 22:  5th Grade Moving Up Ceremony
-* 22:  Early Release - Last Day of School!
+* 22:  Last Day of School!
 
 ***
 
