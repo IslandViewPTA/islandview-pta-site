@@ -30,9 +30,7 @@ Questions? Email president@islandviewpta.org
 
 Yearbooks still available to buy without dedications until when????
 
-## **
-
-Hospitality update**
+## **Hospitality** 
 
 Blurb and pictures from Stacey Mahoney about May successes and plans for June
 
