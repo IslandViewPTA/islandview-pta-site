@@ -12,7 +12,7 @@ draft: true
 
 ## Principal's Message
 
-{{< fig src="color-run-eagle.jpg" align="center" class="max-w-sm" >}}
+{{< fig src="chalk-shoes.jpeg" align="center" class="max-w-sm" >}}
 
 ## The COLOR RUN returns!
 
