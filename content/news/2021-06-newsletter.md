@@ -26,15 +26,15 @@ Questions? Email president@islandviewpta.org
 
 {{< fig src="2020-2021_cover-art.jpg" align="center" class="max-w-sm" >}}
 
-## **Yearbooks**
+## Yearbooks
 
 Yearbooks still available to buy without dedications until when????
 
-## **Hospitality**
+## Hospitality
 
 Blurb and pictures from Stacey Mahoney about May successes and plans for June
 
-## **Meet the new PTA Officers!**
+## Meet the new PTA Officers!
 
 Three cheers for these amazing volunteers who have stepped up to lead the Island View PTA for the 2021-2022 school year!!!
 
@@ -51,7 +51,7 @@ Feel free to email them (just click their title above) with any questions or to 
 
 {{< fig src="graduation-caps.jpg" align="center" class="max-w-xs" >}}
 
-## **5th Grade Graduation**
+## 5th Grade Graduation
 
 Share details IF Brian Hanrahan is ready to share.  Please email him directly for his response:  bhanrahan@asd103.org
 
@@ -63,7 +63,7 @@ Add info here if Ms. Shainin would like volunteers during the summer
 
 ## You're INCREDIBLE
 
-**THANK YOU** **to all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View staff and students. **Please mark your calendars for a few final events, including the Color Run on June 19th.**
+**THANK YOU** **to all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View students and staff. **Please mark your calendars for a few final events, including the Color Run on June 19th.**
 
 {{< cta >}}
 
