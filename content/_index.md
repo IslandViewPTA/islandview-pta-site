@@ -24,7 +24,7 @@ We can't pull off this super event without LOTS of help. Please sign up to **vol
 
 Questions? Email president@islandviewpta.org
 
-{{< fig src="nwsltryearbook.png" align="center" class="max-w-xs" >}}
+{{< fig src="2020-2021_cover-art.jpg" align="center" class="max-w-xs" >}}
 
 ### YEARBOOKS ON SALE!
 
