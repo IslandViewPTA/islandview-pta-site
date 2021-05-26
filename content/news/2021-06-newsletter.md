@@ -42,6 +42,8 @@ We had a wonderful time celebrating the Island View Staff during **Staff Appreci
 
 The end of the year is quickly approaching and we have been gathering local gift cards to sprinkle among the Island View Staff. We could use a few more, please sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-staff2  "here"). If you would like to donate items, cash or local gift cards contact [Hospitality](mailto:hospitality@islandviewpta.org).
 
+{{< fig src="hiphip.png" align="center" class="max-w-xs" >}}
+
 ## Meet the new PTA Officers!
 
 Three cheers for these amazing volunteers who have stepped up to lead the Island View PTA for the 2021-2022 school year!!!
