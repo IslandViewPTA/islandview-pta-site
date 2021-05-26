@@ -73,6 +73,10 @@ ISV 5th graders will be celebrated at a very special, in-person ceremony on June
 
 Add info here if Ms. Shainin would like volunteers during the summer: hshainin@asd103.org
 
+## Summer Shopping Benefits Island View
+
+**Did you know you can continue to support Island View through your summer shopping? Simply select** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you set it up,  just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
 ## You're INCREDIBLE
 
 **THANK YOU** **to all those who supported the Island View PTA throughout an incredibly challenging and unpredictable year!** We are so grateful for the phenomenal support from families and the MANY opportunities your contributions make possible for Island View students and staff. **Please mark your calendars for a few final events, including the Color Run on June 19th.**
@@ -93,8 +97,8 @@ Add info here if Ms. Shainin would like volunteers during the summer: hshainin@a
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President Eric Mithen [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice Presidents Kim Muñoz and Jack Curtis [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
+PTA Membership Coordinator Rachel Esposito [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
