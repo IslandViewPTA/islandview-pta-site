@@ -67,15 +67,11 @@ Feel free to email them (just click their title above) with any questions or to 
 
 ISV 5th graders will be celebrated at a very special, in-person ceremony on June 22nd. Fifth grade teachers will disseminate information to students and families once all details are finalized.
 
-{{< fig src="gardening.jpg" align="center" class="max-w-xs" >}}
-
-## Help the Garden Grow!
-
-Add info here if Ms. Shainin would like volunteers during the summer: hshainin@asd103.org
+{{< fig src="amazon-s-mobile.jpg" align="center" class="max-w-xs" >}}
 
 ## Summer Shopping Benefits Island View
 
-**Did you know you can continue to support Island View through your summer shopping? Simply select** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you set it up,  just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+**Did you know you can continue to support Island View through your summer shopping? Simply select** **Island View PTA as your charity of choice in** [**Amazon Smile**](https://smile.amazon.com/ "Amazon Smile")! Once you set it up,  just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students!
 
 ## You're INCREDIBLE
 
