@@ -47,7 +47,7 @@ The end of the year is quickly approaching and we have been gathering local gift
 Three cheers for these amazing volunteers who have stepped up to lead the Island View PTA for the 2021-2022 school year!!!
 
 * **Eric Mithen** - [President](mailto:president@islandviewpta.org)
-* **Kimberly Munoz** - [Co-Vice-President](mailto:vicepresident@islandviewpta.org)
+* **Kimberly Muñoz** - [Co-Vice-President](mailto:vicepresident@islandviewpta.org)
 * **Jack Curtis** - [Co-Vice-President](mailto:vicepresident@islandviewpta.org)
 * **Amy McClain** - [Treasurer](mailto:treasurer@islandviewpta.org)
 * **Angela McCormick** - [Secretary](mailto:secretary@islandviewpta.org)
@@ -87,18 +87,24 @@ ISV 5th graders will be celebrated at a very special, in-person ceremony on June
 
 ### June
 
-* **19:  COLOR RUN!!**
-* 21:  Half Day - in person
-* 22:  Half Day - in person
-* 22:  5th Grade Moving Up Ceremony
-* 22:  Last Day of School!
+* 19:  Color Run
+* 21:  Half Day (in-person)
+* 22:  Half Day (in-person) / last day of school
+
+         5th Grade Moving Up Ceremony
+
+### September
+
+*  7:  Elementary Meet & Greets
+*  8:  First Day - 1st-5th grades
+* 13: First Day - Kindergarten
 
 ***
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President Eric Mithen [president@islandviewpta.org](mailto:president@islandviewpta.org)
+President **Eric Mithen** [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice Presidents Kim Muñoz and Jack Curtis [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+Vice Presidents **Kim Muñoz** and **Jack Curtis** [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-PTA Membership Coordinator Rachel Esposito [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
+Membership Coordinator **Rachel Esposito** [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
