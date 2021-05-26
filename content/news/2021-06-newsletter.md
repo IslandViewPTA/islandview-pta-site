@@ -40,13 +40,11 @@ Questions? Email president@islandviewpta.org
 
 {{< fig src="2020-2021_cover-art.jpg" align="center" class="max-w-sm" >}}
 
-## Yearbooks
-
-Yearbooks still available to buy (without dedications) until when????
-
 ## Hospitality
 
-Blurb and pictures from Stacey Mahoney about May successes and plans for June: hospitality@islandviewpta.org
+We had a wonderful time celebrating the Island View Staff during **Staff Appreciation Week**! Thank you to the many volunteers who donated so many fun items! Signs were put up in the staff room and around school. Each day we filled the staff room with items like cookies, fruit, beef jerky, and seltzers. We assembled large goodie bags with snacks and coffee. **HOW IT WORKS** donated printing and paper to send home staff appreciation cards for students to write or draw a thank you for someone. Mr. Hanrahan raffled off donated Island View spirit wear to a staff member each day. Finally, staff can pick up free ice cream at **Lopez Island Creamery**'s new facility on Highway 20 opening this summer and watch how ice cream is made! Thank you so much to the Island View PTA Hospitality Committee for their creativity and coordination and to everyone who worked so hard to give a big thanks to the Island View staff!
+
+The end of the year is quickly approaching and we have been gathering local gift cards to sprinkle among the Island View Staff. We could use several more volunteers, sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-staff2  "here"). If you would like to donate items, cash or local gift cards contact [Hospitality@Islandviewpta.org]().
 
 ## Meet the new PTA Officers!
 
@@ -67,7 +65,7 @@ Feel free to email them (just click their title above) with any questions or to 
 
 ## 5th Grade Graduation
 
-ISV 5th graders will be celebrated at a very special, in-person ceremony on June 22nd. Fifth grade teachers will disseminate information to students and families once all details are finalized. 
+ISV 5th graders will be celebrated at a very special, in-person ceremony on June 22nd. Fifth grade teachers will disseminate information to students and families once all details are finalized.
 
 {{< fig src="gardening.jpg" align="center" class="max-w-xs" >}}
 
