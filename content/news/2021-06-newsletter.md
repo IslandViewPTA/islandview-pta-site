@@ -89,9 +89,7 @@ ISV 5th graders will be celebrated at a very special, in-person ceremony on June
 
 * 19:  Color Run
 * 21:  Half Day (in-person)
-* 22:  Half Day (in-person) / last day of school
-
-         5th Grade Moving Up Ceremony
+* 22:  Half Day (in-person) / last day of school / 5th Grade Moving Up Ceremony
 
 ### September
 
