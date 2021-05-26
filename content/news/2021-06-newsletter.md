@@ -12,6 +12,20 @@ draft: true
 
 ## Principal's Message
 
+Dear Island View Families:
+
+On a recent sunny morning as I was greeting arriving students, I had a delightful conversation with two 5th graders. After a couple moments I was struck by a thought and said, “Oh my gosh! You both are leaving Island View soon!” They both smiled, but I sensed a hint of nostalgic sadness on their faces. I cannot believe the 2020-21 school is ending. In some ways—perhaps because of the changes we’ve seen in our teaching and learning models throughout the year—it feels like a very long school year. Yet it is closing soon. Time is tricky.
+
+Thanks to your hard-working PTA, we get to end the school year with a couple fun and “normal” activities—the Color Run on June 19th and in-person moving up ceremonies for our departing 5th grade students on June 22nd. I am thrilled that your students will have an opportunity to celebrate the closing of the school year together. Please see PTA communications and newsletter for information on the Color Run. Fifth grade teachers will send information on our moving up ceremonies to families soon.
+
+As we look forward to the summer, I would like to extend a warm thank you to all our students, families, and staff members. I have never been more inspired by our school community than I have been this year. We experienced yet another recent change when we brought all students back to full days in May, and the transition was remarkably smooth. Parents adjusted to new arrival and dismissal processes with patience and cooperation. Students demonstrated resilience and a “can-do” attitude in most situations. Staff worked hard to create a culture of love and support for our kids. We are truly a blessed community. Thank you for your partnership and trust.
+
+In several weeks we will have a chance to breathe some summer air. Please remember to slow down and enjoy a few long, lazy days making memories with your family. I will say it again: time is tricky. Your students will be high school seniors before you know it. (Trust me—that is my current reality.)
+
+So savor the time. See you in September-
+
+Brian Hanrahan
+
 {{< fig src="chalk-shoes.jpeg" align="center" class="max-w-sm" >}}
 
 ## The COLOR RUN returns!
@@ -28,7 +42,7 @@ Questions? Email president@islandviewpta.org
 
 ## Yearbooks
 
-Yearbooks still available to buy without dedications until when????
+Yearbooks still available to buy (without dedications) until when????
 
 ## Hospitality
 
@@ -53,7 +67,7 @@ Feel free to email them (just click their title above) with any questions or to 
 
 ## 5th Grade Graduation
 
-Share details IF Brian Hanrahan is ready to share.  Please email him directly for his response:  bhanrahan@asd103.org
+ISV 5th graders will be celebrated at a very special, in-person ceremony on June 22nd. Fifth grade teachers will disseminate information to students and families once all details are finalized. 
 
 {{< fig src="gardening.jpg" align="center" class="max-w-xs" >}}
 
