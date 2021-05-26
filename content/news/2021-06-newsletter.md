@@ -8,8 +8,6 @@ image: "/uploads/tulips.jpeg"
 draft: true
 
 ---
-## June 2021
-
 ## Principal's Message
 
 Dear Island View Families:
@@ -37,8 +35,6 @@ Pre-registration for this FREE event is required. Please sign up to **participat
 We can't pull off this super event without LOTS of help. Please sign up to **volunteer** [HERE](https://forms.gle/KLuzByabFTgcaVb66 "here").
 
 Questions? Email president@islandviewpta.org
-
-{{< fig src="2020-2021_cover-art.jpg" align="center" class="max-w-sm" >}}
 
 ## Hospitality
 
@@ -78,6 +74,8 @@ ISV 5th graders will be celebrated at a very special, in-person ceremony on June
 ## You're INCREDIBLE
 
 **THANK YOU to the volunteers that supported the PTA and our young Eagles throughout this very unique year! We couldn't have made it without you.** 
+
+{{< fig src="volunteer-feb.png" align="center" class="max-w-xs" >}}
 
 **If you are interested in volunteering with the ISV PTA next year, please take a moment to complete this** [**SUPER SHORT form**](https://www.cognitoforms.com/FidalgoIslandViewPTASkagitCounty1/IslandViewPTAVolunteerInterest) **so that we can reach out to you when we start making plans for 2021-2022.** 
 
