@@ -8,13 +8,14 @@ imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
 type: page
-
 ---
-# Welcome to Island View PTA!
 
-{{< fig src="color-run-eagle.jpg" align="center" class="max-w-sm" >}}
+## Welcome to Island View PTA!
 
+We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 ### The COLOR RUN returns!
+
+{{< fig src="color-run-eagle.jpg" align="right" class="max-w-sm" >}}
 
 The COLOR RUN is back! Join us on Saturday, June 19th at Island View Elementary for some seriously MESSY FUN!
 
@@ -24,18 +25,15 @@ We can't pull off this super event without LOTS of help. Please sign up to **vol
 
 Questions? Email president@islandviewpta.org
 
-{{< fig src="2020-2021_cover-art.jpg" align="center" class="max-w-xs" >}}
+{{< break >}}
 
 ### YEARBOOKS ON SALE!
 
+{{< fig src="2020-2021_cover-art.jpg" align="right" class="max-w-xs" >}}
+
 Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandviewpta.org/yearbook).
 
-{{< fig src="may25.png" align="center" class="max-w-xs" >}}
-
-## The final PTA meeting of the year will be at 6pm on Tuesday, May 25th via zoom.
-
-We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
-
-## Monthly Newsletters
+{{< break >}}
+### Monthly Newsletters
 
 Please click the links below to read our most recent newsletters. For past issues, please see the yellow highlighted blocks on the [News](/news) page.

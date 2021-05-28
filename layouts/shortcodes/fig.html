@@ -3,7 +3,7 @@
 {{- $class := .Get "class" -}}
 {{- $align := .Get "align" -}}
 
-<figure class="py-4">
+<figure class="py-2 md:py-0">
   <img 
   src="//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ $src }}{{if (or (eq $align "right") (eq $align "left"))}}&w=300{{else}}&w=768{{end}}"
   data-src="//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ $src }}{{if (or (eq $align "right") (eq $align "left"))}}&w=300{{else}}&w=768{{end}}"

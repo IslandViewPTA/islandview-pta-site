@@ -1,3 +1,4 @@
 [build]
-  HUGO_VERSION = "0.81.0"
+  HUGO_VERSION = "0.83.1"
+  PYTHON_VERSION = "3.7"
   command = "hugo --minify"
