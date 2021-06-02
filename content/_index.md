@@ -8,11 +8,12 @@ imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: true
 type: page
----
 
+---
 ## Welcome to Island View PTA!
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
+
 ### The COLOR RUN returns!
 
 {{< fig src="color-run-eagle.jpg" align="right" class="max-w-sm" >}}
@@ -27,13 +28,6 @@ Questions? Email president@islandviewpta.org
 
 {{< break >}}
 
-### YEARBOOKS ON SALE!
-
-{{< fig src="2020-2021_cover-art.jpg" align="right" class="max-w-xs" >}}
-
-Order 2020-2021 Yearbooks for your students here [**HERE**](https://www.islandviewpta.org/yearbook).
-
-{{< break >}}
 ### Monthly Newsletters
 
 Please click the links below to read our most recent newsletters. For past issues, please see the yellow highlighted blocks on the [News](/news) page.
