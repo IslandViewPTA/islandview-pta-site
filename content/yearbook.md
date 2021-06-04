@@ -10,3 +10,5 @@ callToAction: false
 type: yearbook
 
 ---
+
+Yearbook orders are closed for the school year.
