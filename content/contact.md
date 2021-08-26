@@ -30,8 +30,8 @@ Meet the 2020 - 2021 Board:
 ## PTA Office Information
 
 Island View Elementary School  
-<span style="font-size: 1rem;">2501 J Ave, Anacortes, WA 98221</span>  
-Office Phone: (360) 503-1507  
+2501 J Ave, Anacortes, WA 98221  
+Office Phone: (360) 503-1507
 
 <img src="/uploads/20170828_160219.jpg" class=" forestry--none" style="float: none;">
 
