@@ -1,35 +1,15 @@
-class TailwindExtractor {
-  static extract(content) {
-    return content.match(/[A-Za-z0-9-_:/]+/g) || [];
+const purgecss = require('@fullhuman/postcss-purgecss')({
+  content: [ './hugo_stats.json' ],
+  defaultExtractor: (content) => {
+      let els = JSON.parse(content).htmlElements;
+      return els.tags.concat(els.classes, els.ids);
   }
-}
+});
 
 module.exports = {
   plugins: [
     require("tailwindcss")("assets/config/tailwind.config.js"),
-
-    require("@fullhuman/postcss-purgecss")({
-      content: ["layouts/**/*.html"],
-      css: ["public/css/*.css"],
-      whitelistPatterns: [
-        /open/,
-        /search/,
-        /lg:max-w-/,
-        /max-w-/,
-        /border-2/,
-        /md:1\//,
-        /sm:col-count-/,
-        /md:col-count-/,
-        /lg:col-count-/,
-        /xl:col-count-/,
-        /pagination/
-      ],
-      defaultExtractor: content =>
-        content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || []
-    }),
-
-    require("autoprefixer")({
-      grid: true
-    })
+    require("autoprefixer")({grid: true}),
+    ...(process.env.HUGO_ENVIRONMENT === 'production' ? [ purgecss ] : [])
   ]
 };

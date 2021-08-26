@@ -1,4 +1,5 @@
 module.exports = {
+  important: true,
   theme: {
     columnCount: [1, 2, 3],
     columnGap: {
@@ -95,6 +96,7 @@ module.exports = {
   },
   plugins: [
     require("tailwindcss-multi-column")(),
-    require("@tailwindcss/custom-forms")
+    require("@tailwindcss/custom-forms"),
+    require("@tailwindcss/typography")
   ]
 };

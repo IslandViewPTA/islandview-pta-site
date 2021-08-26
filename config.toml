@@ -5,6 +5,9 @@ navigateToChanged = true
 metaDataFormat = "yaml"
 enableEmoji = true
 
+[build]
+writeStats = true
+
 [markup.goldmark]
   [markup.goldmark.extensions]
     definitionList = true

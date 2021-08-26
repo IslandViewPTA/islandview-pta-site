@@ -2,10 +2,6 @@
 
 /*Customised Elements*/
 
-p {
-  margin-bottom: 0.5em;
-}
-
 p a {
   color: #000c4e;
   font-weight: bold;
@@ -21,33 +17,11 @@ form ul {
   padding-bottom: 1em;
 }
 
-section ul {
-  list-style: disc;
-  text-indent: 1em;
-  padding-left: 2em;
-  padding-bottom: 1em;
-}
-
 h1,
 h2,
 h3 {
   color: #000c4e;
   font-weight: bold;
-  padding-bottom: 0.75em;
-}
-
-h1 {
-  font-size: 1.75em;
-}
-
-h2 {
-  padding-top: 0.5em;
-  font-size: 1.5em;
-}
-
-h3 {
-  padding-top: 0.5em;
-  font-size: 1.2em;
 }
 
 h1::before {
@@ -57,10 +31,6 @@ h1::before {
   height: 4rem;
   visibility: hidden;
   pointer-events: none;
-}
-
-div#content > h2 {
-  margin-top: 0.75em;
 }
 
 blockquote {
@@ -105,4 +75,11 @@ blockquote p {
 
 .text-shadow-white {
   text-shadow: 2px 2px 4px white;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
