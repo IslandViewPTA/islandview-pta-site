@@ -15,29 +15,23 @@ Island View PTA is an amazing group of dedicated families and community members.
 
 Meet the 2020 - 2021 Board:
 
-**President**: Meg Mourning
-
+**President**: Meg Mourning - 
 [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-**Vice President**: Eric Mithen
-
+**Vice President**: Eric Mithen - 
 [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
-**Treasurer**: Kyle Rash
-
+**Treasurer**: Kyle Rash - 
 [treasurer@islandviewpta.org](mailto:treasurer@islandviewpta.org)
 
-**Secretary**: Angela McCormick
-
+**Secretary**: Angela McCormick - 
 [secretary@islandviewpta.org](mailto:secretary@islandviewpta.org)
 
 ## PTA Office Information
 
-Island View Elementary School
-
-<span style="font-size: 1rem;">2501 J Ave, Anacortes, WA 98221</span>
-
-Office Phone: (360) 503-1507
+Island View Elementary School  
+<span style="font-size: 1rem;">2501 J Ave, Anacortes, WA 98221</span>  
+Office Phone: (360) 503-1507  
 
 <img src="/uploads/20170828_160219.jpg" class=" forestry--none" style="float: none;">
 
