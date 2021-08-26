@@ -14,8 +14,6 @@ type: page
 
 We hope you will [**JOIN THE PTA**](https://www.islandviewpta.org/membership) and please consider [**DONATING**](https://www.islandviewpta.org/donate) if you can!
 
-{{< break >}}
-
 ### Monthly Newsletters
 
 Please click the links below to read our most recent newsletters. For past issues, please see the yellow highlighted blocks on the [News](/news) page.
