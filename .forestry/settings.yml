@@ -23,6 +23,10 @@ sections:
 - type: document
   path: content/colorrun/_index.md
   label: Color Run
+- type: document
+  path: content/wishlist.md
+  label: Wishlist
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
