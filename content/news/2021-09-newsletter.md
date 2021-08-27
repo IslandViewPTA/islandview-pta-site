@@ -27,14 +27,6 @@ I cannot wait to see you all very soon.
 
 Brian Hanrahan
 
-## Welcome Back to School!
-
-While we may not be able to be together in person, we are still Proud, Soarin' Island View Eagles, and we can't wait to see your beautiful faces again, even if only through a screen.
-
-**Show your school spirit from home!** Each student will receive a page to color and put up in their window for all to see! Then you can send a picture of your Eagle with their sign, or any signs you spot in town, to [membership@islandviewpta.org](mailto:membership@islandviewpta.org) and we will share them on Facebook.
-
-We miss you and can't wait to "see" you soon!
-
 ## N-O-W is the time to JOIN PTA!
 
 **Join the Island View PTA today!**
@@ -47,7 +39,51 @@ Joining the PTA doesn't mean you need to volunteer; we understand you're busy an
 
 {{< fig src="akt-member-drive-v3.png" class="max-w-xs" align="center" >}}
 
-## SHELL Fun Run...VIRTUALLY
+## The SHELL Fun Run is back...in person!
+
+**Register for the Fueling Education Fun Run and help Island View win $5,000!!**
+
+Every September, Puget Sound Refinery puts on this amazing event which brings our community together and helps raise close to $50,000 a year to support Anacortes students. Funds raised during last year’s 6th Annual (but first ever virtual) event supported COVID Relief Grants in all ASD schools and STEM College Scholarships. This year, the focus will be on Mental Health support for our students. In addition, Puget Sound Refinery provides a $5,000 grant to the ASD school with the highest percentage of their student body that participates in this race. All ASD staff and students are eligible to participate in this competition to help their school win $5,000! Last year it was a close race and we'd love for Island View to be the winner this year!
+
+This year's 5K and Kids Race will be held on Sunday, September 19th at Washington Park. There is also a virtual option for anyone who is interested. For more information about the race and to register, visit [asfkids.org/funrun](http://www.asfkids.org/funrun).
+
+{{< fig src="2021-fefr-flyer-v2-1.png" class="max-w-xs" align="center" >}}
+
+## Are you passionate about Arts for our children?
+
+From the WSPTA Website: "Reflections is a National PTA arts recognition program that helps students explore their own thoughts, feelings and ideas, develop artistic literacy, increase confidence, and find a love for learning that will help them become more successful not only in school, but in life. Students in pre-K through grade 12 create original works of art in response to a theme. The theme for the 2021-2022 program year is I Will Change The World By… Students submit their completed works of art in one, or all, of the available arts categories: Dance Choreography, Film Production, Literature, Music Composition, Photography, Visual Arts. While the primary focus of Reflections is a celebration of creativity through positive recognition, finalists from local PTAs will move on to their council PTA (if applicable), then finalists from councils will move on to the state round. Washington State PTA finalists who receive an “Outstanding Interpretation” award will advance to the National PTA round."
+
+Students can only submit entries for the Reflections program through their school's PTA. We would love for our Island View Eagles to have the opportunity to participate in this wonderful program, but we need volunteers to make it work. WSPTA provides the full outline for a successful program and a team of 4-6 volunteers (plus judges) will be needed. If available, the program would need to be announced to the students in September since entries are due in January. If you are interested in leading or volunteering for this program, please reach out to Membership Coordinator, Rachel Esposito, at [membership@islandviewpta.org](mailto:membership@islandviewpta.org).
+
+For more information about the Reflections program, please visit [https://www.wastatepta.org/events-programs/reflections/](https://www.wastatepta.org/events-programs/reflections/ "https://www.wastatepta.org/events-programs/reflections/").
+
+{{< fig src="reflections_flyer_eng.jpg" class="max-w-xs" align="center" >}}
+
+## First PTA Meeting of the year!
+
+Please join us for the first PTA Meeting of the new school year - September 21st at 6PM, via Zoom.
+
+{{< fig src="september-pta-meeting.png" class="max-w-xs" align="center" >}}
+
+## Spirit Wear Sales
+
+Awaiting blurb from Eric
+
+{{< fig src="spirit-wear.png" class="max-w-xs" align="center" >}}
+
+## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
+
+If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
+
+You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
+{{< fig src="amazon-smile-pta-how-to-2.png" class="max-w-xs" align="center" >}}
+
+## Box Tops help Island View!
+
+Box Tops is another easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
+
+{{< fig src="box-tops.jpg" align="center" class="max-w-s" >}}
 
 ## SAVE THESE DATES!
 
@@ -57,6 +93,7 @@ Joining the PTA doesn't mean you need to volunteer; we understand you're busy an
 * **7:       Meet and Greet, 3:30-5:30 PM** 
 * **8:       FIRST DAY of School, 1st thru 12th Grade!**
 * **15:     FIRST Kindergarten Day!**
+* **21:     PTA Meeting via Zoom, 6 PM**
 
 ### October
 
