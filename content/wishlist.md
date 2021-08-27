@@ -8,7 +8,7 @@ image: "/uploads/seafarers-memorial-park.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: false
-
+draft: true
 ---
 ### **THANK YOU** for your support of all the students and staff at Island View Elementary!
 
