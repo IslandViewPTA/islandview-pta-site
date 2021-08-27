@@ -17,5 +17,3 @@ See the list below, sorted by the teacher/staff member's last name.
 If you have any questions, please do not hesitate to contact: [President - Meg Mourning](mailto:president@islandviewpta.org) or [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org)
 
 ***
-
-A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z
