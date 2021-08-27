@@ -88,7 +88,7 @@ Box Tops is an easy way to support Island View. Remember to redeem these valuabl
 * **6:       Labor Day Holiday**
 * **7:       Meet and Greet, 3:30-5:30 PM**
 * **8:       FIRST DAY of School, 1st thru 12th Grade!**
-* **15:     FIRST Kindergarten Day!**
+* **13:     FIRST Kindergarten Day!**
 * **21:     PTA Meeting online, 6 PM**
 
 ### October
