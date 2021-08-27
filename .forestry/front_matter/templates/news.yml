@@ -47,7 +47,6 @@ fields:
   default: news
 pages:
 - content/movie.md
-- content/movie.md
 - content/news/100th-day-food-drive-1.md
 - content/news/100th-day-food-drive-success.md
 - content/news/2019-10-newsletter.md
