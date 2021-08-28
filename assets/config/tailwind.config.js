@@ -96,7 +96,7 @@ module.exports = {
   },
   plugins: [
     require("tailwindcss-multi-column")(),
-    require("@tailwindcss/custom-forms"),
+    require("@tailwindcss/forms"),
     require("@tailwindcss/typography")
   ]
 };
