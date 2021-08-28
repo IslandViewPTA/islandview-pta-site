@@ -7,4 +7,3 @@ dist/
 Thumbs.db
 .vscode/launch.json
 .vscode/settings.json
-hugo_stats.json
