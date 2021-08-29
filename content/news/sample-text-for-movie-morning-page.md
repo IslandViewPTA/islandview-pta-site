@@ -1,6 +1,6 @@
 ---
 title: Sample text for Movie Morning Page
-date: 2026-12-01 00:00:00 -0800
+date: 2000-12-01 00:00:00 -0800
 description: ''
 image: ''
 draft: true
