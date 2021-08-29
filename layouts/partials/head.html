@@ -1,60 +1,62 @@
-<!doctype html>
-<html lang="en-US">
-	<head>
-    <meta charset="UTF-8">
-    <meta name="pinterest" content="nopin">
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <title>{{ .Title }} | {{ .Site.Params.sitetitle }}</title>
-    {{with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+<head>
+  <meta charset="UTF-8">
+  <meta name="pinterest" content="nopin">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <title>{{ .Title }} | {{ .Site.Params.sitetitle }}</title>
+  {{with .Description }}
+  <meta name="description" content="{{ . }}">{{ end }}
 
-    {{- $postcssOpts := (dict "config" "assets/config/postcss.config.js" ) -}}
-    {{- if .Site.IsServer -}}
-    {{- $styles := resources.Get "css/main.css" | postCSS $postcssOpts }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-    {{- else -}}
-    {{- $styles := resources.Get "css/main.css" | postCSS $postcssOpts | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
-    {{- end }}
+  {{- $postcssOpts := (dict "config" "assets/config/postcss.config.js" ) -}}
+  {{- if .Site.IsServer -}}
+  {{- $styles := resources.Get "css/main.css" | postCSS $postcssOpts }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  {{- else -}}
+  {{- $styles := resources.Get "css/main.css" | postCSS $postcssOpts | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+  {{- end }}
 
-    <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
-    <meta name="theme-color" content="#ffffff">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="theme-color" content="#ffffff">
 
-    <!-- SEO -->
-    {{ partial "seo/opengraph" .}}
+  <!-- SEO -->
+  {{ partial "seo/opengraph" .}}
 
-    {{if eq .Title "Upcoming Events"}}
-    <!-- Calendar -->
-    <link rel="stylesheet" href="/css/monthly.css">
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-    <script type="text/javascript" src="/js/monthly.js"></script>
-    {{end}}
+  {{if eq .Title "Upcoming Events"}}
+  <!-- Calendar -->
+  <link rel="stylesheet" href="/css/monthly.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="/js/monthly.js"></script>
+  {{end}}
 
-    <!-- Google Analytics -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    
-      ga('create', 'UA-105410484-1', 'auto');
-      ga('send', 'pageview');
-    </script>
+  <!-- Google Analytics -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-    <!-- Mailchimp Sign-up -->
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/af1ea326b552eee6ec1a9ebf6/c87cd8411089583292e1aaa0d.js");</script>
+    ga('create', 'UA-105410484-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 
-    {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .RelPermalink }}">{{ end }}
+  <!-- Mailchimp Sign-up -->
+  <script
+    id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/af1ea326b552eee6ec1a9ebf6/c87cd8411089583292e1aaa0d.js");</script>
 
-    <link rel="canonical" href="{{ .Permalink }}">
+  {{ with .OutputFormats.Get "RSS" }}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .RelPermalink }}">{{ end }}
 
-    {{ with .Site.Params.contact }}<meta name="contact" content="{{ . }}">{{ end }}
-    {{ hugo.Generator }}
-		
-	</head>
+  <link rel="canonical" href="{{ .Permalink }}">
 
-	<body class="flex flex-col h-screen">
+  {{ with .Site.Params.contact }}
+  <meta name="contact" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+</head>

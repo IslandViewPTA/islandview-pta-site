@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 
+h2 {
+  @apply mx-0 mb-4 text-2xl font-bold text-gray-900;
+}
+
 .pagination {
   @apply list-none flex mx-auto;
 }
