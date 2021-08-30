@@ -80,7 +80,7 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 Box Tops is an easy way to support Island View. Remember to redeem these valuable coupons by submitting photos of your shopping receipts within 14 days of eligible purchases.
 
-{{< fig src="box-tops.jpg" class="max-w-xs" align="center" >}}
+{{< fig src="box-tops-explain.jpg" class="max-w-xs" align="center" >}}
 
 ## SAVE THESE DATES!
 
