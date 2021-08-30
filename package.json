@@ -10,7 +10,10 @@
     "type": "git",
     "url": "https://github.com/IslandViewPTA/islandview-pta-site.git"
   },
-  "dependencies": {
+  "browserslist": [
+    "defaults"
+  ],
+  "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/typography": "^0.4.1",
@@ -19,9 +22,5 @@
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.2.8",
     "tailwindcss-multi-column": "^1.0.2"
-  },
-  "browserslist": [
-    "defaults"
-  ],
-  "devDependencies": {}
+  }
 }
