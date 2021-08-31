@@ -7,7 +7,6 @@ description: Welcome back, ISV families! This newsletter contains plenty of info
   to get your 2021-2022 school year off to a great start!
 image: "/uploads/welcomeback.jpg"
 type: ''
-draft: true
 
 ---
 ## Principal's Message
