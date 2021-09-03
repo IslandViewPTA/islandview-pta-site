@@ -8,16 +8,18 @@ image: "/uploads/seafarers-memorial-park.jpg"
 imageLink: http://www.photosbyrakan.com/
 imageCredit: Photo by Rakan AlDuaij
 callToAction: false
-draft: true
 
 ---
-
 ### **THANK YOU** for your support of all the students and staff at Island View Elementary!
 
 See the list below, sorted by the teacher/staff member's last name.
 
-If you have any questions, please do not hesitate to contact: [President - Meg Mourning](mailto:president@islandviewpta.org) or [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org)
+If you have any questions, please do not hesitate to contact: [President - Eric Mithen](mailto:president@islandviewpta.org) or [Vice President - Jack Curtis](mailto:vicepresident@islandviewpta.org)
 
 ***
 
 Hawkins: [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1DGL80UJUJT22)
+
+Kammenga: [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3DOB6ZR96OITC)
+
+O'Donnell [Amazon Wishlist](https://www.amazon.com/hz/wishlist/genericItemsPage/M6HOKT4Y68T7)
