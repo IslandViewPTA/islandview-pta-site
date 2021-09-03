@@ -21,6 +21,8 @@ Carr (Movement Specialist): [Amazon Wishlist](https://www.amazon.com/hz/wishlist
 
 Everhart (2nd): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/14WJJ2TEUWF1R)
 
+Goforth (K): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/21OOQW6I2KCDS) 
+
 Hawkins (1st): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1DGL80UJUJT22)
 
 Holmes (4th): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/26TYKLDI55LUC)
