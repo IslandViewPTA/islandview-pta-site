@@ -13,7 +13,7 @@ image: "welcomeback.jpg"
 
 As we prepare for the start of school, I know parents have many questions. I hope you find the following information helpful.
 
-* If your child will be riding the bus, please fill out the online bus request form **by September 1st**: [https://sites.google.com/asd103.org/transportation/bus-requests](https://sites.google.com/asd103.org/transportation/bus-requests "https://sites.google.com/asd103.org/transportation/bus-requests"). This form needs to be completed each year.
+* If your child will be riding the bus, please fill out the online bus request form **by September 1st**: [https://sites.google.com/asd103.org/transportation/bus-requests](https://sites.google.com/asd103.org/transportation/bus-requests). This form needs to be completed each year.
 * By September 3rd, I will send families a detailed power point presentation that explains our plans for student arrival, dismissal, lunch, recess, and other important protocols.
 * We will have an in-person **“Meet and Greet” on September 7th from 3:30-5:30**. Students and parents will have an opportunity to meet teachers and visit classrooms. To limit the number of families in the building at any time, I will send a Sign-Up Genius link so families can select a 15-minute slot to visit the school. Office staff will be at tables outside to help families with meal accounts, transportation questions, and other support needs. Please look for the emailed link by September 3rd. Masks are required.
 * Volunteers in schools: The district is currently working on a possible plan/timeline for allowing volunteers in schools. But no volunteers will be permitted in buildings during the first month of school.
