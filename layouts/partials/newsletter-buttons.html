@@ -1,4 +1,4 @@
-<div class="w-full flex sm:flex sm:mx-0 flex-wrap pt-4">
+<div class="w-full pt-2 flex sm:flex sm:mx-0 flex-wrap">
   {{ range first 3 (where (where .Site.RegularPages "Section" "news" ) ".Params.newsletter" "==" true )}}
   <a class='w-full sm:w-auto text-center sm:text-left border-0 rounded my-1 sm:mr-4 px-2 py-1 inline-block text-gold bg-primary no-underline'
     href='{{ .Permalink }}' target="_blank">{{ dateFormat "Jan 2006" .Params.newsletter_date | upper }}</a>
