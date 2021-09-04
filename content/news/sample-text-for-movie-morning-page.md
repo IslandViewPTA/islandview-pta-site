@@ -4,7 +4,6 @@ date: 2000-12-01 00:00:00 -0800
 description: ''
 image: ''
 draft: true
-
 ---
 **School's out... Movie's on!**
 

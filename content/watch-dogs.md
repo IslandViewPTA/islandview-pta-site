@@ -3,7 +3,7 @@ title: Watch D.O.G.S
 date: 2017-07-30 16:22:45 -0700
 subtitle: Dads Of Great Students at Island View Elementary.
 description: The Watch D.O.G.S. group page for IVE.
-image: "/uploads/WD_banner.jpg"
+image: "WD_banner.jpg"
 imageLink: https://dadsofgreatstudents.com/
 imageCredit: Photo by WATCH D.O.G.S.
 callToAction: true

@@ -2,10 +2,10 @@
 title: Shop the Book Fair Online
 date: 2018-11-26 13:07:15 -0800
 description: 'Get your holiday shopping wrapped up at the Online Book Fair '
-image: "/uploads/FB-Book fair-01.jpg"
+image: "FB-Book fair-01.jpg"
 draft: true
-
 ---
+
 ### Island View Online Book Fair is OPEN!
 
 Our online fair has hundreds of titles to choose from and ship directly to Island View. 

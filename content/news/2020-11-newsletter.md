@@ -4,10 +4,9 @@ newsletter: true
 title: November 2020 Newsletter
 date: 2020-11-01T00:00:00.000-07:00
 description: The Island View family has so much to be thankful for!
-image: "/uploads/turkey.jpg"
-type: ''
-
+image: "turkey.jpg"
 ---
+
 ## Principal's Message
 
 Island View Families:
@@ -140,8 +139,8 @@ You can also help by selecting Island View PTA as your charity of choice in [**A
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)

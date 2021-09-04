@@ -5,10 +5,9 @@ title: March 2021 Newsletter
 date: 2021-02-26T00:00:00-08:00
 description: March is the month to celebrate reading and enjoy the first hints of
   spring!
-image: "/uploads/daffodils.jpg"
-type: ''
-
+image: "daffodils.jpg"
 ---
+
 ## Principal's Message
 
 Island View Families:
@@ -39,9 +38,9 @@ The unknown can be scary, so reach out and let us dispel any concerns you might 
 
 THANK YOU for considering stepping up to serve as a PTA officer. We hope to hear from you soon.
 
-PTA President - Meg Mourning – [**president@islandviewpta.org**](mailto:president@islandviewpta.org)
+PTA President – [**president@islandviewpta.org**](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [**vicepresident@islandviewpta.org**](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [**vicepresident@islandviewpta.org**](mailto:vicepresident@islandviewpta.org)
 
 {{< fig src="march-pta-mtg.png" align="center" class="max-w-xs" >}}
 
@@ -143,8 +142,8 @@ Join us Thursday, April 19 at 6 PM via Zoom for another opportunity to connect a
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)

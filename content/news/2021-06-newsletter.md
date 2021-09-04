@@ -4,9 +4,9 @@ newsletter: true
 title: June 2021 Newsletter
 date: 2021-05-28T00:00:00-07:00
 description: Wrapping up the school year!
-image: "/uploads/tulips.jpeg"
-
+image: "tulips.jpeg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:
@@ -102,8 +102,8 @@ ISV 5th graders will celebrate at a very special, in-person ceremony on June 22n
 
 **Questions? Please feel free to contact us any time!**
 
-President **Eric Mithen** [president@islandviewpta.org](mailto:president@islandviewpta.org)
+[PTA President](mailto:president@islandviewpta.org)
 
-Vice Presidents **Kim Muñoz** and **Jack Curtis** [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+[Vice President](mailto:vicepresident@islandviewpta.org)
 
-Membership Coordinator **Rachel Esposito** [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
+[Membership Coordinator](mailto:membership@islandviewpta.org)

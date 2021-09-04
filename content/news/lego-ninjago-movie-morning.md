@@ -6,7 +6,7 @@ start: 2017-09-22T10:00:00-07:00
 end: 2017-09-22T12:00:00-07:00
 title: "Lego Ninjago Movie Morning"
 description: "School's out - movie's on!"
-image: "/uploads/Ninjago-01.jpg"
+image: "Ninjago-01.jpg"
 location: "415 O Ave, Anacortes, WA 98221"
 ---
 

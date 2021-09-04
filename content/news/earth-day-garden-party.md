@@ -1,9 +1,8 @@
 ---
 title: Earth Day Garden Party
 date: 2018-04-18 12:21:15 -0700
-image: "/uploads/Earth Day and Garden Party 4-21.jpg"
+image: "Earth Day and Garden Party 4-21.jpg"
 description: Join us for an Earth Day Garden Party!
-
 ---
 Saturday, April 21, 2018
 

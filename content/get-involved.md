@@ -9,8 +9,8 @@ imageLink: http://www.photosbyrakan.com/
 subtitle: Volunteers make so much possible for our students!
 title: Get Involved
 callToAction: true
-
 ---
+
 ## Island View Family
 
 This school year is unlike any other and that is why we need your help more than ever!
@@ -87,6 +87,6 @@ The PTA raises funds to provide classroom and school-wide enhancements and to pa
 * Restaurant Take-Overs
 * Spirit Wear
 
-If you have any questions, please do not hesitate to contact any of the board members: [President - Meg Mourning](mailto:president@islandviewpta.org), [Vice President - Eric Mithen](mailto:vicepresident@islandviewpta.org), [Treasurer - Kyle Rash](mailto:treasurer@islandviewpta.org), [Secretary - Angela McCormick](mailto:secretary@islandviewpta.org)
+If you have any questions, please do not hesitate to contact the [Membership Coordinator](mailto:membership@islandviewpta.org) or any of the board members: [PTA President](mailto:president@islandviewpta.org), [PTA Vice President](mailto:vicepresident@islandviewpta.org), [PTA Treasurer](mailto:treasurer@islandviewpta.org), [PTA Secretary](mailto:secretary@islandviewpta.org)
 
 **THANK YOU** for your support of all the students and staff at Island View Elementary!

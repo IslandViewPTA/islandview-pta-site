@@ -2,9 +2,9 @@
 title: Book Wrapping Help Needed in the Island View Library
 date: 2018-10-04 13:35:01 -0700
 description: Help us get those books on the shelves!
-image: "/uploads/Wrapping-01.jpg"
-
+image: "Wrapping-01.jpg"
 ---
+
 ### (W)rappers wanted!
 
 I'm from Island View and I'm here to say

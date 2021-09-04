@@ -6,9 +6,8 @@ start: 2018-03-07 08:30:00 -0800
 end: 2018-03-07 09:40:00 -0800
 publishdate: 2018-03-05 08:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
-image: "/uploads/21273515_10154913634696616_889408669662085285_o.jpg"
+image: "21273515_10154913634696616_889408669662085285_o.jpg"
 description: Free-build Legos with your friends before school
-
 ---
 **Join us for Lego Club!**
 

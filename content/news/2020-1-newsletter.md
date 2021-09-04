@@ -5,10 +5,9 @@ title: January 2020 Newsletter
 date: 2020-01-06T08:00:00.000+00:00
 description: Hello to a new decade, a new year, and so many ways to help make it the
   best year yet for our students and school!
-image: "/uploads/2020-1.jpg"
-type: ''
-
+image: "2020-1.jpg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:

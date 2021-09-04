@@ -2,9 +2,9 @@
 title: Welcome back!
 date: 2018-08-29 23:05:50 -0700
 description: Welcome back to Island View!
-image: "/uploads/FB-Welcome Back-01.jpg"
-
+image: "FB-Welcome Back-01.jpg"
 ---
+
 ## **Welcome back to Island View!**
 
 The first day of school for 1st through 5th grade is Thursday, September 6, 2018 and we can't wait to share our exciting plans for the year! Here are some highlights to get you started:

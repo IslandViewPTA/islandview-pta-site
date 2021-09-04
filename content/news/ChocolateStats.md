@@ -2,9 +2,9 @@
 title: Island View PTA World's Finest Chocolate Fundraiser
 date: 2018-10-09 09:45:00 -0700
 description: Thank you for making our fundraiser a success!
-image: "/uploads/Website-Chocolate-10-31-18-04.jpg"
-
+image: "Website-Chocolate-10-31-18-04.jpg"
 ---
+
 ### **Island View PTA's fundraiser is a smashing success!**
 
 Our fundraiser officially wrapped up on Monday and it was a HUGE success!
@@ -19,13 +19,13 @@ Classrooms participated in 2 competitions:
 
 ### Highest Classroom Participation
 
-![](/uploads/Website-Chocolate-10-9-18_Participation.jpg)
+![](https://ivepta.imgix.net/Website-Chocolate-10-9-18_Participation.jpg)
 
 **Ms. Frost's class lead the school with 72% of students selling chocolates.** Because they had the highest participation rate, they will get to play a game of kickball with Mr. Hanrahan!
 
 ### Highest Classroom Sales
 
-![](/uploads/Website-Chocolate-10-9-18_Classroom.jpg)
+![](https://ivepta.imgix.net/Website-Chocolate-10-9-18_Classroom.jpg)
 
 The classroom that brings in the most money wins an enormously delicious 5 pound chocolate bar to share with the class! **Ms. Frost's students brought in $2,222!**
 
@@ -39,13 +39,13 @@ Students who sold at least 1 box of chocolate will receive an invitation to brin
 
 ### Top Seller
 
-![](/uploads/Website-Chocolate-10-9-18-05.jpg)
+![](https://ivepta.imgix.net/Website-Chocolate-10-9-18-05.jpg)
 
 The student who sells the most chocolate will win this gigantic teddybear! This student will be announced at our assembly next week.
 
 ### Top 3 Sellers
 
-![](/uploads/Website-Chocolate-10-9-18-06.jpg)
+![](https://ivepta.imgix.net/Website-Chocolate-10-9-18-06.jpg)
 
 The top 3 sellers in our World's Finest Chocolate Fundraiser get gift certificates to San Juan Lanes Bar and Grill! These students will also be announced at the assembly next week.
 

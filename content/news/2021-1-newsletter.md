@@ -5,9 +5,9 @@ title: January 2021 Newsletter
 date: 2021-01-01T00:00:00-08:00
 description: Island View PTA is ready for 2021 and the January newsletter will keep
   you 'in the know' about the latest information and events!
-image: "/uploads/newyear.jpg"
-
+image: "newyear.jpg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:
@@ -121,8 +121,8 @@ Membership entitles you or someone dear to you to join the ranks of the most car
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)

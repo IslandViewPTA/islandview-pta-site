@@ -2,8 +2,7 @@
 title: Chocolate Fundraiser a HUGE Success!
 date: 2017-10-24 20:58:19 +0000
 description: Thank you so much for all your support!
-image: "/uploads/Screen Shot 2017-10-25 at 10.47.41 AM.png"
-
+image: "Screen Shot 2017-10-25 at 10.47.41 AM.png"
 ---
 Thanks to YOU the chocolate fundraiser was a HUGE success!  We had hoped to raise $8,000, but actually netted nearly **$10,000**!!!  Wow!
 

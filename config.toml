@@ -28,19 +28,6 @@ writeStats = true
     unsafe = true
     xhtml = false
 
-[params.cloudinary]
-  cloud_name = "ivepta"
-  use_upload = false
-[params.cloudinary.lazysizes]
-  enabled = true
-[params.cloudinary.presets.default]
-  max_width = 1920
-  min_width = 320
-  quality = 80
-  sizes = "auto"
-  steps = 10
-  width = 450
-
 [params]
   contact = "webadmin@islandviewpta.org" # Optional
   sitetitle = "Island View Elementary PTA"

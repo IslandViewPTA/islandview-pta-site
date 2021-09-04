@@ -14,7 +14,7 @@ h2 {
 }
 
 .pagination li a {
-  @apply text-sm border-0 rounded px-3 py-2 bg-primary text-gold mx-auto no-underline;
+  @apply text-sm border-0 rounded px-4 py-2 bg-primary text-gold mx-auto no-underline;
 }
 
 @tailwind utilities;

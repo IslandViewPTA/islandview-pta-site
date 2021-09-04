@@ -1,9 +1,8 @@
 ---
 title: T-shirts By Design donation to Rachel's Closet
 date: 2018-04-19 12:14:25 -0700
-image: "/uploads/FB-Thank you-01.jpg"
+image: "FB-Thank you-01.jpg"
 description: Thank you to T-Shirts By Design!
-
 ---
 **Let's give a huge shout-out to T-Shirts By Design!**
 
@@ -15,6 +14,6 @@ Corinne Peickert at T-Shirts By Design thought so, too, so she donated **2 huge 
 
 **Thank you so much to Corinne at T-Shirts By Design for your generous donation!**
 
-![](/uploads/Thank you-01.jpg)
+![](https://ivepta.imgix.net/Thank you-01.jpg)
 
 Rachel's Closet provides clean clothes, school supplies and other items for kids to provide what they need to feel safe, confident and ready for school. Each school in the Anacortes District has a Rachel's closet for kids in need. For more information, please contact your school's counselor.

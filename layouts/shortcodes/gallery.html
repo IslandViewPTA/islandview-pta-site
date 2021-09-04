@@ -12,7 +12,7 @@
 /*each image is referenced twice in the HTML, but each image only needs to be updated in the CSS*/
 {{ range $imagesList }}
 .image{{ $.Scratch.Get "styleCount" }} {
-  content: url("//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ . }}&w=600")
+  content: url("https://ivepta.imgix.net/{{ . }}?w=600&auto=format")
 }
 {{ $.Scratch.Add "styleCount" 1 }}
 {{ end }}
@@ -31,7 +31,7 @@
     <!-- large image on slides -->
     {{ range $imagesList }}
       <div class="mySlides hidden rounded-b-lg">
-        <a href="//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ . }}" target="_blank">
+        <a href="https://ivepta.imgix.net/{{ . }}?auto=format" target="_blank">
           <div class='image{{ $.Scratch.Get "cardCount" }} w-full object-cover rounded-b-lg'></div>
         </a>
       </div>

@@ -5,10 +5,9 @@ title: March 2020 Newsletter
 date: 2020-02-28T08:00:00.000+00:00
 description: Spring is nearly here, so check out the March PTA Newsletter and get
   a jump on the fun popping up all month!
-image: "/uploads/purple crocus-1.jpg"
-type: ''
-
+image: "purple crocus-1.jpg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:
@@ -39,7 +38,7 @@ Pixar's ONWARD is coming to the big screen in Anacortes. For $10 you get to see 
 
 Tickets must be [pre-purchased online](https://www.islandviewpta.org/movie). Only 150 tickets available for the show, so get yours today!
 
-If you have any questions, please do not hesitate to contact: [**President - Meg Mourning**](mailto:president@islandviewpta.org) or [**Vice President - Eric Mithen**](mailto:vicepresident@islandviewpta.org)
+If you have any questions, please do not hesitate to contact: [PTA President](mailto:president@islandviewpta.org) or [PTA Vice President](mailto:vicepresident@islandviewpta.org)
 
 {{< break >}}
 
@@ -96,7 +95,7 @@ Students will take a picture with their full class and individual pictures will 
 
 ## Garden Clean Up Party!
 
-Download: [Spring Clean Up Flyer](https://app.forestry.io/sites/gsua1kavu8-now/body-media//uploads/spring_cleanup.pdf)
+Download: [Spring Clean Up Flyer](https://ivepta.imgix.net/spring_cleanup.pdf)
 
 Come out to the Island View Garden on Saturday, March 14 at 10 a.m. and help get our amazing school garden ready for students to plant. Join the fun as we weed, mow, spread bark and enjoy the morning together. We are looking for a few people to bring wheelbarrows and edgers. Questions: email [erinwolfswinkel@gmail.com](mailto:erinwolfswinkel@gmail.com).
 

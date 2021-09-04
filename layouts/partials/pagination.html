@@ -3,18 +3,18 @@
 <nav aria-label="Page navigation">
     <ul class="w-50 list-none flex justify-around center">
         {{ if $pag.HasPrev }}
-        <li class="page-item mt4 mb-2 mh2"><a href="{{ $pag.Prev.URL }}" rel="prev" class="page-link text-sm ba bw0 br2 px-3 py-2 bg-primary text-gold center link">&laquo;&nbsp;Prev</a></li>
+        <li class="page-item mt4 mb-2 mh2"><a href="{{ $pag.Prev.URL }}" rel="prev" class="page-link text-sm ba bw0 br2 px-4 py-2 bg-primary text-gold center link">&laquo;&nbsp;Prev</a></li>
         {{ end }}
         {{ range $pag.Pagers }}
         {{ if eq . $pag }}
-        <li class="page-item mt4 mb-2 mh2 active"><a href="{{ .URL }}" class="page-link text-sm ba bw0 br2 px-3 py-2 bg-primary text-gold center link">{{ .PageNumber }}</a></li>
+        <li class="page-item mt4 mb-2 mh2 active"><a href="{{ .URL }}" class="page-link text-sm ba bw0 br2 px-4 py-2 bg-primary text-gold center link">{{ .PageNumber }}</a></li>
         {{ else }}
-        <li class="page-item mt4 mb-2 mh2"><a href="{{ .URL }}" class="page-link text-sm ba bw0 br2 px-3 py-2 bg-primary text-gold center link">{{ .PageNumber }}</a></li>
+        <li class="page-item mt4 mb-2 mh2"><a href="{{ .URL }}" class="page-link text-sm ba bw0 br2 px-4 py-2 bg-primary text-gold center link">{{ .PageNumber }}</a></li>
         {{ end }}
         {{ end }}
 
         {{ if $pag.HasNext }}
-        <li class="page-item mt4 mb-2"><a href="{{ $pag.Next.URL }}" rel="next" class="page-link text-sm ba bw0 br2 px-3 py-2 bg-primary text-gold center link">Next&nbsp;&raquo;</a></li>
+        <li class="page-item mt4 mb-2"><a href="{{ $pag.Next.URL }}" rel="next" class="page-link text-sm ba bw0 br2 px-4 py-2 bg-primary text-gold center link">Next&nbsp;&raquo;</a></li>
         {{ end }}
     </ul>
 </nav>

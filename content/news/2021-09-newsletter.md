@@ -5,10 +5,9 @@ title: September 2021 Newsletter
 date: 2021-09-01T00:00:00.000-07:00
 description: Welcome back, ISV families! This newsletter contains plenty of information
   to get your 2021-2022 school year off to a great start!
-image: "/uploads/welcomeback.jpg"
-type: ''
-
+image: "welcomeback.jpg"
 ---
+
 ## Principal's Message
 
 **Welcome to the 2021-22 school year!** I know we are all hoping to return to a more “normal” year after the last 18 months. I got a small taste of our students’ excitement at the district’s recent Ready to Learn Fair, where I saw several Island View families. As one dad told me, “My students can’t wait for school to start. They are so excited!” The whole staff feels the same strong enthusiasm.
@@ -97,8 +96,8 @@ Box Tops is an easy way to support Island View. Remember to redeem these valuabl
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Eric Mithen – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+[PTA President](mailto:president@islandviewpta.org)
 
-PTA Vice President - Jack Curtis – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+[PTA Vice President](mailto:vicepresident@islandviewpta.org)
 
-PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
+[PTA Membership Coordinator](mailto:membership@islandviewpta.org)

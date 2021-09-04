@@ -1,9 +1,8 @@
 ---
 title: '"I Love to Read" Month'
 date: 2018-03-05 13:50:26 +0000
-image: "/uploads/DSCF1195.JPG"
+image: "DSCF1195.JPG"
 description: March is "I Love to Read" Month!
-
 ---
 March is “I Love to Read” Month! Reading logs will be sent home on Thursday, March 1st. Students will record their reading minutes and turn their logs in once a week to have them counted. 
 

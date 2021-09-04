@@ -1,9 +1,9 @@
 <div class="max-w-3xl h-16 mx-auto py-4">
     {{ if .PrevInSection }}
-    <a class="float-left block text-sm border-0 rounded px-3 py-2 text-gold bg-primary link" href="{{.PrevInSection.Permalink | relURL}}">Previous {{ if eq .Type "event" }}{{humanize .Type}}{{else if eq .Type "news" }}Post{{end}}</a>
+    <a class="float-left block text-sm border-0 rounded px-4 py-2 text-gold bg-primary link" href="{{.PrevInSection.Permalink | relURL}}">Previous {{ if eq .Type "event" }}{{humanize .Type}}{{else if eq .Type "news" }}Post{{end}}</a>
     {{ end }}
 
     {{ if .NextInSection }}
-    <a class="float-right block text-sm border-0 rounded px-3 py-2 text-gold bg-primary link" href="{{.NextInSection.Permalink  | relURL}}">Next {{ if eq .Type "event" }}{{humanize .Type}}{{else if eq .Type "news" }}Post{{end}}</a>
+    <a class="float-right block text-sm border-0 rounded px-4 py-2 text-gold bg-primary link" href="{{.NextInSection.Permalink  | relURL}}">Next {{ if eq .Type "event" }}{{humanize .Type}}{{else if eq .Type "news" }}Post{{end}}</a>
     {{ end }}
 </div>

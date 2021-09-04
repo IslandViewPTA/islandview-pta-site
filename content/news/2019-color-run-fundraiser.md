@@ -2,9 +2,9 @@
 title: 2019 Color Run Fundraiser
 date: 2019-04-24 00:00:00 -0700
 description: Join us for a fun, MESSY fundraiser!
-image: "/uploads/Eagle-01.jpg"
-
+image: "Eagle-01.jpg"
 ---
+
 ### Join us for a fun, MESSY fundraiser!
 
 It's time for the Island View Color Run Fundraiser!

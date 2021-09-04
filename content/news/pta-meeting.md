@@ -6,9 +6,8 @@ start: 2017-11-15 18:00:00 -0800
 end: 2017-11-15 19:00:00 -0800
 publishdate: 2017-10-15 10:00:00 -0700
 location: 2501 J Ave, Anacortes, WA 98221
-image: "/uploads/Screen Shot 2017-10-15 at 10.35.59 AM-1.png"
+image: "Screen Shot 2017-10-15 at 10.35.59 AM-1.png"
 description: November PTA Meeting - Date Change to November 15th
-
 ---
 
 

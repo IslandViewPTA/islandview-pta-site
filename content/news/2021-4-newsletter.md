@@ -4,10 +4,9 @@ newsletter: true
 title: April 2021 Newsletter
 date: 2021-03-30T16:00:00.000-07:00
 description: Don't miss the April PTA newsletter for exciting updates and opportunities!
-image: "/uploads/tulip bunch.jpg"
-type: ''
-
+image: "tulip bunch.jpg"
 ---
+
 ## Principal's Message
 
 Island View Families:
@@ -123,8 +122,8 @@ Join us Tuesday, May 25 at 6 PM via Zoom for the final PTA meeting of the school
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)

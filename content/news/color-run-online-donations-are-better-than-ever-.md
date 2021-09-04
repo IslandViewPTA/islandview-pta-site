@@ -2,8 +2,7 @@
 title: Color Run Online Donations are better than ever!
 date: 2018-04-17 22:09:44 -0700
 description: Student Online Donation Pages - now with progress updates!
-image: "/uploads/OnlineDonations.jpg"
-
+image: "OnlineDonations.jpg"
 ---
 This year's Color Run is going to be a BLAST, and gathering online donations has never been easier! Our Expert in All Things Internet made some updates to the student donation pages to show how much they've raised. Now you'll know just how close you are to reaching your goal!
 

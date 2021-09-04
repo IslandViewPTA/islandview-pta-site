@@ -9,6 +9,6 @@ title: Watch DOGS Pizza with Dad
 location: 2501 J Street, Anacortes, WA 98221
 image: ''
 description: Tuesday night pizza with Dad
-
 ---
+
 Join us on Tuesday night for Pizza with Dad!

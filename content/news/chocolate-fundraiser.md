@@ -1,9 +1,8 @@
 ---
 date: 2017-09-06 21:46:24 +0000
 description: Time to sell some chocolate!
-image: "/uploads/21314331_10154913545846616_6891375356961373552_n.jpg"
+image: "21314331_10154913545846616_6891375356961373552_n.jpg"
 title: Chocolate Fundraiser
-
 ---
 
 

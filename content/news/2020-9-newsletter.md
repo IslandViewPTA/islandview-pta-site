@@ -4,10 +4,9 @@ newsletter: true
 title: September 2020 Newsletter
 date: 2020-08-31T09:36:00-07:00
 description: A warm virtual welcome to the 2020-2021 school year!
-image: "/uploads/pencils.jpg"
-type: ''
-
+image: "pencils.jpg"
 ---
+
 ## 
 
 {{< fig src="missyou.jpeg" class="max-w-xs" align="center" >}}
@@ -121,8 +120,8 @@ Register at [**databarevents.com/fuelingeducation**](https://www.databarevents.c
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)

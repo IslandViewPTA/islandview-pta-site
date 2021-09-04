@@ -2,10 +2,9 @@
 title: 100th Day Food Drive
 date: 2019-02-14 20:41:17 +0000
 description: 'Goal: 100 cans of food for each grade level'
-image: "/uploads/FB-FoodDrive-2-01.jpg"
-type: ''
-
+image: "FB-FoodDrive-2-01.jpg"
 ---
+
 ### Celebrate the 100th day of school with 100 cans of food!
 
 Let's help support our local food banks and celebrate the 100th day of school with a 100th Day Food Drive!

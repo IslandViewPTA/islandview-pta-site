@@ -6,9 +6,8 @@ start: 2017-12-07 18:00:00 -0800
 end: 2017-12-07 20:00:00 -0800
 publishdate: 2017-12-05 05:00:00 -0800
 location: 2501 J Ave, Anacortes, WA 98221
-image: "/uploads/Screen Shot 2017-12-05 at 2.41.22 PM.png"
+image: "Screen Shot 2017-12-05 at 2.41.22 PM.png"
 description: ''
-
 ---
 December Family Fun Night!
 

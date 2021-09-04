@@ -5,10 +5,9 @@ title: November 2019 Newsletter
 date: 2019-11-01T17:47:09.000+00:00
 description: November is a great month to jump in and support the amazing array of
   fun events at Island View!
-image: "/uploads/Thankful.jpg"
-type: ''
-
+image: "Thankful.jpg"
 ---
+
 ## Principal's Message
 
 Island View Families:
@@ -131,7 +130,7 @@ The annual Anacortes Schools Foundation (ASF) fundraiser to benefit all Anacorte
 
 In order to create the incredible 'Celebrate the Season' winter wonderland, your help is needed to set up, decorate, and/or tear down.  Sign up [here](https://www.signupgenius.com/go/30e0c45aeab2daaf58-celebrate1) to spread some holiday cheer!
 
-[{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](/uploads/ASFflyer.png)
+[{{< fig src="ASFflyer.png" class="max-w-xs" align="" >}}](https://ivepta.imgix.net/ASFflyer.png)
 
 ## SAVE THESE DATES!
 

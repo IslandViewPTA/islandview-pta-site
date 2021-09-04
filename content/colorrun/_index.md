@@ -8,8 +8,8 @@ imageLink: http://www.islandviewpta.org/contact/
 imageCredit: By Christy Fischer
 type: colorrun
 callToAction: true
-
 ---
+
 ## More Information Coming Soon!
 
 We are looking forward to the next Color Run on **June 19, 2021**!

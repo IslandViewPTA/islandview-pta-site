@@ -1,4 +1,4 @@
-<div class="max-w-3xl mx-auto">
+<div class="max-w-3xl pt-4 mx-auto">
   <h2 class="mx-0 mb-4 text-2xl font-bold text-gray-900">Latest News</h2>
   <div class="w-full sm:flex sm:mx-0 flex-wrap mb-4">
     {{ range first 6 (where .Site.RegularPages "Type" "==" "news").ByDate.Reverse }}
@@ -8,6 +8,6 @@
     {{ end }}
   </div>
   <div class="mx-auto w-32 mb-8">
-    <a href="/news" class="border-0 rounded px-3 py-2 text-gold bg-primary link">Read All News</a>
+    <a href="/news" class="border-0 rounded px-4 py-2 text-gold bg-primary link whitespace-nowrap">Read All News</a>
   </div>
 </div>

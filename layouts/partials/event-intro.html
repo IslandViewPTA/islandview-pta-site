@@ -9,7 +9,7 @@
   </div>
   <div class="block float-right ml-4-ns">
     <figure class="block mw-90 w5-l w5-m p-3 bg-gray-400 rounded-lg mt3 mb-4">
-      {{ if .Params.image }}<img class="mb-4" src="{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
+      {{ if .Params.image }}<img class="mb-4" src="https://ivepta.imgix.net/{{ .Params.image }}" alt="Image for {{ .Title }}" />{{ end }}
       <figcaption class="text-sm">{{ .Description }}</figcaption>
     </figure>
   </div>

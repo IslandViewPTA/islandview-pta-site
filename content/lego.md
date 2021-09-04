@@ -3,13 +3,13 @@ title: FIRST LEGO League (Jr) at Island View Elementary
 date: 2018-01-21 15:26:02 -0800
 subtitle: 2019-2020 Season
 description: News and information related to First Lego League and First Lego League Jr programs at Island View Elementary.
-image: "/uploads/legos.jpg"
+image: "legos.jpg"
 imageLink: https://timedotcom.files.wordpress.com/2016/03/pile-of-legos-toys-kids-blocks.jpg
 imageCredit: Photo by Time.com
 callToAction: true
-
 ---
-{{< figure src="/uploads/FB-FLLJr-2-01.jpg" alt="FLLJr at IVE"  class="float-right sm:w-1/3 sm:ml-4 block p-3 bg-gray-400 rounded-lg mb-4">}}
+
+{{< fig src="FB-FLLJr-2-01.jpg" alt="FLLJr at IVE" class="sm:w-1/3 sm:ml-4 block p-3 bg-gray-400 rounded-lg mb-4" align="right" >}}
 
 Below you will find more information about the two options you have for you and your student to participate in [FIRST® LEGO® League Jr](#lego-league-jr-ages-6-10-grades-1-4) and [FIRST® LEGO® League](#lego-league-ages-9-14-grades-4-8).
 

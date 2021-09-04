@@ -4,12 +4,12 @@ date: 2017-11-20 09:09:59 +0000
 expirydate: 2017-11-25 13:00:00 -0800
 start: 2017-11-25 10:00:00 -0800
 end: 2017-11-25 12:00:00 -0800
-image: "/uploads/Screen Shot 2017-11-20 at 9.10.25 AM.png"
+image: "Screen Shot 2017-11-20 at 9.10.25 AM.png"
 publishdate: 2017-11-20 01:00:00 -0800
 location: 415 O Ave, Anacortes, Washington 98221
 description: Special Screening of COCO
-
 ---
+
 Join us for a movie morning to watch the latest Disney/Pixar movie Coco! This event is for EVERYONE, so bring your friends!
 
 Coco  

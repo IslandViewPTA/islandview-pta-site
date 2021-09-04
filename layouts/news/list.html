@@ -2,14 +2,14 @@
 
 {{ partial "jumbotron" . }}
 
-<main class="w-full flex-auto mx-auto px-3 lg:px-0 pt-3">
-  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+<main class="w-full flex-auto mx-auto px-4">
+  <section class="max-w-3xl flex-auto pt-4 mx-auto">
     {{ partial "content-block" . }}
     <div class="mt-4">
       {{ partial "newsletter-buttons" . }}
     </div>
   </section>
-  <section class="max-w-3xl flex-auto pt-3 px-3 lg:px-0 mx-auto">
+  <section class="max-w-3xl flex-auto pt-4 mx-auto">
     <h2>News Grouped by Year</h2>
     <div class="flex-col max-w-3xl">
       {{ range (where .Site.RegularPages "Type" "==" "news").GroupByDate "2006" "desc" }}

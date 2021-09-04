@@ -7,8 +7,7 @@ end: 2017-11-03 19:00:00 -0700
 publishdate: 2017-10-15 10:00:00 -0700
 location: 2501 J Ave, Anacortes, WA 98221
 description: 'Family Fun Night: Book Fair Edition'
-image: "/uploads/Screen Shot 2017-10-15 at 10.08.58 AM.png"
-
+image: "Screen Shot 2017-10-15 at 10.08.58 AM.png"
 ---
 
 

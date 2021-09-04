@@ -2,9 +2,9 @@
 title: Book Fair Family Fun Night
 date: 2018-11-26 12:52:56 -0800
 description: It's the Most Wonderful Time of the Year to Give the Gift of Reading!
-image: "/uploads/FB-Blank-Template-2018-01.jpg"
-
+image: "FB-Blank-Template-2018-01.jpg"
 ---
+
 ### Let's Jingle and Mingle at the Island View Family Fun Night! 
 
 > Friday, November 30, 2018

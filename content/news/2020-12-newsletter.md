@@ -4,9 +4,9 @@ newsletter: true
 title: December 2020 Newsletter
 date: 2020-11-27T01:00:00-08:00
 description: Happy Holidays, Island View Eagles!
-image: "/uploads/brazilian-hot-cocoa1.jpg"
-
+image: "brazilian-hot-cocoa1.jpg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:
@@ -116,8 +116,8 @@ Mark your calendars - the next PTA meeting is on Tuesday, Feb 2 at 6 PM - **no J
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President - Meg Mourning – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
 
-PTA Vice President - Eric Mithen – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
 
 PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)

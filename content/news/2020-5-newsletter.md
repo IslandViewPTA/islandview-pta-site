@@ -4,9 +4,9 @@ newsletter: true
 title: May 2020 Newsletter
 date: 2020-04-30T00:00:00-07:00
 description: Island View PTA has some very important news items to share!
-image: "/uploads/Lilac.jpg"
-
+image: "Lilac.jpg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:

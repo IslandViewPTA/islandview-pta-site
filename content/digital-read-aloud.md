@@ -3,12 +3,12 @@ title: Digital Read Aloud Library
 date: 2021-02-26
 subtitle: Celebrate I Love to Read Month with Guest Readers!
 description: 'Digital library of stories read aloud '
-image: "/uploads/readaloudbanner.jpg"
+image: "readaloudbanner.jpg"
 imageLink: http://www.islandviewpta.org/contact/
 imageCredit: An excerpt from Peter H. Reynolds’ artwork for Scholastic on World Read Aloud Day
 callToAction: true
-
 ---
+
 Welcome to the Island View Digital Read Aloud Library! 
 We want our Island View Eagles to have another place to listen to some wonderful stories read aloud to them.
 

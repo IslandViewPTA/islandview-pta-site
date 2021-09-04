@@ -2,9 +2,9 @@
 title: Lego Club is back!
 date: 2018-10-04 12:24:11 -0700
 description: Free-build Legos with your friends and Island View PTA
-image: "/uploads/LegoClubWebsiteAnnouncement-01.jpg"
-
+image: "LegoClubWebsiteAnnouncement-01.jpg"
 ---
+
 ## **Lego Club is back!**
 
 Thanks to our **amazing** volunteers, Lego Club is back! Join us for free-building time with your friends in the Island View theater. 

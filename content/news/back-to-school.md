@@ -2,8 +2,7 @@
 title: Back to School!
 date: "2019-08-12T00:00:00-07:00"
 description: Here's to the start of a great year!
-image: "/uploads/Welcome-Back-to-School.jpg"
-
+image: "Welcome-Back-to-School.jpg"
 ---
 **Welcome back to Island View!**
 
@@ -45,4 +44,4 @@ September 11, 2019, 6:00 pm - 7:00 pm
 
 Join us for our first PTA meeting of the year!  It’s a great chance to meet other parents from our school and learn more about the amazing events and activities the PTA has planned.  Our regular monthly meetings will be held on the first Wednesday of the month in the Island View Library.  We’ll discuss our plans for the year, including family fun nights, movie mornings, fundraisers, and more.  We hope to see you there!
 
-We are excited to start this school year and look forward to meeting you!  If you have any questions, please email Meg Mourning at president@islandviewpta.org.
+We are excited to start this school year and look forward to meeting you!  If you have any questions, please email [PTA President](mailto:president@islandviewpta.org).

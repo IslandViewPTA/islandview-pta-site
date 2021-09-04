@@ -2,8 +2,7 @@
 title: 'PTA Meeting: September 12, 2018'
 date: 2018-08-29 22:42:54 -0700
 description: Please join us at our first PTA Meeting!
-image: "/uploads/FB-Meeting-2018-09-01.jpg"
-
+image: "FB-Meeting-2018-09-01.jpg"
 ---
 First PTA Meeting of the Year:
 

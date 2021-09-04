@@ -3,12 +3,11 @@ title: October 2019 Newsletter
 date: 2019-10-01T14:00:00.000+00:00
 description: Happy Fall - check out all the great PTA events and opportunities in
   our October newsletter!
-image: "/uploads/Fall Leaves.jpg"
+image: "Fall Leaves.jpg"
 newsletter: true
 newsletter_date: 2019-10-01T07:00:00.000+00:00
-type: ''
-
 ---
+
 ## Principal’s Message
 
 Dear Island View Families:

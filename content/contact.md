@@ -3,12 +3,12 @@ title: Contact
 date: 2017-08-12T17:33:37.000+00:00
 subtitle: How to Contact Us
 description: Information about the PTA.
-image: "/uploads/IMG_6733_resized.JPG"
+image: "IMG_6733_resized.JPG"
 imageLink: mailto:webadmin@islandviewpta.org
 imageCredit: Photo by David Mourning
 callToAction: true
-
 ---
+
 ## PTA Board
 
 Island View PTA is an amazing group of dedicated families and community members. We work to support the students, staff, and community at Island View Elementary in beautiful Anacortes, WA.
@@ -36,7 +36,7 @@ Island View Elementary School
 2501 J Ave, Anacortes, WA 98221  
 Office Phone: (360) 503-1507
 
-<img src="/uploads/20170828_160219.jpg" class=" forestry--none" style="float: none;">
+{{< fig src="20170828_160219.jpg" class="w-full" align="center" >}}
 
 The **PTA Office** is located in the school lobby kitty-corner from the Island View Theater. The **PTA Drop Box** is inside the main office near to the Raptor sign-in station.
 

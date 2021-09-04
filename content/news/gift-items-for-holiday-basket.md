@@ -4,8 +4,7 @@ newsletter: false
 title: Gift Items for Holiday Basket
 date: 2019-10-07T00:00:00-07:00
 description: Your help is needed to fill a 'festive winter' gift basket!
-image: "/uploads/holiday lantern scene.jpg"
-
+image: "holiday lantern scene.jpg"
 ---
 Anacortes Schools Foundation (ASF) raises and directs money for scholarships, programs, learning experiences, and materials benefitting our students from preschool through college entrance. One of their major fundraising events, Celebrate the Season, is coming up and they've asked for our help!  
 

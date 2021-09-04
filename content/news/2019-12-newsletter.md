@@ -5,10 +5,9 @@ title: December 2019 Newsletter
 date: 2019-11-26T08:00:00.000+00:00
 description: The holiday season is here and there's so much FUN you don't want to
   miss...read this so you'll know where to be and when!
-image: "/uploads/holy berry.jpg"
-type: ''
-
+image: "holy berry.jpg"
 ---
+
 ## Principal's Message
 
 Dear Island View Families:

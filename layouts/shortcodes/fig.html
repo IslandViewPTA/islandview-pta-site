@@ -4,10 +4,13 @@
 {{- $align := .Get "align" -}}
 
 <figure class="py-2 md:py-0">
-  <img 
-  src="//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ $src }}{{if (or (eq $align "right") (eq $align "left"))}}&w=300{{else}}&w=768{{end}}"
-  data-src="//images.weserv.nl/?url=www.islandviewpta.org/uploads/{{ $src }}{{if (or (eq $align "right") (eq $align "left"))}}&w=300{{else}}&w=768{{end}}"
-  alt="{{ if $title }}{{ $title }}{{else}}{{ $src }}{{ end }}" 
-  title="{{ $title }}" 
-  class="{{ $class }}{{ if (eq $align "left") }} md:float-left md:mr-4 my-4 md:my-0 mx-auto {{ else if (eq $align "right") }} md:float-right md:ml-4 my-4 md:my-0 mx-auto {{ else }} mx-auto {{ end }}shadow"> 
+  <a href="https://ivepta.imgix.net/{{ $src }}">
+    <img 
+    src="https://ivepta.imgix.net/{{ $src }}{{if (or (eq $align "right") (eq $align "left"))}}?w=300{{else}}?w=768{{end}}&auto=format"
+    data-src="https://ivepta.imgix.net/{{ $src }}{{if (or (eq $align "right") (eq $align "left"))}}?w=300{{else}}?w=768{{end}}&auto=format"
+    alt="{{ if $title }}{{ $title }}{{else}}{{ $src }}{{ end }}" 
+    title="{{ $title }}" 
+    class="{{ $class }}{{ if (eq $align "left") }} md:float-left md:mr-4 my-4 md:my-0 mx-auto {{ else if (eq $align "right") }} md:float-right md:ml-4 my-4 md:my-0 mx-auto {{ else }} mx-auto {{ end }}shadow"
+    > 
+  </a>
 </figure>
