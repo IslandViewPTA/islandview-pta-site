@@ -3,8 +3,7 @@ newsletter_date: 2021-09-01T00:00:00.000-07:00
 newsletter: true
 title: September 2021 Newsletter
 date: 2021-09-01T00:00:00.000-07:00
-description: Welcome back, ISV families! This newsletter contains plenty of information
-  to get your 2021-2022 school year off to a great start!
+description: Welcome back, ISV families! This newsletter contains plenty of information to get your 2021-2022 school year off to a great start!
 image: "welcomeback.jpg"
 ---
 
