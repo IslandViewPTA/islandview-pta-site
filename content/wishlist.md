@@ -19,9 +19,13 @@ If you have any questions, please do not hesitate to contact: [President - Eric 
 ***
 Carr (Movement Specialist): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1JEBCT09Q10HR?ref_=wl_share)
 
+Doebler (Special Education): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/16H2443MELMMQ)
+
 Everhart (2nd): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/14WJJ2TEUWF1R)
 
 Goforth (K): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/21OOQW6I2KCDS) 
+
+Hanes (3rd) [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3ENZECK8IQM3F) 
 
 Hawkins (1st): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1DGL80UJUJT22)
 
@@ -29,6 +33,7 @@ Holmes (4th): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/26TYKLDI55
 
 Kammenga (Special Education): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3DOB6ZR96OITC)
 
+Kitterman (PE Specialist): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2SDFJ27AH5239) 
 Lincoln (3-4 Challange): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3BDK0WEOFC1NT)
 
 Moor (Resource Room): [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/B1ERJG49CED6) 
