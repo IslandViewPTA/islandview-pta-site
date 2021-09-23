@@ -3,9 +3,7 @@ tasks:
   - name: Install Hugo dependencies
     before: brew install hugo && npm install
     init: echo "Your version of Hugo is `hugo version`"
-    command: hugo server -D -F --baseUrl $(gp url 1313) --liveReloadPort 443 --appendPort=false --disableFastRender
+    command: hugo server -D -F --baseUrl $(gp url 1313) --liveReloadPort=443 --appendPort=false --bind=0.0.0.0
 ports:
   - port: 1313
     onOpen: open-preview
-  - port: 443
-    onOpen: ignore
