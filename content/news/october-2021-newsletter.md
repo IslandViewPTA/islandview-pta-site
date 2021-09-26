@@ -66,10 +66,6 @@ We have 55 staff members. Donations must be individually packaged and store-boug
 
 {{< fig src="staff-lounge-food.png" align="center" class="max-w-xs" >}}
 
-### Parent-Teacher Evening Conferences
-
-Our next event is providing a meal for Parent-Teacher Evening Conferences - October 28th.
-
 ### Our Hospitality Committee needs YOU! 
 
 We plan staff meals, provide Christmas cookie bags, serve during Staff Appreciation Week, make signs, etc. Please email [Hospitality@islandview.org](mailto:Hospitality@islandview.org) if you are interested - we would love to have you join us!
