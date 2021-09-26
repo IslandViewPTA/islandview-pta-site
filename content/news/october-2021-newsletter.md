@@ -115,12 +115,12 @@ Thank you for your support!
 
 * **11:**  Veterans Day - **No School**
 * **12: No School**
-* **24:**  Early Release
+* **24:**  Early release
 * **25-26:**  Thanksgiving - **No School**
 
 ### December
 
-* **17:**  Early Release for **Winter Break**
+* **17:**  Early release; Winter Break begins
 
 ### January
 
