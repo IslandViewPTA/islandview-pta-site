@@ -14,7 +14,7 @@ Hospitality kicked off the school year with an all Staff Breakfast! Thank you to
 
 ### Stock the Staff Lounge! 
 
-Let's keep our staff fueled! Sign up [https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-stock](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-stock "here") to provide some goodies in the staff lounge. Items are due by Friday, October 22nd. Address drop-off location will be emailed to you after you sign up.
+Let's keep our staff fueled! Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-stock) to provide some goodies in the staff lounge. Items are due by Friday, October 22nd. Address drop-off location will be emailed to you after you sign up.
 
 ### Parent-Teacher Evening Conferences
 
@@ -98,8 +98,8 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President – [president@islandviewpta.org](mailto:president@islandviewpta.org)
+PTA President [Eric Mithen](president@islandviewpta.org)
 
-PTA Vice President – [vicepresident@islandviewpta.org](mailto:vicepresident@islandviewpta.org)
+PTA Membership Coordinator [Rachel Esposito](membership@islandviewpta.org)
 
-PTA Membership Coordinator - Rachel Esposito – [membership@islandviewpta.org](mailto:membership@islandviewpta.org)
+Hospitality Coordinator [Stacey Mahoney](stacey.a.mahoney@gmail.com)
