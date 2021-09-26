@@ -8,9 +8,11 @@ image: ''
 draft: true
 
 ---
+## Principal's Message
+
 ## Hospitality Update
 
-Hospitality kicked off the school year with an all Staff Breakfast! Thank you to Kristen Lamb (on Facebook Kristen's Country Kitchen and pop-ups at Kennelly Keys) for catering breakfast burritos, fruit, drinks and dessert and PTA for providing the funding. 
+Hospitality kicked off the school year with an All-Staff Breakfast! Thank you to Kristen Lamb (on Facebook Kristen's Country Kitchen and pop-ups at Kennelly Keys) for catering breakfast burritos, fruit, drinks and dessert and PTA for providing the funding. 
 
 ### Stock the Staff Lounge! 
 
@@ -38,6 +40,8 @@ We plan staff meals, provide Christmas cookie bags, serve during Staff Appreciat
 
 ***
 
+Pumpkins? Pumpkin Carving
+
 ***
 
 {{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
@@ -52,7 +56,7 @@ We plan staff meals, provide Christmas cookie bags, serve during Staff Appreciat
 
 We'd love to have YOU [**JOIN**](https://www.islandviewpta.org/membership) our Island View PTA family today!
 
-{{< fig src="donation.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="joinpta.jpg" align="center" class="max-w-xs" >}}
 
 ***
 
@@ -62,9 +66,13 @@ We'd love to have YOU [**JOIN**](https://www.islandviewpta.org/membership) our I
 
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
+{{< fig src="donation.jpg" align="center" class="max-w-xs" >}}
+
 ***
 
 You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+
+{{< fig src="amazon-smile-pta-how-to-2.png" align="center" class="max-w-xs" >}}
 
 ***
 
@@ -74,32 +82,30 @@ You can also help by selecting Island View PTA as your charity of choice in [Ama
 
 * **15:**  PTA Meeting 6 pm via zoom
 * **26:**  Great Pumpkin Pickup, 3 to 4 pm
-* **26-30:**  Early Release for **Conferences**
+* **25-29:**  Early Release for **Parent-Teacher Conferences**
+* **28:** Parent-Teacher Evening Conferences
 
 ### November
 
-* **2:**  _Grades K-3 Return to School!!_
-* **3:**  ELECTION DAY
-* **9:**  _Grades 4-5 Return to School!!_
 * **11:**  Veterans Day - **No School**
-* **25:**  Early Release
-* **26-27:**  Thanksgiving **- No School**
+* **12: No School**
+* **24:**  Early Release
+* **25-26:**  Thanksgiving - **No School**
 
 ### December
 
-* **1:**  PTA Meeting 6 pm via zoom
-* **18:**  Early Release for **Winter Break**
+* **17:**  Early Release for **Winter Break**
 
 ### January
 
-* **4:**  Students back to school
+* **3:**  Students back to school
 
 ***
 
 **Questions? Please feel free to contact us any time!**
 
-PTA President [Eric Mithen](president@islandviewpta.org)
+President [Eric Mithen](president@islandviewpta.org)
 
-PTA Membership Coordinator [Rachel Esposito](membership@islandviewpta.org)
+Membership Coordinator [Rachel Esposito](membership@islandviewpta.org)
 
 Hospitality Coordinator [Stacey Mahoney](stacey.a.mahoney@gmail.com)
