@@ -38,7 +38,9 @@ Student pictures for the ISV Yearbook will be taken during school hours on Frida
 
 Who can join the PTA? **Everyone!** Parents, guardians, grandparents, aunts, uncles, friends, community members - we welcome you ALL!
 
-{{< fig src="joinpta.jpg" align="center" class="max-w-xs" >}}
+{{< fig src="joinpta.jpg" align="left" class="max-w-xs" >}}
+
+{{< fig src="unnamed" align="right" class="max-w-xs" >}}
 
 ### Next meeting: Tuesday, October 26 @ 6 PM!
 
