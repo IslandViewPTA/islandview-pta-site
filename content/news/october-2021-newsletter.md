@@ -4,7 +4,7 @@ newsletter: true
 title: October 2021 Newsletter
 date: 2021-10-01T00:00:00-07:00
 description: There are many exciting things coming up at ISV this fall!
-image: "/uploads/fallleaves.jpg"
+image: "/uploads/benches-560435_1920.jpg"
 draft: true
 
 ---
@@ -70,7 +70,9 @@ If you are able, please consider [donating](https://www.islandviewpta.org/donate
 
 ***
 
-You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase total to us! Super easy and it means a world of difference to our staff & students! Thank you for your support!
+You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase to us! It's super easy, comes at no additional cost to you, and means a world of difference to our staff & students! 
+
+Thank you for your support!
 
 {{< fig src="amazon-smile-pta-how-to-2.png" align="center" class="max-w-xs" >}}
 
