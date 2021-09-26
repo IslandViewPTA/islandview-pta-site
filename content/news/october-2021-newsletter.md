@@ -20,6 +20,8 @@ Island View Elementary won the $5,000 Shell ASD Grant by having the highest perc
 
 For more information about the annual fun run, visit [asfkids.org/funrun](http://asfkids.org/funrun).
 
+{{< fig src="kids-winning.jpg" align="center" class="max-w-xs" >}}
+
 ***
 
 ## School Picture Day
