@@ -14,7 +14,9 @@ draft: true
 
 ## Island View Eagles WON!!
 
-Congratulations, Eagles! Island View Elementary won the $5,000 Shell ASD Grant by having the highest percentage of participating ASD staff and students. THANK YOU to everyone who participated and helped win this money for our school. Check out [this video](https://youtu.be/lQy29kaoAT8) to hear how the prize money will benefit our Island View Eagles.
+Congratulations, Eagles! 
+
+Island View Elementary won the $5,000 Shell ASD Grant by having the highest percentage of participating ASD staff and students. THANK YOU to everyone who participated and helped win this money for our school. Check out [this video](https://youtu.be/lQy29kaoAT8) to hear how the prize money will benefit our Island View Eagles.
 
 For more information about the annual fun run, visit [asfkids.org/funrun](http://asfkids.org/funrun).
 
@@ -52,7 +54,9 @@ Hospitality kicked off the school year with an All-Staff Breakfast! Thank you to
 
 ### Stock the Staff Lounge! 
 
-Let's keep our staff fueled! Sign up [here](https://www.signupgenius.com/go/10C0D44AEAD2DA3F58-stock) to provide some goodies in the staff lounge. Items are due by Friday, October 22nd. Address drop-off location will be emailed to you after you sign up.
+On October 28th, teachers will be conducting afternoon and evening parent conferences. Our staff are working hard; let's stock the staff lounge to keep them fueled all day! 
+
+We have 55 staff members. Donations must be individually packaged and store-bought (check with Hospitality for any exceptions at [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)) and delivered to the Hospitality team (NOT Island View) by October 22nd. Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-stock).
 
 {{< fig src="staff-lounge-food.png" align="center" class="max-w-xs" >}}
 
@@ -76,8 +80,6 @@ Pumpkins? Pumpkin Carving
 
 ## Are YOU able to [**DONATE**](https://www.islandviewpta.org/donate)?
 
-***
-
 If you are able, please consider [donating](https://www.islandviewpta.org/donate) to the Island View PTA so that we can continue to support the Island View staff and students as much as possible. Thank you!!
 
 {{< fig src="donation.jpg" align="center" class="max-w-xs" >}}
@@ -96,13 +98,18 @@ Thank you for your support!
 
 ***
 
-## SAVE THESE DATES!
+## Save These Dates!
 
 ### October
 
-* **25-29:**  Early Release for **Parent-Teacher Conferences**
+* **18-22:** National School Bus Safety Week
+* **22:** Stock the Staff Lounge treats due to Hospitality Staff
+* **25-28:**  Early Release for **Parent-Teacher Conferences**
 * **26:**  PTA Meeting at 6PM via Zoom
-* **28:** Parent-Teacher Evening Conferences
+* **26-27:** Parent-Teacher afternoon conferences
+* **28:** Parent-Teacher afternoon and evening conferences
+* **29:** Early release
+* **30:** Deadline to join PTA and be eligible for Anacortes Kayak Tour prize package raffle
 
 ### November
 
