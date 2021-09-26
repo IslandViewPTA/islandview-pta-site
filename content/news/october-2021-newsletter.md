@@ -40,7 +40,7 @@ Who can join the PTA? **Everyone!** Parents, guardians, grandparents, aunts, unc
 
 {{< fig src="joinpta.jpg" align="left" class="max-w-xs" >}}
 
-{{< fig src="unnamed" align="right" class="max-w-xs" >}}
+{{< fig src="unnamed.png" align="right" class="max-w-xs" >}}
 
 ### Next meeting: Tuesday, October 26 @ 6 PM!
 
