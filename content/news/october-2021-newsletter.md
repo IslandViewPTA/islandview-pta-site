@@ -10,11 +10,27 @@ draft: true
 ---
 ## Principal's Message
 
+Dear Island View Families:
+
+Fall is my favorites season. The air becomes chill, leaves turn orange and red, cinnamon-infused hot apple cider fills my school thermos – and school is back in full swing. While routines look a little different, students are clearly thriving together with peers and staff. It is a good time of the year.
+
+Please allow me to begin with several thank you messages. Parents: thank you for your patience and grace as we began the year with new recess, lunch, arrival, and dismissal procedures. Your feedback, questions, and suggestions have helped us develop better and safer protocols for your students. Also, I want to thank the entire Island View staff. No matter what challenges arose, school staff worked together to seek resolutions that were best for kids. I am repeatedly inspired by our school community.
+
+Finally, I want to thank everyone who came out to the Shell Fueling Education Fun Run—or who ran virtually! Island View’s winning participation awarded us a $5,000 grant. We plan to buy one (perhaps two) water-bottle filling stations so that our students and staff can access clean, filtered water, especially since our water fountains are disconnected due to COVID restrictions. We live in a very generous and caring community.
+
+In late October we welcome families to school for fall conferences. Please anticipate logistical information from your student’s teacher. I look forward to seeing parents and families walk through our halls, amidst pumpkin placemats and ghostly artwork. As one young student recently told me, “Mr. Hanrahan…I’m going to a pumpkin patch to find the biggest pumpkin I can carry!”
+
+Kids and pumpkin patches. That captures my love of fall.
+
+I look forward to a wonderful year of learning and growth. It’s great to be a proud, soarin’ Island View eagle.
+
+Brian Hanrahan
+
 ***
 
 ## Island View Eagles WON!!
 
-Congratulations, Eagles! 
+Congratulations, Eagles!
 
 Island View Elementary won the $5,000 Shell ASD Grant by having the highest percentage of participating ASD staff and students. THANK YOU to everyone who participated and helped win this money for our school. Check out [this video](https://youtu.be/lQy29kaoAT8) to hear how the prize money will benefit our Island View Eagles.
 
@@ -56,27 +72,19 @@ Have ideas? Have questions? Just want to be in the know? We're here for you! Wat
 
 ## Hospitality Updates
 
-Hospitality kicked off the school year with an All-Staff Breakfast! Thank you to Kristen Lamb (on Facebook Kristen's Country Kitchen and pop-ups at Kennelly Keys) for catering breakfast burritos, fruit, drinks and dessert and PTA for providing the funding. 
+Hospitality kicked off the school year with an All-Staff Breakfast! Thank you to Kristen Lamb (on Facebook Kristen's Country Kitchen and pop-ups at Kennelly Keys) for catering breakfast burritos, fruit, drinks and dessert and PTA for providing the funding.
 
-### Stock the Staff Lounge! 
+### Stock the Staff Lounge!
 
-On October 28th, teachers will be conducting afternoon and evening parent conferences. Our staff are working hard; let's stock the staff lounge to keep them fueled all day! 
+On October 28th, teachers will be conducting afternoon and evening parent conferences. Our staff are working hard; let's stock the staff lounge to keep them fueled all day!
 
 We have 55 staff members. Donations must be individually packaged and store-bought (check with Hospitality for any exceptions at [hospitality@islandviewpta.org](mailto:hospitality@islandviewpta.org)) and delivered to the Hospitality team (NOT Island View) by October 22nd. Sign up [here](https://www.signupgenius.com/go/10c0d44aead2da3f58-stock).
 
 {{< fig src="staff-lounge-food.png" align="center" class="max-w-xs" >}}
 
-### Our Hospitality Committee needs YOU! 
+### Our Hospitality Committee needs YOU!
 
 We plan staff meals, provide Christmas cookie bags, serve during Staff Appreciation Week, make signs, etc. Please email [Hospitality@islandview.org](mailto:Hospitality@islandview.org) if you are interested - we would love to have you join us!
-
-***
-
-Pumpkins? Pumpkin Carving
-
-{{< fig src="pumpkins.jpg" align="center" class="max-w-xs" >}}
-
-## 
 
 ***
 
@@ -88,7 +96,7 @@ If you are able, please consider [donating](https://www.islandviewpta.org/donate
 
 ***
 
-You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase to us! It's super easy, comes at no additional cost to you, and means a world of difference to our staff & students! 
+You can also help by selecting Island View PTA as your charity of choice in [Amazon Smile](https://smile.amazon.com "Amazon Smile")! Once you have it set up, you just shop as you normally would, and Amazon will automatically donate .05% of your purchase to us! It's super easy, comes at no additional cost to you, and means a world of difference to our staff & students!
 
 Thank you for your support!
 
@@ -119,6 +127,7 @@ Thank you for your support!
 * **12: No School**
 * **24:**  Early release
 * **25-26:**  Thanksgiving - **No School**
+* **30:** PTA Meeting at 6PM via Zoom
 
 ### December
 
@@ -127,6 +136,7 @@ Thank you for your support!
 ### January
 
 * **3:**  Students back to school
+* **18:** PTA Meeting at 6PM via Zoom
 
 ***
 
