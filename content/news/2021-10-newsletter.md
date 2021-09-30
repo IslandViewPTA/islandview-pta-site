@@ -101,9 +101,12 @@ Thank you for your support!
 
 {{< fig src="amazonsmile-halloween.png" align="center" class="max-w-xs" >}}
 
-{{< fig src="boxtopics_october.jpg" align="left" class="max-w-xs" >}}
+### Box Tops
 
-{{< fig src="boxtopics_october_sp.jpg" align="right" class="max-w-xs" >}}
+Opportunity to participate in the Box Tops fundraiser.
+
+[![inline-block w-full md:w-5/12 my-0](boxtopics_october.jpg "Box Topics (English)")](https://ivepta.imgix.net/boxtopics_october.jpg)
+[![inline-block w-full md:w-5/12 mt-8 md:my-0 float-right](boxtopics_october_sp.jpg "Box Topics (Español)")](https://ivepta.imgix.net/boxtopics_october_sp.jpg)
 
 ***
 
@@ -139,10 +142,7 @@ Thank you for your support!
 
 ***
 
-**Questions? Please feel free to contact us any time!**
-
-President [Eric Mithen](president@islandviewpta.org)
-
-Membership Coordinator [Rachel Esposito](membership@islandviewpta.org)
-
-Hospitality Coordinator [Stacey Mahoney](stacey.a.mahoney@gmail.com)
+**Questions? Please feel free to contact us any time!**  
+[President](mailto:president@islandviewpta.org) - Eric Mithen  
+[Membership Coordinator](mailto:membership@islandviewpta.org) - Rachel Esposito  
+[Hospitality Coordinator](mailto:hospitality@islandviewpta.org) - Stacey Mahoney
