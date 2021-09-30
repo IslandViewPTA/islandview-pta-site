@@ -56,9 +56,8 @@ Student pictures for the ISV Yearbook will be taken during school hours on Frida
 
 Who can join the PTA? **Everyone!** Parents, guardians, grandparents, aunts, uncles, friends, community members - we welcome you ALL!
 
-{{< fig src="joinpta.jpg" align="left" class="max-w-xs" >}}
-
-{{< fig src="unnamed.png" align="right" class="max-w-xs" >}}
+[![inline-block max-w-sm mr-4 my-0](joinpta.jpg "Join the PTA for your Child")](/membership)
+[![inline-block mt-8 lg:my-0 ](unnamed.png "Join for a chance to win an Anacortes Kayak Tour package!")](/membership)
 
 ***
 

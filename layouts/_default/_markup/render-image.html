@@ -1,0 +1,4 @@
+<img src="https://ivepta.imgix.net/{{ .Destination | safeURL }}?auto=format"
+    {{ with .Text}} class="{{ . }}" {{ end }}
+    {{ with .Title}} alt="{{ . }}" title="{{ . }}"{{ end }} 
+/>
