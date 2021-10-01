@@ -1,8 +1,8 @@
 ---
-newsletter_date: 2021-10-01T00:00:00-07:00
+newsletter_date: 2021-10-01T00:00:00.000-07:00
 newsletter: true
 title: October 2021 Newsletter
-date: 2021-10-01T00:00:00-07:00
+date: 2021-10-01T00:00:00.000-07:00
 description: There are many exciting things coming up at ISV this fall!
 image: "/uploads/benches-560435_1920.jpg"
 draft: true
@@ -103,7 +103,7 @@ Thank you for your support!
 
 ### Box Tops
 
-Opportunity to participate in the Box Tops fundraiser.
+Here's how to participate in the Box Tops fundraiser -
 
 [![inline-block w-full md:w-5/12 my-0](boxtopics_october.jpg "Box Topics (English)")](https://ivepta.imgix.net/boxtopics_october.jpg)
 [![inline-block w-full md:w-5/12 mt-8 md:my-0 float-right](boxtopics_october_sp.jpg "Box Topics (Español)")](https://ivepta.imgix.net/boxtopics_october_sp.jpg)
