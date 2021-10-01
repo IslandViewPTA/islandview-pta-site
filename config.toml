@@ -4,6 +4,7 @@ title = "Island View Elementary PTA"
 navigateToChanged = true
 metaDataFormat = "yaml"
 enableEmoji = true
+disableKinds = ['taxonomy', 'term']
 
 [build]
 writeStats = true
