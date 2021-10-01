@@ -5,7 +5,6 @@ title: October 2021 Newsletter
 date: 2021-10-01T00:00:00.000-07:00
 description: There are many exciting things coming up at ISV this fall!
 image: "/uploads/benches-560435_1920.jpg"
-draft: true
 
 ---
 ## Principal's Message
